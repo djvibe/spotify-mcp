@@ -1,9 +1,10 @@
 from collections import defaultdict
-from typing import Optional, Dict
+from typing import Optional, Dict, List
 import functools
 from typing import Callable, TypeVar
-from typing import Optional, Dict
 from urllib.parse import quote
+
+from .models import Artist, Image, ExternalUrl, Followers
 
 T = TypeVar('T')
 
@@ -39,17 +40,44 @@ def parse_track(track_item: dict, detailed=False) -> Optional[dict]:
     return narrowed_item
 
 
-def parse_artist(artist_item: dict, detailed=False) -> Optional[dict]:
+def parse_artist(artist_item: dict, detailed=False) -> Optional[Dict]:
+    """Parse artist data and return as a dictionary for JSON compatibility"""
     if not artist_item:
         return None
-    narrowed_item = {
-        'name': artist_item['name'],
-        'id': artist_item['id'],
-    }
-    if detailed:
-        narrowed_item['genres'] = artist_item.get('genres')
-
-    return narrowed_item
+        
+    if not detailed:
+        # For non-detailed views, provide minimal info
+        return {
+            'id': artist_item['id'],
+            'name': artist_item['name'],
+            'external_urls': {'spotify': artist_item['external_urls']['spotify']},
+            'href': artist_item['href'],
+            'uri': artist_item['uri']
+        }
+    
+    # For detailed views, include all available information
+    artist = Artist(
+        id=artist_item['id'],
+        name=artist_item['name'],
+        external_urls=ExternalUrl(
+            spotify=artist_item['external_urls']['spotify']
+        ),
+        followers=Followers(
+            href=artist_item['followers']['href'],
+            total=artist_item['followers']['total']
+        ),
+        genres=artist_item.get('genres', []),
+        href=artist_item['href'],
+        images=[Image(
+            height=img.get('height'),
+            url=img['url'],
+            width=img.get('width')
+        ) for img in artist_item.get('images', [])],
+        popularity=artist_item.get('popularity', 0),
+        uri=artist_item['uri']
+    )
+    
+    return artist.to_dict()
 
 
 def parse_playlist(playlist_item: dict, detailed=False) -> Optional[dict]:
@@ -118,7 +146,7 @@ def parse_search_results(results: Dict, qtype: str):
                     if not item: continue
                     _results['albums'].append(parse_album(item))
             case _:
-                raise ValueError(f"uknown qtype {qtype}")
+                raise ValueError(f"unknown qtype {qtype}")
 
     return dict(_results)
 

@@ -8,6 +8,7 @@ from spotipy.cache_handler import CacheFileHandler
 from spotipy.oauth2 import SpotifyOAuth
 
 from . import utils
+from .artists import ArtistAPI
 
 load_dotenv()
 
@@ -40,6 +41,9 @@ class Client:
 
             self.auth_manager: SpotifyOAuth = self.sp.auth_manager
             self.cache_handler: CacheFileHandler = self.auth_manager.cache_handler
+            
+            # Initialize artist API
+            self.artists = ArtistAPI(self.sp, logger)
         except Exception as e:
             self.logger.error(f"Failed to initialize Spotify client: {str(e)}", exc_info=True)
             raise
