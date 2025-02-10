@@ -26,7 +26,7 @@ SCOPES = ["user-read-currently-playing", "user-read-playback-state", "user-read-
 
 
 class Client:
-    def __init__(self, logger: logging.Logger):
+    def __init__(self, logger: logging.Logger, db_path: str = 'spotify_artists.db'):
         """Initialize Spotify client with necessary permissions"""
         self.logger = logger
 
@@ -42,8 +42,8 @@ class Client:
             self.auth_manager: SpotifyOAuth = self.sp.auth_manager
             self.cache_handler: CacheFileHandler = self.auth_manager.cache_handler
             
-            # Initialize artist API
-            self.artists = ArtistAPI(self.sp, logger)
+            # Initialize artist API with database support
+            self.artists = ArtistAPI(self.sp, logger, db_path)
         except Exception as e:
             self.logger.error(f"Failed to initialize Spotify client: {str(e)}", exc_info=True)
             raise
@@ -65,7 +65,7 @@ class Client:
         return recs
 
 
-    def get_info(self, item_id: str, qtype: str = 'track') -> dict:
+    async def get_info(self, item_id: str, qtype: str = 'track') -> dict:
         """
         Returns more info about item.
         - item_id: id.
@@ -79,17 +79,14 @@ class Client:
                 return album_info
 
             case 'artist':
-                artist_info = utils.parse_artist(self.sp.artist(item_id), detailed=True)
-                albums = self.sp.artist_albums(item_id)
-                top_tracks = self.sp.artist_top_tracks(item_id)['tracks']
-                albums_and_tracks = {
-                    'albums': albums,
-                    'tracks': {'items': top_tracks}
-                }
-                parsed_info = utils.parse_search_results(albums_and_tracks, qtype="album,track")
-                artist_info['top_tracks'] = parsed_info['tracks']
-                artist_info['albums'] = parsed_info['albums']
-
+                # Use ArtistAPI for fetching and caching
+                artist_info = self.artists.get_artist(item_id)
+                albums = self.artists.get_artist_albums(item_id)
+                top_tracks = self.artists.get_artist_top_tracks(item_id)
+                
+                artist_info['top_tracks'] = top_tracks
+                artist_info['albums'] = albums
+                
                 return artist_info
             case 'playlist':
                 playlist = self.sp.playlist(item_id)

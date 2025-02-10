@@ -3,6 +3,7 @@ import os
 import logging
 from enum import Enum
 import json
+import sqlite3
 from typing import List, Optional, Tuple
 from datetime import datetime
 from pathlib import Path
@@ -50,7 +51,10 @@ def setup_logger():
 
 logger = setup_logger()
 server = Server("spotify-mcp")
-spotify_client = spotify_api.Client(logger)
+
+# Get database path from environment or use default
+db_path = os.getenv("SPOTIFY_DB_PATH", "spotify_artists.db")
+spotify_client = spotify_api.Client(logger, db_path=db_path)
 
 class ToolModel(BaseModel):
     @classmethod
@@ -208,7 +212,7 @@ async def handle_call_tool(
 
             case "GetInfo":
                 logger.info(f"Getting item info with arguments: {arguments}")
-                item_info = spotify_client.get_info(
+                item_info = await spotify_client.get_info(
                     item_id=arguments.get("item_id"),
                     qtype=arguments.get("qtype", "track")
                 )
@@ -224,6 +228,13 @@ async def handle_call_tool(
 
     except SpotifyException as se:
         error_msg = f"Spotify Client error occurred: {str(se)}"
+    except sqlite3.Error as dbe:
+        error_msg = f"Database error occurred: {str(dbe)}"
+        logger.error(error_msg, exc_info=True)
+        return [types.TextContent(
+            type="text",
+            text=f"A database error occurred: {str(dbe)}"
+        )]
         logger.error(error_msg, exc_info=True)
         return [types.TextContent(
             type="text",

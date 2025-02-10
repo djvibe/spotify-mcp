@@ -27,3 +27,4 @@ spotify-mcp = { workspace = true }
 
 [project.scripts]
 spotify-mcp = "spotify_mcp:main"
+init-spotify-db = "tools.init_db:setup_database"
