@@ -1,227 +1,132 @@
 import logging
 import os
-from typing import Optional, Dict, List
-
+from typing import List, Dict, Any, Optional
+from datetime import datetime
+import sqlite3
+from contextlib import contextmanager
 import spotipy
-from dotenv import load_dotenv
-from spotipy.cache_handler import CacheFileHandler
 from spotipy.oauth2 import SpotifyOAuth
 
-from . import utils
-from .artists import ArtistAPI
-
-load_dotenv()
-
-CLIENT_ID = os.getenv("SPOTIFY_CLIENT_ID")
-CLIENT_SECRET = os.getenv("SPOTIFY_CLIENT_SECRET")
-REDIRECT_URI = os.getenv("SPOTIFY_REDIRECT_URI")
-
-SCOPES = ["user-read-currently-playing", "user-read-playback-state", "user-read-currently-playing",  # spotify connect
-          "app-remote-control", "streaming",  # playback
-          "playlist-read-private", "playlist-read-collaborative", "playlist-modify-private", "playlist-modify-public",
-          # playlists
-          "user-read-playback-position", "user-top-read", "user-read-recently-played",  # listening history
-          "user-library-modify", "user-library-read",  # library
-          ]
-
-
 class Client:
-    def __init__(self, logger: logging.Logger, db_path: str = 'spotify_artists.db'):
-        """Initialize Spotify client with necessary permissions"""
+    """Spotify API Client with batch processing capabilities"""
+    
+    def __init__(self, logger: logging.Logger, db_path: str):
         self.logger = logger
+        self.db_path = db_path
+        self.MAX_BATCH_SIZE = 50
+        # Initialize Spotify client with environment variables
+        self.sp = spotipy.Spotify(auth_manager=SpotifyOAuth(
+            client_id=os.getenv("SPOTIFY_CLIENT_ID"),
+            client_secret=os.getenv("SPOTIFY_CLIENT_SECRET"),
+            redirect_uri=os.getenv("SPOTIFY_REDIRECT_URI"),
+            scope="user-library-read playlist-read-private"
+        ))
+        self.initialize_db()
 
-        scope = "user-library-read,user-read-playback-state,user-modify-playback-state,user-read-currently-playing"
+    def initialize_db(self):
+        """Initialize the SQLite database"""
+        with self.get_connection() as conn:
+            conn.execute('''
+                CREATE TABLE IF NOT EXISTS artists (
+                    id TEXT PRIMARY KEY,
+                    name TEXT NOT NULL,
+                    external_urls TEXT,
+                    followers TEXT,
+                    genres TEXT,
+                    href TEXT,
+                    images TEXT,
+                    popularity INTEGER,
+                    uri TEXT,
+                    type TEXT,
+                    last_updated TIMESTAMP
+                )
+            ''')
+            conn.commit()
 
+    @contextmanager
+    def get_connection(self):
+        """Context manager for database connections"""
+        conn = sqlite3.connect(self.db_path)
+        conn.row_factory = sqlite3.Row
         try:
-            self.sp = spotipy.Spotify(auth_manager=SpotifyOAuth(
-                scope=scope,
-                client_id=CLIENT_ID,
-                client_secret=CLIENT_SECRET,
-                redirect_uri=REDIRECT_URI))
+            yield conn
+        finally:
+            conn.close()
 
-            self.auth_manager: SpotifyOAuth = self.sp.auth_manager
-            self.cache_handler: CacheFileHandler = self.auth_manager.cache_handler
+    async def get_info(self, item_id: str, qtype: str = "track") -> Dict[str, Any]:
+        """Get information about a Spotify item"""
+        self.logger.info(f"Getting info for {qtype} with ID {item_id}")
+        
+        try:
+            if qtype == "artist":
+                # Check if it's a batch request (comma-separated IDs)
+                if ',' in item_id:
+                    artist_ids = [aid.strip() for aid in item_id.split(',')]
+                    self.logger.info(f"Batch request detected for {len(artist_ids)} artists")
+                    return await self.get_artists_batch(artist_ids)
+                
+                # Single artist request
+                self.logger.info(f"Getting info for single artist {item_id}")
+                return self.sp.artist(item_id)
+        
+        except Exception as e:
+            self.logger.error(f"Error fetching artist(s): {str(e)}")
+            raise
+
+    def search(self, query: str, qtype: str = "track", limit: int = 10) -> Dict[str, Any]:
+        """Search for items on Spotify"""
+        self.logger.info(f"Searching for {qtype} with query: {query}")
+        try:
+            return self.sp.search(q=query, type=qtype, limit=limit)
+        except Exception as e:
+            self.logger.error(f"Search error: {str(e)}")
+            raise
+
+    async def get_artists_batch(self, artist_ids: List[str]) -> Dict[str, Any]:
+        """Get multiple artists in one request"""
+        if not artist_ids:
+            raise ValueError("Artist IDs list cannot be empty")
             
-            # Initialize artist API with database support
-            self.artists = ArtistAPI(self.sp, logger, db_path)
-        except Exception as e:
-            self.logger.error(f"Failed to initialize Spotify client: {str(e)}", exc_info=True)
-            raise
-
-    def search(self, query: str, qtype: str = 'track', limit=10):
-        """
-        Searches based of query term.
-        - query: query term
-        - qtype: the types of items to return. One or more of 'artist', 'album',  'track', 'playlist'.
-                 If multiple types are desired, pass in a comma separated string; e.g. 'track,album'
-        - limit: max # items to return
-        """
-        results = self.sp.search(q=query, limit=limit, type=qtype)
-        return utils.parse_search_results(results, qtype)
-
-
-    def recommendations(self, artists: Optional[List] = None, tracks: Optional[List] = None, limit=20):
-        recs = self.sp.recommendations(seed_artists=artists, seed_tracks=tracks, limit=limit)
-        return recs
-
-
-    async def get_info(self, item_id: str, qtype: str = 'track') -> dict:
-        """
-        Returns more info about item.
-        - item_id: id.
-        - qtype: Either 'track', 'album', 'artist', or 'playlist'.
-        """
-        match qtype:
-            case 'track':
-                return utils.parse_track(self.sp.track(item_id), detailed=True)
-            case 'album':
-                album_info = utils.parse_album(self.sp.album(item_id), detailed=True)
-                return album_info
-
-            case 'artist':
-                # Use ArtistAPI for fetching and caching
-                artist_info = self.artists.get_artist(item_id)
-                albums = self.artists.get_artist_albums(item_id)
-                top_tracks = self.artists.get_artist_top_tracks(item_id)
-                
-                artist_info['top_tracks'] = top_tracks
-                artist_info['albums'] = albums
-                
-                return artist_info
-            case 'playlist':
-                playlist = self.sp.playlist(item_id)
-                playlist_info = utils.parse_playlist(playlist, detailed=True)
-
-                return playlist_info
-
-        raise ValueError(f"uknown qtype {qtype}")
-
-    def get_current_track(self) -> Optional[Dict]:
-        """Get information about the currently playing track"""
+        if len(artist_ids) > self.MAX_BATCH_SIZE:
+            self.logger.warning(f"Request exceeds maximum batch size of {self.MAX_BATCH_SIZE}")
+            artist_ids = artist_ids[:self.MAX_BATCH_SIZE]
+            
         try:
-            # current_playback vs current_user_playing_track?
-            current = self.sp.current_user_playing_track()
-            if not current:
-                self.logger.info("No playback session found")
-                return None
-            if current.get('currently_playing_type') != 'track':
-                self.logger.info("Current playback is not a track")
-                return None
-
-            track_info = utils.parse_track(current['item'])
-            if 'is_playing' in current:
-                track_info['is_playing'] = current['is_playing']
-
-            self.logger.info(
-                f"Current track: {track_info.get('name', 'Unknown')} by {track_info.get('artist', 'Unknown')}")
-            return track_info
+            # Use Spotify's artists endpoint
+            response = self.sp.artists(artist_ids)
+            
+            self.logger.info(f"Successfully retrieved {len(response['artists'])} artists")
+            return response
+            
         except Exception as e:
-            self.logger.error("Error getting current track info", exc_info=True)
+            self.logger.error(f"Error in batch artist fetch: {str(e)}")
             raise
 
-    @utils.validate
-    def start_playback(self, track_id=None, device=None):
-        """
-        Starts track playback. If track_id is omitted, resumes current playback.
-        - track_id: ID of track to play, or None.
-        """
+    # Playback control methods
+    def get_current_track(self):
         try:
-            if not track_id:
-                if self.is_track_playing():
-                    self.logger.info("No track_id provided and playback already active.")
-                    return
-                if not self.get_current_track():
-                    raise ValueError("No track_id provided and no current playback to resume.")
+            return self.sp.current_playback()
+        except:
+            return None
 
-            uris = [f'spotify:track:{track_id}'] if track_id else None
-            device_id = device.get('id') if device else None
+    def start_playback(self, track_id=None):
+        if track_id:
+            self.sp.start_playback(uris=[f"spotify:track:{track_id}"])
+        else:
+            self.sp.start_playback()
 
-            result = self.sp.start_playback(uris=uris, device_id=device_id)
-            self.logger.info(f"Playback started successfully{' for track_id: ' + track_id if track_id else ''}")
-            return result
-        except Exception as e:
-            self.logger.error(f"Error starting playback: {str(e)}", exc_info=True)
-            raise
-
-    @utils.validate
-    def pause_playback(self, device=None):
-        """Pauses playback."""
-        playback = self.sp.current_playback()
-        if playback and playback.get('is_playing'):
-            self.sp.pause_playback(device.get('id') if device else None)
-
-    @utils.validate
-    def add_to_queue(self, track_id: str, device=None):
-        """
-        Adds track to queue.
-        - track_id: ID of track to play.
-        """
-        self.sp.add_to_queue(track_id, device.get('id') if device else None)
-
-    @utils.validate
-    def get_queue(self, device=None):
-        """Returns the current queue of tracks."""
-        queue_info = self.sp.queue()
-        self.logger.info(f"currently playing keys {queue_info['currently_playing'].keys()}")
-
-        queue_info['currently_playing'] = self.get_current_track()
-
-        queue_info['queue'] = [utils.parse_track(track) for track in queue_info.pop('queue')]
-
-        return queue_info
-
-    def get_liked_songs(self):
-        # todo
-        results = self.sp.current_user_saved_tracks()
-        for idx, item in enumerate(results['items']):
-            track = item['track']
-            print(idx, track['artists'][0]['name'], " – ", track['name'])
-
-    def is_track_playing(self) -> bool:
-        """Returns if a track is actively playing."""
-        curr_track = self.get_current_track()
-        if not curr_track:
-            return False
-        if curr_track.get('is_playing'):
-            return True
-        return False
-
-    def get_devices(self) -> dict:
-        return self.sp.devices()['devices']
-
-    def is_active_device(self):
-        return any([device.get('is_active') for device in self.get_devices()])
-
-    def _get_candidate_device(self):
-        devices = self.get_devices()
-        for device in devices:
-            if device.get('is_active'):
-                return device
-        self.logger.info(f"No active device, assigning {devices[0]['name']}.")
-        return devices[0]
-
-    def auth_ok(self) -> bool:
-        try:
-            result = self.auth_manager.is_token_expired(self.cache_handler.get_cached_token())
-            self.logger.info(f"Auth check result: {'valid' if not result else 'expired'}")
-            return result
-        except Exception as e:
-            self.logger.error(f"Error checking auth status: {str(e)}", exc_info=True)
-            raise
-
-    def auth_refresh(self):
-        self.auth_manager.validate_token(self.cache_handler.get_cached_token())
+    def pause_playback(self):
+        self.sp.pause_playback()
 
     def skip_track(self, n=1):
-        # todo: Better error handling
         for _ in range(n):
             self.sp.next_track()
 
-    def previous_track(self):
-        self.sp.previous_track()
+    def add_to_queue(self, track_id):
+        self.sp.add_to_queue(uri=f"spotify:track:{track_id}")
 
-    def seek_to_position(self, position_ms):
-        self.sp.seek_track(position_ms=position_ms)
-
-    def set_volume(self, volume_percent):
-        self.sp.volume(volume_percent)
+    def get_queue(self):
+        try:
+            return self.sp.queue()
+        except:
+            return {"queue": []}
