@@ -84,7 +84,36 @@ class Client:
             # Use Spotify's artists endpoint
             response = self.sp.artists(artist_ids)
             
-            self.logger.info(f"Successfully retrieved {len(response['artists'])} artists")
+            # Convert and save artists
+            saved_artists = []
+            failed_saves = []
+            
+            for artist_data in response['artists']:
+                try:
+                    # Convert to Artist model
+                    artist = Artist.from_spotify_data(artist_data)
+                    self.logger.info(f"Converting Spotify data to Artist model for {artist.name}")
+                    
+                    # Save to database
+                    if self.db.save_artist(artist):
+                        self.logger.info(f"Successfully saved artist {artist.name} to database")
+                        saved_artists.append(artist.id)
+                    else:
+                        self.logger.warning(f"Failed to save artist {artist.name} to database")
+                        failed_saves.append(artist.id)
+                        
+                except Exception as e:
+                    self.logger.error(f"Error processing artist data: {str(e)}")
+                    failed_saves.append(artist_data.get('id', 'unknown'))
+            
+            self.logger.info(f"Batch processing complete. Saved: {len(saved_artists)}, Failed: {len(failed_saves)}")
+            
+            # Return original response plus save status
+            response['save_status'] = {
+                'successful_saves': saved_artists,
+                'failed_saves': failed_saves
+            }
+            
             return response
             
         except Exception as e:
