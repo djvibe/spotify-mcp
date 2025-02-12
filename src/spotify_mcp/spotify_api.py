@@ -2,10 +2,10 @@ import logging
 import os
 from typing import List, Dict, Any, Optional
 from datetime import datetime
-import sqlite3
-from contextlib import contextmanager
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
+from .artists import ArtistDatabase
+from .models import Artist
 
 class Client:
     """Spotify API Client with batch processing capabilities"""
@@ -21,37 +21,9 @@ class Client:
             redirect_uri=os.getenv("SPOTIFY_REDIRECT_URI"),
             scope="user-library-read playlist-read-private"
         ))
-        self.initialize_db()
+        # Initialize artist database
+        self.db = ArtistDatabase(db_path, logger)
 
-    def initialize_db(self):
-        """Initialize the SQLite database"""
-        with self.get_connection() as conn:
-            conn.execute('''
-                CREATE TABLE IF NOT EXISTS artists (
-                    id TEXT PRIMARY KEY,
-                    name TEXT NOT NULL,
-                    external_urls TEXT,
-                    followers TEXT,
-                    genres TEXT,
-                    href TEXT,
-                    images TEXT,
-                    popularity INTEGER,
-                    uri TEXT,
-                    type TEXT,
-                    last_updated TIMESTAMP
-                )
-            ''')
-            conn.commit()
-
-    @contextmanager
-    def get_connection(self):
-        """Context manager for database connections"""
-        conn = sqlite3.connect(self.db_path)
-        conn.row_factory = sqlite3.Row
-        try:
-            yield conn
-        finally:
-            conn.close()
 
     async def get_info(self, item_id: str, qtype: str = "track") -> Dict[str, Any]:
         """Get information about a Spotify item"""
@@ -67,7 +39,24 @@ class Client:
                 
                 # Single artist request
                 self.logger.info(f"Getting info for single artist {item_id}")
-                return self.sp.artist(item_id)
+                artist_data = self.sp.artist(item_id)
+                
+                try:
+                    # Convert to Artist model
+                    artist = Artist.from_spotify_data(artist_data)
+                    self.logger.info(f"Converting Spotify data to Artist model for {artist.name}")
+                    
+                    # Save to database
+                    if self.db.save_artist(artist):
+                        self.logger.info(f"Successfully saved artist {artist.name} to database")
+                    else:
+                        self.logger.warning(f"Failed to save artist {artist.name} to database")
+                        
+                except Exception as e:
+                    self.logger.error(f"Error processing artist data: {str(e)}")
+                    # Still return the data even if saving fails
+                    
+                return artist_data
         
         except Exception as e:
             self.logger.error(f"Error fetching artist(s): {str(e)}")

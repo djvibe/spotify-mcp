@@ -1,6 +1,6 @@
 import logging
 import sqlite3
-from typing import List, Optional, Dict
+from typing import List, Optional, Dict, Any
 from datetime import datetime
 from contextlib import contextmanager
 
