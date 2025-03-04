@@ -1,0 +1,4589 @@
+{
+  "data": {
+    "artistUnion": {
+      "__typename": "Artist",
+      "discography": {
+        "albums": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2005 Armada Music B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2005 Armada Music B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0218506df8a11652caa83a3f8d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485118506df8a11652caa83a3f8d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27318506df8a11652caa83a3f8d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 25,
+                      "month": 7,
+                      "precision": "DAY",
+                      "year": 2005
+                    },
+                    "id": "58evCxTgeud6x03IDjI1xT",
+                    "label": "Armada Music",
+                    "name": "George Is On",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "aX91LO1XR5KjUbxqRC_8ng",
+                      "shareUrl": "https://open.spotify.com/album/58evCxTgeud6x03IDjI1xT?si=aX91LO1XR5KjUbxqRC_8ng"
+                    },
+                    "tracks": {
+                      "totalCount": 23
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:58evCxTgeud6x03IDjI1xT"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2016 Global Underground Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2016 Global Underground Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020a7ae96284f0d14d7c4907ff",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510a7ae96284f0d14d7c4907ff",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730a7ae96284f0d14d7c4907ff",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 1,
+                      "month": 1,
+                      "precision": "YEAR",
+                      "year": 2003
+                    },
+                    "id": "78m21i0M73kiVthYp7ifK4",
+                    "label": "Global Underground",
+                    "name": "Global Underground #25: Deep Dish - Toronto",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "8Ht3YlxcT6CeqC3mz3oH5A",
+                      "shareUrl": "https://open.spotify.com/album/78m21i0M73kiVthYp7ifK4?si=8Ht3YlxcT6CeqC3mz3oH5A"
+                    },
+                    "tracks": {
+                      "totalCount": 12
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:78m21i0M73kiVthYp7ifK4"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 1998 Deconstruction Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e31ea57fc943d0f6cf5ef0d3",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e31ea57fc943d0f6cf5ef0d3",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e31ea57fc943d0f6cf5ef0d3",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 1,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 1998
+                    },
+                    "id": "16F6ogzUHg5XdHdh1IAKLA",
+                    "label": "Deconstruction",
+                    "name": "Junk Science",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "rYwX2ZJqRtuYpw6_ejnxaw",
+                      "shareUrl": "https://open.spotify.com/album/16F6ogzUHg5XdHdh1IAKLA?si=rYwX2ZJqRtuYpw6_ejnxaw"
+                    },
+                    "tracks": {
+                      "totalCount": 13
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:16F6ogzUHg5XdHdh1IAKLA"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 3
+        },
+        "compilations": {
+          "items": [],
+          "totalCount": 0
+        },
+        "latest": {
+          "copyright": {
+            "items": [
+              {
+                "text": "2025 Armada Music B.V.",
+                "type": "C"
+              },
+              {
+                "text": "2025 Armada Music B.V.",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e029db26a75d0213ea9548daf3c",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048519db26a75d0213ea9548daf3c",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2739db26a75d0213ea9548daf3c",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 28,
+            "month": 2,
+            "precision": "DAY",
+            "year": 2025
+          },
+          "id": "2Dsla6jO5SW6PoiqHTdKGd",
+          "label": "Armada Music",
+          "name": "Flashdance (Shai T Remix)",
+          "playability": {
+            "playable": true,
+            "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+            "shareId": "UiFo4J71TOO31foq9tyZaA",
+            "shareUrl": "https://open.spotify.com/album/2Dsla6jO5SW6PoiqHTdKGd?si=UiFo4J71TOO31foq9tyZaA"
+          },
+          "tracks": {
+            "totalCount": 2
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:2Dsla6jO5SW6PoiqHTdKGd"
+        },
+        "popularReleasesAlbums": {
+          "items": [
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "1994 Easy Street Records / Reservoir Recordings",
+                    "type": "C"
+                  },
+                  {
+                    "text": "1994 Easy Street Records / Reservoir Recordings",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0238ae03f82dcf77f897bac926",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485138ae03f82dcf77f897bac926",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27338ae03f82dcf77f897bac926",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 1,
+                "month": 1,
+                "precision": "YEAR",
+                "year": 1994
+              },
+              "id": "1pvTBYplJoHBx6xvItgu4h",
+              "label": "Easy Street Records",
+              "name": "Deep Dish Vs. De'Lacy",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "brXo3VkvSJWXQujN4DeY8Q",
+                "shareUrl": "https://open.spotify.com/album/1pvTBYplJoHBx6xvItgu4h?si=brXo3VkvSJWXQujN4DeY8Q"
+              },
+              "tracks": {
+                "totalCount": 5
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1pvTBYplJoHBx6xvItgu4h"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2005 Armada Music B.V.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2005 Armada Music B.V.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0218506df8a11652caa83a3f8d",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485118506df8a11652caa83a3f8d",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27318506df8a11652caa83a3f8d",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 25,
+                "month": 7,
+                "precision": "DAY",
+                "year": 2005
+              },
+              "id": "58evCxTgeud6x03IDjI1xT",
+              "label": "Armada Music",
+              "name": "George Is On",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "aX91LO1XR5KjUbxqRC_8ng",
+                "shareUrl": "https://open.spotify.com/album/58evCxTgeud6x03IDjI1xT?si=aX91LO1XR5KjUbxqRC_8ng"
+              },
+              "tracks": {
+                "totalCount": 23
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:58evCxTgeud6x03IDjI1xT"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2004 Armada Music B.V.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2004 Armada Music B.V.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0242b6b58cefbd4b615776d774",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485142b6b58cefbd4b615776d774",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27342b6b58cefbd4b615776d774",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 4,
+                "month": 7,
+                "precision": "DAY",
+                "year": 2004
+              },
+              "id": "1nYZSxefE6Hmf3q8mV9CtQ",
+              "label": "Armada Music",
+              "name": "Flashdance",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "6WKcxKM-TJ2Juio7ipeyNA",
+                "shareUrl": "https://open.spotify.com/album/1nYZSxefE6Hmf3q8mV9CtQ?si=6WKcxKM-TJ2Juio7ipeyNA"
+              },
+              "tracks": {
+                "totalCount": 12
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1nYZSxefE6Hmf3q8mV9CtQ"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2005 Armada Music B.V.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2005 Armada Music B.V.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0234a8d92873f5686db2dda75e",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485134a8d92873f5686db2dda75e",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27334a8d92873f5686db2dda75e",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 2,
+                "month": 7,
+                "precision": "DAY",
+                "year": 2005
+              },
+              "id": "1lLdE8VPoAVltyldHzLQ3i",
+              "label": "Armada Music",
+              "name": "Say Hello",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "f2WCPFHDRZqhz0eZkekGBA",
+                "shareUrl": "https://open.spotify.com/album/1lLdE8VPoAVltyldHzLQ3i?si=f2WCPFHDRZqhz0eZkekGBA"
+              },
+              "tracks": {
+                "totalCount": 12
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1lLdE8VPoAVltyldHzLQ3i"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2016 Global Underground Ltd",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2016 Global Underground Ltd",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020a7ae96284f0d14d7c4907ff",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510a7ae96284f0d14d7c4907ff",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730a7ae96284f0d14d7c4907ff",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 1,
+                "month": 1,
+                "precision": "YEAR",
+                "year": 2003
+              },
+              "id": "78m21i0M73kiVthYp7ifK4",
+              "label": "Global Underground",
+              "name": "Global Underground #25: Deep Dish - Toronto",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "8Ht3YlxcT6CeqC3mz3oH5A",
+                "shareUrl": "https://open.spotify.com/album/78m21i0M73kiVthYp7ifK4?si=8Ht3YlxcT6CeqC3mz3oH5A"
+              },
+              "tracks": {
+                "totalCount": 12
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:78m21i0M73kiVthYp7ifK4"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 1998 Deconstruction Ltd",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e31ea57fc943d0f6cf5ef0d3",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e31ea57fc943d0f6cf5ef0d3",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e31ea57fc943d0f6cf5ef0d3",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 1,
+                "month": 6,
+                "precision": "DAY",
+                "year": 1998
+              },
+              "id": "16F6ogzUHg5XdHdh1IAKLA",
+              "label": "Deconstruction",
+              "name": "Junk Science",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "rYwX2ZJqRtuYpw6_ejnxaw",
+                "shareUrl": "https://open.spotify.com/album/16F6ogzUHg5XdHdh1IAKLA?si=rYwX2ZJqRtuYpw6_ejnxaw"
+              },
+              "tracks": {
+                "totalCount": 13
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:16F6ogzUHg5XdHdh1IAKLA"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2025 Armada Music B.V.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2025 Armada Music B.V.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029db26a75d0213ea9548daf3c",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519db26a75d0213ea9548daf3c",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739db26a75d0213ea9548daf3c",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 28,
+                "month": 2,
+                "precision": "DAY",
+                "year": 2025
+              },
+              "id": "2Dsla6jO5SW6PoiqHTdKGd",
+              "label": "Armada Music",
+              "name": "Flashdance (Shai T Remix)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "UiFo4J71TOO31foq9tyZaA",
+                "shareUrl": "https://open.spotify.com/album/2Dsla6jO5SW6PoiqHTdKGd?si=UiFo4J71TOO31foq9tyZaA"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:2Dsla6jO5SW6PoiqHTdKGd"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2024 Armada Music B.V.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2024 Armada Music B.V.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0243c86c344368087b4bee482f",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485143c86c344368087b4bee482f",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27343c86c344368087b4bee482f",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 13,
+                "month": 12,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "4xQqDfMMecyqAk96vQ6hOB",
+              "label": "Armada Music",
+              "name": "Say Hello",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "jD3m2soSSuO2UcEoTvVrJQ",
+                "shareUrl": "https://open.spotify.com/album/4xQqDfMMecyqAk96vQ6hOB?si=jD3m2soSSuO2UcEoTvVrJQ"
+              },
+              "tracks": {
+                "totalCount": 5
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:4xQqDfMMecyqAk96vQ6hOB"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2006 Armada Music B.V.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2006 Armada Music B.V.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02afccf7afef1d9d4048324df8",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851afccf7afef1d9d4048324df8",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273afccf7afef1d9d4048324df8",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 17,
+                "month": 4,
+                "precision": "DAY",
+                "year": 2006
+              },
+              "id": "5KYwJkJq0QOTRWE2MvnQTH",
+              "label": "Armada Music",
+              "name": "Dreams",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "hqm7hlARQxq5VT2JX4MYiQ",
+                "shareUrl": "https://open.spotify.com/album/5KYwJkJq0QOTRWE2MvnQTH?si=hqm7hlARQxq5VT2JX4MYiQ"
+              },
+              "tracks": {
+                "totalCount": 12
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:5KYwJkJq0QOTRWE2MvnQTH"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2024 Armada Music B.V.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2024 Armada Music B.V.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e9704dac78a239d04c7c9cdf",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e9704dac78a239d04c7c9cdf",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e9704dac78a239d04c7c9cdf",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 18,
+                "month": 10,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "0GGW6Zer1yHAoo1xFUIq83",
+              "label": "Armada Music",
+              "name": "Flashdance",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "GtBhGTgNQs2PW6wrQ_i4Pg",
+                "shareUrl": "https://open.spotify.com/album/0GGW6Zer1yHAoo1xFUIq83?si=GtBhGTgNQs2PW6wrQ_i4Pg"
+              },
+              "tracks": {
+                "totalCount": 5
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:0GGW6Zer1yHAoo1xFUIq83"
+            }
+          ],
+          "totalCount": 14
+        },
+        "singles": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2025 Armada Music B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2025 Armada Music B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029db26a75d0213ea9548daf3c",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519db26a75d0213ea9548daf3c",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739db26a75d0213ea9548daf3c",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 28,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "2Dsla6jO5SW6PoiqHTdKGd",
+                    "label": "Armada Music",
+                    "name": "Flashdance (Shai T Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "UiFo4J71TOO31foq9tyZaA",
+                      "shareUrl": "https://open.spotify.com/album/2Dsla6jO5SW6PoiqHTdKGd?si=UiFo4J71TOO31foq9tyZaA"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:2Dsla6jO5SW6PoiqHTdKGd"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Armada Music B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Armada Music B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0243c86c344368087b4bee482f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485143c86c344368087b4bee482f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27343c86c344368087b4bee482f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 13,
+                      "month": 12,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "4xQqDfMMecyqAk96vQ6hOB",
+                    "label": "Armada Music",
+                    "name": "Say Hello",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "jD3m2soSSuO2UcEoTvVrJQ",
+                      "shareUrl": "https://open.spotify.com/album/4xQqDfMMecyqAk96vQ6hOB?si=jD3m2soSSuO2UcEoTvVrJQ"
+                    },
+                    "tracks": {
+                      "totalCount": 5
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4xQqDfMMecyqAk96vQ6hOB"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Armada Music B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Armada Music B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e9704dac78a239d04c7c9cdf",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e9704dac78a239d04c7c9cdf",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e9704dac78a239d04c7c9cdf",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 18,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "0GGW6Zer1yHAoo1xFUIq83",
+                    "label": "Armada Music",
+                    "name": "Flashdance",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "GtBhGTgNQs2PW6wrQ_i4Pg",
+                      "shareUrl": "https://open.spotify.com/album/0GGW6Zer1yHAoo1xFUIq83?si=GtBhGTgNQs2PW6wrQ_i4Pg"
+                    },
+                    "tracks": {
+                      "totalCount": 5
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:0GGW6Zer1yHAoo1xFUIq83"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2014 Armada Music B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2014 Armada Music B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e023dd782a770a2f08307b95def",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048513dd782a770a2f08307b95def",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2733dd782a770a2f08307b95def",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 29,
+                      "month": 7,
+                      "precision": "DAY",
+                      "year": 2014
+                    },
+                    "id": "4C826yIGvqc8h2vk4XX6BG",
+                    "label": "Armada Music",
+                    "name": "Quincy",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "E902SdOxSnWGKpvAqDg_lA",
+                      "shareUrl": "https://open.spotify.com/album/4C826yIGvqc8h2vk4XX6BG?si=E902SdOxSnWGKpvAqDg_lA"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4C826yIGvqc8h2vk4XX6BG"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2006 Armada Music B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2006 Armada Music B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02afccf7afef1d9d4048324df8",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851afccf7afef1d9d4048324df8",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273afccf7afef1d9d4048324df8",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 17,
+                      "month": 4,
+                      "precision": "DAY",
+                      "year": 2006
+                    },
+                    "id": "5KYwJkJq0QOTRWE2MvnQTH",
+                    "label": "Armada Music",
+                    "name": "Dreams",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "hqm7hlARQxq5VT2JX4MYiQ",
+                      "shareUrl": "https://open.spotify.com/album/5KYwJkJq0QOTRWE2MvnQTH?si=hqm7hlARQxq5VT2JX4MYiQ"
+                    },
+                    "tracks": {
+                      "totalCount": 12
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5KYwJkJq0QOTRWE2MvnQTH"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2005 Armada Music B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2005 Armada Music B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0266d9fc51b37a5a41667c8446",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485166d9fc51b37a5a41667c8446",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27366d9fc51b37a5a41667c8446",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 21,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2005
+                    },
+                    "id": "5vjM3tDw9RWD9BNJGrwpIb",
+                    "label": "Armada Music",
+                    "name": "Sacramento",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "om47PYxdTpqLeGIDI0kZQQ",
+                      "shareUrl": "https://open.spotify.com/album/5vjM3tDw9RWD9BNJGrwpIb?si=om47PYxdTpqLeGIDI0kZQQ"
+                    },
+                    "tracks": {
+                      "totalCount": 12
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:5vjM3tDw9RWD9BNJGrwpIb"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2005 Armada Music B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2005 Armada Music B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0234a8d92873f5686db2dda75e",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485134a8d92873f5686db2dda75e",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27334a8d92873f5686db2dda75e",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 2,
+                      "month": 7,
+                      "precision": "DAY",
+                      "year": 2005
+                    },
+                    "id": "1lLdE8VPoAVltyldHzLQ3i",
+                    "label": "Armada Music",
+                    "name": "Say Hello",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "f2WCPFHDRZqhz0eZkekGBA",
+                      "shareUrl": "https://open.spotify.com/album/1lLdE8VPoAVltyldHzLQ3i?si=f2WCPFHDRZqhz0eZkekGBA"
+                    },
+                    "tracks": {
+                      "totalCount": 12
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1lLdE8VPoAVltyldHzLQ3i"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2004 Armada Music B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2004 Armada Music B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0242b6b58cefbd4b615776d774",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485142b6b58cefbd4b615776d774",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27342b6b58cefbd4b615776d774",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 4,
+                      "month": 7,
+                      "precision": "DAY",
+                      "year": 2004
+                    },
+                    "id": "1nYZSxefE6Hmf3q8mV9CtQ",
+                    "label": "Armada Music",
+                    "name": "Flashdance",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "6WKcxKM-TJ2Juio7ipeyNA",
+                      "shareUrl": "https://open.spotify.com/album/1nYZSxefE6Hmf3q8mV9CtQ?si=6WKcxKM-TJ2Juio7ipeyNA"
+                    },
+                    "tracks": {
+                      "totalCount": 12
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1nYZSxefE6Hmf3q8mV9CtQ"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2019 Defected Records Limited dba Slip \u2018n\u2019 Slide",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2019 Defected Records Limited dba Slip \u2018n\u2019 Slide",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02fc1ed4062d3fe888e58b4512",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851fc1ed4062d3fe888e58b4512",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273fc1ed4062d3fe888e58b4512",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 11,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2002
+                    },
+                    "id": "4bEq5Auqa0trTU9UiQepmI",
+                    "label": "Slip 'n' Slide",
+                    "name": "Come Back",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "Q25dubT8QLmxLjwu3RmxLA",
+                      "shareUrl": "https://open.spotify.com/album/4bEq5Auqa0trTU9UiQepmI?si=Q25dubT8QLmxLjwu3RmxLA"
+                    },
+                    "tracks": {
+                      "totalCount": 7
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4bEq5Auqa0trTU9UiQepmI"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Deconstruction",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Deconstruction",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d89faf1558976cc54109d597",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d89faf1558976cc54109d597",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d89faf1558976cc54109d597",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 19,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 1997
+                    },
+                    "id": "4fwjdFPgXunM4OHtdMoZwx",
+                    "label": "Deconstruction",
+                    "name": "Deep Dish (Brother Brown Remixes)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "lrDNQTo9Twm4cMik52aC0g",
+                      "shareUrl": "https://open.spotify.com/album/4fwjdFPgXunM4OHtdMoZwx?si=lrDNQTo9Twm4cMik52aC0g"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4fwjdFPgXunM4OHtdMoZwx"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 11
+        },
+        "topTracks": {
+          "items": [
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e020853936f46b3c24ef262ad31"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048510853936f46b3c24ef262ad31"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2730853936f46b3c24ef262ad31"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:7EUPZNQdefg99rHecK3DA0"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Sandy B"
+                      },
+                      "uri": "spotify:artist:4actG94YfJxMVdKBGWkAZL"
+                    },
+                    {
+                      "profile": {
+                        "name": "Deep Dish"
+                      },
+                      "uri": "spotify:artist:720JYpdCgHuTmDeryW0wEA"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 230933
+                },
+                "id": "3suUyj7jumc7N0sxNfsdPe",
+                "name": "Make The World Go Round - Deep Dish Radio Edit",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "20538427",
+                "uri": "spotify:track:3suUyj7jumc7N0sxNfsdPe"
+              },
+              "uid": "fee936bb9e80928f69ec"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0238ae03f82dcf77f897bac926"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485138ae03f82dcf77f897bac926"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27338ae03f82dcf77f897bac926"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:1pvTBYplJoHBx6xvItgu4h"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "De'Lacy"
+                      },
+                      "uri": "spotify:artist:3PAtCGZK9u5tIBERu4y5ho"
+                    },
+                    {
+                      "profile": {
+                        "name": "Deep Dish"
+                      },
+                      "uri": "spotify:artist:720JYpdCgHuTmDeryW0wEA"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 211875
+                },
+                "id": "3AFeoRQ6sHPncfrDeCqmkZ",
+                "name": "Hideaway - Deep Dish Radio Edit",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "11738804",
+                "uri": "spotify:track:3AFeoRQ6sHPncfrDeCqmkZ"
+              },
+              "uid": "23159ee10d39123cd669"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0218506df8a11652caa83a3f8d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485118506df8a11652caa83a3f8d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27318506df8a11652caa83a3f8d"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:58evCxTgeud6x03IDjI1xT"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Deep Dish"
+                      },
+                      "uri": "spotify:artist:720JYpdCgHuTmDeryW0wEA"
+                    },
+                    {
+                      "profile": {
+                        "name": "Stevie Nicks"
+                      },
+                      "uri": "spotify:artist:7crPfGd2k81ekOoSqQKWWz"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 279110
+                },
+                "id": "7sAnK4CFoiYmJRGiAF00xs",
+                "name": "Dreams - Album Mix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "10830570",
+                "uri": "spotify:track:7sAnK4CFoiYmJRGiAF00xs"
+              },
+              "uid": "7dc0b18960b9ef140e94"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0242b6b58cefbd4b615776d774"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485142b6b58cefbd4b615776d774"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27342b6b58cefbd4b615776d774"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:1nYZSxefE6Hmf3q8mV9CtQ"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Deep Dish"
+                      },
+                      "uri": "spotify:artist:720JYpdCgHuTmDeryW0wEA"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 195292
+                },
+                "id": "2a9vdpQjpYjZsQQ4M41IBp",
+                "name": "Flashdance",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "749878",
+                "uri": "spotify:track:2a9vdpQjpYjZsQQ4M41IBp"
+              },
+              "uid": "75eb1f402b709f4a77c8"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0234a8d92873f5686db2dda75e"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485134a8d92873f5686db2dda75e"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27334a8d92873f5686db2dda75e"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:1lLdE8VPoAVltyldHzLQ3i"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Deep Dish"
+                      },
+                      "uri": "spotify:artist:720JYpdCgHuTmDeryW0wEA"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 187327
+                },
+                "id": "45BTCZPBMQ7hyKbpEPBdRT",
+                "name": "Say Hello",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "327413",
+                "uri": "spotify:track:45BTCZPBMQ7hyKbpEPBdRT"
+              },
+              "uid": "6a61610fd78590a36627"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0218506df8a11652caa83a3f8d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485118506df8a11652caa83a3f8d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27318506df8a11652caa83a3f8d"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:58evCxTgeud6x03IDjI1xT"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Deep Dish"
+                      },
+                      "uri": "spotify:artist:720JYpdCgHuTmDeryW0wEA"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 359599
+                },
+                "id": "12GCtamy9WhgTGUfTl4eN4",
+                "name": "Flashdance - Album Mix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1662148",
+                "uri": "spotify:track:12GCtamy9WhgTGUfTl4eN4"
+              },
+              "uid": "2c981fcadd6deec27fbd"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e026a2c25f405899bf020542632"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048516a2c25f405899bf020542632"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2736a2c25f405899bf020542632"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:2cy0rT9mrLvLP9vnfgdru1"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Deep Dish"
+                      },
+                      "uri": "spotify:artist:720JYpdCgHuTmDeryW0wEA"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 199975
+                },
+                "id": "3MgK0H6j33LzSO0mJkl9ZE",
+                "name": "Say Hello - Deep Dish Goes Deep Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "85053",
+                "uri": "spotify:track:3MgK0H6j33LzSO0mJkl9ZE"
+              },
+              "uid": "a15b41fe8217c58132ab"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0218506df8a11652caa83a3f8d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485118506df8a11652caa83a3f8d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27318506df8a11652caa83a3f8d"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:58evCxTgeud6x03IDjI1xT"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Deep Dish"
+                      },
+                      "uri": "spotify:artist:720JYpdCgHuTmDeryW0wEA"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 274777
+                },
+                "id": "0v5hhdzCOkulON9PNfuk3i",
+                "name": "Say Hello - Album Mix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1207276",
+                "uri": "spotify:track:0v5hhdzCOkulON9PNfuk3i"
+              },
+              "uid": "856e1cd1266ba486e9c5"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f893e8e2d5c21ee34742a7c7"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851f893e8e2d5c21ee34742a7c7"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f893e8e2d5c21ee34742a7c7"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:3j7WIGnQQHjHCbxt7svjUM"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Deep Dish"
+                      },
+                      "uri": "spotify:artist:720JYpdCgHuTmDeryW0wEA"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 171516
+                },
+                "id": "0REwglRKOWRUNwVWAtUOFm",
+                "name": "Flashdance - Deep Dish Guitar Redux Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "86766",
+                "uri": "spotify:track:0REwglRKOWRUNwVWAtUOFm"
+              },
+              "uid": "a51e678b5e5a2fc2e5ac"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02555471348ed37d5d6f546a31"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851555471348ed37d5d6f546a31"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273555471348ed37d5d6f546a31"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:0D7tIY7BLewudL5mdWOro7"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Deep Dish"
+                      },
+                      "uri": "spotify:artist:720JYpdCgHuTmDeryW0wEA"
+                    },
+                    {
+                      "profile": {
+                        "name": "Tracey Thorn"
+                      },
+                      "uri": "spotify:artist:7xFnmid57ZE6iWEXdEXO3b"
+                    },
+                    {
+                      "profile": {
+                        "name": "Everything But The Girl"
+                      },
+                      "uri": "spotify:artist:13ccXrK7AmXb4TddMkE7jy"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 567973
+                },
+                "id": "4VBhoG52SETMaQ0f5E75pI",
+                "name": "The Future of the Future (Stay Gold) (with Everything But The Girl)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "2083805",
+                "uri": "spotify:track:4VBhoG52SETMaQ0f5E75pI"
+              },
+              "uid": "49b95fe5af4e9cf1ccb9"
+            }
+          ]
+        }
+      },
+      "goods": {
+        "concerts": {
+          "items": [
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Miami",
+                  "name": "Club Space Miami"
+                },
+                "startDateIsoString": "2025-03-14T23:00-04:00",
+                "title": "Deep Dish, Victor Calderone, Danyelino",
+                "uri": "spotify:concert:7GiTly3gICUob7DoCjyQcr"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Dallas",
+                  "name": "It'll Do Club"
+                },
+                "startDateIsoString": "2025-04-04T19:00-05:00",
+                "title": "Deep Dish",
+                "uri": "spotify:concert:4RjGafC90SHOiqhsGIcyVQ"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Dallas",
+                  "name": "It'll Do Club"
+                },
+                "startDateIsoString": "2025-04-05T21:00-05:00",
+                "title": "Deep Dish",
+                "uri": "spotify:concert:0KtAauq1CskpAHW7TYBBnP"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Monterrey",
+                  "name": "Parque Fundidora"
+                },
+                "startDateIsoString": "2025-04-06T19:00-06:00",
+                "title": "Deep Dish",
+                "uri": "spotify:concert:2t1s5O3UPP4Q8XGGpG7cvE"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "London",
+                  "name": "fabric"
+                },
+                "startDateIsoString": "2025-05-04T23:00+01:00",
+                "title": "Deep Dish",
+                "uri": "spotify:concert:1gjbfdVsta81ohaPwOSQ7j"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Chicago",
+                  "name": "Cermak Hall"
+                },
+                "startDateIsoString": "2025-07-19T22:00-05:00",
+                "title": "Deep Dish",
+                "uri": "spotify:concert:5lavHs9u58uEjfQBfyLYmr"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Glasgow",
+                  "name": "Radisson RED Glasgow"
+                },
+                "startDateIsoString": "2025-07-27T12:00+01:00",
+                "title": "Deep Dish",
+                "uri": "spotify:concert:4JuL8UeBsKB7m5EpKp9r2K"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Tisno",
+                  "name": "The Garden Resort Croatia"
+                },
+                "startDateIsoString": "2025-08-08T19:00+02:00",
+                "title": "Deep Dish",
+                "uri": "spotify:concert:40qjWk3ijyNwA3otvKpMcP"
+              }
+            }
+          ],
+          "totalCount": 8
+        },
+        "merch": {
+          "items": [
+            {
+              "description": "Protection Each record is protected within its record sleeve by a white vellum anti-dust sleeve. Packaging All items are shipped brand-new and unopened in original packaging. Every record is shipped in original factory-applied shrink wrap and has never been touched by human hands.",
+              "image": {
+                "sources": [
+                  {
+                    "url": "https://merch-img.scdn.co/https%3A%2F%2Fdx72k0ec4onep.cloudfront.net%2Fplaceholders%2Fplaceholder-vinyl-640x640.jpg?h=300&w=300&s=9cba43dc2e0d86f965565f44e0ce7fd7"
+                  }
+                ]
+              },
+              "nameV2": "FLASHDANCE / SAY HELLO (2024 REMIXES) Vinyl Record",
+              "price": "$34.49",
+              "uri": "6225655",
+              "url": "https://www.merchbar.com/vinyl-records/deep-dish/deep-dish-flashdance-say-hello-2024-remixes-vinyl-record?utm_source=merchbar-spotify&utm_medium=affiliate&mb-listing-id=6225655v2982&shi=008c6ef43f31edc64305a1ade45464b9f2f6ea236f1c562e0c16fa"
+            },
+            {
+              "description": "This is a new, unopened CD in its original packaging.",
+              "image": {
+                "sources": [
+                  {
+                    "url": "https://merch-img.scdn.co/https%3A%2F%2Fimg.merchbar.com%2Fproduct%2Fcdified%2Fupc%2F25%2F773848112524.jpg%3Fw%3D390%26h%3D390?h=300&w=300&s=f970fd0b264bac4ccd052e1f7349ec1f"
+                  }
+                ]
+              },
+              "nameV2": "GEORGE IS ON CD",
+              "price": "$14.49",
+              "uri": "605928",
+              "url": "https://www.merchbar.com/vinyl-records/deep-dish/deep-dish-george-is-on-cd?utm_source=merchbar-spotify&utm_medium=affiliate&mb-listing-id=605928v2982&shi=008c6ef43f31edc64305a1ade45464b9f2f6ea236f1c562e0c16fa"
+            },
+            {
+              "description": "This is a new, unopened CD in its original packaging.",
+              "image": {
+                "sources": [
+                  {
+                    "url": "https://merch-img.scdn.co/https%3A%2F%2Fimg.merchbar.com%2Fproduct%2Fcdified%2Fupc%2F79%2F190296997945.jpg%3Fw%3D390%26h%3D390?h=300&w=300&s=3fe4cff379e84a108fd678f8c5e8d458"
+                  }
+                ]
+              },
+              "nameV2": "GLOBAL UNDERGROUND #25: DEEP DISH - TORONTO CD",
+              "price": "$19.49",
+              "uri": "605794",
+              "url": "https://www.merchbar.com/vinyl-records/deep-dish/deep-dish-global-underground-25-toronto-cd-605794?utm_source=merchbar-spotify&utm_medium=affiliate&mb-listing-id=605794v2982&shi=008c6ef43f31edc64305a1ade45464b9f2f6ea236f1c562e0c16fa"
+            }
+          ]
+        }
+      },
+      "headerImage": {
+        "data": {
+          "__typename": "ImageV2",
+          "sources": [
+            {
+              "maxHeight": 640,
+              "maxWidth": 1494,
+              "url": "https://image-cdn-fa.spotifycdn.com/image/ab676186000001945afa8ece5454de14cf0c03f5"
+            },
+            {
+              "maxHeight": 1080,
+              "maxWidth": 1920,
+              "url": "https://i2o.scdn.co/image/ab676186000016675afa8ece5454de14cf0c03f5"
+            },
+            {
+              "maxHeight": 641,
+              "maxWidth": 1495,
+              "url": "https://image-cdn-fa.spotifycdn.com/image/ab67618600009d805afa8ece5454de14cf0c03f5"
+            },
+            {
+              "maxHeight": 1140,
+              "maxWidth": 2660,
+              "url": "https://image-cdn-fa.spotifycdn.com/image/ab6761860000eab15afa8ece5454de14cf0c03f5"
+            }
+          ]
+        }
+      },
+      "id": "720JYpdCgHuTmDeryW0wEA",
+      "preRelease": null,
+      "profile": {
+        "biography": {
+          "text": "Once upon a time in a studio, Dubfire found himself in a surreal moment that felt like a dream\u2014or perhaps a funky fairy tale. There he was, coaching the iconic Stevie Nicks through a fresh rendition of their hit &#34;Dreams.&#34; As he recalls the two-day recording session, it\u2019s clear that this was not just any collaboration; it was a magical intersection of worlds, leaving Dubfire pinching himself in disbelief.\n\nFast forward to today, and Deep Dish is back after a 30-year adventure through the musical landscape. Sharam insists their hiatus was less of a breakup and more like two old friends taking a scenic detour on a creative journey. They\u2019ve always been in touch, and now they\u2019re ready to reunite and reclaim their dance floor throne.\n\nTheir return is fueled by a shiny new deal with Armada Music, which has unleashed their classic anthems like \u201cFlashdance\u201d and \u201cSay Hello\u201d into the digital realm. It\u2019s as if they\u2019ve sprinkled a little pixie dust on their catalog, and fans are here for it. But it\u2019s not just about revisiting the past; they\u2019re blending old-school flair with fresh sounds, crafting tunes that defy traditional genres. No more boxes or labels\u2014just pure musical exploration!\n\nSo, music lovers, buckle up! The reunion of Deep Dish isn\u2019t just a nostalgic return; it\u2019s a delightful rediscovery of what it means to groove through time, proving that the dance floor remains their true playground. Get ready to dance\u2014because this is just the beginning of their enchanting new chapter!",
+          "type": "AUTOBIOGRAPHY"
+        },
+        "externalLinks": {
+          "items": [
+            {
+              "name": "FACEBOOK",
+              "url": "https://facebook.com/deepdish"
+            },
+            {
+              "name": "INSTAGRAM",
+              "url": "https://instagram.com/deepdish"
+            }
+          ]
+        },
+        "name": "Deep Dish",
+        "pinnedItem": {
+          "backgroundImageV2": null,
+          "comment": "New Remix of Say Hello is out now \ufe0f\u200d\ud83d\udd25",
+          "itemV2": {
+            "__typename": "AlbumResponseWrapper",
+            "data": {
+              "__typename": "Album",
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025e1f3c63a3f53920b8e855ca",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515e1f3c63a3f53920b8e855ca",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735e1f3c63a3f53920b8e855ca",
+                    "width": 640
+                  }
+                ]
+              },
+              "name": "Say Hello",
+              "type": "SINGLE",
+              "uri": "spotify:album:7azw3MZi1dkeEDzzqwN95H"
+            }
+          },
+          "subtitle": "Single",
+          "thumbnailImage": {
+            "data": {
+              "sources": [
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000075a05e1f3c63a3f53920b8e855ca"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000090d55e1f3c63a3f53920b8e855ca"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000ab875e1f3c63a3f53920b8e855ca"
+                }
+              ]
+            }
+          },
+          "title": "Say Hello",
+          "type": "ALBUM",
+          "uri": "spotify:album:7azw3MZi1dkeEDzzqwN95H"
+        },
+        "playlistsV2": {
+          "items": [],
+          "totalCount": 0
+        },
+        "verified": true
+      },
+      "relatedContent": {
+        "appearsOn": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Stevie Nicks"
+                          },
+                          "uri": "spotify:artist:7crPfGd2k81ekOoSqQKWWz"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e022614c295a38ee782d093aa09",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048512614c295a38ee782d093aa09",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2732614c295a38ee782d093aa09",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2007
+                    },
+                    "id": "7q0dYnAjmqZBJLhMBre8aL",
+                    "name": "Crystal Visions...The Very Best of Stevie Nicks",
+                    "sharingInfo": {
+                      "shareId": "BOzrvUwaTBKIWnnAoN7CCw",
+                      "shareUrl": "https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL?si=BOzrvUwaTBKIWnnAoN7CCw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:7q0dYnAjmqZBJLhMBre8aL"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02555471348ed37d5d6f546a31",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851555471348ed37d5d6f546a31",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273555471348ed37d5d6f546a31",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "0D7tIY7BLewudL5mdWOro7",
+                    "name": "Ibiza Anthems",
+                    "sharingInfo": {
+                      "shareId": "FXOLC6eKRw-aNo4MELPOzg",
+                      "shareUrl": "https://open.spotify.com/album/0D7tIY7BLewudL5mdWOro7?si=FXOLC6eKRw-aNo4MELPOzg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:0D7tIY7BLewudL5mdWOro7"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Everything But The Girl"
+                          },
+                          "uri": "spotify:artist:13ccXrK7AmXb4TddMkE7jy"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025c51420c64e422df2dd0c173",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515c51420c64e422df2dd0c173",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735c51420c64e422df2dd0c173",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 1996
+                    },
+                    "id": "4wGUmFfJaJksaMCzGnRWL5",
+                    "name": "Walking Wounded (Deluxe Edition)",
+                    "sharingInfo": {
+                      "shareId": "4PK0bMX6TA2g7ZaW2HRREg",
+                      "shareUrl": "https://open.spotify.com/album/4wGUmFfJaJksaMCzGnRWL5?si=4PK0bMX6TA2g7ZaW2HRREg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4wGUmFfJaJksaMCzGnRWL5"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Sandy B"
+                          },
+                          "uri": "spotify:artist:4actG94YfJxMVdKBGWkAZL"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020853936f46b3c24ef262ad31",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510853936f46b3c24ef262ad31",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730853936f46b3c24ef262ad31",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2009
+                    },
+                    "id": "7EUPZNQdefg99rHecK3DA0",
+                    "name": "Make The World Go Round",
+                    "sharingInfo": {
+                      "shareId": "xK_mRhKsSY2N6HAClZ5rfQ",
+                      "shareUrl": "https://open.spotify.com/album/7EUPZNQdefg99rHecK3DA0?si=xK_mRhKsSY2N6HAClZ5rfQ"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7EUPZNQdefg99rHecK3DA0"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Above & Beyond Group Therapy"
+                          },
+                          "uri": "spotify:artist:7HXnQUEKHiWvUqSIR9ydOC"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ae79e0425456cd1dce4ef5eb",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ae79e0425456cd1dce4ef5eb",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ae79e0425456cd1dce4ef5eb",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "789BNCugmd9CcpL0MDt2bM",
+                    "name": "Group Therapy 609 (DJ Mix)",
+                    "sharingInfo": {
+                      "shareId": "mA7ZwGKiRaqIhxsmAz8saQ",
+                      "shareUrl": "https://open.spotify.com/album/789BNCugmd9CcpL0MDt2bM?si=mA7ZwGKiRaqIhxsmAz8saQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:789BNCugmd9CcpL0MDt2bM"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0254d100c9fc76f5916804378a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485154d100c9fc76f5916804378a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27354d100c9fc76f5916804378a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "38ezuNxMBVB0FsiF29Wo3P",
+                    "name": "Armada Music Year Mix 2024",
+                    "sharingInfo": {
+                      "shareId": "cdNlYZYNRJa2lClyUTH0xQ",
+                      "shareUrl": "https://open.spotify.com/album/38ezuNxMBVB0FsiF29Wo3P?si=cdNlYZYNRJa2lClyUTH0xQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:38ezuNxMBVB0FsiF29Wo3P"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Gusto"
+                          },
+                          "uri": "spotify:artist:1woDQ2Kf6ffDteCsUbfHnz"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025e59bc6a81202ec3c4d9b14c",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515e59bc6a81202ec3c4d9b14c",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735e59bc6a81202ec3c4d9b14c",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 1995
+                    },
+                    "id": "6FeHmtjltRmeSPrOsgzVRa",
+                    "name": "Disco's Revenge",
+                    "sharingInfo": {
+                      "shareId": "liR81SJrTWSzOmEwkG0XoQ",
+                      "shareUrl": "https://open.spotify.com/album/6FeHmtjltRmeSPrOsgzVRa?si=liR81SJrTWSzOmEwkG0XoQ"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:6FeHmtjltRmeSPrOsgzVRa"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02af7661fa42b9426dddb7f82b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851af7661fa42b9426dddb7f82b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273af7661fa42b9426dddb7f82b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2011
+                    },
+                    "id": "77TvtJAiUlwM8q4r7VneKL",
+                    "name": "Pure... Chillout",
+                    "sharingInfo": {
+                      "shareId": "herSebtqRbWYcrwIyxkafA",
+                      "shareUrl": "https://open.spotify.com/album/77TvtJAiUlwM8q4r7VneKL?si=herSebtqRbWYcrwIyxkafA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:77TvtJAiUlwM8q4r7VneKL"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Delerium"
+                          },
+                          "uri": "spotify:artist:0IUq1plF3ON4Fboj1bE6kN"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e16a377925e2559f5801fa57",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e16a377925e2559f5801fa57",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e16a377925e2559f5801fa57",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2001
+                    },
+                    "id": "4VhGTJtJZj8cxcb7BAgUmN",
+                    "name": "Innocente Remixes",
+                    "sharingInfo": {
+                      "shareId": "EuZ_clYSTS-H8n26MB7fjw",
+                      "shareUrl": "https://open.spotify.com/album/4VhGTJtJZj8cxcb7BAgUmN?si=EuZ_clYSTS-H8n26MB7fjw"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4VhGTJtJZj8cxcb7BAgUmN"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "StoneBridge"
+                          },
+                          "uri": "spotify:artist:1jpQ5Xepnpx5YAqKQITP4A"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02145d60ca6b3e621f45d28c07",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851145d60ca6b3e621f45d28c07",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273145d60ca6b3e621f45d28c07",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "6KWVViKxrLMGZE3PRbwkJN",
+                    "name": "Champion Classics (35th Anniversary Album) Part 1 mixed & compiled by StoneBridge",
+                    "sharingInfo": {
+                      "shareId": "wN-3pwjxScyzBtv3NN9O9A",
+                      "shareUrl": "https://open.spotify.com/album/6KWVViKxrLMGZE3PRbwkJN?si=wN-3pwjxScyzBtv3NN9O9A"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:6KWVViKxrLMGZE3PRbwkJN"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Armin van Buuren ASOT Radio"
+                          },
+                          "uri": "spotify:artist:25mFVpuABa9GkGcj9eOPce"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02f447f1a24158439fae9b5e1d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851f447f1a24158439fae9b5e1d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273f447f1a24158439fae9b5e1d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2005
+                    },
+                    "id": "2RGlHYf44UCyLpUMcpIrY1",
+                    "name": "A State Of Trance Episode 229 (Year Mix 2005)",
+                    "sharingInfo": {
+                      "shareId": "N975Uu0PQkCBFBxzEcNwhA",
+                      "shareUrl": "https://open.spotify.com/album/2RGlHYf44UCyLpUMcpIrY1?si=N975Uu0PQkCBFBxzEcNwhA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2RGlHYf44UCyLpUMcpIrY1"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Sandy B"
+                          },
+                          "uri": "spotify:artist:4actG94YfJxMVdKBGWkAZL"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0284f7e1bf25e0d031a045e725",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485184f7e1bf25e0d031a045e725",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27384f7e1bf25e0d031a045e725",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2009
+                    },
+                    "id": "3FkzI5ykONo9i8Mt3bY0WR",
+                    "name": "Make The World Go Round",
+                    "sharingInfo": {
+                      "shareId": "ocgSHFZUSGKt5sgQGCJHkA",
+                      "shareUrl": "https://open.spotify.com/album/3FkzI5ykONo9i8Mt3bY0WR?si=ocgSHFZUSGKt5sgQGCJHkA"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3FkzI5ykONo9i8Mt3bY0WR"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Paul van Dyk"
+                          },
+                          "uri": "spotify:artist:7wU1naftD3lNq7rNsiDvOR"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0250a08e015f7b1225aab1bf2e",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485150a08e015f7b1225aab1bf2e",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27350a08e015f7b1225aab1bf2e",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2005
+                    },
+                    "id": "0YFkMJTK8qeOYm2RBLGvvo",
+                    "name": "The Other Side",
+                    "sharingInfo": {
+                      "shareId": "ng7rpogfQ4eUQkgzJXBjXw",
+                      "shareUrl": "https://open.spotify.com/album/0YFkMJTK8qeOYm2RBLGvvo?si=ng7rpogfQ4eUQkgzJXBjXw"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:0YFkMJTK8qeOYm2RBLGvvo"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Sandy B"
+                          },
+                          "uri": "spotify:artist:4actG94YfJxMVdKBGWkAZL"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0261e2af263eb6debee98ea9f3",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485161e2af263eb6debee98ea9f3",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27361e2af263eb6debee98ea9f3",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2009
+                    },
+                    "id": "3lqR237PqbvfFHwnjYyHrH",
+                    "name": "Make The World Go Round",
+                    "sharingInfo": {
+                      "shareId": "8EmC5eh8T9-E1N-K-VhzlA",
+                      "shareUrl": "https://open.spotify.com/album/3lqR237PqbvfFHwnjYyHrH?si=8EmC5eh8T9-E1N-K-VhzlA"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3lqR237PqbvfFHwnjYyHrH"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Sandy B"
+                          },
+                          "uri": "spotify:artist:4actG94YfJxMVdKBGWkAZL"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0238827f2ced1794aecc939d8b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485138827f2ced1794aecc939d8b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27338827f2ced1794aecc939d8b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2009
+                    },
+                    "id": "3AlXD9q5FEJhiUWKpad4G9",
+                    "name": "Make the World Go Round",
+                    "sharingInfo": {
+                      "shareId": "nbgh6UPwTS-oM0d990SK3g",
+                      "shareUrl": "https://open.spotify.com/album/3AlXD9q5FEJhiUWKpad4G9?si=nbgh6UPwTS-oM0d990SK3g"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3AlXD9q5FEJhiUWKpad4G9"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Brother Brown"
+                          },
+                          "uri": "spotify:artist:6Coczw0ntDcJRJNgNsUGfM"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0263deb4e727113ccbaa95255d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485163deb4e727113ccbaa95255d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27363deb4e727113ccbaa95255d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 1999
+                    },
+                    "id": "0eAXPsPWv7WJZFCbpS6ycU",
+                    "name": "Under The Water (feat. Frank'ee)",
+                    "sharingInfo": {
+                      "shareId": "AiD3wzDASBiWQ39P-bdMRw",
+                      "shareUrl": "https://open.spotify.com/album/0eAXPsPWv7WJZFCbpS6ycU?si=AiD3wzDASBiWQ39P-bdMRw"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:0eAXPsPWv7WJZFCbpS6ycU"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Narcotic Thrust"
+                          },
+                          "uri": "spotify:artist:5nI09GHOrlMO2wJNfDm2OD"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a0f0b2b1125f95cc79f5dbc2",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a0f0b2b1125f95cc79f5dbc2",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a0f0b2b1125f95cc79f5dbc2",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2002
+                    },
+                    "id": "0zm8ig80Rq88xGyGBk9VQH",
+                    "name": "Safe From Harm",
+                    "sharingInfo": {
+                      "shareId": "UzYb0S4QSs6PV_0vAENbJw",
+                      "shareUrl": "https://open.spotify.com/album/0zm8ig80Rq88xGyGBk9VQH?si=UzYb0S4QSs6PV_0vAENbJw"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:0zm8ig80Rq88xGyGBk9VQH"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Louie Vega"
+                          },
+                          "uri": "spotify:artist:5dncbrnveDMX9DgxcedeUg"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029e25b49f760f907495b703b4",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519e25b49f760f907495b703b4",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739e25b49f760f907495b703b4",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2008
+                    },
+                    "id": "0QmyfZrEvUOj5MTx2DkoyE",
+                    "name": "Diamond Life",
+                    "sharingInfo": {
+                      "shareId": "1BC3jlEnQv2dD7OrTvM6oA",
+                      "shareUrl": "https://open.spotify.com/album/0QmyfZrEvUOj5MTx2DkoyE?si=1BC3jlEnQv2dD7OrTvM6oA"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:0QmyfZrEvUOj5MTx2DkoyE"
+                  },
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Louie Vega"
+                          },
+                          "uri": "spotify:artist:5dncbrnveDMX9DgxcedeUg"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024110cd0ccb1768938c2ebf19",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514110cd0ccb1768938c2ebf19",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734110cd0ccb1768938c2ebf19",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2002
+                    },
+                    "id": "5R10XbuvpgavwBQeT6TV85",
+                    "name": "Diamond Life",
+                    "sharingInfo": {
+                      "shareId": "gSwQr1-RTIOBP6-ONmWlrA",
+                      "shareUrl": "https://open.spotify.com/album/5R10XbuvpgavwBQeT6TV85?si=gSwQr1-RTIOBP6-ONmWlrA"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5R10XbuvpgavwBQeT6TV85"
+                  }
+                ],
+                "totalCount": 2
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Chill Executive Officer"
+                          },
+                          "uri": "spotify:artist:4Rou6aAJsYyfzkzpfO3KxU"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e7e8bb7b4e819b697f63995e",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e7e8bb7b4e819b697f63995e",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e7e8bb7b4e819b697f63995e",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "4FsporRoDDvNkuv1jbMfTV",
+                    "name": "Chill Executive Officer (CEO), Vol. 33 [Selected by Maykel Piron]",
+                    "sharingInfo": {
+                      "shareId": "BxaSj2JQShKV4rKsl2hciw",
+                      "shareUrl": "https://open.spotify.com/album/4FsporRoDDvNkuv1jbMfTV?si=BxaSj2JQShKV4rKsl2hciw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4FsporRoDDvNkuv1jbMfTV"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02edc8b81b88cbaa175eb24b0b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851edc8b81b88cbaa175eb24b0b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273edc8b81b88cbaa175eb24b0b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "7AYFh2kE4VAYBncAea7B09",
+                    "name": "Electronic Music Anthology : The Best Of",
+                    "sharingInfo": {
+                      "shareId": "elKEMQBHQq-pflLuVXPZ_A",
+                      "shareUrl": "https://open.spotify.com/album/7AYFh2kE4VAYBncAea7B09?si=elKEMQBHQq-pflLuVXPZ_A"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:7AYFh2kE4VAYBncAea7B09"
+                  }
+                ],
+                "totalCount": 1
+              }
+            }
+          ],
+          "totalCount": 50
+        },
+        "discoveredOnV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Essential club anthems from the golden era of house music. Cover: Crystal Waters",
+                "id": "37i9dQZF1DWTU3Zl0elDUa",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002233e77a824eca5067d27a1b9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "90s House Classics",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWTU3Zl0elDUa"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "EDM | Deep House | Tropical House | Tech House | Afro House | Pop Hits | Latin House | Beach Music | Tulum Vibes | submitmusic.to&#x2F;tulum-party-sunset-2025",
+                "id": "3pUWZPzXAYILbENNyJaitG",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84662320a37a2e580b71e7af04",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Tulum Party Sunset 2025\ud83c\udf34\ud83d\udd25 \ud83c\uddf2\ud83c\uddfd",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Junior Mancuello"
+                  }
+                },
+                "uri": "spotify:playlist:3pUWZPzXAYILbENNyJaitG"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Deep Dish. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO49SxPB",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO49SxPB-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Deep Dish",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO49SxPB"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This playlist is in no way owned by MoS and is created from the tracks listed on the Ministry of Sound&#x27;s 90&#x27;s Anthems compilation",
+                "id": "3w0hENCgQAFIUJvTGUsRxw",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d418b5a81390ffdb0937e89f",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Ministry of Sound's 90's Anthems",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Stoic Lokean"
+                  }
+                },
+                "uri": "spotify:playlist:3w0hENCgQAFIUJvTGUsRxw"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Legendary tracks been produced on a TR-909 drum machine. Cover: Jeff Mills",
+                "id": "37i9dQZF1DX6qMmUY0JUQO",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000027bea495b72fece04b02eaae5",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "909 Classics",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX6qMmUY0JUQO"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Club classics from the homeland of dance music.",
+                "id": "37i9dQZF1DWZK99LPvBBfP",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000021a00927c91ca6203963fff94",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Ibiza Classics",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWZK99LPvBBfP"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO4g9IBy",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4g9IBy-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Stevie Nicks",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO4g9IBy"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The most iconic dance music of the 90\u2019s and 2000\u2019s",
+                "id": "7kUseG5jZgAsZ03TcPZ5EM",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8427d75edf5dc22c339e5fcc50",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Ministry 90s/00s",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Ben Samuel"
+                  }
+                },
+                "uri": "spotify:playlist:7kUseG5jZgAsZ03TcPZ5EM"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The ultimate playlist of party anthems to get everyone on the dancefloor!",
+                "id": "37i9dQZF1DX7yThnpS6Pdp",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000021a237f4fc09f296dd33e350e",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "100% Floorfillers",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX7yThnpS6Pdp"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Floorfillers galore from the 90s and 00s.",
+                "id": "37i9dQZF1DWYtg7TV07mgz",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f0000000218d931277d4c67492bead6fa",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Massive Dance Classics",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWYtg7TV07mgz"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This play list is in no way owned or affiliated with Ministry Of Sound and is fashioned from the tracks listed on the 3 disc compilation I bought back in  2012. UK release. Enjoy : ) ",
+                "id": "4m7P7y0q3dcFd66cosR9pI",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cbe6cd0d6e07b58e400e024b9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Anthems 90's from the Ministry of Sound CD #90s #Nineties",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "DJ Fox"
+                  }
+                },
+                "uri": "spotify:playlist:4m7P7y0q3dcFd66cosR9pI"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Pump up the jam! Old skool anthems from Spiller (Groovejet), Corona (Rhythm of the Night), Black Box, C&amp;C Music Factory, Moloko, Robin S! FOLLOW (\u2661) for updates. <a href=\"https://slinky.to/ibiza2024\"> Get the IBIZA 2024 CD \ud83d\udcbf\ud83c\udf34</a> Browse <a href=\"spotify:user:doublejmusicltd\">all playlists here</a>",
+                "id": "0bigBPuzc84nz4vo4afsDi",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8452bb23a94639b8ce4fdc217b",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Club Classics \ud83d\udcbf 90s & 00s Dance Party Hits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Double J Music"
+                  }
+                },
+                "uri": "spotify:playlist:0bigBPuzc84nz4vo4afsDi"
+              }
+            }
+          ],
+          "totalCount": 100
+        },
+        "featuringV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Deep Dish. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO49SxPB",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO49SxPB-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Deep Dish",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO49SxPB"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "With De'Lacy, Junior Jack, Sandy B and more",
+                "id": "37i9dQZF1E4CcdSmJ0ANDM",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/720JYpdCgHuTmDeryW0wEA/en",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Deep Dish Radio",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1E4CcdSmJ0ANDM"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Essential club anthems from the golden era of house music. Cover: Crystal Waters",
+                "id": "37i9dQZF1DWTU3Zl0elDUa",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002233e77a824eca5067d27a1b9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "90s House Classics",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWTU3Zl0elDUa"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Club classics from the homeland of dance music.",
+                "id": "37i9dQZF1DWZK99LPvBBfP",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000021a00927c91ca6203963fff94",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Ibiza Classics",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWZK99LPvBBfP"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Legendary tracks been produced on a TR-909 drum machine. Cover: Jeff Mills",
+                "id": "37i9dQZF1DX6qMmUY0JUQO",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000027bea495b72fece04b02eaae5",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "909 Classics",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX6qMmUY0JUQO"
+              }
+            }
+          ],
+          "totalCount": 5
+        },
+        "relatedArtists": {
+          "items": [
+            {
+              "id": "6CwQfN34JdGHfo0A752Lts",
+              "profile": {
+                "name": "David Morales"
+              },
+              "uri": "spotify:artist:6CwQfN34JdGHfo0A752Lts",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb95985c17f4964a0417da944b",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17895985c17f4964a0417da944b",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517495985c17f4964a0417da944b",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4Pif8am2UHNsBFcUA9zthX",
+              "profile": {
+                "name": "Goldtrix"
+              },
+              "uri": "spotify:artist:4Pif8am2UHNsBFcUA9zthX",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab67616d0000b27342ead5c7fd6541d0a15e6d12",
+                      "width": 640
+                    },
+                    {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/ab67616d0000485142ead5c7fd6541d0a15e6d12",
+                      "width": 64
+                    },
+                    {
+                      "height": 300,
+                      "url": "https://i.scdn.co/image/ab67616d00001e0242ead5c7fd6541d0a15e6d12",
+                      "width": 300
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "49H2dQUNhIlso7VNkS8nFR",
+              "profile": {
+                "name": "Freemasons"
+              },
+              "uri": "spotify:artist:49H2dQUNhIlso7VNkS8nFR",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 360,
+                      "url": "https://i.scdn.co/image/7a033c1d7cee1c079eae005aedaeba4b6d622970",
+                      "width": 640
+                    },
+                    {
+                      "height": 36,
+                      "url": "https://i.scdn.co/image/f324dea16935a75af0e2b653c8ab160fc4c25a68",
+                      "width": 64
+                    },
+                    {
+                      "height": 113,
+                      "url": "https://i.scdn.co/image/653c8e3e3bde3e31c30b73eb771036a4a6239e87",
+                      "width": 200
+                    },
+                    {
+                      "height": 563,
+                      "url": "https://i.scdn.co/image/5517b4077ce13942e44207deeafe4cd7bef8303c",
+                      "width": 1000
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1mlZXof4sEGLFspPzlQdFL",
+              "profile": {
+                "name": "X-Press 2"
+              },
+              "uri": "spotify:artist:1mlZXof4sEGLFspPzlQdFL",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb5ecb709d4fde05127c4762f9",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1785ecb709d4fde05127c4762f9",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051745ecb709d4fde05127c4762f9",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3PAtCGZK9u5tIBERu4y5ho",
+              "profile": {
+                "name": "De'Lacy"
+              },
+              "uri": "spotify:artist:3PAtCGZK9u5tIBERu4y5ho",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab67616d0000b27338ae03f82dcf77f897bac926",
+                      "width": 640
+                    },
+                    {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/ab67616d0000485138ae03f82dcf77f897bac926",
+                      "width": 64
+                    },
+                    {
+                      "height": 300,
+                      "url": "https://i.scdn.co/image/ab67616d00001e0238ae03f82dcf77f897bac926",
+                      "width": 300
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4qLiTGMBoVE95pmqJPseOU",
+              "profile": {
+                "name": "Black Legend"
+              },
+              "uri": "spotify:artist:4qLiTGMBoVE95pmqJPseOU",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb6052f87aac2750f3b275967b",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1786052f87aac2750f3b275967b",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051746052f87aac2750f3b275967b",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5WVf5DCSYmK4JYD6vIcttw",
+              "profile": {
+                "name": "iio"
+              },
+              "uri": "spotify:artist:5WVf5DCSYmK4JYD6vIcttw",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 471,
+                      "url": "https://i.scdn.co/image/073c021d20ba0a57e6c0c2a8eb4a8057518f8f96",
+                      "width": 640
+                    },
+                    {
+                      "height": 47,
+                      "url": "https://i.scdn.co/image/d020d72ffc0846c2b3a6c5e5c0e61be1007b3289",
+                      "width": 64
+                    },
+                    {
+                      "height": 147,
+                      "url": "https://i.scdn.co/image/d4e835cfacf172dba9222461bb8188f157e346c2",
+                      "width": 200
+                    },
+                    {
+                      "height": 736,
+                      "url": "https://i.scdn.co/image/a3f2098e1cb2d97a2b0a833eaa2de5c1efdf349c",
+                      "width": 1000
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5YjEVrNMrIRw2xGbjTN6Ti",
+              "profile": {
+                "name": "Mylo"
+              },
+              "uri": "spotify:artist:5YjEVrNMrIRw2xGbjTN6Ti",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb71c2ad98179affb122bb54dc",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17871c2ad98179affb122bb54dc",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517471c2ad98179affb122bb54dc",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2kQ4ttxqjuXRDMmsYXHlZD",
+              "profile": {
+                "name": "Jakatta"
+              },
+              "uri": "spotify:artist:2kQ4ttxqjuXRDMmsYXHlZD",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab67616d0000b273c90c486ef7535867764b42a6",
+                      "width": 640
+                    },
+                    {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/ab67616d00004851c90c486ef7535867764b42a6",
+                      "width": 64
+                    },
+                    {
+                      "height": 300,
+                      "url": "https://i.scdn.co/image/ab67616d00001e02c90c486ef7535867764b42a6",
+                      "width": 300
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1jpQ5Xepnpx5YAqKQITP4A",
+              "profile": {
+                "name": "StoneBridge"
+              },
+              "uri": "spotify:artist:1jpQ5Xepnpx5YAqKQITP4A",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebd7788f7e29600a93583fb52c",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178d7788f7e29600a93583fb52c",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174d7788f7e29600a93583fb52c",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6JUsbe4yjY4fZbXTtpyfh6",
+              "profile": {
+                "name": "Nalin & Kane"
+              },
+              "uri": "spotify:artist:6JUsbe4yjY4fZbXTtpyfh6",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/59ea45fcbaeaf5e7daed48d2b921400b869ada92",
+                      "width": 640
+                    },
+                    {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/a411f52120d91f2aac45aac00711930c73c7dd35",
+                      "width": 64
+                    },
+                    {
+                      "height": 200,
+                      "url": "https://i.scdn.co/image/26636c7e980cc3ac2d0eb6a814dee2181ad6e4b1",
+                      "width": 200
+                    },
+                    {
+                      "height": 1000,
+                      "url": "https://i.scdn.co/image/723f8e2204c4957ff98b95be99b88f4f6e2bdc69",
+                      "width": 1000
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0gOHyYKTASVAaIuNa1GGKM",
+              "profile": {
+                "name": "Hysteric Ego"
+              },
+              "uri": "spotify:artist:0gOHyYKTASVAaIuNa1GGKM",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab67616d0000b27368b0d0f4786511827bbc8e90",
+                      "width": 640
+                    },
+                    {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/ab67616d0000485168b0d0f4786511827bbc8e90",
+                      "width": 64
+                    },
+                    {
+                      "height": 300,
+                      "url": "https://i.scdn.co/image/ab67616d00001e0268b0d0f4786511827bbc8e90",
+                      "width": 300
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "583EYzsIVCz1HsEKZbuJ1k",
+              "profile": {
+                "name": "Junior Jack"
+              },
+              "uri": "spotify:artist:583EYzsIVCz1HsEKZbuJ1k",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebcfda9b9ed12daa9d6c57c9a6",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178cfda9b9ed12daa9d6c57c9a6",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174cfda9b9ed12daa9d6c57c9a6",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1R5R9EyBe8MxRuD3BIXaV2",
+              "profile": {
+                "name": "Funkstar De Luxe"
+              },
+              "uri": "spotify:artist:1R5R9EyBe8MxRuD3BIXaV2",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb63cc2138fa57c10ccde88468",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17863cc2138fa57c10ccde88468",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517463cc2138fa57c10ccde88468",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4rC8J4M4aOqsQSCP4yoyJI",
+              "profile": {
+                "name": "Felix Da Housecat"
+              },
+              "uri": "spotify:artist:4rC8J4M4aOqsQSCP4yoyJI",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb064979168204603d32b5950e",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178064979168204603d32b5950e",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174064979168204603d32b5950e",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1cK2Abwkni7m51wJCSGllN",
+              "profile": {
+                "name": "Ultra Nat\u00e9"
+              },
+              "uri": "spotify:artist:1cK2Abwkni7m51wJCSGllN",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb131b9f424c43a06eb11fd17e",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178131b9f424c43a06eb11fd17e",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174131b9f424c43a06eb11fd17e",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3dE92yGWcrboP1kC5SWyqu",
+              "profile": {
+                "name": "Todd Terry"
+              },
+              "uri": "spotify:artist:3dE92yGWcrboP1kC5SWyqu",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebf63b298ebe9513d6c7917fd9",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178f63b298ebe9513d6c7917fd9",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174f63b298ebe9513d6c7917fd9",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4actG94YfJxMVdKBGWkAZL",
+              "profile": {
+                "name": "Sandy B"
+              },
+              "uri": "spotify:artist:4actG94YfJxMVdKBGWkAZL",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebfaee86800e8d3a52ebb52f73",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178faee86800e8d3a52ebb52f73",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174faee86800e8d3a52ebb52f73",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1DlbW0TOOja6uqR4CHAaeg",
+              "profile": {
+                "name": "Grace"
+              },
+              "uri": "spotify:artist:1DlbW0TOOja6uqR4CHAaeg",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 647,
+                      "url": "https://i.scdn.co/image/bb3498f3177eb9912d4e974953eafb387aa6e3e2",
+                      "width": 640
+                    },
+                    {
+                      "height": 65,
+                      "url": "https://i.scdn.co/image/0717047806376be12f900789903af163e2bacb80",
+                      "width": 64
+                    },
+                    {
+                      "height": 202,
+                      "url": "https://i.scdn.co/image/87c1016de7de3a0cdb82c561b1519c0cc846b346",
+                      "width": 200
+                    },
+                    {
+                      "height": 1011,
+                      "url": "https://i.scdn.co/image/322c5da628871170546f373bf551f02ce3fa2852",
+                      "width": 1000
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "17jVKTope5TIJoBQBTzaxj",
+              "profile": {
+                "name": "DB Boulevard"
+              },
+              "uri": "spotify:artist:17jVKTope5TIJoBQBTzaxj",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb17d58e47ae00261d9a20394d",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17817d58e47ae00261d9a20394d",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517417d58e47ae00261d9a20394d",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "totalCount": 40
+        }
+      },
+      "relatedVideos": {
+        "__typename": "RelatedVideoPage",
+        "items": [],
+        "totalCount": 0
+      },
+      "saved": false,
+      "sharingInfo": {
+        "shareId": "5vQ2SbHLS26cFc8XGhCvpw",
+        "shareUrl": "https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA?si=5vQ2SbHLS26cFc8XGhCvpw"
+      },
+      "stats": {
+        "followers": 81769,
+        "monthlyListeners": 523095,
+        "topCities": {
+          "items": [
+            {
+              "city": "London",
+              "country": "GB",
+              "numberOfListeners": 25844,
+              "region": "ENG"
+            },
+            {
+              "city": "Dublin",
+              "country": "IE",
+              "numberOfListeners": 13274,
+              "region": "L"
+            },
+            {
+              "city": "Manchester",
+              "country": "GB",
+              "numberOfListeners": 11864,
+              "region": "ENG"
+            },
+            {
+              "city": "Glasgow",
+              "country": "GB",
+              "numberOfListeners": 10932,
+              "region": "SCT"
+            },
+            {
+              "city": "Birmingham",
+              "country": "GB",
+              "numberOfListeners": 10601,
+              "region": "ENG"
+            }
+          ]
+        },
+        "worldRank": 0
+      },
+      "uri": "spotify:artist:720JYpdCgHuTmDeryW0wEA",
+      "visualIdentity": {
+        "wideFullBleedImage": {
+          "__typename": "VisualIdentityImage",
+          "extractedColorSet": {
+            "encoreBaseSetTextColor": {
+              "alpha": 255,
+              "blue": 232,
+              "green": 224,
+              "red": 216
+            },
+            "highContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 91,
+                "green": 84,
+                "red": 77
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 58,
+                "green": 52,
+                "red": 45
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 214,
+                "green": 206,
+                "red": 198
+              }
+            },
+            "higherContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 60,
+                "green": 54,
+                "red": 48
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 94,
+                "green": 87,
+                "red": 80
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 96,
+                "green": 215,
+                "red": 30
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 214,
+                "green": 206,
+                "red": 198
+              }
+            },
+            "minContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 161,
+                "green": 154,
+                "red": 146
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 137,
+                "green": 129,
+                "red": 122
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              }
+            }
+          }
+        }
+      },
+      "visuals": {
+        "avatarImage": {
+          "extractedColors": {
+            "colorRaw": {
+              "hex": "#F82028"
+            }
+          },
+          "sources": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb027eb9b04757f6dadedeaa3f",
+              "width": 640
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178027eb9b04757f6dadedeaa3f",
+              "width": 160
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174027eb9b04757f6dadedeaa3f",
+              "width": 320
+            }
+          ]
+        },
+        "gallery": {
+          "items": [
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4624ff30aa36ea68942c7bf31",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4cbbca5927af1932b66110f43",
+                  "width": 640
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "watchFeedEntrypoint": null
+    }
+  },
+  "extensions": {}
+}

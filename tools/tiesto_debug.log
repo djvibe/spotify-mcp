@@ -1,0 +1,523 @@
+2025-03-03 18:49:19,004 - tiesto_debug - INFO - Starting Tiësto debug tests
+2025-03-03 18:49:19,004 - tiesto_debug - INFO - 
+=== Step 1: Check Database ===
+2025-03-03 18:49:19,008 - tiesto_debug - INFO - Tiësto found in database: ID=2o5jDhtHVPhrJdv3cEQ99Z, Name=Tiësto, Popularity=82, Last Updated=2025-03-01T19:09:26.938783
+2025-03-03 18:49:19,009 - tiesto_debug - INFO - 
+=== Step 2: Test Fetch Enhanced Data ===
+2025-03-03 18:49:19,009 - tiesto_debug - INFO - Test script path: D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py
+2025-03-03 18:49:19,009 - tiesto_debug - INFO - Output directory: D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 18:49:19,800 - tiesto_debug - INFO - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 2o5jDhtHVPhrJdv3cEQ99Z --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 18:49:22,250 - tiesto_debug - INFO - Process return code: 0
+2025-03-03 18:49:22,250 - tiesto_debug - INFO - Process stdout: 2025-03-03 18:49:20,457 - spotify_api_test - INFO - Loaded authentication tokens from D:\DJVIBE\MCP\spotify-mcp\tests\spotify_tokens.json
+2025-03-03 18:49:20,457 - spotify_api_test - INFO - Starting Spotify Partner API test
+2025-03-03 18:49:20,457 - spotify_api_test - INFO - ==================================
+2025-03-03 18:49:20,457 - spotify_api_test - INFO - Testing Spotify partner API for artist ID: 2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:49:20,457 - spotify_api_test - DEBUG - Auth token (first 10 chars): BQC_OEk6d3...
+2025-03-03 18:49:20,457 - spotify_api_test - DEBUG - Client token (first 10 chars): AADexhpvRx...
+2025-03-03 18:49:20,457 - spotify_api_test - DEBUG - Artist URI: spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:49:20,457 - spotify_api_test - DEBUG - Request URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A2o5jDhtHVPhrJdv3cEQ99Z%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-03 18:49:20,457 - spotify_api_test - DEBUG - Headers prepared (auth tokens not shown in logs)
+2025-03-03 18:49:20,457 - spotify_api_test - INFO - Sending request to Spotify partner API...
+2025-03-03 18:49:20,459 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-03 18:49:21,546 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A+%22spotify%3Aartist%3A2o5jDhtHVPhrJdv3cEQ99Z%22%2C+%22locale%22%3A+%22%22%7D&extensions=%7B%22persistedQuery%22%3A+%7B%22version%22%3A+1%2C+%22sha256Hash%22%3A+%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 401 0
+2025-03-03 18:49:21,547 - spotify_api_test - INFO - Response status code: 401
+2025-03-03 18:49:21,547 - spotify_api_test - ERROR - Request failed with status code: 401
+2025-03-03 18:49:21,548 - spotify_api_test - DEBUG - Response text: ...
+2025-03-03 18:49:21,549 - spotify_api_test - WARNING - Primary approach failed, trying alternative approach
+2025-03-03 18:49:21,549 - spotify_api_test - INFO - Trying alternative approach with direct URL construction
+2025-03-03 18:49:21,549 - spotify_api_test - DEBUG - Alternative URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A2o5jDhtHVPhrJdv3cEQ99Z%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-03 18:49:21,550 - spotify_api_test - INFO - Sending alternative request...
+2025-03-03 18:49:21,555 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-03 18:49:22,164 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A2o5jDhtHVPhrJdv3cEQ99Z%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 401 0
+2025-03-03 18:49:22,165 - spotify_api_test - INFO - Alternative approach status code: 401
+2025-03-03 18:49:22,166 - spotify_api_test - ERROR - Alternative approach failed with status: 401
+2025-03-03 18:49:22,166 - spotify_api_test - DEBUG - Response text: ...
+2025-03-03 18:49:22,167 - spotify_api_test - ERROR - Failed to get valid response from Spotify Partner API
+2025-03-03 18:49:22,167 - spotify_api_test - INFO - Test completed with errors
+
+2025-03-03 18:49:22,252 - tiesto_debug - ERROR - Metrics file does not exist: D:\DJVIBE\MCP\spotify-mcp\tests\output\2o5jDhtHVPhrJdv3cEQ99Z_metrics.json
+2025-03-03 18:49:22,252 - tiesto_debug - ERROR - Response file does not exist: D:\DJVIBE\MCP\spotify-mcp\tests\output\2o5jDhtHVPhrJdv3cEQ99Z_spotify_response.json
+2025-03-03 18:49:22,253 - tiesto_debug - INFO - 
+=== Fallback: Direct API Request ===
+2025-03-03 18:49:22,254 - tiesto_debug - INFO - Making direct request to Spotify Partner API
+2025-03-03 18:49:22,259 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-03 18:49:22,773 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A+%22spotify%3Aartist%3A2o5jDhtHVPhrJdv3cEQ99Z%22%2C+%22locale%22%3A+%22%22%7D&extensions=%7B%22persistedQuery%22%3A+%7B%22version%22%3A+1%2C+%22sha256Hash%22%3A+%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 401 0
+2025-03-03 18:49:22,775 - tiesto_debug - INFO - Response status code: 401
+2025-03-03 18:49:22,776 - tiesto_debug - ERROR - Request failed with status code: 401
+2025-03-03 18:49:22,777 - tiesto_debug - DEBUG - Response text: 
+2025-03-03 18:49:22,779 - tiesto_debug - ERROR - Direct API request failed
+2025-03-03 18:54:01,517 - tiesto_debug - INFO - Starting Tiësto debug tests
+2025-03-03 18:54:01,531 - tiesto_debug - INFO - 
+=== Step 1: Check Database ===
+2025-03-03 18:54:01,537 - tiesto_debug - INFO - Tiësto found in database: ID=2o5jDhtHVPhrJdv3cEQ99Z, Name=Tiësto, Popularity=82, Last Updated=2025-03-01T19:09:26.938783
+2025-03-03 18:54:01,538 - tiesto_debug - INFO - 
+=== Step 2: Test Fetch Enhanced Data ===
+2025-03-03 18:54:01,538 - tiesto_debug - INFO - Test script path: D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py
+2025-03-03 18:54:01,538 - tiesto_debug - INFO - Output directory: D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 18:54:01,538 - tiesto_debug - INFO - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 2o5jDhtHVPhrJdv3cEQ99Z --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 18:54:03,163 - tiesto_debug - INFO - Process return code: 0
+2025-03-03 18:54:03,164 - tiesto_debug - INFO - Process stdout: 2025-03-03 18:54:01,999 - spotify_api_test - INFO - Loaded authentication tokens from D:\DJVIBE\MCP\spotify-mcp\tests\spotify_tokens.json
+2025-03-03 18:54:02,000 - spotify_api_test - INFO - Starting Spotify Partner API test
+2025-03-03 18:54:02,000 - spotify_api_test - INFO - ==================================
+2025-03-03 18:54:02,000 - spotify_api_test - INFO - Testing Spotify partner API for artist ID: 2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:54:02,000 - spotify_api_test - DEBUG - Auth token (first 10 chars): BQAKJ4BCEU...
+2025-03-03 18:54:02,000 - spotify_api_test - DEBUG - Client token (first 10 chars): AABjoIrkpm...
+2025-03-03 18:54:02,000 - spotify_api_test - DEBUG - Artist URI: spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:54:02,000 - spotify_api_test - DEBUG - Request URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A2o5jDhtHVPhrJdv3cEQ99Z%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-03 18:54:02,000 - spotify_api_test - DEBUG - Headers prepared (auth tokens not shown in logs)
+2025-03-03 18:54:02,000 - spotify_api_test - INFO - Sending request to Spotify partner API...
+2025-03-03 18:54:02,002 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-03 18:54:02,906 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A+%22spotify%3Aartist%3A2o5jDhtHVPhrJdv3cEQ99Z%22%2C+%22locale%22%3A+%22%22%7D&extensions=%7B%22persistedQuery%22%3A+%7B%22version%22%3A+1%2C+%22sha256Hash%22%3A+%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 200 None
+2025-03-03 18:54:03,098 - spotify_api_test - INFO - Response status code: 200
+2025-03-03 18:54:03,098 - spotify_api_test - INFO - Request successful
+2025-03-03 18:54:03,115 - spotify_api_test - INFO - Full response saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\2o5jDhtHVPhrJdv3cEQ99Z_spotify_response.json
+2025-03-03 18:54:03,116 - spotify_api_test - INFO - Key metrics saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\2o5jDhtHVPhrJdv3cEQ99Z_metrics.json
+2025-03-03 18:54:03,116 - spotify_api_test - INFO - Special debug for Tiesto - metrics: {
+  "name": "Ti\u00ebsto",
+  "monthly_listeners": 37686711,
+  "followers": 7738105,
+  "verified": true,
+  "top_cities": [
+    {
+      "city": "Mexico City",
+      "country": "MX",
+      "region": "CMX",
+      "listeners": 585670
+    },
+    {
+      "city": "Sydney",
+      "country": "AU",
+      "region": "NSW",
+      "listeners": 481535
+    },
+    {
+      "city": "Santiago",
+      "country": "CL",
+      "region": "RM",
+      "listeners": 467940
+    },
+    {
+      "city": "Amsterdam",
+      "country": "NL",
+      "region": "NH",
+      "listeners": 459879
+    },
+    {
+      "city": "S\u00e3o Paulo",
+      "country": "BR",
+      "region": "SP",
+      "listeners": 435489
+    }
+  ],
+  "social_links": {
+    "facebook": "https://facebook.com/tiesto",
+    "instagram": "https://instagram.com/tiesto",
+    "twitter": "https://twitter.com/tiesto"
+  },
+  "upcoming_concerts": [
+    {
+      "title": "Nico de Andrea, Ti\u00ebsto",
+      "date": "2025-03-06T19:00-05:00",
+      "location": {
+        "name": "Place Jean-B\u00e9liveau",
+        "city": "Qu\u00e9bec"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-07T22:00-05:00",
+      "location": {
+        "name": "Grand Quai",
+        "city": "Montr\u00e9al"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-08T22:30-08:00",
+      "location": {
+        "name": "Omnia",
+        "city": "Las Vegas"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-14T22:30-07:00",
+      "location": {
+        "name": "LIV Las Vegas",
+        "city": "Las Vegas"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-22T22:30-07:00",
+      "location": {
+        "name": "Omnia",
+        "city": "Las Vegas"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-28T12:00-04:00",
+      "location": {
+        "name": "FPL Solar Amphitheater at Bayfront Park",
+        "city": "Miami"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-29T22:30-04:00",
+      "location": {
+        "name": "LIV NIGHTCLUB",
+        "city": "Miami Beach"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-29T22:30-07:00",
+      "location": {
+        "name": "LIV Las Vegas",
+        "city": "Las Vegas"
+      },
+      "festival": false
+    },
+    {
+      "title": "999999999, Above & Beyond, Adam Beyer, AFROJACK, Alesso, Anyma, Solomun, Armin van Buuren, ARTBAT, Axwell, Boris Brejcha, Carl Cox, Charlotte de Witte, Chase & Status, deadmau5, Pendulum, Eli Brown, Dom Dolla, John Summit, Four Tet, Gesaffelstein, Hardwell, I Hate Models, LSDREAM, CloZee, Martin Garrix, Mau P, Miss Monique, Nero, NGHTMRE, Sullivan King, Richie Hawtin, Subtronics, Ti\u00ebsto, Zedd, Zeds Dead",
+      "date": "2025-03-30T12:00-04:00",
+      "location": {
+        "name": "FPL Solar Amphitheater at Bayfront Park",
+        "city": "Miami"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-04-04T22:30-07:00",
+      "location": {
+        "name": "LIV Las Vegas",
+        "city": "Las Vegas"
+      },
+      "festival": false
+    }
+  ]
+}
+2025-03-03 18:54:03,126 - spotify_api_test - INFO - Tiesto metrics file verification - Content length: 3310
+2025-03-03 18:54:03,127 - spotify_api_test - DEBUG - Tiesto metrics file content: {
+  "name": "Ti\u00ebsto",
+  "monthly_listeners": 37686711,
+  "followers": 7738105,
+  "verified": true,
+  "top_cities": [
+    {
+      "city": "Mexico City",
+      "country": "MX",
+      "region": "CMX",
+      "listeners": 585670
+    },
+    {
+      "city": "Sydney",
+      "country": "AU",
+      "region": "NSW",
+      "listeners": 481535
+    },
+    {
+      "city": "Santiago",
+      "country": "CL",
+      "region": "RM",
+      "listeners": 467940
+    },
+    {
+      "city": "Amsterdam",
+      "count
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - 
+==== Artist Metrics ====
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - Name: Tiësto
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - Monthly Listeners: 37,686,711
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - Followers: 7,738,105
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - Verified: Yes
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - 
+==== Top Cities ====
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - • Mexico City, MX: 585,670 listeners
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - • Sydney, AU: 481,535 listeners
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - • Santiago, CL: 467,940 listeners
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - • Amsterdam, NL: 459,879 listeners
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - • São Paulo, BR: 435,489 listeners
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - 
+==== Social Links ====
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - • FACEBOOK: https://facebook.com/tiesto
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • INSTAGRAM: https://instagram.com/tiesto
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • TWITTER: https://twitter.com/tiesto
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - 
+==== Upcoming Concerts ====
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • 2025-03-06: Place Jean-Béliveau in Québec
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • 2025-03-07: Grand Quai in Montréal
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • 2025-03-08: Omnia in Las Vegas
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • 2025-03-14: LIV Las Vegas in Las Vegas
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • 2025-03-22: Omnia in Las Vegas
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • 2025-03-28: FPL Solar Amphitheater at Bayfront Park in Miami
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • 2025-03-29: LIV NIGHTCLUB in Miami Beach
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • 2025-03-29: LIV Las Vegas in Las Vegas
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • 2025-03-30: FPL Solar Amphitheater at Bayfront Park in Miami
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • 2025-04-04: LIV Las Vegas in Las Vegas
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - Test completed successfully
+
+2025-03-03 18:54:03,170 - tiesto_debug - INFO - Metrics file exists: D:\DJVIBE\MCP\spotify-mcp\tests\output\2o5jDhtHVPhrJdv3cEQ99Z_metrics.json
+2025-03-03 18:54:03,170 - tiesto_debug - INFO - Metrics file size: 3444 bytes
+2025-03-03 18:54:03,171 - tiesto_debug - INFO - Content length: 3310
+2025-03-03 18:54:03,171 - tiesto_debug - INFO - Successfully parsed metrics JSON
+2025-03-03 18:54:03,172 - tiesto_debug - INFO - Metrics data: {
+  "name": "Ti\u00ebsto",
+  "monthly_listeners": 37686711,
+  "followers": 7738105,
+  "verified": true,
+  "top_cities": [
+    {
+      "city": "Mexico City",
+      "country": "MX",
+      "region": "CMX",
+      "listeners": 585670
+    },
+    {
+      "city": "Sydney",
+      "country": "AU",
+      "region": "NSW",
+      "listeners": 481535
+    },
+    {
+      "city": "Santiago",
+      "country": "CL",
+      "region": "RM",
+      "listeners": 467940
+    },
+    {
+      "city": "Amsterdam",
+      "country": "NL",
+      "region": "NH",
+      "listeners": 459879
+    },
+    {
+      "city": "S\u00e3o Paulo",
+      "country": "BR",
+      "region": "SP",
+      "listeners": 435489
+    }
+  ],
+  "social_links": {
+    "facebook": "https://facebook.com/tiesto",
+    "instagram": "https://instagram.com/tiesto",
+    "twitter": "https://twitter.com/tiesto"
+  },
+  "upcoming_concerts": [
+    {
+      "title": "Nico de Andrea, Ti\u00ebsto",
+      "date": "2025-03-06T19:00-05:00",
+      "location": {
+        "name": "Place Jean-B\u00e9liveau",
+        "city": "Qu\u00e9bec"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-07T22:00-05:00",
+      "location": {
+        "name": "Grand Quai",
+        "city": "Montr\u00e9al"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-08T22:30-08:00",
+      "location": {
+        "name": "Omnia",
+        "city": "Las Vegas"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-14T22:30-07:00",
+      "location": {
+        "name": "LIV Las Vegas",
+        "city": "Las Vegas"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-22T22:30-07:00",
+      "location": {
+        "name": "Omnia",
+        "city": "Las Vegas"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-28T12:00-04:00",
+      "location": {
+        "name": "FPL Solar Amphitheater at Bayfront Park",
+        "city": "Miami"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-29T22:30-04:00",
+      "location": {
+        "name": "LIV NIGHTCLUB",
+        "city": "Miami Beach"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-29T22:30-07:00",
+      "location": {
+        "name": "LIV Las Vegas",
+        "city": "Las Vegas"
+      },
+      "festival": false
+    },
+    {
+      "title": "999999999, Above & Beyond, Adam Beyer, AFROJACK, Alesso, Anyma, Solomun, Armin van Buuren, ARTBAT, Axwell, Boris Brejcha, Carl Cox, Charlotte de Witte, Chase & Status, deadmau5, Pendulum, Eli Brown, Dom Dolla, John Summit, Four Tet, Gesaffelstein, Hardwell, I Hate Models, LSDREAM, CloZee, Martin Garrix, Mau P, Miss Monique, Nero, NGHTMRE, Sullivan King, Richie Hawtin, Subtronics, Ti\u00ebsto, Zedd, Zeds Dead",
+      "date": "2025-03-30T12:00-04:00",
+      "location": {
+        "name": "FPL Solar Amphitheater at Bayfront Park",
+        "city": "Miami"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-04-04T22:30-07:00",
+      "location": {
+        "name": "LIV Las Vegas",
+        "city": "Las Vegas"
+      },
+      "festival": false
+    }
+  ]
+}
+2025-03-03 18:54:03,174 - tiesto_debug - INFO - Response file exists: D:\DJVIBE\MCP\spotify-mcp\tests\output\2o5jDhtHVPhrJdv3cEQ99Z_spotify_response.json
+2025-03-03 18:54:03,174 - tiesto_debug - INFO - Response file size: 207014 bytes
+2025-03-03 18:54:03,175 - tiesto_debug - INFO - 
+=== Step 3: Test Update Database ===
+2025-03-03 18:54:03,175 - tiesto_debug - INFO - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tools\update_artist_from_enhanced_data.py --artist-id 2o5jDhtHVPhrJdv3cEQ99Z --db-path D:\DJVIBE\MCP\spotify-mcp\spotify_artists.db --metrics-file D:\DJVIBE\MCP\spotify-mcp\tests\output\2o5jDhtHVPhrJdv3cEQ99Z_metrics.json --response-file D:\DJVIBE\MCP\spotify-mcp\tests\output\2o5jDhtHVPhrJdv3cEQ99Z_spotify_response.json
+2025-03-03 18:54:04,411 - tiesto_debug - INFO - Process return code: 0
+2025-03-03 18:54:04,411 - tiesto_debug - INFO - Process stdout: 2025-03-03 18:54:03,510 - artist_update - INFO - Connected to database: D:\DJVIBE\MCP\spotify-mcp\spotify_artists.db
+2025-03-03 18:54:03,510 - artist_update - INFO - Created or verified artist_top_cities table
+2025-03-03 18:54:04,363 - artist_update - INFO - Updated artist 2o5jDhtHVPhrJdv3cEQ99Z with enhanced metrics
+2025-03-03 18:54:04,363 - artist_update - INFO - Monthly Listeners: 37686711
+2025-03-03 18:54:04,364 - artist_update - INFO - Followers: 7738105
+2025-03-03 18:54:04,364 - artist_update - INFO - Top Tracks Total Plays: 5824951701
+2025-03-03 18:54:04,365 - artist_update - INFO - Upcoming Tours: 10
+2025-03-03 18:54:04,365 - artist_update - INFO - Added 5 top cities
+2025-03-03 18:54:04,366 - artist_update - INFO - Successfully updated artist data
+
+2025-03-03 18:54:04,413 - tiesto_debug - INFO - All tests completed successfully
+2025-03-03 18:56:47,989 - batch_artist_update - INFO - Found 1 artists to process
+2025-03-03 18:56:47,990 - batch_artist_update - INFO - Starting batch update for 1 artists
+2025-03-03 18:56:47,991 - batch_artist_update - INFO - Fetching enhanced data for artist 2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:56:47,991 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 2o5jDhtHVPhrJdv3cEQ99Z --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 18:56:51,080 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\2o5jDhtHVPhrJdv3cEQ99Z_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\2o5jDhtHVPhrJdv3cEQ99Z_spotify_response.json
+2025-03-03 18:56:51,082 - batch_artist_update - DEBUG - Successfully loaded metrics file for 2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:56:51,083 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:56:52,084 - batch_artist_update - INFO - Updating database for artist 2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:56:52,629 - batch_artist_update - INFO - Successfully updated database for artist 2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:56:52,630 - batch_artist_update - INFO - Successfully processed artist: Tiësto (2o5jDhtHVPhrJdv3cEQ99Z)
+2025-03-03 18:56:52,631 - batch_artist_update - INFO - Batch update completed in 4.64 seconds
+2025-03-03 18:56:52,632 - batch_artist_update - INFO - Successfully updated 1 out of 1 artists
+2025-03-03 18:56:52,634 - batch_artist_update - INFO - Results saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\batch_update_results_20250303_185652.json
+2025-03-03 19:01:33,285 - batch_artist_update - INFO - Found 10 artists to process
+2025-03-03 19:01:33,285 - batch_artist_update - INFO - Starting batch update for 10 artists
+2025-03-03 19:01:33,286 - batch_artist_update - INFO - Fetching enhanced data for artist 6n1t55WMsSIUFHrAL4mUsB
+2025-03-03 19:01:33,286 - batch_artist_update - INFO - Fetching enhanced data for artist 6qJ61DomA73g7jQEKESw9Z
+2025-03-03 19:01:33,286 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 6n1t55WMsSIUFHrAL4mUsB --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 19:01:33,287 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 6qJ61DomA73g7jQEKESw9Z --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 19:01:34,844 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\6n1t55WMsSIUFHrAL4mUsB_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\6n1t55WMsSIUFHrAL4mUsB_spotify_response.json
+2025-03-03 19:01:34,844 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\6qJ61DomA73g7jQEKESw9Z_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\6qJ61DomA73g7jQEKESw9Z_spotify_response.json
+2025-03-03 19:01:34,855 - batch_artist_update - DEBUG - Successfully loaded metrics file for 6qJ61DomA73g7jQEKESw9Z
+2025-03-03 19:01:34,855 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 6qJ61DomA73g7jQEKESw9Z
+2025-03-03 19:01:34,855 - batch_artist_update - DEBUG - Successfully loaded metrics file for 6n1t55WMsSIUFHrAL4mUsB
+2025-03-03 19:01:34,855 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 6n1t55WMsSIUFHrAL4mUsB
+2025-03-03 19:01:36,856 - batch_artist_update - INFO - Updating database for artist 6qJ61DomA73g7jQEKESw9Z
+2025-03-03 19:01:36,856 - batch_artist_update - INFO - Updating database for artist 6n1t55WMsSIUFHrAL4mUsB
+2025-03-03 19:01:37,310 - batch_artist_update - INFO - Successfully updated database for artist 6qJ61DomA73g7jQEKESw9Z
+2025-03-03 19:01:37,311 - batch_artist_update - INFO - Successfully processed artist: Noisecontrollers (6qJ61DomA73g7jQEKESw9Z)
+2025-03-03 19:01:37,311 - batch_artist_update - INFO - Fetching enhanced data for artist 64KfnYe81Wld2AkG4bkGIV
+2025-03-03 19:01:37,311 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 64KfnYe81Wld2AkG4bkGIV --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 19:01:37,377 - batch_artist_update - INFO - Successfully updated database for artist 6n1t55WMsSIUFHrAL4mUsB
+2025-03-03 19:01:37,377 - batch_artist_update - INFO - Successfully processed artist: Pete Tong (6n1t55WMsSIUFHrAL4mUsB)
+2025-03-03 19:01:37,377 - batch_artist_update - INFO - Fetching enhanced data for artist 00sAT5YX8W3xNd1EuqyHw9
+2025-03-03 19:01:37,378 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 00sAT5YX8W3xNd1EuqyHw9 --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 19:01:39,036 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\00sAT5YX8W3xNd1EuqyHw9_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\00sAT5YX8W3xNd1EuqyHw9_spotify_response.json
+2025-03-03 19:01:39,057 - batch_artist_update - DEBUG - Successfully loaded metrics file for 00sAT5YX8W3xNd1EuqyHw9
+2025-03-03 19:01:39,057 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 00sAT5YX8W3xNd1EuqyHw9
+2025-03-03 19:01:39,072 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\64KfnYe81Wld2AkG4bkGIV_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\64KfnYe81Wld2AkG4bkGIV_spotify_response.json
+2025-03-03 19:01:39,080 - batch_artist_update - DEBUG - Successfully loaded metrics file for 64KfnYe81Wld2AkG4bkGIV
+2025-03-03 19:01:39,080 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 64KfnYe81Wld2AkG4bkGIV
+2025-03-03 19:01:41,058 - batch_artist_update - INFO - Updating database for artist 00sAT5YX8W3xNd1EuqyHw9
+2025-03-03 19:01:41,081 - batch_artist_update - INFO - Updating database for artist 64KfnYe81Wld2AkG4bkGIV
+2025-03-03 19:01:41,350 - batch_artist_update - INFO - Successfully updated database for artist 00sAT5YX8W3xNd1EuqyHw9
+2025-03-03 19:01:41,351 - batch_artist_update - INFO - Successfully processed artist: Dada Life (00sAT5YX8W3xNd1EuqyHw9)
+2025-03-03 19:01:41,351 - batch_artist_update - INFO - Fetching enhanced data for artist 4mpJaw5y17CIN08qqe8EfB
+2025-03-03 19:01:41,351 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 4mpJaw5y17CIN08qqe8EfB --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 19:01:41,406 - batch_artist_update - INFO - Successfully updated database for artist 64KfnYe81Wld2AkG4bkGIV
+2025-03-03 19:01:41,406 - batch_artist_update - INFO - Successfully processed artist: Gabriel & Dresden (64KfnYe81Wld2AkG4bkGIV)
+2025-03-03 19:01:41,406 - batch_artist_update - INFO - Fetching enhanced data for artist 22bukBZvUppuwQwmDz75Gz
+2025-03-03 19:01:41,407 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 22bukBZvUppuwQwmDz75Gz --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 19:01:42,952 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\4mpJaw5y17CIN08qqe8EfB_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\4mpJaw5y17CIN08qqe8EfB_spotify_response.json
+2025-03-03 19:01:42,964 - batch_artist_update - DEBUG - Successfully loaded metrics file for 4mpJaw5y17CIN08qqe8EfB
+2025-03-03 19:01:42,964 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 4mpJaw5y17CIN08qqe8EfB
+2025-03-03 19:01:43,000 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\22bukBZvUppuwQwmDz75Gz_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\22bukBZvUppuwQwmDz75Gz_spotify_response.json
+2025-03-03 19:01:43,010 - batch_artist_update - DEBUG - Successfully loaded metrics file for 22bukBZvUppuwQwmDz75Gz
+2025-03-03 19:01:43,010 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 22bukBZvUppuwQwmDz75Gz
+2025-03-03 19:01:44,965 - batch_artist_update - INFO - Updating database for artist 4mpJaw5y17CIN08qqe8EfB
+2025-03-03 19:01:45,011 - batch_artist_update - INFO - Updating database for artist 22bukBZvUppuwQwmDz75Gz
+2025-03-03 19:01:45,381 - batch_artist_update - INFO - Successfully updated database for artist 4mpJaw5y17CIN08qqe8EfB
+2025-03-03 19:01:45,382 - batch_artist_update - INFO - Successfully processed artist: Hernan Cattaneo (4mpJaw5y17CIN08qqe8EfB)
+2025-03-03 19:01:45,383 - batch_artist_update - INFO - Fetching enhanced data for artist 27Z5l2Kfy1IaYZMg5INWqO
+2025-03-03 19:01:45,389 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 27Z5l2Kfy1IaYZMg5INWqO --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 19:01:45,477 - batch_artist_update - INFO - Successfully updated database for artist 22bukBZvUppuwQwmDz75Gz
+2025-03-03 19:01:45,478 - batch_artist_update - INFO - Successfully processed artist: Sander van Doorn (22bukBZvUppuwQwmDz75Gz)
+2025-03-03 19:01:45,478 - batch_artist_update - INFO - Fetching enhanced data for artist 2hL1EouqXLtBEB6JKnPF0h
+2025-03-03 19:01:45,479 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 2hL1EouqXLtBEB6JKnPF0h --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 19:01:47,262 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\27Z5l2Kfy1IaYZMg5INWqO_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\27Z5l2Kfy1IaYZMg5INWqO_spotify_response.json
+2025-03-03 19:01:47,319 - batch_artist_update - DEBUG - Successfully loaded metrics file for 27Z5l2Kfy1IaYZMg5INWqO
+2025-03-03 19:01:47,322 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 27Z5l2Kfy1IaYZMg5INWqO
+2025-03-03 19:01:47,360 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\2hL1EouqXLtBEB6JKnPF0h_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\2hL1EouqXLtBEB6JKnPF0h_spotify_response.json
+2025-03-03 19:01:47,376 - batch_artist_update - DEBUG - Successfully loaded metrics file for 2hL1EouqXLtBEB6JKnPF0h
+2025-03-03 19:01:47,376 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 2hL1EouqXLtBEB6JKnPF0h
+2025-03-03 19:01:49,325 - batch_artist_update - INFO - Updating database for artist 27Z5l2Kfy1IaYZMg5INWqO
+2025-03-03 19:01:49,377 - batch_artist_update - INFO - Updating database for artist 2hL1EouqXLtBEB6JKnPF0h
+2025-03-03 19:01:49,813 - batch_artist_update - INFO - Successfully updated database for artist 27Z5l2Kfy1IaYZMg5INWqO
+2025-03-03 19:01:49,813 - batch_artist_update - INFO - Successfully processed artist: Zatox (27Z5l2Kfy1IaYZMg5INWqO)
+2025-03-03 19:01:49,813 - batch_artist_update - INFO - Fetching enhanced data for artist 7momuad2Twkv5O7MY3dODa
+2025-03-03 19:01:49,814 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 7momuad2Twkv5O7MY3dODa --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 19:01:49,881 - batch_artist_update - INFO - Successfully updated database for artist 2hL1EouqXLtBEB6JKnPF0h
+2025-03-03 19:01:49,881 - batch_artist_update - INFO - Successfully processed artist: Aly & Fila (2hL1EouqXLtBEB6JKnPF0h)
+2025-03-03 19:01:49,881 - batch_artist_update - INFO - Fetching enhanced data for artist 720JYpdCgHuTmDeryW0wEA
+2025-03-03 19:01:49,882 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 720JYpdCgHuTmDeryW0wEA --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 19:01:51,183 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\7momuad2Twkv5O7MY3dODa_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\7momuad2Twkv5O7MY3dODa_spotify_response.json
+2025-03-03 19:01:51,204 - batch_artist_update - DEBUG - Successfully loaded metrics file for 7momuad2Twkv5O7MY3dODa
+2025-03-03 19:01:51,205 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 7momuad2Twkv5O7MY3dODa
+2025-03-03 19:01:51,238 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\720JYpdCgHuTmDeryW0wEA_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\720JYpdCgHuTmDeryW0wEA_spotify_response.json
+2025-03-03 19:01:51,260 - batch_artist_update - DEBUG - Successfully loaded metrics file for 720JYpdCgHuTmDeryW0wEA
+2025-03-03 19:01:51,260 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 720JYpdCgHuTmDeryW0wEA
+2025-03-03 19:01:53,206 - batch_artist_update - INFO - Updating database for artist 7momuad2Twkv5O7MY3dODa
+2025-03-03 19:01:53,261 - batch_artist_update - INFO - Updating database for artist 720JYpdCgHuTmDeryW0wEA
+2025-03-03 19:01:53,736 - batch_artist_update - INFO - Successfully updated database for artist 7momuad2Twkv5O7MY3dODa
+2025-03-03 19:01:53,736 - batch_artist_update - INFO - Successfully processed artist: Frontliner (7momuad2Twkv5O7MY3dODa)
+2025-03-03 19:01:53,815 - batch_artist_update - INFO - Successfully updated database for artist 720JYpdCgHuTmDeryW0wEA
+2025-03-03 19:01:53,816 - batch_artist_update - INFO - Successfully processed artist: Deep Dish (720JYpdCgHuTmDeryW0wEA)
+2025-03-03 19:01:53,817 - batch_artist_update - INFO - Batch update completed in 20.53 seconds
+2025-03-03 19:01:53,818 - batch_artist_update - INFO - Successfully updated 10 out of 10 artists
+2025-03-03 19:01:53,822 - batch_artist_update - INFO - Results saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\batch_update_results_20250303_190153.json

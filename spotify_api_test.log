@@ -254,3 +254,51 @@
 2025-03-03 17:50:01,941 - spotify_api_test - INFO - • 2025-06-21: Gorge Amphitheatre in Quincy
 2025-03-03 17:50:01,941 - spotify_api_test - INFO - • 2025-08-29: SeatGeek Stadium in Bridgeview
 2025-03-03 17:50:01,942 - spotify_api_test - INFO - Test completed successfully
+2025-03-03 18:52:45,684 - spotify_api_test - INFO - Loaded authentication tokens from D:\DJVIBE\MCP\spotify-mcp\tests\spotify_tokens.json
+2025-03-03 18:52:45,684 - spotify_api_test - INFO - Starting Spotify Partner API test
+2025-03-03 18:52:45,684 - spotify_api_test - INFO - ==================================
+2025-03-03 18:52:45,684 - spotify_api_test - INFO - Testing Spotify partner API for artist ID: 76M2Ekj8bG8W7X2nbx2CpF
+2025-03-03 18:52:45,685 - spotify_api_test - DEBUG - Auth token (first 10 chars): BQAKJ4BCEU...
+2025-03-03 18:52:45,685 - spotify_api_test - DEBUG - Client token (first 10 chars): AABjoIrkpm...
+2025-03-03 18:52:45,685 - spotify_api_test - DEBUG - Artist URI: spotify:artist:76M2Ekj8bG8W7X2nbx2CpF
+2025-03-03 18:52:45,685 - spotify_api_test - DEBUG - Request URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A76M2Ekj8bG8W7X2nbx2CpF%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-03 18:52:45,685 - spotify_api_test - DEBUG - Headers prepared (auth tokens not shown in logs)
+2025-03-03 18:52:45,685 - spotify_api_test - INFO - Sending request to Spotify partner API...
+2025-03-03 18:52:45,688 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-03 18:52:48,554 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A+%22spotify%3Aartist%3A76M2Ekj8bG8W7X2nbx2CpF%22%2C+%22locale%22%3A+%22%22%7D&extensions=%7B%22persistedQuery%22%3A+%7B%22version%22%3A+1%2C+%22sha256Hash%22%3A+%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 200 None
+2025-03-03 18:52:49,000 - spotify_api_test - INFO - Response status code: 200
+2025-03-03 18:52:49,001 - spotify_api_test - INFO - Request successful
+2025-03-03 18:52:49,104 - spotify_api_test - INFO - Full response saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\76M2Ekj8bG8W7X2nbx2CpF_spotify_response.json
+2025-03-03 18:52:49,109 - spotify_api_test - INFO - Key metrics saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\76M2Ekj8bG8W7X2nbx2CpF_metrics.json
+2025-03-03 18:52:49,110 - spotify_api_test - INFO - 
+==== Artist Metrics ====
+2025-03-03 18:52:49,110 - spotify_api_test - INFO - Name: NGHTMRE
+2025-03-03 18:52:49,111 - spotify_api_test - INFO - Monthly Listeners: 1,912,604
+2025-03-03 18:52:49,112 - spotify_api_test - INFO - Followers: 472,036
+2025-03-03 18:52:49,113 - spotify_api_test - INFO - Verified: Yes
+2025-03-03 18:52:49,115 - spotify_api_test - INFO - 
+==== Top Cities ====
+2025-03-03 18:52:49,116 - spotify_api_test - INFO - • Los Angeles, US: 38,125 listeners
+2025-03-03 18:52:49,117 - spotify_api_test - INFO - • Denver, US: 36,071 listeners
+2025-03-03 18:52:49,118 - spotify_api_test - INFO - • Chicago, US: 32,650 listeners
+2025-03-03 18:52:49,119 - spotify_api_test - INFO - • Sydney, AU: 26,336 listeners
+2025-03-03 18:52:49,120 - spotify_api_test - INFO - • Dallas, US: 25,050 listeners
+2025-03-03 18:52:49,120 - spotify_api_test - INFO - 
+==== Social Links ====
+2025-03-03 18:52:49,121 - spotify_api_test - INFO - • FACEBOOK: https://facebook.com/nghtmre
+2025-03-03 18:52:49,121 - spotify_api_test - INFO - • INSTAGRAM: https://instagram.com/nghtmre
+2025-03-03 18:52:49,122 - spotify_api_test - INFO - • TWITTER: https://twitter.com/nghtmre
+2025-03-03 18:52:49,123 - spotify_api_test - INFO - • WIKIPEDIA: https://en.wikipedia.org/wiki/Nghtmre
+2025-03-03 18:52:49,124 - spotify_api_test - INFO - 
+==== Upcoming Concerts ====
+2025-03-03 18:52:49,124 - spotify_api_test - INFO - • 2025-03-14: SILO in Dallas
+2025-03-03 18:52:49,125 - spotify_api_test - INFO - • 2025-03-15: Stereo Live Houston in Houston
+2025-03-03 18:52:49,126 - spotify_api_test - INFO - • 2025-03-27: The Concourse Project in Austin
+2025-03-03 18:52:49,126 - spotify_api_test - INFO - • 2025-03-30: FPL Solar Amphitheater at Bayfront Park in Miami
+2025-03-03 18:52:49,127 - spotify_api_test - INFO - • 2025-04-04: Phoenix Raceway in Avondale
+2025-03-03 18:52:49,127 - spotify_api_test - INFO - • 2025-04-25: Lake Perris State Recreation Area in Perris
+2025-03-03 18:52:49,128 - spotify_api_test - INFO - • 2025-05-23: District Atlanta in Atlanta
+2025-03-03 18:52:49,129 - spotify_api_test - INFO - • 2025-05-31: RFK Festival Grounds in Washington
+2025-03-03 18:52:49,130 - spotify_api_test - INFO - • 2025-06-21: Gorge Amphitheatre in Quincy
+2025-03-03 18:52:49,130 - spotify_api_test - INFO - • 2025-08-29: SeatGeek Stadium in Bridgeview
+2025-03-03 18:52:49,131 - spotify_api_test - INFO - Test completed successfully

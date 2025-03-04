@@ -82,3 +82,101 @@
 2025-03-03 18:43:23,985 - batch_artist_update - INFO - Successfully updated 4 out of 5 artists
 2025-03-03 18:43:23,985 - batch_artist_update - INFO - Failed to update 1 artists
 2025-03-03 18:43:23,986 - batch_artist_update - INFO - Results saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\batch_update_results_20250303_184323.json
+2025-03-03 18:56:47,989 - batch_artist_update - INFO - Found 1 artists to process
+2025-03-03 18:56:47,990 - batch_artist_update - INFO - Starting batch update for 1 artists
+2025-03-03 18:56:47,991 - batch_artist_update - INFO - Fetching enhanced data for artist 2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:56:47,991 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 2o5jDhtHVPhrJdv3cEQ99Z --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 18:56:51,080 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\2o5jDhtHVPhrJdv3cEQ99Z_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\2o5jDhtHVPhrJdv3cEQ99Z_spotify_response.json
+2025-03-03 18:56:51,082 - batch_artist_update - DEBUG - Successfully loaded metrics file for 2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:56:51,083 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:56:52,084 - batch_artist_update - INFO - Updating database for artist 2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:56:52,629 - batch_artist_update - INFO - Successfully updated database for artist 2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:56:52,630 - batch_artist_update - INFO - Successfully processed artist: Tiësto (2o5jDhtHVPhrJdv3cEQ99Z)
+2025-03-03 18:56:52,631 - batch_artist_update - INFO - Batch update completed in 4.64 seconds
+2025-03-03 18:56:52,632 - batch_artist_update - INFO - Successfully updated 1 out of 1 artists
+2025-03-03 18:56:52,634 - batch_artist_update - INFO - Results saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\batch_update_results_20250303_185652.json
+2025-03-03 19:01:33,285 - batch_artist_update - INFO - Found 10 artists to process
+2025-03-03 19:01:33,285 - batch_artist_update - INFO - Starting batch update for 10 artists
+2025-03-03 19:01:33,286 - batch_artist_update - INFO - Fetching enhanced data for artist 6n1t55WMsSIUFHrAL4mUsB
+2025-03-03 19:01:33,286 - batch_artist_update - INFO - Fetching enhanced data for artist 6qJ61DomA73g7jQEKESw9Z
+2025-03-03 19:01:33,286 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 6n1t55WMsSIUFHrAL4mUsB --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 19:01:33,287 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 6qJ61DomA73g7jQEKESw9Z --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 19:01:34,844 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\6n1t55WMsSIUFHrAL4mUsB_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\6n1t55WMsSIUFHrAL4mUsB_spotify_response.json
+2025-03-03 19:01:34,844 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\6qJ61DomA73g7jQEKESw9Z_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\6qJ61DomA73g7jQEKESw9Z_spotify_response.json
+2025-03-03 19:01:34,855 - batch_artist_update - DEBUG - Successfully loaded metrics file for 6qJ61DomA73g7jQEKESw9Z
+2025-03-03 19:01:34,855 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 6qJ61DomA73g7jQEKESw9Z
+2025-03-03 19:01:34,855 - batch_artist_update - DEBUG - Successfully loaded metrics file for 6n1t55WMsSIUFHrAL4mUsB
+2025-03-03 19:01:34,855 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 6n1t55WMsSIUFHrAL4mUsB
+2025-03-03 19:01:36,856 - batch_artist_update - INFO - Updating database for artist 6qJ61DomA73g7jQEKESw9Z
+2025-03-03 19:01:36,856 - batch_artist_update - INFO - Updating database for artist 6n1t55WMsSIUFHrAL4mUsB
+2025-03-03 19:01:37,310 - batch_artist_update - INFO - Successfully updated database for artist 6qJ61DomA73g7jQEKESw9Z
+2025-03-03 19:01:37,311 - batch_artist_update - INFO - Successfully processed artist: Noisecontrollers (6qJ61DomA73g7jQEKESw9Z)
+2025-03-03 19:01:37,311 - batch_artist_update - INFO - Fetching enhanced data for artist 64KfnYe81Wld2AkG4bkGIV
+2025-03-03 19:01:37,311 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 64KfnYe81Wld2AkG4bkGIV --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 19:01:37,377 - batch_artist_update - INFO - Successfully updated database for artist 6n1t55WMsSIUFHrAL4mUsB
+2025-03-03 19:01:37,377 - batch_artist_update - INFO - Successfully processed artist: Pete Tong (6n1t55WMsSIUFHrAL4mUsB)
+2025-03-03 19:01:37,377 - batch_artist_update - INFO - Fetching enhanced data for artist 00sAT5YX8W3xNd1EuqyHw9
+2025-03-03 19:01:37,378 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 00sAT5YX8W3xNd1EuqyHw9 --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 19:01:39,036 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\00sAT5YX8W3xNd1EuqyHw9_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\00sAT5YX8W3xNd1EuqyHw9_spotify_response.json
+2025-03-03 19:01:39,057 - batch_artist_update - DEBUG - Successfully loaded metrics file for 00sAT5YX8W3xNd1EuqyHw9
+2025-03-03 19:01:39,057 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 00sAT5YX8W3xNd1EuqyHw9
+2025-03-03 19:01:39,072 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\64KfnYe81Wld2AkG4bkGIV_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\64KfnYe81Wld2AkG4bkGIV_spotify_response.json
+2025-03-03 19:01:39,080 - batch_artist_update - DEBUG - Successfully loaded metrics file for 64KfnYe81Wld2AkG4bkGIV
+2025-03-03 19:01:39,080 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 64KfnYe81Wld2AkG4bkGIV
+2025-03-03 19:01:41,058 - batch_artist_update - INFO - Updating database for artist 00sAT5YX8W3xNd1EuqyHw9
+2025-03-03 19:01:41,081 - batch_artist_update - INFO - Updating database for artist 64KfnYe81Wld2AkG4bkGIV
+2025-03-03 19:01:41,350 - batch_artist_update - INFO - Successfully updated database for artist 00sAT5YX8W3xNd1EuqyHw9
+2025-03-03 19:01:41,351 - batch_artist_update - INFO - Successfully processed artist: Dada Life (00sAT5YX8W3xNd1EuqyHw9)
+2025-03-03 19:01:41,351 - batch_artist_update - INFO - Fetching enhanced data for artist 4mpJaw5y17CIN08qqe8EfB
+2025-03-03 19:01:41,351 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 4mpJaw5y17CIN08qqe8EfB --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 19:01:41,406 - batch_artist_update - INFO - Successfully updated database for artist 64KfnYe81Wld2AkG4bkGIV
+2025-03-03 19:01:41,406 - batch_artist_update - INFO - Successfully processed artist: Gabriel & Dresden (64KfnYe81Wld2AkG4bkGIV)
+2025-03-03 19:01:41,406 - batch_artist_update - INFO - Fetching enhanced data for artist 22bukBZvUppuwQwmDz75Gz
+2025-03-03 19:01:41,407 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 22bukBZvUppuwQwmDz75Gz --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 19:01:42,952 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\4mpJaw5y17CIN08qqe8EfB_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\4mpJaw5y17CIN08qqe8EfB_spotify_response.json
+2025-03-03 19:01:42,964 - batch_artist_update - DEBUG - Successfully loaded metrics file for 4mpJaw5y17CIN08qqe8EfB
+2025-03-03 19:01:42,964 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 4mpJaw5y17CIN08qqe8EfB
+2025-03-03 19:01:43,000 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\22bukBZvUppuwQwmDz75Gz_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\22bukBZvUppuwQwmDz75Gz_spotify_response.json
+2025-03-03 19:01:43,010 - batch_artist_update - DEBUG - Successfully loaded metrics file for 22bukBZvUppuwQwmDz75Gz
+2025-03-03 19:01:43,010 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 22bukBZvUppuwQwmDz75Gz
+2025-03-03 19:01:44,965 - batch_artist_update - INFO - Updating database for artist 4mpJaw5y17CIN08qqe8EfB
+2025-03-03 19:01:45,011 - batch_artist_update - INFO - Updating database for artist 22bukBZvUppuwQwmDz75Gz
+2025-03-03 19:01:45,381 - batch_artist_update - INFO - Successfully updated database for artist 4mpJaw5y17CIN08qqe8EfB
+2025-03-03 19:01:45,382 - batch_artist_update - INFO - Successfully processed artist: Hernan Cattaneo (4mpJaw5y17CIN08qqe8EfB)
+2025-03-03 19:01:45,383 - batch_artist_update - INFO - Fetching enhanced data for artist 27Z5l2Kfy1IaYZMg5INWqO
+2025-03-03 19:01:45,389 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 27Z5l2Kfy1IaYZMg5INWqO --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 19:01:45,477 - batch_artist_update - INFO - Successfully updated database for artist 22bukBZvUppuwQwmDz75Gz
+2025-03-03 19:01:45,478 - batch_artist_update - INFO - Successfully processed artist: Sander van Doorn (22bukBZvUppuwQwmDz75Gz)
+2025-03-03 19:01:45,478 - batch_artist_update - INFO - Fetching enhanced data for artist 2hL1EouqXLtBEB6JKnPF0h
+2025-03-03 19:01:45,479 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 2hL1EouqXLtBEB6JKnPF0h --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 19:01:47,262 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\27Z5l2Kfy1IaYZMg5INWqO_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\27Z5l2Kfy1IaYZMg5INWqO_spotify_response.json
+2025-03-03 19:01:47,319 - batch_artist_update - DEBUG - Successfully loaded metrics file for 27Z5l2Kfy1IaYZMg5INWqO
+2025-03-03 19:01:47,322 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 27Z5l2Kfy1IaYZMg5INWqO
+2025-03-03 19:01:47,360 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\2hL1EouqXLtBEB6JKnPF0h_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\2hL1EouqXLtBEB6JKnPF0h_spotify_response.json
+2025-03-03 19:01:47,376 - batch_artist_update - DEBUG - Successfully loaded metrics file for 2hL1EouqXLtBEB6JKnPF0h
+2025-03-03 19:01:47,376 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 2hL1EouqXLtBEB6JKnPF0h
+2025-03-03 19:01:49,325 - batch_artist_update - INFO - Updating database for artist 27Z5l2Kfy1IaYZMg5INWqO
+2025-03-03 19:01:49,377 - batch_artist_update - INFO - Updating database for artist 2hL1EouqXLtBEB6JKnPF0h
+2025-03-03 19:01:49,813 - batch_artist_update - INFO - Successfully updated database for artist 27Z5l2Kfy1IaYZMg5INWqO
+2025-03-03 19:01:49,813 - batch_artist_update - INFO - Successfully processed artist: Zatox (27Z5l2Kfy1IaYZMg5INWqO)
+2025-03-03 19:01:49,813 - batch_artist_update - INFO - Fetching enhanced data for artist 7momuad2Twkv5O7MY3dODa
+2025-03-03 19:01:49,814 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 7momuad2Twkv5O7MY3dODa --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 19:01:49,881 - batch_artist_update - INFO - Successfully updated database for artist 2hL1EouqXLtBEB6JKnPF0h
+2025-03-03 19:01:49,881 - batch_artist_update - INFO - Successfully processed artist: Aly & Fila (2hL1EouqXLtBEB6JKnPF0h)
+2025-03-03 19:01:49,881 - batch_artist_update - INFO - Fetching enhanced data for artist 720JYpdCgHuTmDeryW0wEA
+2025-03-03 19:01:49,882 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 720JYpdCgHuTmDeryW0wEA --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-03 19:01:51,183 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\7momuad2Twkv5O7MY3dODa_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\7momuad2Twkv5O7MY3dODa_spotify_response.json
+2025-03-03 19:01:51,204 - batch_artist_update - DEBUG - Successfully loaded metrics file for 7momuad2Twkv5O7MY3dODa
+2025-03-03 19:01:51,205 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 7momuad2Twkv5O7MY3dODa
+2025-03-03 19:01:51,238 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\720JYpdCgHuTmDeryW0wEA_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\720JYpdCgHuTmDeryW0wEA_spotify_response.json
+2025-03-03 19:01:51,260 - batch_artist_update - DEBUG - Successfully loaded metrics file for 720JYpdCgHuTmDeryW0wEA
+2025-03-03 19:01:51,260 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 720JYpdCgHuTmDeryW0wEA
+2025-03-03 19:01:53,206 - batch_artist_update - INFO - Updating database for artist 7momuad2Twkv5O7MY3dODa
+2025-03-03 19:01:53,261 - batch_artist_update - INFO - Updating database for artist 720JYpdCgHuTmDeryW0wEA
+2025-03-03 19:01:53,736 - batch_artist_update - INFO - Successfully updated database for artist 7momuad2Twkv5O7MY3dODa
+2025-03-03 19:01:53,736 - batch_artist_update - INFO - Successfully processed artist: Frontliner (7momuad2Twkv5O7MY3dODa)
+2025-03-03 19:01:53,815 - batch_artist_update - INFO - Successfully updated database for artist 720JYpdCgHuTmDeryW0wEA
+2025-03-03 19:01:53,816 - batch_artist_update - INFO - Successfully processed artist: Deep Dish (720JYpdCgHuTmDeryW0wEA)
+2025-03-03 19:01:53,817 - batch_artist_update - INFO - Batch update completed in 20.53 seconds
+2025-03-03 19:01:53,818 - batch_artist_update - INFO - Successfully updated 10 out of 10 artists
+2025-03-03 19:01:53,822 - batch_artist_update - INFO - Results saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\batch_update_results_20250303_190153.json

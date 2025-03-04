@@ -416,3 +416,872 @@ der/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22sp
 2025-03-03 18:43:22,534 - spotify_api_test - DEBUG - Response text: ...
 2025-03-03 18:43:22,535 - spotify_api_test - ERROR - Failed to get valid response from Spotify Partner API
 2025-03-03 18:43:22,535 - spotify_api_test - INFO - Test completed with errors
+2025-03-03 18:49:20,457 - spotify_api_test - INFO - Loaded authentication tokens from D:\DJVIBE\MCP\spotify-mcp\tests\spotify_tokens.json
+2025-03-03 18:49:20,457 - spotify_api_test - INFO - Starting Spotify Partner API test
+2025-03-03 18:49:20,457 - spotify_api_test - INFO - ==================================
+2025-03-03 18:49:20,457 - spotify_api_test - INFO - Testing Spotify partner API for artist ID: 2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:49:20,457 - spotify_api_test - DEBUG - Auth token (first 10 chars): BQC_OEk6d3...
+2025-03-03 18:49:20,457 - spotify_api_test - DEBUG - Client token (first 10 chars): AADexhpvRx...
+2025-03-03 18:49:20,457 - spotify_api_test - DEBUG - Artist URI: spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:49:20,457 - spotify_api_test - DEBUG - Request URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A2o5jDhtHVPhrJdv3cEQ99Z%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-03 18:49:20,457 - spotify_api_test - DEBUG - Headers prepared (auth tokens not shown in logs)
+2025-03-03 18:49:20,457 - spotify_api_test - INFO - Sending request to Spotify partner API...
+2025-03-03 18:49:20,459 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-03 18:49:21,546 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A+%22spotify%3Aartist%3A2o5jDhtHVPhrJdv3cEQ99Z%22%2C+%22locale%22%3A+%22%22%7D&extensions=%7B%22persistedQuery%22%3A+%7B%22version%22%3A+1%2C+%22sha256Hash%22%3A+%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 401 0
+2025-03-03 18:49:21,547 - spotify_api_test - INFO - Response status code: 401
+2025-03-03 18:49:21,547 - spotify_api_test - ERROR - Request failed with status code: 401
+2025-03-03 18:49:21,548 - spotify_api_test - DEBUG - Response text: ...
+2025-03-03 18:49:21,549 - spotify_api_test - WARNING - Primary approach failed, trying alternative approach
+2025-03-03 18:49:21,549 - spotify_api_test - INFO - Trying alternative approach with direct URL construction
+2025-03-03 18:49:21,549 - spotify_api_test - DEBUG - Alternative URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A2o5jDhtHVPhrJdv3cEQ99Z%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-03 18:49:21,550 - spotify_api_test - INFO - Sending alternative request...
+2025-03-03 18:49:21,555 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-03 18:49:22,164 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A2o5jDhtHVPhrJdv3cEQ99Z%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 401 0
+2025-03-03 18:49:22,165 - spotify_api_test - INFO - Alternative approach status code: 401
+2025-03-03 18:49:22,166 - spotify_api_test - ERROR - Alternative approach failed with status: 401
+2025-03-03 18:49:22,166 - spotify_api_test - DEBUG - Response text: ...
+2025-03-03 18:49:22,167 - spotify_api_test - ERROR - Failed to get valid response from Spotify Partner API
+2025-03-03 18:49:22,167 - spotify_api_test - INFO - Test completed with errors
+2025-03-03 18:54:01,999 - spotify_api_test - INFO - Loaded authentication tokens from D:\DJVIBE\MCP\spotify-mcp\tests\spotify_tokens.json
+2025-03-03 18:54:02,000 - spotify_api_test - INFO - Starting Spotify Partner API test
+2025-03-03 18:54:02,000 - spotify_api_test - INFO - ==================================
+2025-03-03 18:54:02,000 - spotify_api_test - INFO - Testing Spotify partner API for artist ID: 2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:54:02,000 - spotify_api_test - DEBUG - Auth token (first 10 chars): BQAKJ4BCEU...
+2025-03-03 18:54:02,000 - spotify_api_test - DEBUG - Client token (first 10 chars): AABjoIrkpm...
+2025-03-03 18:54:02,000 - spotify_api_test - DEBUG - Artist URI: spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:54:02,000 - spotify_api_test - DEBUG - Request URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A2o5jDhtHVPhrJdv3cEQ99Z%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-03 18:54:02,000 - spotify_api_test - DEBUG - Headers prepared (auth tokens not shown in logs)
+2025-03-03 18:54:02,000 - spotify_api_test - INFO - Sending request to Spotify partner API...
+2025-03-03 18:54:02,002 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-03 18:54:02,906 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A+%22spotify%3Aartist%3A2o5jDhtHVPhrJdv3cEQ99Z%22%2C+%22locale%22%3A+%22%22%7D&extensions=%7B%22persistedQuery%22%3A+%7B%22version%22%3A+1%2C+%22sha256Hash%22%3A+%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 200 None
+2025-03-03 18:54:03,098 - spotify_api_test - INFO - Response status code: 200
+2025-03-03 18:54:03,098 - spotify_api_test - INFO - Request successful
+2025-03-03 18:54:03,115 - spotify_api_test - INFO - Full response saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\2o5jDhtHVPhrJdv3cEQ99Z_spotify_response.json
+2025-03-03 18:54:03,116 - spotify_api_test - INFO - Key metrics saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\2o5jDhtHVPhrJdv3cEQ99Z_metrics.json
+2025-03-03 18:54:03,116 - spotify_api_test - INFO - Special debug for Tiesto - metrics: {
+  "name": "Ti\u00ebsto",
+  "monthly_listeners": 37686711,
+  "followers": 7738105,
+  "verified": true,
+  "top_cities": [
+    {
+      "city": "Mexico City",
+      "country": "MX",
+      "region": "CMX",
+      "listeners": 585670
+    },
+    {
+      "city": "Sydney",
+      "country": "AU",
+      "region": "NSW",
+      "listeners": 481535
+    },
+    {
+      "city": "Santiago",
+      "country": "CL",
+      "region": "RM",
+      "listeners": 467940
+    },
+    {
+      "city": "Amsterdam",
+      "country": "NL",
+      "region": "NH",
+      "listeners": 459879
+    },
+    {
+      "city": "S\u00e3o Paulo",
+      "country": "BR",
+      "region": "SP",
+      "listeners": 435489
+    }
+  ],
+  "social_links": {
+    "facebook": "https://facebook.com/tiesto",
+    "instagram": "https://instagram.com/tiesto",
+    "twitter": "https://twitter.com/tiesto"
+  },
+  "upcoming_concerts": [
+    {
+      "title": "Nico de Andrea, Ti\u00ebsto",
+      "date": "2025-03-06T19:00-05:00",
+      "location": {
+        "name": "Place Jean-B\u00e9liveau",
+        "city": "Qu\u00e9bec"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-07T22:00-05:00",
+      "location": {
+        "name": "Grand Quai",
+        "city": "Montr\u00e9al"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-08T22:30-08:00",
+      "location": {
+        "name": "Omnia",
+        "city": "Las Vegas"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-14T22:30-07:00",
+      "location": {
+        "name": "LIV Las Vegas",
+        "city": "Las Vegas"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-22T22:30-07:00",
+      "location": {
+        "name": "Omnia",
+        "city": "Las Vegas"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-28T12:00-04:00",
+      "location": {
+        "name": "FPL Solar Amphitheater at Bayfront Park",
+        "city": "Miami"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-29T22:30-04:00",
+      "location": {
+        "name": "LIV NIGHTCLUB",
+        "city": "Miami Beach"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-29T22:30-07:00",
+      "location": {
+        "name": "LIV Las Vegas",
+        "city": "Las Vegas"
+      },
+      "festival": false
+    },
+    {
+      "title": "999999999, Above & Beyond, Adam Beyer, AFROJACK, Alesso, Anyma, Solomun, Armin van Buuren, ARTBAT, Axwell, Boris Brejcha, Carl Cox, Charlotte de Witte, Chase & Status, deadmau5, Pendulum, Eli Brown, Dom Dolla, John Summit, Four Tet, Gesaffelstein, Hardwell, I Hate Models, LSDREAM, CloZee, Martin Garrix, Mau P, Miss Monique, Nero, NGHTMRE, Sullivan King, Richie Hawtin, Subtronics, Ti\u00ebsto, Zedd, Zeds Dead",
+      "date": "2025-03-30T12:00-04:00",
+      "location": {
+        "name": "FPL Solar Amphitheater at Bayfront Park",
+        "city": "Miami"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-04-04T22:30-07:00",
+      "location": {
+        "name": "LIV Las Vegas",
+        "city": "Las Vegas"
+      },
+      "festival": false
+    }
+  ]
+}
+2025-03-03 18:54:03,126 - spotify_api_test - INFO - Tiesto metrics file verification - Content length: 3310
+2025-03-03 18:54:03,127 - spotify_api_test - DEBUG - Tiesto metrics file content: {
+  "name": "Ti\u00ebsto",
+  "monthly_listeners": 37686711,
+  "followers": 7738105,
+  "verified": true,
+  "top_cities": [
+    {
+      "city": "Mexico City",
+      "country": "MX",
+      "region": "CMX",
+      "listeners": 585670
+    },
+    {
+      "city": "Sydney",
+      "country": "AU",
+      "region": "NSW",
+      "listeners": 481535
+    },
+    {
+      "city": "Santiago",
+      "country": "CL",
+      "region": "RM",
+      "listeners": 467940
+    },
+    {
+      "city": "Amsterdam",
+      "count
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - 
+==== Artist Metrics ====
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - Name: Tiësto
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - Monthly Listeners: 37,686,711
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - Followers: 7,738,105
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - Verified: Yes
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - 
+==== Top Cities ====
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - • Mexico City, MX: 585,670 listeners
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - • Sydney, AU: 481,535 listeners
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - • Santiago, CL: 467,940 listeners
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - • Amsterdam, NL: 459,879 listeners
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - • São Paulo, BR: 435,489 listeners
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - 
+==== Social Links ====
+2025-03-03 18:54:03,127 - spotify_api_test - INFO - • FACEBOOK: https://facebook.com/tiesto
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • INSTAGRAM: https://instagram.com/tiesto
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • TWITTER: https://twitter.com/tiesto
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - 
+==== Upcoming Concerts ====
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • 2025-03-06: Place Jean-Béliveau in Québec
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • 2025-03-07: Grand Quai in Montréal
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • 2025-03-08: Omnia in Las Vegas
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • 2025-03-14: LIV Las Vegas in Las Vegas
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • 2025-03-22: Omnia in Las Vegas
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • 2025-03-28: FPL Solar Amphitheater at Bayfront Park in Miami
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • 2025-03-29: LIV NIGHTCLUB in Miami Beach
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • 2025-03-29: LIV Las Vegas in Las Vegas
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • 2025-03-30: FPL Solar Amphitheater at Bayfront Park in Miami
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - • 2025-04-04: LIV Las Vegas in Las Vegas
+2025-03-03 18:54:03,128 - spotify_api_test - INFO - Test completed successfully
+2025-03-03 18:56:48,466 - spotify_api_test - INFO - Loaded authentication tokens from D:\DJVIBE\MCP\spotify-mcp\tests\spotify_tokens.json
+2025-03-03 18:56:48,466 - spotify_api_test - INFO - Starting Spotify Partner API test
+2025-03-03 18:56:48,466 - spotify_api_test - INFO - ==================================
+2025-03-03 18:56:48,467 - spotify_api_test - INFO - Testing Spotify partner API for artist ID: 2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:56:48,467 - spotify_api_test - DEBUG - Auth token (first 10 chars): BQAKJ4BCEU...
+2025-03-03 18:56:48,467 - spotify_api_test - DEBUG - Client token (first 10 chars): AABjoIrkpm...
+2025-03-03 18:56:48,467 - spotify_api_test - DEBUG - Artist URI: spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:56:48,467 - spotify_api_test - DEBUG - Request URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A2o5jDhtHVPhrJdv3cEQ99Z%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-03 18:56:48,467 - spotify_api_test - DEBUG - Headers prepared (auth tokens not shown in logs)
+2025-03-03 18:56:48,467 - spotify_api_test - INFO - Sending request to Spotify partner API...
+2025-03-03 18:56:48,469 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-03 18:56:50,023 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A+%22spotify%3Aartist%3A2o5jDhtHVPhrJdv3cEQ99Z%22%2C+%22locale%22%3A+%22%22%7D&extensions=%7B%22persistedQuery%22%3A+%7B%22version%22%3A+1%2C+%22sha256Hash%22%3A+%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 200 None
+2025-03-03 18:56:50,251 - spotify_api_test - INFO - Response status code: 200
+2025-03-03 18:56:50,252 - spotify_api_test - INFO - Request successful
+2025-03-03 18:56:50,931 - spotify_api_test - INFO - Full response saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\2o5jDhtHVPhrJdv3cEQ99Z_spotify_response.json
+2025-03-03 18:56:50,938 - spotify_api_test - INFO - Key metrics saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\2o5jDhtHVPhrJdv3cEQ99Z_metrics.json
+2025-03-03 18:56:50,939 - spotify_api_test - INFO - Special debug for Tiesto - metrics: {
+  "name": "Ti\u00ebsto",
+  "monthly_listeners": 37686711,
+  "followers": 7738105,
+  "verified": true,
+  "top_cities": [
+    {
+      "city": "Mexico City",
+      "country": "MX",
+      "region": "CMX",
+      "listeners": 585670
+    },
+    {
+      "city": "Sydney",
+      "country": "AU",
+      "region": "NSW",
+      "listeners": 481535
+    },
+    {
+      "city": "Santiago",
+      "country": "CL",
+      "region": "RM",
+      "listeners": 467940
+    },
+    {
+      "city": "Amsterdam",
+      "country": "NL",
+      "region": "NH",
+      "listeners": 459879
+    },
+    {
+      "city": "S\u00e3o Paulo",
+      "country": "BR",
+      "region": "SP",
+      "listeners": 435489
+    }
+  ],
+  "social_links": {
+    "facebook": "https://facebook.com/tiesto",
+    "instagram": "https://instagram.com/tiesto",
+    "twitter": "https://twitter.com/tiesto"
+  },
+  "upcoming_concerts": [
+    {
+      "title": "Nico de Andrea, Ti\u00ebsto",
+      "date": "2025-03-06T19:00-05:00",
+      "location": {
+        "name": "Place Jean-B\u00e9liveau",
+        "city": "Qu\u00e9bec"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-07T22:00-05:00",
+      "location": {
+        "name": "Grand Quai",
+        "city": "Montr\u00e9al"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-08T22:30-08:00",
+      "location": {
+        "name": "Omnia",
+        "city": "Las Vegas"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-14T22:30-07:00",
+      "location": {
+        "name": "LIV Las Vegas",
+        "city": "Las Vegas"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-22T22:30-07:00",
+      "location": {
+        "name": "Omnia",
+        "city": "Las Vegas"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-28T12:00-04:00",
+      "location": {
+        "name": "FPL Solar Amphitheater at Bayfront Park",
+        "city": "Miami"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-29T22:30-04:00",
+      "location": {
+        "name": "LIV NIGHTCLUB",
+        "city": "Miami Beach"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-03-29T22:30-07:00",
+      "location": {
+        "name": "LIV Las Vegas",
+        "city": "Las Vegas"
+      },
+      "festival": false
+    },
+    {
+      "title": "999999999, Above & Beyond, Adam Beyer, AFROJACK, Alesso, Anyma, Solomun, Armin van Buuren, ARTBAT, Axwell, Boris Brejcha, Carl Cox, Charlotte de Witte, Chase & Status, deadmau5, Pendulum, Eli Brown, Dom Dolla, John Summit, Four Tet, Gesaffelstein, Hardwell, I Hate Models, LSDREAM, CloZee, Martin Garrix, Mau P, Miss Monique, Nero, NGHTMRE, Sullivan King, Richie Hawtin, Subtronics, Ti\u00ebsto, Zedd, Zeds Dead",
+      "date": "2025-03-30T12:00-04:00",
+      "location": {
+        "name": "FPL Solar Amphitheater at Bayfront Park",
+        "city": "Miami"
+      },
+      "festival": false
+    },
+    {
+      "title": "Ti\u00ebsto",
+      "date": "2025-04-04T22:30-07:00",
+      "location": {
+        "name": "LIV Las Vegas",
+        "city": "Las Vegas"
+      },
+      "festival": false
+    }
+  ]
+}
+2025-03-03 18:56:50,946 - spotify_api_test - INFO - Tiesto metrics file verification - Content length: 3310
+2025-03-03 18:56:50,947 - spotify_api_test - DEBUG - Tiesto metrics file content: {
+  "name": "Ti\u00ebsto",
+  "monthly_listeners": 37686711,
+  "followers": 7738105,
+  "verified": true,
+  "top_cities": [
+    {
+      "city": "Mexico City",
+      "country": "MX",
+      "region": "CMX",
+      "listeners": 585670
+    },
+    {
+      "city": "Sydney",
+      "country": "AU",
+      "region": "NSW",
+      "listeners": 481535
+    },
+    {
+      "city": "Santiago",
+      "country": "CL",
+      "region": "RM",
+      "listeners": 467940
+    },
+    {
+      "city": "Amsterdam",
+      "count
+2025-03-03 18:56:50,948 - spotify_api_test - INFO - 
+==== Artist Metrics ====
+2025-03-03 18:56:50,948 - spotify_api_test - INFO - Name: Tiësto
+2025-03-03 18:56:50,948 - spotify_api_test - INFO - Monthly Listeners: 37,686,711
+2025-03-03 18:56:50,948 - spotify_api_test - INFO - Followers: 7,738,105
+2025-03-03 18:56:50,949 - spotify_api_test - INFO - Verified: Yes
+2025-03-03 18:56:50,949 - spotify_api_test - INFO - 
+==== Top Cities ====
+2025-03-03 18:56:50,949 - spotify_api_test - INFO - • Mexico City, MX: 585,670 listeners
+2025-03-03 18:56:50,949 - spotify_api_test - INFO - • Sydney, AU: 481,535 listeners
+2025-03-03 18:56:50,950 - spotify_api_test - INFO - • Santiago, CL: 467,940 listeners
+2025-03-03 18:56:50,950 - spotify_api_test - INFO - • Amsterdam, NL: 459,879 listeners
+2025-03-03 18:56:50,950 - spotify_api_test - INFO - • São Paulo, BR: 435,489 listeners
+2025-03-03 18:56:50,950 - spotify_api_test - INFO - 
+==== Social Links ====
+2025-03-03 18:56:50,951 - spotify_api_test - INFO - • FACEBOOK: https://facebook.com/tiesto
+2025-03-03 18:56:50,951 - spotify_api_test - INFO - • INSTAGRAM: https://instagram.com/tiesto
+2025-03-03 18:56:50,951 - spotify_api_test - INFO - • TWITTER: https://twitter.com/tiesto
+2025-03-03 18:56:50,951 - spotify_api_test - INFO - 
+==== Upcoming Concerts ====
+2025-03-03 18:56:50,952 - spotify_api_test - INFO - • 2025-03-06: Place Jean-Béliveau in Québec
+2025-03-03 18:56:50,952 - spotify_api_test - INFO - • 2025-03-07: Grand Quai in Montréal
+2025-03-03 18:56:50,953 - spotify_api_test - INFO - • 2025-03-08: Omnia in Las Vegas
+2025-03-03 18:56:50,954 - spotify_api_test - INFO - • 2025-03-14: LIV Las Vegas in Las Vegas
+2025-03-03 18:56:50,955 - spotify_api_test - INFO - • 2025-03-22: Omnia in Las Vegas
+2025-03-03 18:56:50,956 - spotify_api_test - INFO - • 2025-03-28: FPL Solar Amphitheater at Bayfront Park in Miami
+2025-03-03 18:56:50,956 - spotify_api_test - INFO - • 2025-03-29: LIV NIGHTCLUB in Miami Beach
+2025-03-03 18:56:50,957 - spotify_api_test - INFO - • 2025-03-29: LIV Las Vegas in Las Vegas
+2025-03-03 18:56:50,957 - spotify_api_test - INFO - • 2025-03-30: FPL Solar Amphitheater at Bayfront Park in Miami
+2025-03-03 18:56:50,957 - spotify_api_test - INFO - • 2025-04-04: LIV Las Vegas in Las Vegas
+2025-03-03 18:56:50,958 - spotify_api_test - INFO - Test completed successfully
+2025-03-03 19:01:33,847 - spotify_api_test - INFO - Loaded authentication tokens from D:\DJVIBE\MCP\spotify-mcp\tests\spotify_tokens.json
+2025-03-03 19:01:34,106 - spotify_api_test - INFO - Starting Spotify Partner API test
+2025-03-03 19:01:34,106 - spotify_api_test - INFO - ==================================
+2025-03-03 19:01:34,107 - spotify_api_test - INFO - Testing Spotify partner API for artist ID: 6n1t55WMsSIUFHrAL4mUsB
+2025-03-03 19:01:34,107 - spotify_api_test - DEBUG - Auth token (first 10 chars): BQAKJ4BCEU...
+2025-03-03 19:01:34,107 - spotify_api_test - DEBUG - Client token (first 10 chars): AABjoIrkpm...
+2025-03-03 19:01:34,107 - spotify_api_test - DEBUG - Artist URI: spotify:artist:6n1t55WMsSIUFHrAL4mUsB
+2025-03-03 19:01:34,108 - spotify_api_test - DEBUG - Request URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A6n1t55WMsSIUFHrAL4mUsB%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-03 19:01:34,108 - spotify_api_test - DEBUG - Headers prepared (auth tokens not shown in logs)
+2025-03-03 19:01:34,109 - spotify_api_test - INFO - Sending request to Spotify partner API...
+2025-03-03 19:01:34,110 - spotify_api_test - INFO - Loaded authentication tokens from D:\DJVIBE\MCP\spotify-mcp\tests\spotify_tokens.json
+2025-03-03 19:01:34,110 - spotify_api_test - INFO - Starting Spotify Partner API test
+2025-03-03 19:01:34,111 - spotify_api_test - INFO - ==================================
+2025-03-03 19:01:34,111 - spotify_api_test - INFO - Testing Spotify partner API for artist ID: 6qJ61DomA73g7jQEKESw9Z
+2025-03-03 19:01:34,111 - spotify_api_test - DEBUG - Auth token (first 10 chars): BQAKJ4BCEU...
+2025-03-03 19:01:34,112 - spotify_api_test - DEBUG - Client token (first 10 chars): AABjoIrkpm...
+2025-03-03 19:01:34,113 - spotify_api_test - DEBUG - Artist URI: spotify:artist:6qJ61DomA73g7jQEKESw9Z
+2025-03-03 19:01:34,114 - spotify_api_test - DEBUG - Request URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A6qJ61DomA73g7jQEKESw9Z%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-03 19:01:34,114 - spotify_api_test - DEBUG - Headers prepared (auth tokens not shown in logs)
+2025-03-03 19:01:34,115 - spotify_api_test - INFO - Sending request to Spotify partner API...
+2025-03-03 19:01:34,118 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-03 19:01:34,123 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-03 19:01:34,690 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A+%22spotify%3Aartist%3A6n1t55WMsSIUFHrAL4mUsB%22%2C+%22locale%22%3A+%22%22%7D&extensions=%7B%22persistedQuery%22%3A+%7B%22version%22%3A+1%2C+%22sha256Hash%22%3A+%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 200 None
+2025-03-03 19:01:34,701 - spotify_api_test - INFO - Response status code: 200
+2025-03-03 19:01:34,702 - spotify_api_test - INFO - Request successful
+2025-03-03 19:01:34,704 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A+%22spotify%3Aartist%3A6qJ61DomA73g7jQEKESw9Z%22%2C+%22locale%22%3A+%22%22%7D&extensions=%7B%22persistedQuery%22%3A+%7B%22version%22%3A+1%2C+%22sha256Hash%22%3A+%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 200 None
+2025-03-03 19:01:34,710 - spotify_api_test - INFO - Response status code: 200
+2025-03-03 19:01:34,711 - spotify_api_test - INFO - Request successful
+2025-03-03 19:01:34,795 - spotify_api_test - INFO - Full response saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\6n1t55WMsSIUFHrAL4mUsB_spotify_response.json
+2025-03-03 19:01:34,796 - spotify_api_test - INFO - Full response saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\6qJ61DomA73g7jQEKESw9Z_spotify_response.json
+2025-03-03 19:01:34,798 - spotify_api_test - INFO - Key metrics saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\6qJ61DomA73g7jQEKESw9Z_metrics.json
+2025-03-03 19:01:34,798 - spotify_api_test - INFO - 
+==== Artist Metrics ====
+2025-03-03 19:01:34,798 - spotify_api_test - INFO - Key metrics saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\6n1t55WMsSIUFHrAL4mUsB_metrics.json
+2025-03-03 19:01:34,798 - spotify_api_test - INFO - Name: Noisecontrollers
+2025-03-03 19:01:34,799 - spotify_api_test - INFO - 
+==== Artist Metrics ====
+2025-03-03 19:01:34,799 - spotify_api_test - INFO - Monthly Listeners: 512,246
+2025-03-03 19:01:34,799 - spotify_api_test - INFO - Name: Pete Tong
+2025-03-03 19:01:34,799 - spotify_api_test - INFO - Followers: 150,448
+2025-03-03 19:01:34,799 - spotify_api_test - INFO - Monthly Listeners: 764,828
+2025-03-03 19:01:34,799 - spotify_api_test - INFO - Verified: Yes
+2025-03-03 19:01:34,799 - spotify_api_test - INFO - Followers: 174,235
+2025-03-03 19:01:34,799 - spotify_api_test - INFO - 
+==== Top Cities ====
+2025-03-03 19:01:34,799 - spotify_api_test - INFO - Verified: Yes
+2025-03-03 19:01:34,799 - spotify_api_test - INFO - • Amsterdam, NL: 42,986 listeners
+2025-03-03 19:01:34,799 - spotify_api_test - INFO - 
+==== Top Cities ====
+2025-03-03 19:01:34,799 - spotify_api_test - INFO - • Rotterdam, NL: 30,505 listeners
+2025-03-03 19:01:34,800 - spotify_api_test - INFO - • London, GB: 31,606 listeners
+2025-03-03 19:01:34,800 - spotify_api_test - INFO - • Sydney, AU: 17,746 listeners
+2025-03-03 19:01:34,800 - spotify_api_test - INFO - • Sydney, AU: 12,365 listeners
+2025-03-03 19:01:34,800 - spotify_api_test - INFO - • Utrecht, NL: 17,397 listeners
+2025-03-03 19:01:34,800 - spotify_api_test - INFO - • Melbourne, AU: 10,525 listeners
+2025-03-03 19:01:34,800 - spotify_api_test - INFO - • Birmingham, GB: 10,219 listeners
+2025-03-03 19:01:34,800 - spotify_api_test - INFO - • Hamburg, DE: 16,484 listeners
+2025-03-03 19:01:34,800 - spotify_api_test - INFO - • Dublin, IE: 10,211 listeners
+2025-03-03 19:01:34,800 - spotify_api_test - INFO - 
+==== Social Links ====
+2025-03-03 19:01:34,800 - spotify_api_test - INFO - 
+==== Social Links ====
+2025-03-03 19:01:34,800 - spotify_api_test - INFO - • FACEBOOK: https://facebook.com/noisecontrollers
+2025-03-03 19:01:34,800 - spotify_api_test - INFO - • FACEBOOK: https://facebook.com/petetong
+2025-03-03 19:01:34,800 - spotify_api_test - INFO - • INSTAGRAM: https://instagram.com/noisecontrollers
+2025-03-03 19:01:34,800 - spotify_api_test - INFO - • INSTAGRAM: https://instagram.com/petetongofficial
+2025-03-03 19:01:34,801 - spotify_api_test - INFO - • TWITTER: https://twitter.com/noisecontroller
+2025-03-03 19:01:34,801 - spotify_api_test - INFO - • TWITTER: https://twitter.com/petetong
+2025-03-03 19:01:34,801 - spotify_api_test - INFO - 
+==== Upcoming Concerts ====
+ia.org/wiki/Pete_Tong
+2025-03-03 19:01:34,801 - spotify_api_test - INFO - 
+==== Upcoming Concerts ====
+2025-03-03 19:01:34,801 - spotify_api_test - INFO - Test completed successfully
+2025-03-03 19:01:34,801 - spotify_api_test - INFO - • 2025-05-29: Royal Albert Hall in London
+2025-03-03 19:01:34,801 - spotify_api_test - INFO - • 2025-05-30: Royal Albert Hall in London
+2025-03-03 19:01:34,801 - spotify_api_test - INFO - • 2025-05-31: Royal Albert Hall in London
+2025-03-03 19:01:34,801 - spotify_api_test - INFO - • 2025-06-01: Royal Albert Hall in London
+2025-03-03 19:01:34,802 - spotify_api_test - INFO - • 2025-12-06: AO Arena in Manchester
+2025-03-03 19:01:34,802 - spotify_api_test - INFO - • 2025-12-10: First Direct Arena in Leeds
+2025-03-03 19:01:34,802 - spotify_api_test - INFO - • 2025-12-11: Utilita Arena Birmingham in Birmingham
+2025-03-03 19:01:34,802 - spotify_api_test - INFO - • 2025-12-12: The O2 in London
+2025-03-03 19:01:34,802 - spotify_api_test - INFO - • 2025-12-13: The O2 in London
+2025-03-03 19:01:34,803 - spotify_api_test - INFO - Test completed successfully
+2025-03-03 19:01:38,247 - spotify_api_test - INFO - Loaded authentication tokens from D:\DJVIBE\MCP\spotify-mcp\tests\spotify_tokens.json
+2025-03-03 19:01:38,247 - spotify_api_test - INFO - Starting Spotify Partner API test
+2025-03-03 19:01:38,247 - spotify_api_test - INFO - ==================================
+2025-03-03 19:01:38,247 - spotify_api_test - INFO - Testing Spotify partner API for artist ID: 64KfnYe81Wld2AkG4bkGIV
+2025-03-03 19:01:38,247 - spotify_api_test - DEBUG - Auth token (first 10 chars): BQAKJ4BCEU...
+2025-03-03 19:01:38,247 - spotify_api_test - DEBUG - Client token (first 10 chars): AABjoIrkpm...
+2025-03-03 19:01:38,248 - spotify_api_test - DEBUG - Artist URI: spotify:artist:64KfnYe81Wld2AkG4bkGIV
+2025-03-03 19:01:38,248 - spotify_api_test - DEBUG - Request URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A64KfnYe81Wld2AkG4bkGIV%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-03 19:01:38,248 - spotify_api_test - DEBUG - Headers prepared (auth tokens not shown in logs)
+2025-03-03 19:01:38,248 - spotify_api_test - INFO - Sending request to Spotify partner API...
+2025-03-03 19:01:38,251 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-03 19:01:38,277 - spotify_api_test - INFO - Loaded authentication tokens from D:\DJVIBE\MCP\spotify-mcp\tests\spotify_tokens.json
+2025-03-03 19:01:38,277 - spotify_api_test - INFO - Starting Spotify Partner API test
+2025-03-03 19:01:38,277 - spotify_api_test - INFO - ==================================
+2025-03-03 19:01:38,277 - spotify_api_test - INFO - Testing Spotify partner API for artist ID: 00sAT5YX8W3xNd1EuqyHw9
+2025-03-03 19:01:38,277 - spotify_api_test - DEBUG - Auth token (first 10 chars): BQAKJ4BCEU...
+2025-03-03 19:01:38,277 - spotify_api_test - DEBUG - Client token (first 10 chars): AABjoIrkpm...
+2025-03-03 19:01:38,277 - spotify_api_test - DEBUG - Artist URI: spotify:artist:00sAT5YX8W3xNd1EuqyHw9
+2025-03-03 19:01:38,277 - spotify_api_test - DEBUG - Request URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A00sAT5YX8W3xNd1EuqyHw9%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-03 19:01:38,277 - spotify_api_test - DEBUG - Headers prepared (auth tokens not shown in logs)
+2025-03-03 19:01:38,277 - spotify_api_test - INFO - Sending request to Spotify partner API...
+2025-03-03 19:01:38,280 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-03 19:01:38,812 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A+%22spotify%3Aartist%3A00sAT5YX8W3xNd1EuqyHw9%22%2C+%22locale%22%3A+%22%22%7D&extensions=%7B%22persistedQuery%22%3A+%7B%22version%22%3A+1%2C+%22sha256Hash%22%3A+%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 200 None
+2025-03-03 19:01:38,821 - spotify_api_test - INFO - Response status code: 200
+2025-03-03 19:01:38,821 - spotify_api_test - INFO - Request successful
+2025-03-03 19:01:38,886 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A+%22spotify%3Aartist%3A64KfnYe81Wld2AkG4bkGIV%22%2C+%22locale%22%3A+%22%22%7D&extensions=%7B%22persistedQuery%22%3A+%7B%22version%22%3A+1%2C+%22sha256Hash%22%3A+%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 200 None
+2025-03-03 19:01:38,909 - spotify_api_test - INFO - Full response saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\00sAT5YX8W3xNd1EuqyHw9_spotify_response.json
+2025-03-03 19:01:38,913 - spotify_api_test - INFO - Key metrics saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\00sAT5YX8W3xNd1EuqyHw9_metrics.json
+2025-03-03 19:01:38,913 - spotify_api_test - INFO - 
+==== Artist Metrics ====
+2025-03-03 19:01:38,914 - spotify_api_test - INFO - Name: Dada Life
+2025-03-03 19:01:38,915 - spotify_api_test - INFO - Monthly Listeners: 644,432
+2025-03-03 19:01:38,916 - spotify_api_test - INFO - Followers: 397,833
+2025-03-03 19:01:38,917 - spotify_api_test - INFO - Verified: Yes
+2025-03-03 19:01:38,917 - spotify_api_test - INFO - 
+==== Top Cities ====
+2025-03-03 19:01:38,918 - spotify_api_test - INFO - • Stockholm, SE: 15,994 listeners
+2025-03-03 19:01:38,918 - spotify_api_test - INFO - • Gothenburg, SE: 8,703 listeners
+2025-03-03 19:01:38,919 - spotify_api_test - INFO - • Mexico City, MX: 6,885 listeners
+2025-03-03 19:01:38,919 - spotify_api_test - INFO - • Sydney, AU: 6,881 listeners
+2025-03-03 19:01:38,920 - spotify_api_test - INFO - • Oslo, NO: 6,584 listeners
+2025-03-03 19:01:38,921 - spotify_api_test - INFO - 
+==== Social Links ====
+2025-03-03 19:01:38,921 - spotify_api_test - INFO - • FACEBOOK: https://facebook.com/dadalife
+2025-03-03 19:01:38,922 - spotify_api_test - INFO - • INSTAGRAM: https://instagram.com/dadalife
+2025-03-03 19:01:38,922 - spotify_api_test - INFO - • TWITTER: https://twitter.com/dadalife
+2025-03-03 19:01:38,922 - spotify_api_test - INFO - • WIKIPEDIA: https://en.wikipedia.org/wiki/Dada_Life
+2025-03-03 19:01:38,923 - spotify_api_test - INFO - 
+==== Upcoming Concerts ====
+2025-03-03 19:01:38,923 - spotify_api_test - INFO - Test completed successfully
+2025-03-03 19:01:38,944 - spotify_api_test - INFO - Response status code: 200
+2025-03-03 19:01:38,945 - spotify_api_test - INFO - Request successful
+2025-03-03 19:01:39,029 - spotify_api_test - INFO - Full response saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\64KfnYe81Wld2AkG4bkGIV_spotify_response.json
+2025-03-03 19:01:39,031 - spotify_api_test - INFO - Key metrics saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\64KfnYe81Wld2AkG4bkGIV_metrics.json
+2025-03-03 19:01:39,031 - spotify_api_test - INFO - 
+==== Artist Metrics ====
+2025-03-03 19:01:39,031 - spotify_api_test - INFO - Name: Gabriel & Dresden
+2025-03-03 19:01:39,031 - spotify_api_test - INFO - Monthly Listeners: 559,062
+2025-03-03 19:01:39,031 - spotify_api_test - INFO - Followers: 85,760
+2025-03-03 19:01:39,031 - spotify_api_test - INFO - Verified: Yes
+2025-03-03 19:01:39,031 - spotify_api_test - INFO - 
+==== Top Cities ====
+2025-03-03 19:01:39,031 - spotify_api_test - INFO - • London, GB: 12,849 listeners
+2025-03-03 19:01:39,032 - spotify_api_test - INFO - • Dublin, IE: 11,455 listeners
+2025-03-03 19:01:39,032 - spotify_api_test - INFO - • Mexico City, MX: 11,104 listeners
+2025-03-03 19:01:39,032 - spotify_api_test - INFO - • Melbourne, AU: 10,926 listeners
+2025-03-03 19:01:39,032 - spotify_api_test - INFO - • Warsaw, PL: 9,409 listeners
+2025-03-03 19:01:39,032 - spotify_api_test - INFO - 
+==== Social Links ====
+2025-03-03 19:01:39,032 - spotify_api_test - INFO - • FACEBOOK: https://facebook.com/gabrielanddresden
+2025-03-03 19:01:39,032 - spotify_api_test - INFO - • INSTAGRAM: https://instagram.com/gabrielndresden
+2025-03-03 19:01:39,032 - spotify_api_test - INFO - • TWITTER: https://twitter.com/gabrielndresden
+2025-03-03 19:01:39,032 - spotify_api_test - INFO - • WIKIPEDIA: https://wikipedia.org/wiki/Gabriel_%26_Dresden
+2025-03-03 19:01:39,032 - spotify_api_test - INFO - 
+==== Upcoming Concerts ====
+2025-03-03 19:01:39,032 - spotify_api_test - INFO - • 2025-03-28: La Otra Wynwood in Miami
+2025-03-03 19:01:39,033 - spotify_api_test - INFO - • 2025-04-25: Audio SF in San Francisco
+2025-03-03 19:01:39,033 - spotify_api_test - INFO - • 2025-05-02: Discopussy in Las Vegas
+2025-03-03 19:01:39,033 - spotify_api_test - INFO - • 2025-05-24: Sound Nightclub in Los Angeles
+2025-03-03 19:01:39,033 - spotify_api_test - INFO - • 2025-06-20: Lansdowne Park in Ottawa
+2025-03-03 19:01:39,033 - spotify_api_test - INFO - • 2025-06-26: Bernie's beach club in Zandvoort
+2025-03-03 19:01:39,033 - spotify_api_test - INFO - Test completed successfully
+2025-03-03 19:01:42,144 - spotify_api_test - INFO - Loaded authentication tokens from D:\DJVIBE\MCP\spotify-mcp\tests\spotify_tokens.json
+2025-03-03 19:01:42,144 - spotify_api_test - INFO - Starting Spotify Partner API test
+2025-03-03 19:01:42,144 - spotify_api_test - INFO - ==================================
+2025-03-03 19:01:42,144 - spotify_api_test - INFO - Testing Spotify partner API for artist ID: 4mpJaw5y17CIN08qqe8EfB
+2025-03-03 19:01:42,144 - spotify_api_test - DEBUG - Auth token (first 10 chars): BQAKJ4BCEU...
+2025-03-03 19:01:42,144 - spotify_api_test - DEBUG - Client token (first 10 chars): AABjoIrkpm...
+2025-03-03 19:01:42,144 - spotify_api_test - DEBUG - Artist URI: spotify:artist:4mpJaw5y17CIN08qqe8EfB
+2025-03-03 19:01:42,144 - spotify_api_test - DEBUG - Request URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A4mpJaw5y17CIN08qqe8EfB%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-03 19:01:42,144 - spotify_api_test - DEBUG - Headers prepared (auth tokens not shown in logs)
+2025-03-03 19:01:42,144 - spotify_api_test - INFO - Sending request to Spotify partner API...
+2025-03-03 19:01:42,146 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-03 19:01:42,168 - spotify_api_test - INFO - Loaded authentication tokens from D:\DJVIBE\MCP\spotify-mcp\tests\spotify_tokens.json
+2025-03-03 19:01:42,168 - spotify_api_test - INFO - Starting Spotify Partner API test
+2025-03-03 19:01:42,168 - spotify_api_test - INFO - ==================================
+2025-03-03 19:01:42,168 - spotify_api_test - INFO - Testing Spotify partner API for artist ID: 22bukBZvUppuwQwmDz75Gz
+2025-03-03 19:01:42,168 - spotify_api_test - DEBUG - Auth token (first 10 chars): BQAKJ4BCEU...
+2025-03-03 19:01:42,168 - spotify_api_test - DEBUG - Client token (first 10 chars): AABjoIrkpm...
+2025-03-03 19:01:42,168 - spotify_api_test - DEBUG - Artist URI: spotify:artist:22bukBZvUppuwQwmDz75Gz
+2025-03-03 19:01:42,168 - spotify_api_test - DEBUG - Request URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A22bukBZvUppuwQwmDz75Gz%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-03 19:01:42,168 - spotify_api_test - DEBUG - Headers prepared (auth tokens not shown in logs)
+2025-03-03 19:01:42,168 - spotify_api_test - INFO - Sending request to Spotify partner API...
+2025-03-03 19:01:42,170 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-03 19:01:42,744 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A+%22spotify%3Aartist%3A4mpJaw5y17CIN08qqe8EfB%22%2C+%22locale%22%3A+%22%22%7D&extensions=%7B%22persistedQuery%22%3A+%7B%22version%22%3A+1%2C+%22sha256Hash%22%3A+%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 200 None
+2025-03-03 19:01:42,753 - spotify_api_test - INFO - Response status code: 200
+2025-03-03 19:01:42,754 - spotify_api_test - INFO - Request successful
+2025-03-03 19:01:42,753 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A+%22spotify%3Aartist%3A22bukBZvUppuwQwmDz75Gz%22%2C+%22locale%22%3A+%22%22%7D&extensions=%7B%22persistedQuery%22%3A+%7B%22version%22%3A+1%2C+%22sha256Hash%22%3A+%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 200 None
+2025-03-03 19:01:42,813 - spotify_api_test - INFO - Response status code: 200
+2025-03-03 19:01:42,814 - spotify_api_test - INFO - Request successful
+2025-03-03 19:01:42,846 - spotify_api_test - INFO - Full response saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\4mpJaw5y17CIN08qqe8EfB_spotify_response.json
+2025-03-03 19:01:42,855 - spotify_api_test - INFO - Key metrics saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\4mpJaw5y17CIN08qqe8EfB_metrics.json
+2025-03-03 19:01:42,855 - spotify_api_test - INFO - 
+==== Artist Metrics ====
+2025-03-03 19:01:42,856 - spotify_api_test - INFO - Name: Hernan Cattaneo
+2025-03-03 19:01:42,856 - spotify_api_test - INFO - Monthly Listeners: 397,444
+2025-03-03 19:01:42,857 - spotify_api_test - INFO - Followers: 254,176
+2025-03-03 19:01:42,857 - spotify_api_test - INFO - Verified: Yes
+2025-03-03 19:01:42,857 - spotify_api_test - INFO - 
+==== Top Cities ====
+2025-03-03 19:01:42,858 - spotify_api_test - INFO - • Buenos Aires, AR: 47,707 listeners
+2025-03-03 19:01:42,858 - spotify_api_test - INFO - • Buenos Aires, AR: 20,971 listeners
+2025-03-03 19:01:42,859 - spotify_api_test - INFO - • Córdoba, AR: 12,600 listeners
+2025-03-03 19:01:42,859 - spotify_api_test - INFO - • Santiago, CL: 10,550 listeners
+2025-03-03 19:01:42,860 - spotify_api_test - INFO - • Mexico City, MX: 6,135 listeners
+2025-03-03 19:01:42,860 - spotify_api_test - INFO - 
+==== Social Links ====
+2025-03-03 19:01:42,861 - spotify_api_test - INFO - • FACEBOOK: https://facebook.com/hernancattaneo
+2025-03-03 19:01:42,861 - spotify_api_test - INFO - • INSTAGRAM: https://instagram.com/djhernancattaneo
+2025-03-03 19:01:42,861 - spotify_api_test - INFO - • TWITTER: https://twitter.com/cattaneo_hernan
+2025-03-03 19:01:42,862 - spotify_api_test - INFO - 
+==== Upcoming Concerts ====
+2025-03-03 19:01:42,862 - spotify_api_test - INFO - • 2025-03-21: Park Slope Brooklyn Warehouse in New York City
+2025-03-03 19:01:42,863 - spotify_api_test - INFO - • 2025-03-22: Club Space Miami in Miami
+2025-03-03 19:01:42,863 - spotify_api_test - INFO - • 2025-03-26: South Beach Lady Yacht Charter in Hollywood
+2025-03-03 19:01:42,863 - spotify_api_test - INFO - • 2025-03-27: Factory Town in Miami
+2025-03-03 19:01:42,864 - spotify_api_test - INFO - • 2025-04-10: Akasha Ibiza in San Carlos
+2025-03-03 19:01:42,864 - spotify_api_test - INFO - • 2025-04-11: Warehouse Elementenstraat in Amsterdam
+2025-03-03 19:01:42,865 - spotify_api_test - INFO - • 2025-04-12: Index in Dublin 7
+2025-03-03 19:01:42,865 - spotify_api_test - INFO - • 2025-04-13: Radisson Red Sky Bar in Glasgow
+2025-03-03 19:01:42,866 - spotify_api_test - INFO - • 2025-04-17: La Foresta in Colombo
+2025-03-03 19:01:42,866 - spotify_api_test - INFO - • 2025-04-18: KOKO in London
+2025-03-03 19:01:42,866 - spotify_api_test - INFO - Test completed successfully
+2025-03-03 19:01:42,921 - spotify_api_test - INFO - Full response saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\22bukBZvUppuwQwmDz75Gz_spotify_response.json
+2025-03-03 19:01:42,924 - spotify_api_test - INFO - Key metrics saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\22bukBZvUppuwQwmDz75Gz_metrics.json
+2025-03-03 19:01:42,924 - spotify_api_test - INFO - 
+==== Artist Metrics ====
+2025-03-03 19:01:42,924 - spotify_api_test - INFO - Name: Sander van Doorn
+2025-03-03 19:01:42,925 - spotify_api_test - INFO - Monthly Listeners: 829,701
+2025-03-03 19:01:42,925 - spotify_api_test - INFO - Followers: 359,981
+2025-03-03 19:01:42,925 - spotify_api_test - INFO - Verified: Yes
+2025-03-03 19:01:42,926 - spotify_api_test - INFO - 
+==== Top Cities ====
+2025-03-03 19:01:42,926 - spotify_api_test - INFO - • Mexico City, MX: 15,378 listeners
+2025-03-03 19:01:42,926 - spotify_api_test - INFO - • Amsterdam, NL: 12,502 listeners
+2025-03-03 19:01:42,927 - spotify_api_test - INFO - • Hamburg, DE: 8,650 listeners
+2025-03-03 19:01:42,927 - spotify_api_test - INFO - • Santiago, CL: 8,510 listeners
+2025-03-03 19:01:42,927 - spotify_api_test - INFO - • Rotterdam, NL: 7,573 listeners
+2025-03-03 19:01:42,928 - spotify_api_test - INFO - 
+==== Social Links ====
+2025-03-03 19:01:42,928 - spotify_api_test - INFO - • FACEBOOK: https://facebook.com/sandervandoorn
+2025-03-03 19:01:42,928 - spotify_api_test - INFO - • INSTAGRAM: https://instagram.com/sandervandoornofficial/
+2025-03-03 19:01:42,928 - spotify_api_test - INFO - • TWITTER: https://twitter.com/sandervandoorn
+2025-03-03 19:01:42,929 - spotify_api_test - INFO - 
+==== Upcoming Concerts ====
+2025-03-03 19:01:42,929 - spotify_api_test - INFO - • 2025-03-08: Amerika in Buenos Aires
+2025-03-03 19:01:42,929 - spotify_api_test - INFO - • 2025-03-31: Sölden in Soelden
+2025-03-03 19:01:42,929 - spotify_api_test - INFO - • 2025-04-02: Sölden in Soelden
+2025-03-03 19:01:42,929 - spotify_api_test - INFO - • 2025-04-12: Gliwice Arena in Gliwice
+2025-03-03 19:01:42,972 - spotify_api_test - INFO - • 2025-06-27: Bernie's beach club in Zandvoort
+2025-03-03 19:01:42,972 - spotify_api_test - INFO - • 2025-06-28: Bernie's beach club in Zandvoort
+2025-03-03 19:01:42,972 - spotify_api_test - INFO - • 2025-07-20: Provincial Recreation Domain De Schorre in Boom
+2025-03-03 19:01:42,972 - spotify_api_test - INFO - • 2025-08-02: Beachclub Fuel in Overveen
+2025-03-03 19:01:42,972 - spotify_api_test - INFO - • 2025-08-16: De Roosdonck, Nuenen in Nuenen
+2025-03-03 19:01:42,972 - spotify_api_test - INFO - Test completed successfully
+2025-03-03 19:01:46,456 - spotify_api_test - INFO - Loaded authentication tokens from D:\DJVIBE\MCP\spotify-mcp\tests\spotify_tokens.json
+2025-03-03 19:01:46,456 - spotify_api_test - INFO - Starting Spotify Partner API test
+2025-03-03 19:01:46,456 - spotify_api_test - INFO - ==================================
+2025-03-03 19:01:46,456 - spotify_api_test - INFO - Testing Spotify partner API for artist ID: 27Z5l2Kfy1IaYZMg5INWqO
+2025-03-03 19:01:46,457 - spotify_api_test - DEBUG - Auth token (first 10 chars): BQAKJ4BCEU...
+2025-03-03 19:01:46,457 - spotify_api_test - DEBUG - Client token (first 10 chars): AABjoIrkpm...
+2025-03-03 19:01:46,457 - spotify_api_test - DEBUG - Artist URI: spotify:artist:27Z5l2Kfy1IaYZMg5INWqO
+2025-03-03 19:01:46,457 - spotify_api_test - DEBUG - Request URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A27Z5l2Kfy1IaYZMg5INWqO%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-03 19:01:46,457 - spotify_api_test - DEBUG - Headers prepared (auth tokens not shown in logs)
+2025-03-03 19:01:46,457 - spotify_api_test - INFO - Sending request to Spotify partner API...
+2025-03-03 19:01:46,458 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-03 19:01:46,466 - spotify_api_test - INFO - Loaded authentication tokens from D:\DJVIBE\MCP\spotify-mcp\tests\spotify_tokens.json
+2025-03-03 19:01:46,466 - spotify_api_test - INFO - Starting Spotify Partner API test
+2025-03-03 19:01:46,466 - spotify_api_test - INFO - ==================================
+2025-03-03 19:01:46,466 - spotify_api_test - INFO - Testing Spotify partner API for artist ID: 2hL1EouqXLtBEB6JKnPF0h
+2025-03-03 19:01:46,467 - spotify_api_test - DEBUG - Auth token (first 10 chars): BQAKJ4BCEU...
+2025-03-03 19:01:46,467 - spotify_api_test - DEBUG - Client token (first 10 chars): AABjoIrkpm...
+2025-03-03 19:01:46,467 - spotify_api_test - DEBUG - Artist URI: spotify:artist:2hL1EouqXLtBEB6JKnPF0h
+2025-03-03 19:01:46,467 - spotify_api_test - DEBUG - Request URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A2hL1EouqXLtBEB6JKnPF0h%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-03 19:01:46,467 - spotify_api_test - DEBUG - Headers prepared (auth tokens not shown in logs)
+2025-03-03 19:01:46,467 - spotify_api_test - INFO - Sending request to Spotify partner API...
+2025-03-03 19:01:46,470 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-03 19:01:47,007 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A+%22spotify%3Aartist%3A27Z5l2Kfy1IaYZMg5INWqO%22%2C+%22locale%22%3A+%22%22%7D&extensions=%7B%22persistedQuery%22%3A+%7B%22version%22%3A+1%2C+%22sha256Hash%22%3A+%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 200 None
+2025-03-03 19:01:47,066 - spotify_api_test - INFO - Response status code: 200
+2025-03-03 19:01:47,066 - spotify_api_test - INFO - Request successful
+2025-03-03 19:01:47,081 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A+%22spotify%3Aartist%3A2hL1EouqXLtBEB6JKnPF0h%22%2C+%22locale%22%3A+%22%22%7D&extensions=%7B%22persistedQuery%22%3A+%7B%22version%22%3A+1%2C+%22sha256Hash%22%3A+%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 200 None
+2025-03-03 19:01:47,134 - spotify_api_test - INFO - Response status code: 200
+2025-03-03 19:01:47,135 - spotify_api_test - INFO - Request successful
+2025-03-03 19:01:47,146 - spotify_api_test - INFO - Full response saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\27Z5l2Kfy1IaYZMg5INWqO_spotify_response.json
+2025-03-03 19:01:47,149 - spotify_api_test - INFO - Key metrics saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\27Z5l2Kfy1IaYZMg5INWqO_metrics.json
+2025-03-03 19:01:47,149 - spotify_api_test - INFO - 
+==== Artist Metrics ====
+2025-03-03 19:01:47,150 - spotify_api_test - INFO - Name: Zatox
+2025-03-03 19:01:47,150 - spotify_api_test - INFO - Monthly Listeners: 691,401
+2025-03-03 19:01:47,150 - spotify_api_test - INFO - Followers: 158,174
+2025-03-03 19:01:47,151 - spotify_api_test - INFO - Verified: Yes
+2025-03-03 19:01:47,151 - spotify_api_test - INFO - 
+==== Top Cities ====
+2025-03-03 19:01:47,151 - spotify_api_test - INFO - • Amsterdam, NL: 31,270 listeners
+2025-03-03 19:01:47,151 - spotify_api_test - INFO - • Hamburg, DE: 23,577 listeners
+2025-03-03 19:01:47,152 - spotify_api_test - INFO - • Rotterdam, NL: 23,226 listeners
+2025-03-03 19:01:47,153 - spotify_api_test - INFO - • Berlin, DE: 14,434 listeners
+2025-03-03 19:01:47,153 - spotify_api_test - INFO - • Brussels, BE: 14,306 listeners
+2025-03-03 19:01:47,154 - spotify_api_test - INFO - 
+==== Social Links ====
+2025-03-03 19:01:47,154 - spotify_api_test - INFO - • FACEBOOK: https://facebook.com/djzatox
+2025-03-03 19:01:47,155 - spotify_api_test - INFO - • INSTAGRAM: https://instagram.com/djzatox
+2025-03-03 19:01:47,155 - spotify_api_test - INFO - • TWITTER: https://twitter.com/DJZatox
+2025-03-03 19:01:47,155 - spotify_api_test - INFO - • WIKIPEDIA: https://it.wikipedia.org/wiki/Zatox
+2025-03-03 19:01:47,155 - spotify_api_test - INFO - 
+==== Upcoming Concerts ====
+2025-03-03 19:01:47,156 - spotify_api_test - INFO - • 2025-07-03: Salzburgring in Plainfeld
+2025-03-03 19:01:47,156 - spotify_api_test - INFO - Test completed successfully
+2025-03-03 19:01:47,232 - spotify_api_test - INFO - Full response saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\2hL1EouqXLtBEB6JKnPF0h_spotify_response.json
+2025-03-03 19:01:47,236 - spotify_api_test - INFO - Key metrics saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\2hL1EouqXLtBEB6JKnPF0h_metrics.json
+2025-03-03 19:01:47,237 - spotify_api_test - INFO - 
+==== Artist Metrics ====
+2025-03-03 19:01:47,237 - spotify_api_test - INFO - Name: Aly & Fila
+2025-03-03 19:01:47,238 - spotify_api_test - INFO - Monthly Listeners: 489,414
+2025-03-03 19:01:47,238 - spotify_api_test - INFO - Followers: 174,420
+2025-03-03 19:01:47,239 - spotify_api_test - INFO - Verified: Yes
+2025-03-03 19:01:47,239 - spotify_api_test - INFO - 
+==== Top Cities ====
+2025-03-03 19:01:47,239 - spotify_api_test - INFO - • Mexico City, MX: 10,475 listeners
+2025-03-03 19:01:47,240 - spotify_api_test - INFO - • Sydney, AU: 9,056 listeners
+2025-03-03 19:01:47,240 - spotify_api_test - INFO - • Melbourne, AU: 9,031 listeners
+2025-03-03 19:01:47,241 - spotify_api_test - INFO - • London, GB: 8,522 listeners
+2025-03-03 19:01:47,241 - spotify_api_test - INFO - • Amsterdam, NL: 8,133 listeners
+2025-03-03 19:01:47,242 - spotify_api_test - INFO - 
+==== Social Links ====
+2025-03-03 19:01:47,242 - spotify_api_test - INFO - • FACEBOOK: https://facebook.com/alyandfila
+2025-03-03 19:01:47,242 - spotify_api_test - INFO - • INSTAGRAM: https://instagram.com/alyandfila
+2025-03-03 19:01:47,243 - spotify_api_test - INFO - • TWITTER: https://twitter.com/alyandfila
+2025-03-03 19:01:47,243 - spotify_api_test - INFO - • WIKIPEDIA: https://en.wikipedia.org/wiki/Aly_%26_Fila
+2025-03-03 19:01:47,244 - spotify_api_test - INFO - 
+==== Upcoming Concerts ====
+2025-03-03 19:01:47,244 - spotify_api_test - INFO - • 2025-03-14: Arts Club in Liverpool
+2025-03-03 19:01:47,244 - spotify_api_test - INFO - • 2025-03-15: LAB theCLUB in Madrid
+2025-03-03 19:01:47,245 - spotify_api_test - INFO - • 2025-03-22: HERE at Outernet in London
+2025-03-03 19:01:47,245 - spotify_api_test - INFO - • 2025-03-26: La Otra Wynwood in Miami
+2025-03-03 19:01:47,246 - spotify_api_test - INFO - • 2025-03-28: La Otra Wynwood in Miami
+2025-03-03 19:01:47,246 - spotify_api_test - INFO - • 2025-09-25: Eden Ibiza in Sant Antoni de Portmany
+2025-03-03 19:01:47,247 - spotify_api_test - INFO - Test completed successfully
+2025-03-03 19:01:50,463 - spotify_api_test - INFO - Loaded authentication tokens from D:\DJVIBE\MCP\spotify-mcp\tests\spotify_tokens.json
+2025-03-03 19:01:50,463 - spotify_api_test - INFO - Starting Spotify Partner API test
+2025-03-03 19:01:50,463 - spotify_api_test - INFO - ==================================
+2025-03-03 19:01:50,463 - spotify_api_test - INFO - Testing Spotify partner API for artist ID: 7momuad2Twkv5O7MY3dODa
+2025-03-03 19:01:50,463 - spotify_api_test - DEBUG - Auth token (first 10 chars): BQAKJ4BCEU...
+2025-03-03 19:01:50,463 - spotify_api_test - DEBUG - Client token (first 10 chars): AABjoIrkpm...
+2025-03-03 19:01:50,464 - spotify_api_test - DEBUG - Artist URI: spotify:artist:7momuad2Twkv5O7MY3dODa
+2025-03-03 19:01:50,464 - spotify_api_test - DEBUG - Request URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A7momuad2Twkv5O7MY3dODa%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-03 19:01:50,464 - spotify_api_test - DEBUG - Headers prepared (auth tokens not shown in logs)
+2025-03-03 19:01:50,464 - spotify_api_test - INFO - Sending request to Spotify partner API...
+2025-03-03 19:01:50,465 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-03 19:01:50,503 - spotify_api_test - INFO - Loaded authentication tokens from D:\DJVIBE\MCP\spotify-mcp\tests\spotify_tokens.json
+2025-03-03 19:01:50,503 - spotify_api_test - INFO - Starting Spotify Partner API test
+2025-03-03 19:01:50,503 - spotify_api_test - INFO - ==================================
+2025-03-03 19:01:50,503 - spotify_api_test - INFO - Testing Spotify partner API for artist ID: 720JYpdCgHuTmDeryW0wEA
+2025-03-03 19:01:50,503 - spotify_api_test - DEBUG - Auth token (first 10 chars): BQAKJ4BCEU...
+2025-03-03 19:01:50,503 - spotify_api_test - DEBUG - Client token (first 10 chars): AABjoIrkpm...
+2025-03-03 19:01:50,504 - spotify_api_test - DEBUG - Artist URI: spotify:artist:720JYpdCgHuTmDeryW0wEA
+2025-03-03 19:01:50,504 - spotify_api_test - DEBUG - Request URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A720JYpdCgHuTmDeryW0wEA%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-03 19:01:50,504 - spotify_api_test - DEBUG - Headers prepared (auth tokens not shown in logs)
+2025-03-03 19:01:50,504 - spotify_api_test - INFO - Sending request to Spotify partner API...
+2025-03-03 19:01:50,505 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-03 19:01:50,918 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A+%22spotify%3Aartist%3A7momuad2Twkv5O7MY3dODa%22%2C+%22locale%22%3A+%22%22%7D&extensions=%7B%22persistedQuery%22%3A+%7B%22version%22%3A+1%2C+%22sha256Hash%22%3A+%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 200 None
+2025-03-03 19:01:50,996 - spotify_api_test - INFO - Response status code: 200
+2025-03-03 19:01:50,997 - spotify_api_test - INFO - Request successful
+2025-03-03 19:01:50,998 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A+%22spotify%3Aartist%3A720JYpdCgHuTmDeryW0wEA%22%2C+%22locale%22%3A+%22%22%7D&extensions=%7B%22persistedQuery%22%3A+%7B%22version%22%3A+1%2C+%22sha256Hash%22%3A+%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 200 None
+2025-03-03 19:01:51,062 - spotify_api_test - INFO - Full response saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\7momuad2Twkv5O7MY3dODa_spotify_response.json
+2025-03-03 19:01:51,065 - spotify_api_test - INFO - Key metrics saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\7momuad2Twkv5O7MY3dODa_metrics.json
+2025-03-03 19:01:51,066 - spotify_api_test - INFO - 
+==== Artist Metrics ====
+2025-03-03 19:01:51,066 - spotify_api_test - INFO - Name: Frontliner
+2025-03-03 19:01:51,067 - spotify_api_test - INFO - Monthly Listeners: 419,063
+2025-03-03 19:01:51,067 - spotify_api_test - INFO - Followers: 102,969
+2025-03-03 19:01:51,068 - spotify_api_test - INFO - Verified: Yes
+2025-03-03 19:01:51,068 - spotify_api_test - INFO - 
+==== Top Cities ====
+2025-03-03 19:01:51,069 - spotify_api_test - INFO - • Amsterdam, NL: 32,928 listeners
+2025-03-03 19:01:51,069 - spotify_api_test - INFO - • Rotterdam, NL: 23,466 listeners
+2025-03-03 19:01:51,070 - spotify_api_test - INFO - • Sydney, AU: 13,589 listeners
+2025-03-03 19:01:51,070 - spotify_api_test - INFO - • Utrecht, NL: 13,046 listeners
+2025-03-03 19:01:51,071 - spotify_api_test - INFO - Response status code: 200
+2025-03-03 19:01:51,071 - spotify_api_test - INFO - • Hamburg, DE: 12,771 listeners
+2025-03-03 19:01:51,072 - spotify_api_test - INFO - Request successful
+2025-03-03 19:01:51,073 - spotify_api_test - INFO - 
+==== Social Links ====
+2025-03-03 19:01:51,073 - spotify_api_test - INFO - • FACEBOOK: https://facebook.com/djfrontliner
+2025-03-03 19:01:51,074 - spotify_api_test - INFO - • INSTAGRAM: https://instagram.com/djfrontliner
+2025-03-03 19:01:51,074 - spotify_api_test - INFO - • TWITTER: https://twitter.com/djfrontliner
+2025-03-03 19:01:51,075 - spotify_api_test - INFO - 
+==== Upcoming Concerts ====
+2025-03-03 19:01:51,075 - spotify_api_test - INFO - Test completed successfully
+2025-03-03 19:01:51,152 - spotify_api_test - INFO - Full response saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\720JYpdCgHuTmDeryW0wEA_spotify_response.json
+2025-03-03 19:01:51,159 - spotify_api_test - INFO - Key metrics saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\720JYpdCgHuTmDeryW0wEA_metrics.json
+2025-03-03 19:01:51,160 - spotify_api_test - INFO - 
+==== Artist Metrics ====
+2025-03-03 19:01:51,160 - spotify_api_test - INFO - Name: Deep Dish
+2025-03-03 19:01:51,161 - spotify_api_test - INFO - Monthly Listeners: 523,095
+2025-03-03 19:01:51,162 - spotify_api_test - INFO - Followers: 81,769
+2025-03-03 19:01:51,162 - spotify_api_test - INFO - Verified: Yes
+2025-03-03 19:01:51,163 - spotify_api_test - INFO - 
+==== Top Cities ====
+2025-03-03 19:01:51,163 - spotify_api_test - INFO - • London, GB: 25,844 listeners
+2025-03-03 19:01:51,163 - spotify_api_test - INFO - • Dublin, IE: 13,274 listeners
+2025-03-03 19:01:51,164 - spotify_api_test - INFO - • Manchester, GB: 11,864 listeners
+2025-03-03 19:01:51,164 - spotify_api_test - INFO - • Glasgow, GB: 10,932 listeners
+2025-03-03 19:01:51,164 - spotify_api_test - INFO - • Birmingham, GB: 10,601 listeners
+2025-03-03 19:01:51,165 - spotify_api_test - INFO - 
+==== Social Links ====
+2025-03-03 19:01:51,165 - spotify_api_test - INFO - • FACEBOOK: https://facebook.com/deepdish
+2025-03-03 19:01:51,166 - spotify_api_test - INFO - • INSTAGRAM: https://instagram.com/deepdish
+2025-03-03 19:01:51,166 - spotify_api_test - INFO - 
+==== Upcoming Concerts ====
+2025-03-03 19:01:51,166 - spotify_api_test - INFO - • 2025-03-14: Club Space Miami in Miami
+2025-03-03 19:01:51,167 - spotify_api_test - INFO - • 2025-04-04: It'll Do Club in Dallas
+2025-03-03 19:01:51,167 - spotify_api_test - INFO - • 2025-04-05: It'll Do Club in Dallas
+2025-03-03 19:01:51,167 - spotify_api_test - INFO - • 2025-04-06: Parque Fundidora in Monterrey
+2025-03-03 19:01:51,168 - spotify_api_test - INFO - • 2025-05-04: fabric in London
+2025-03-03 19:01:51,168 - spotify_api_test - INFO - • 2025-07-19: Cermak Hall in Chicago
+2025-03-03 19:01:51,168 - spotify_api_test - INFO - • 2025-07-27: Radisson RED Glasgow in Glasgow
+2025-03-03 19:01:51,169 - spotify_api_test - INFO - • 2025-08-08: The Garden Resort Croatia in Tisno
+2025-03-03 19:01:51,169 - spotify_api_test - INFO - Test completed successfully

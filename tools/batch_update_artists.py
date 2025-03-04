@@ -12,7 +12,7 @@ from datetime import datetime
 
 # Set up logging
 logging.basicConfig(
-    level=logging.INFO,
+    level=logging.DEBUG,  # Changed to DEBUG for more detailed logs
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
     handlers=[
         logging.FileHandler("batch_artist_update.log"),
@@ -20,6 +20,12 @@ logging.basicConfig(
     ]
 )
 logger = logging.getLogger("batch_artist_update")
+
+# Create a specific debug log file for Tiësto issues
+tiesto_handler = logging.FileHandler("tiesto_debug.log")
+tiesto_handler.setLevel(logging.DEBUG)
+tiesto_handler.setFormatter(logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s'))
+logger.addHandler(tiesto_handler)
 
 def get_artists_needing_update(db_path, update_threshold_days=None):
     """Get artists that need updating based on their tier and last update date"""
@@ -92,18 +98,53 @@ def fetch_enhanced_artist_data(artist_id, output_dir):
         ]
         
         logger.info(f"Fetching enhanced data for artist {artist_id}")
+        logger.debug(f"Running command: {' '.join(command)}")
+        
         process = subprocess.run(command, capture_output=True, text=True)
         
         if process.returncode != 0:
             logger.error(f"Error fetching enhanced data for artist {artist_id}: {process.stderr}")
+            logger.error(f"Process stdout: {process.stdout[:1000]}")
             return False
         
         # Check if the output files exist
         metrics_file = os.path.join(output_dir, f"{artist_id}_metrics.json")
         response_file = os.path.join(output_dir, f"{artist_id}_spotify_response.json")
         
-        if not os.path.exists(metrics_file) or not os.path.exists(response_file):
-            logger.error(f"Output files not found for artist {artist_id}")
+        logger.debug(f"Checking for output files: {metrics_file} and {response_file}")
+        
+        if not os.path.exists(metrics_file):
+            logger.error(f"Metrics file not found for artist {artist_id}: {metrics_file}")
+            return False
+            
+        if not os.path.exists(response_file):
+            logger.error(f"Response file not found for artist {artist_id}: {response_file}")
+            return False
+            
+        # Verify the JSON files can be parsed
+        try:
+            with open(metrics_file, 'r') as f:
+                metrics_data = json.load(f)
+            logger.debug(f"Successfully loaded metrics file for {artist_id}")
+            
+            # Check for empty or invalid data
+            if not metrics_data or not isinstance(metrics_data, dict):
+                logger.error(f"Invalid metrics data for artist {artist_id}: {metrics_data}")
+                return False
+                
+            # Check for required fields
+            required_fields = ["name", "monthly_listeners", "followers"]
+            missing_fields = [field for field in required_fields if field not in metrics_data]
+            
+            if missing_fields:
+                logger.error(f"Missing required fields in metrics data for artist {artist_id}: {missing_fields}")
+                return False
+                
+        except json.JSONDecodeError as e:
+            logger.error(f"Invalid JSON in metrics file for artist {artist_id}: {str(e)}")
+            return False
+        except Exception as e:
+            logger.error(f"Error checking metrics file for artist {artist_id}: {str(e)}")
             return False
             
         logger.info(f"Successfully fetched enhanced data for artist {artist_id}")
@@ -111,6 +152,8 @@ def fetch_enhanced_artist_data(artist_id, output_dir):
     
     except Exception as e:
         logger.error(f"Error fetching enhanced data for artist {artist_id}: {str(e)}")
+        import traceback
+        logger.debug(traceback.format_exc())
         return False
 
 def update_artist_in_database(artist_id, db_path, metrics_file, response_file):

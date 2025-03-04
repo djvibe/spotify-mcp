@@ -307,9 +307,29 @@ if __name__ == "__main__":
         }
         
         metrics_file = os.path.join(output_dir, f"{artist_id}_metrics.json")
-        with open(metrics_file, 'w') as f:
-            json.dump(metrics, f, indent=2)
-        logger.info(f"Key metrics saved to {metrics_file}")
+        try:
+            with open(metrics_file, 'w') as f:
+                json.dump(metrics, f, indent=2)
+            logger.info(f"Key metrics saved to {metrics_file}")
+            
+            # Special logging for Tiesto to diagnose issues
+            if artist_id == "2o5jDhtHVPhrJdv3cEQ99Z":
+                logger.info(f"Special debug for Tiesto - metrics: {json.dumps(metrics, indent=2)}")
+                
+                # Verify the file immediately after writing
+                with open(metrics_file, 'r') as f:
+                    content = f.read()
+                    logger.info(f"Tiesto metrics file verification - Content length: {len(content)}")
+                    logger.debug(f"Tiesto metrics file content: {content[:500]}")
+                
+                # Check for required fields
+                for field in ['name', 'monthly_listeners', 'followers']:
+                    if field not in metrics or metrics[field] is None:
+                        logger.error(f"Missing or null field in Tiesto metrics: {field}")
+        except Exception as e:
+            logger.error(f"Error saving metrics file {metrics_file}: {str(e)}")
+            import traceback
+            logger.debug(traceback.format_exc())
         
         
         # Extract and print key metrics

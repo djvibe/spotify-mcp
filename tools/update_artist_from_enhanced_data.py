@@ -21,13 +21,40 @@ logger = logging.getLogger("artist_update")
 def load_metrics_file(file_path):
     """Load the metrics JSON file"""
     try:
+        logger.debug(f"Attempting to load metrics file: {file_path}")
+        if not os.path.exists(file_path):
+            logger.error(f"Metrics file not found: {file_path}")
+            # Check if the directory exists
+            dir_path = os.path.dirname(file_path)
+            if not os.path.exists(dir_path):
+                logger.error(f"Directory does not exist: {dir_path}")
+            else:
+                # List files in the directory
+                files = os.listdir(dir_path)
+                logger.debug(f"Files in directory {dir_path}: {files}")
+            return None
+            
         with open(file_path, 'r') as f:
-            return json.load(f)
-    except FileNotFoundError:
-        logger.error(f"Metrics file not found: {file_path}")
-        return None
-    except json.JSONDecodeError:
-        logger.error(f"Invalid JSON in metrics file: {file_path}")
+            file_content = f.read()
+            
+        if not file_content.strip():
+            logger.error(f"Metrics file is empty: {file_path}")
+            return None
+            
+        try:
+            data = json.loads(file_content)
+            logger.debug(f"Successfully loaded metrics from file: {file_path}")
+            return data
+        except json.JSONDecodeError as e:
+            logger.error(f"Invalid JSON in metrics file: {file_path}")
+            logger.error(f"JSON Error: {str(e)}")
+            logger.debug(f"File content (first 500 chars): {file_content[:500]}")
+            return None
+    except Exception as e:
+        logger.error(f"Error loading metrics file: {file_path}")
+        logger.error(f"Error details: {str(e)}")
+        import traceback
+        logger.debug(traceback.format_exc())
         return None
 
 def load_full_response_file(file_path):
