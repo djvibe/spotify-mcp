@@ -1,0 +1,33 @@
+{
+  "successful": [
+    [
+      "76M2Ekj8bG8W7X2nbx2CpF",
+      "NGHTMRE"
+    ],
+    [
+      "4tZwfgrHOc3mvqYlEYSvVi",
+      "Daft Punk"
+    ],
+    [
+      "2CIMQHirSU0MQqyYHq0eOx",
+      "deadmau5"
+    ],
+    [
+      "1vCWHaC5f2uS3yhpwWbIA6",
+      "Avicii"
+    ]
+  ],
+  "failed": [
+    [
+      "2o5jDhtHVPhrJdv3cEQ99Z",
+      "Ti\u00ebsto"
+    ]
+  ],
+  "errors": {
+    "2o5jDhtHVPhrJdv3cEQ99Z": "Failed to fetch enhanced data"
+  },
+  "total": 5,
+  "successful_count": 4,
+  "failed_count": 1,
+  "duration_seconds": 8.02654480934143
+}

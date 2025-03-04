@@ -1,0 +1,84 @@
+2025-03-03 18:01:34,410 - batch_artist_update - WARNING - Artist with ID 4YLtscXsxbVgi031ovDDdh not found in database
+2025-03-03 18:01:34,410 - batch_artist_update - INFO - Found 4 artists to process
+2025-03-03 18:01:34,410 - batch_artist_update - INFO - Starting batch update for 4 artists
+2025-03-03 18:01:34,411 - batch_artist_update - INFO - Fetching enhanced data for artist 76M2Ekj8bG8W7X2nbx2CpF
+2025-03-03 18:01:34,411 - batch_artist_update - INFO - Fetching enhanced data for artist 4tZwfgrHOc3mvqYlEYSvVi
+2025-03-03 18:01:34,412 - batch_artist_update - INFO - Fetching enhanced data for artist 2CIMQHirSU0MQqyYHq0eOx
+2025-03-03 18:01:35,800 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 2CIMQHirSU0MQqyYHq0eOx
+2025-03-03 18:01:35,811 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 4tZwfgrHOc3mvqYlEYSvVi
+2025-03-03 18:01:35,818 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 76M2Ekj8bG8W7X2nbx2CpF
+2025-03-03 18:01:36,801 - batch_artist_update - INFO - Updating database for artist 2CIMQHirSU0MQqyYHq0eOx
+2025-03-03 18:01:36,813 - batch_artist_update - INFO - Updating database for artist 4tZwfgrHOc3mvqYlEYSvVi
+2025-03-03 18:01:36,819 - batch_artist_update - INFO - Updating database for artist 76M2Ekj8bG8W7X2nbx2CpF
+2025-03-03 18:01:37,282 - batch_artist_update - INFO - Successfully updated database for artist 4tZwfgrHOc3mvqYlEYSvVi
+2025-03-03 18:01:37,283 - batch_artist_update - INFO - Successfully processed artist: Daft Punk (4tZwfgrHOc3mvqYlEYSvVi)
+2025-03-03 18:01:37,284 - batch_artist_update - INFO - Fetching enhanced data for artist 1vCWHaC5f2uS3yhpwWbIA6
+2025-03-03 18:01:37,372 - batch_artist_update - INFO - Successfully updated database for artist 2CIMQHirSU0MQqyYHq0eOx
+2025-03-03 18:01:37,373 - batch_artist_update - INFO - Successfully processed artist: deadmau5 (2CIMQHirSU0MQqyYHq0eOx)
+2025-03-03 18:01:37,806 - batch_artist_update - INFO - Successfully updated database for artist 76M2Ekj8bG8W7X2nbx2CpF
+2025-03-03 18:01:37,807 - batch_artist_update - INFO - Successfully processed artist: NGHTMRE (76M2Ekj8bG8W7X2nbx2CpF)
+2025-03-03 18:01:39,674 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 1vCWHaC5f2uS3yhpwWbIA6
+2025-03-03 18:01:40,674 - batch_artist_update - INFO - Updating database for artist 1vCWHaC5f2uS3yhpwWbIA6
+2025-03-03 18:01:41,252 - batch_artist_update - INFO - Successfully updated database for artist 1vCWHaC5f2uS3yhpwWbIA6
+2025-03-03 18:01:41,253 - batch_artist_update - INFO - Successfully processed artist: Avicii (1vCWHaC5f2uS3yhpwWbIA6)
+2025-03-03 18:01:41,254 - batch_artist_update - INFO - Batch update completed in 6.84 seconds
+2025-03-03 18:01:41,254 - batch_artist_update - INFO - Successfully updated 4 out of 4 artists
+2025-03-03 18:01:41,255 - batch_artist_update - INFO - Results saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\batch_update_results_20250303_180141.json
+2025-03-03 18:42:16,385 - batch_artist_update - INFO - Found 5 artists to process
+2025-03-03 18:42:16,385 - batch_artist_update - INFO - Starting batch update for 5 artists
+2025-03-03 18:42:16,386 - batch_artist_update - INFO - Fetching enhanced data for artist 76M2Ekj8bG8W7X2nbx2CpF
+2025-03-03 18:42:16,386 - batch_artist_update - INFO - Fetching enhanced data for artist 4tZwfgrHOc3mvqYlEYSvVi
+2025-03-03 18:42:16,386 - batch_artist_update - INFO - Fetching enhanced data for artist 2CIMQHirSU0MQqyYHq0eOx
+2025-03-03 18:42:17,800 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 4tZwfgrHOc3mvqYlEYSvVi
+2025-03-03 18:42:17,837 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 76M2Ekj8bG8W7X2nbx2CpF
+2025-03-03 18:42:17,854 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 2CIMQHirSU0MQqyYHq0eOx
+2025-03-03 18:42:18,802 - batch_artist_update - INFO - Updating database for artist 4tZwfgrHOc3mvqYlEYSvVi
+2025-03-03 18:42:18,838 - batch_artist_update - INFO - Updating database for artist 76M2Ekj8bG8W7X2nbx2CpF
+2025-03-03 18:42:18,855 - batch_artist_update - INFO - Updating database for artist 2CIMQHirSU0MQqyYHq0eOx
+2025-03-03 18:42:19,918 - batch_artist_update - INFO - Successfully updated database for artist 4tZwfgrHOc3mvqYlEYSvVi
+2025-03-03 18:42:19,919 - batch_artist_update - INFO - Successfully processed artist: Daft Punk (4tZwfgrHOc3mvqYlEYSvVi)
+2025-03-03 18:42:19,920 - batch_artist_update - INFO - Fetching enhanced data for artist 1vCWHaC5f2uS3yhpwWbIA6
+2025-03-03 18:42:19,970 - batch_artist_update - INFO - Successfully updated database for artist 76M2Ekj8bG8W7X2nbx2CpF
+2025-03-03 18:42:19,973 - batch_artist_update - INFO - Successfully processed artist: NGHTMRE (76M2Ekj8bG8W7X2nbx2CpF)
+2025-03-03 18:42:19,974 - batch_artist_update - INFO - Fetching enhanced data for artist 2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:42:20,033 - batch_artist_update - INFO - Successfully updated database for artist 2CIMQHirSU0MQqyYHq0eOx
+2025-03-03 18:42:20,033 - batch_artist_update - INFO - Successfully processed artist: deadmau5 (2CIMQHirSU0MQqyYHq0eOx)
+2025-03-03 18:42:24,988 - batch_artist_update - ERROR - Output files not found for artist 2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:42:24,988 - batch_artist_update - ERROR - Failed to process artist: Tiësto (2o5jDhtHVPhrJdv3cEQ99Z) - Failed to fetch enhanced data
+2025-03-03 18:42:24,989 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 1vCWHaC5f2uS3yhpwWbIA6
+2025-03-03 18:42:25,991 - batch_artist_update - INFO - Updating database for artist 1vCWHaC5f2uS3yhpwWbIA6
+2025-03-03 18:42:26,436 - batch_artist_update - INFO - Successfully updated database for artist 1vCWHaC5f2uS3yhpwWbIA6
+2025-03-03 18:42:26,437 - batch_artist_update - INFO - Successfully processed artist: Avicii (1vCWHaC5f2uS3yhpwWbIA6)
+2025-03-03 18:42:26,437 - batch_artist_update - INFO - Batch update completed in 10.05 seconds
+2025-03-03 18:42:26,437 - batch_artist_update - INFO - Successfully updated 4 out of 5 artists
+2025-03-03 18:42:26,438 - batch_artist_update - INFO - Failed to update 1 artists
+2025-03-03 18:42:26,439 - batch_artist_update - INFO - Results saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\batch_update_results_20250303_184226.json
+2025-03-03 18:43:15,958 - batch_artist_update - INFO - Found 5 artists to process
+2025-03-03 18:43:15,958 - batch_artist_update - INFO - Starting batch update for 5 artists
+2025-03-03 18:43:15,959 - batch_artist_update - INFO - Fetching enhanced data for artist 76M2Ekj8bG8W7X2nbx2CpF
+2025-03-03 18:43:15,959 - batch_artist_update - INFO - Fetching enhanced data for artist 4tZwfgrHOc3mvqYlEYSvVi
+2025-03-03 18:43:15,959 - batch_artist_update - INFO - Fetching enhanced data for artist 2CIMQHirSU0MQqyYHq0eOx
+2025-03-03 18:43:17,153 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 76M2Ekj8bG8W7X2nbx2CpF
+2025-03-03 18:43:17,160 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 4tZwfgrHOc3mvqYlEYSvVi
+2025-03-03 18:43:17,180 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 2CIMQHirSU0MQqyYHq0eOx
+2025-03-03 18:43:18,156 - batch_artist_update - INFO - Updating database for artist 76M2Ekj8bG8W7X2nbx2CpF
+2025-03-03 18:43:18,161 - batch_artist_update - INFO - Updating database for artist 4tZwfgrHOc3mvqYlEYSvVi
+2025-03-03 18:43:18,181 - batch_artist_update - INFO - Updating database for artist 2CIMQHirSU0MQqyYHq0eOx
+2025-03-03 18:43:18,359 - batch_artist_update - INFO - Successfully updated database for artist 76M2Ekj8bG8W7X2nbx2CpF
+2025-03-03 18:43:18,360 - batch_artist_update - INFO - Successfully processed artist: NGHTMRE (76M2Ekj8bG8W7X2nbx2CpF)
+2025-03-03 18:43:18,360 - batch_artist_update - INFO - Fetching enhanced data for artist 1vCWHaC5f2uS3yhpwWbIA6
+2025-03-03 18:43:18,408 - batch_artist_update - INFO - Successfully updated database for artist 4tZwfgrHOc3mvqYlEYSvVi
+2025-03-03 18:43:18,409 - batch_artist_update - INFO - Successfully processed artist: Daft Punk (4tZwfgrHOc3mvqYlEYSvVi)
+2025-03-03 18:43:18,409 - batch_artist_update - INFO - Fetching enhanced data for artist 2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:43:18,466 - batch_artist_update - INFO - Successfully updated database for artist 2CIMQHirSU0MQqyYHq0eOx
+2025-03-03 18:43:18,466 - batch_artist_update - INFO - Successfully processed artist: deadmau5 (2CIMQHirSU0MQqyYHq0eOx)
+2025-03-03 18:43:22,604 - batch_artist_update - ERROR - Output files not found for artist 2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-03 18:43:22,605 - batch_artist_update - ERROR - Failed to process artist: Tiësto (2o5jDhtHVPhrJdv3cEQ99Z) - Failed to fetch enhanced data
+2025-03-03 18:43:22,653 - batch_artist_update - INFO - Successfully fetched enhanced data for artist 1vCWHaC5f2uS3yhpwWbIA6
+2025-03-03 18:43:23,654 - batch_artist_update - INFO - Updating database for artist 1vCWHaC5f2uS3yhpwWbIA6
+2025-03-03 18:43:23,983 - batch_artist_update - INFO - Successfully updated database for artist 1vCWHaC5f2uS3yhpwWbIA6
+2025-03-03 18:43:23,983 - batch_artist_update - INFO - Successfully processed artist: Avicii (1vCWHaC5f2uS3yhpwWbIA6)
+2025-03-03 18:43:23,985 - batch_artist_update - INFO - Batch update completed in 8.03 seconds
+2025-03-03 18:43:23,985 - batch_artist_update - INFO - Successfully updated 4 out of 5 artists
+2025-03-03 18:43:23,985 - batch_artist_update - INFO - Failed to update 1 artists
+2025-03-03 18:43:23,986 - batch_artist_update - INFO - Results saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\batch_update_results_20250303_184323.json
