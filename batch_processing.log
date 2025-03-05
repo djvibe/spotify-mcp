@@ -991,3 +991,505 @@
 2025-03-05 08:31:58,433 - batch_processing - INFO - Cleanup complete: 3 response files and 3 metrics files removed, 0 old batch files removed, 0 errors
 2025-03-05 08:31:58,434 - batch_processing - INFO - Batch processing complete: 3 succeeded, 0 failed
 2025-03-05 08:31:58,435 - batch_processing - INFO - Results saved to output\batch_results_20250305_083158.json
+2025-03-05 08:37:56,006 - spotify_token_manager - INFO - Loaded valid token from file, expires in 3600.0 seconds
+2025-03-05 08:37:56,007 - batch_processing - INFO - Token is valid for 3599 more seconds
+2025-03-05 08:37:56,008 - batch_processing - INFO - Starting batch process for 10 artists
+2025-03-05 08:37:56,009 - batch_processing - INFO -   Mid Tier (7 days): 10 artists
+2025-03-05 08:37:56,009 - batch_processing - INFO - Artists to process (first 5):
+2025-03-05 08:37:56,009 - batch_processing - INFO -   Yotto (5Dyfxq0ZrFjjeFBdSNxDbo)
+2025-03-05 08:37:56,009 - batch_processing - INFO -   Green Velvet (3ABaec4jjl95VqmG1iD4k2)
+2025-03-05 08:37:56,009 - batch_processing - INFO -   Andy C (75HK7rgkmDMTnWwwmcN53N)
+2025-03-05 08:37:56,009 - batch_processing - INFO -   Knife Party (2DuJi13MWHjRHrqRUwk8vH)
+2025-03-05 08:37:56,009 - batch_processing - INFO -   Cosmic Gate (6ySxYu68zTsO5ghsThpGtS)
+2025-03-05 08:37:56,009 - batch_processing - INFO -   ... and 5 more
+2025-03-05 08:37:56,009 - batch_processing - INFO - Processing artist ID: 5Dyfxq0ZrFjjeFBdSNxDbo (Yotto)
+2025-03-05 08:37:56,009 - spotify_partner_api - INFO - Getting detailed info for artist: 5Dyfxq0ZrFjjeFBdSNxDbo
+2025-03-05 08:37:56,545 - batch_processing - INFO - Saved data files for artist 5Dyfxq0ZrFjjeFBdSNxDbo
+2025-03-05 08:37:56,585 - batch_processing - INFO - Database updated for artist 5Dyfxq0ZrFjjeFBdSNxDbo
+2025-03-05 08:37:57,587 - batch_processing - INFO - Processing artist ID: 3ABaec4jjl95VqmG1iD4k2 (Green Velvet)
+2025-03-05 08:37:57,587 - spotify_partner_api - INFO - Getting detailed info for artist: 3ABaec4jjl95VqmG1iD4k2
+2025-03-05 08:37:58,148 - batch_processing - INFO - Saved data files for artist 3ABaec4jjl95VqmG1iD4k2
+2025-03-05 08:37:58,214 - batch_processing - INFO - Database updated for artist 3ABaec4jjl95VqmG1iD4k2
+2025-03-05 08:37:59,223 - batch_processing - INFO - Processing artist ID: 75HK7rgkmDMTnWwwmcN53N (Andy C)
+2025-03-05 08:37:59,223 - spotify_partner_api - INFO - Getting detailed info for artist: 75HK7rgkmDMTnWwwmcN53N
+2025-03-05 08:37:59,731 - batch_processing - INFO - Saved data files for artist 75HK7rgkmDMTnWwwmcN53N
+2025-03-05 08:37:59,791 - batch_processing - INFO - Database updated for artist 75HK7rgkmDMTnWwwmcN53N
+2025-03-05 08:38:00,807 - batch_processing - INFO - Processing artist ID: 2DuJi13MWHjRHrqRUwk8vH (Knife Party)
+2025-03-05 08:38:00,808 - spotify_partner_api - INFO - Getting detailed info for artist: 2DuJi13MWHjRHrqRUwk8vH
+2025-03-05 08:38:01,255 - batch_processing - INFO - Saved data files for artist 2DuJi13MWHjRHrqRUwk8vH
+2025-03-05 08:38:01,293 - batch_processing - INFO - Database updated for artist 2DuJi13MWHjRHrqRUwk8vH
+2025-03-05 08:38:02,307 - batch_processing - INFO - Processing artist ID: 6ySxYu68zTsO5ghsThpGtS (Cosmic Gate)
+2025-03-05 08:38:02,308 - spotify_partner_api - INFO - Getting detailed info for artist: 6ySxYu68zTsO5ghsThpGtS
+2025-03-05 08:38:02,971 - batch_processing - INFO - Saved data files for artist 6ySxYu68zTsO5ghsThpGtS
+2025-03-05 08:38:03,016 - batch_processing - INFO - Database updated for artist 6ySxYu68zTsO5ghsThpGtS
+2025-03-05 08:38:04,028 - batch_processing - INFO - Processing artist ID: 53YSn9tHwGJ6bq5P0gGoYo (Firebeatz)
+2025-03-05 08:38:04,029 - spotify_partner_api - INFO - Getting detailed info for artist: 53YSn9tHwGJ6bq5P0gGoYo
+2025-03-05 08:38:04,634 - batch_processing - INFO - Saved data files for artist 53YSn9tHwGJ6bq5P0gGoYo
+2025-03-05 08:38:04,671 - batch_processing - INFO - Database updated for artist 53YSn9tHwGJ6bq5P0gGoYo
+2025-03-05 08:38:05,676 - batch_processing - INFO - Processing artist ID: 5ttgIeUVka6FLyi00Uu5h8 (Jauz)
+2025-03-05 08:38:05,677 - spotify_partner_api - INFO - Getting detailed info for artist: 5ttgIeUVka6FLyi00Uu5h8
+2025-03-05 08:38:06,163 - batch_processing - INFO - Saved data files for artist 5ttgIeUVka6FLyi00Uu5h8
+2025-03-05 08:38:06,223 - batch_processing - INFO - Database updated for artist 5ttgIeUVka6FLyi00Uu5h8
+2025-03-05 08:38:07,227 - batch_processing - INFO - Processing artist ID: 3dUltShd2gJQc98Kc7Syit (Astrix)
+2025-03-05 08:38:07,228 - spotify_partner_api - INFO - Getting detailed info for artist: 3dUltShd2gJQc98Kc7Syit
+2025-03-05 08:38:07,774 - batch_processing - INFO - Saved data files for artist 3dUltShd2gJQc98Kc7Syit
+2025-03-05 08:38:07,816 - batch_processing - INFO - Database updated for artist 3dUltShd2gJQc98Kc7Syit
+2025-03-05 08:38:08,827 - batch_processing - INFO - Processing artist ID: 4EhiIwwMPecLznwn87sRw2 (Joachim Garraud)
+2025-03-05 08:38:08,829 - spotify_partner_api - INFO - Getting detailed info for artist: 4EhiIwwMPecLznwn87sRw2
+2025-03-05 08:38:09,549 - batch_processing - INFO - Saved data files for artist 4EhiIwwMPecLznwn87sRw2
+2025-03-05 08:38:09,594 - batch_processing - INFO - Database updated for artist 4EhiIwwMPecLznwn87sRw2
+2025-03-05 08:38:10,596 - batch_processing - INFO - Processing artist ID: 1PzAgFVk9v8cxn9flrqrv5 (Joshwa)
+2025-03-05 08:38:10,597 - spotify_partner_api - INFO - Getting detailed info for artist: 1PzAgFVk9v8cxn9flrqrv5
+2025-03-05 08:38:11,087 - batch_processing - INFO - Saved data files for artist 1PzAgFVk9v8cxn9flrqrv5
+2025-03-05 08:38:11,146 - batch_processing - INFO - Database updated for artist 1PzAgFVk9v8cxn9flrqrv5
+2025-03-05 08:38:12,162 - batch_processing - INFO - Cleaning up output files for 10 successfully processed artists
+2025-03-05 08:38:12,177 - batch_processing - INFO - Cleanup complete: 10 response files and 10 metrics files removed, 0 old batch files removed, 0 errors
+2025-03-05 08:38:12,178 - batch_processing - INFO - Batch processing complete: 10 succeeded, 0 failed
+2025-03-05 08:38:12,178 - batch_processing - INFO - Results saved to output\batch_results_20250305_083812.json
+2025-03-05 08:38:39,487 - spotify_token_manager - INFO - Loaded valid token from file, expires in 3600.0 seconds
+2025-03-05 08:38:39,488 - batch_processing - INFO - Token is valid for 3599 more seconds
+2025-03-05 08:38:39,490 - batch_processing - INFO - Starting batch process for 15 artists
+2025-03-05 08:38:39,490 - batch_processing - INFO -   Mid Tier (7 days): 15 artists
+2025-03-05 08:38:39,490 - batch_processing - INFO - Artists to process (first 5):
+2025-03-05 08:38:39,491 - batch_processing - INFO -   Roman Messer (25DnzR3jtrD8StkyyRCvHR)
+2025-03-05 08:38:39,491 - batch_processing - INFO -   Kyle Watson (7LJSAfWhO7jhjnewy6pKyZ)
+2025-03-05 08:38:39,491 - batch_processing - INFO -   Kevin McKay (07VdEUK5mf0rifGeNqs0Wg)
+2025-03-05 08:38:39,491 - batch_processing - INFO -   Marsh (1eucLGnPT27tdEh6MU29wp)
+2025-03-05 08:38:39,491 - batch_processing - INFO -   Carl Cox (19SmlbABtI4bXz864MLqOS)
+2025-03-05 08:38:39,491 - batch_processing - INFO -   ... and 10 more
+2025-03-05 08:38:39,491 - batch_processing - INFO - Processing artist ID: 25DnzR3jtrD8StkyyRCvHR (Roman Messer)
+2025-03-05 08:38:39,491 - spotify_partner_api - INFO - Getting detailed info for artist: 25DnzR3jtrD8StkyyRCvHR
+2025-03-05 08:38:40,115 - batch_processing - INFO - Saved data files for artist 25DnzR3jtrD8StkyyRCvHR
+2025-03-05 08:38:40,164 - batch_processing - INFO - Database updated for artist 25DnzR3jtrD8StkyyRCvHR
+2025-03-05 08:38:41,178 - batch_processing - INFO - Processing artist ID: 7LJSAfWhO7jhjnewy6pKyZ (Kyle Watson)
+2025-03-05 08:38:41,179 - spotify_partner_api - INFO - Getting detailed info for artist: 7LJSAfWhO7jhjnewy6pKyZ
+2025-03-05 08:38:41,749 - batch_processing - INFO - Saved data files for artist 7LJSAfWhO7jhjnewy6pKyZ
+2025-03-05 08:38:41,778 - batch_processing - INFO - Database updated for artist 7LJSAfWhO7jhjnewy6pKyZ
+2025-03-05 08:38:42,795 - batch_processing - INFO - Processing artist ID: 07VdEUK5mf0rifGeNqs0Wg (Kevin McKay)
+2025-03-05 08:38:42,796 - spotify_partner_api - INFO - Getting detailed info for artist: 07VdEUK5mf0rifGeNqs0Wg
+2025-03-05 08:38:43,309 - batch_processing - INFO - Saved data files for artist 07VdEUK5mf0rifGeNqs0Wg
+2025-03-05 08:38:43,328 - batch_processing - INFO - Database updated for artist 07VdEUK5mf0rifGeNqs0Wg
+2025-03-05 08:38:44,330 - batch_processing - INFO - Processing artist ID: 1eucLGnPT27tdEh6MU29wp (Marsh)
+2025-03-05 08:38:44,331 - spotify_partner_api - INFO - Getting detailed info for artist: 1eucLGnPT27tdEh6MU29wp
+2025-03-05 08:38:44,876 - batch_processing - INFO - Saved data files for artist 1eucLGnPT27tdEh6MU29wp
+2025-03-05 08:38:44,928 - batch_processing - INFO - Database updated for artist 1eucLGnPT27tdEh6MU29wp
+2025-03-05 08:38:45,930 - batch_processing - INFO - Processing artist ID: 19SmlbABtI4bXz864MLqOS (Carl Cox)
+2025-03-05 08:38:45,931 - spotify_partner_api - INFO - Getting detailed info for artist: 19SmlbABtI4bXz864MLqOS
+2025-03-05 08:38:46,477 - batch_processing - INFO - Saved data files for artist 19SmlbABtI4bXz864MLqOS
+2025-03-05 08:38:46,527 - batch_processing - INFO - Database updated for artist 19SmlbABtI4bXz864MLqOS
+2025-03-05 08:38:47,528 - batch_processing - INFO - Processing artist ID: 1JPy5PsJtkhftfdr6saN2i (Bassnectar)
+2025-03-05 08:38:47,529 - spotify_partner_api - INFO - Getting detailed info for artist: 1JPy5PsJtkhftfdr6saN2i
+2025-03-05 08:38:48,099 - batch_processing - INFO - Saved data files for artist 1JPy5PsJtkhftfdr6saN2i
+2025-03-05 08:38:48,155 - batch_processing - INFO - Database updated for artist 1JPy5PsJtkhftfdr6saN2i
+2025-03-05 08:38:49,163 - batch_processing - INFO - Processing artist ID: 5MO2kbaGGA2a8kL4c9qqHq (Paul Oakenfold)
+2025-03-05 08:38:49,165 - spotify_partner_api - INFO - Getting detailed info for artist: 5MO2kbaGGA2a8kL4c9qqHq
+2025-03-05 08:38:50,018 - batch_processing - INFO - Saved data files for artist 5MO2kbaGGA2a8kL4c9qqHq
+2025-03-05 08:38:50,058 - batch_processing - INFO - Database updated for artist 5MO2kbaGGA2a8kL4c9qqHq
+2025-03-05 08:38:51,064 - batch_processing - INFO - Processing artist ID: 4j5KBTO4tk7up54ZirNGvK (NERVO)
+2025-03-05 08:38:51,064 - spotify_partner_api - INFO - Getting detailed info for artist: 4j5KBTO4tk7up54ZirNGvK
+2025-03-05 08:38:51,662 - batch_processing - INFO - Saved data files for artist 4j5KBTO4tk7up54ZirNGvK
+2025-03-05 08:38:51,717 - batch_processing - INFO - Database updated for artist 4j5KBTO4tk7up54ZirNGvK
+2025-03-05 08:38:52,731 - batch_processing - INFO - Processing artist ID: 2XiiUuK68XNdHaHOAF5hnT (Curbi)
+2025-03-05 08:38:52,732 - spotify_partner_api - INFO - Getting detailed info for artist: 2XiiUuK68XNdHaHOAF5hnT
+2025-03-05 08:38:53,384 - batch_processing - INFO - Saved data files for artist 2XiiUuK68XNdHaHOAF5hnT
+2025-03-05 08:38:53,406 - batch_processing - INFO - Database updated for artist 2XiiUuK68XNdHaHOAF5hnT
+2025-03-05 08:38:54,416 - batch_processing - INFO - Processing artist ID: 2GVtgxcx7jg5xVCZsIHSGN (Dombresky)
+2025-03-05 08:38:54,418 - spotify_partner_api - INFO - Getting detailed info for artist: 2GVtgxcx7jg5xVCZsIHSGN
+2025-03-05 08:38:55,037 - batch_processing - INFO - Saved data files for artist 2GVtgxcx7jg5xVCZsIHSGN
+2025-03-05 08:38:55,070 - batch_processing - INFO - Database updated for artist 2GVtgxcx7jg5xVCZsIHSGN
+2025-03-05 08:38:56,085 - batch_processing - INFO - Processing artist ID: 2T86EVnDCP64EaVKRXIcRx (Guz)
+2025-03-05 08:38:56,086 - spotify_partner_api - INFO - Getting detailed info for artist: 2T86EVnDCP64EaVKRXIcRx
+2025-03-05 08:38:56,607 - batch_processing - INFO - Saved data files for artist 2T86EVnDCP64EaVKRXIcRx
+2025-03-05 08:38:56,648 - batch_processing - INFO - Database updated for artist 2T86EVnDCP64EaVKRXIcRx
+2025-03-05 08:38:57,652 - batch_processing - INFO - Processing artist ID: 4DE0cYxMnEEmfKLwDkYwxb (Erick Morillo)
+2025-03-05 08:38:57,653 - spotify_partner_api - INFO - Getting detailed info for artist: 4DE0cYxMnEEmfKLwDkYwxb
+2025-03-05 08:38:58,243 - batch_processing - INFO - Saved data files for artist 4DE0cYxMnEEmfKLwDkYwxb
+2025-03-05 08:38:58,293 - batch_processing - INFO - Database updated for artist 4DE0cYxMnEEmfKLwDkYwxb
+2025-03-05 08:38:59,303 - batch_processing - INFO - Processing artist ID: 3Ij56hbjOTHq8RgutQwfxC (Radical Redemption)
+2025-03-05 08:38:59,304 - spotify_partner_api - INFO - Getting detailed info for artist: 3Ij56hbjOTHq8RgutQwfxC
+2025-03-05 08:38:59,856 - batch_processing - INFO - Saved data files for artist 3Ij56hbjOTHq8RgutQwfxC
+2025-03-05 08:38:59,888 - batch_processing - INFO - Database updated for artist 3Ij56hbjOTHq8RgutQwfxC
+2025-03-05 08:39:00,901 - batch_processing - INFO - Processing artist ID: 5B9q1NRokzWYB7nSgnlHyv (Giuseppe Ottaviani)
+2025-03-05 08:39:00,901 - spotify_partner_api - INFO - Getting detailed info for artist: 5B9q1NRokzWYB7nSgnlHyv
+2025-03-05 08:39:01,553 - batch_processing - INFO - Saved data files for artist 5B9q1NRokzWYB7nSgnlHyv
+2025-03-05 08:39:01,582 - batch_processing - INFO - Database updated for artist 5B9q1NRokzWYB7nSgnlHyv
+2025-03-05 08:39:02,588 - batch_processing - INFO - Processing artist ID: 5jBerZvTAajwYvdxt3UhgU (San Pacho)
+2025-03-05 08:39:02,589 - spotify_partner_api - INFO - Getting detailed info for artist: 5jBerZvTAajwYvdxt3UhgU
+2025-03-05 08:39:03,072 - batch_processing - INFO - Saved data files for artist 5jBerZvTAajwYvdxt3UhgU
+2025-03-05 08:39:03,109 - batch_processing - INFO - Database updated for artist 5jBerZvTAajwYvdxt3UhgU
+2025-03-05 08:39:04,121 - batch_processing - INFO - Cleaning up output files for 15 successfully processed artists
+2025-03-05 08:39:04,148 - batch_processing - INFO - Cleanup complete: 15 response files and 15 metrics files removed, 0 old batch files removed, 0 errors
+2025-03-05 08:39:04,148 - batch_processing - INFO - Batch processing complete: 15 succeeded, 0 failed
+2025-03-05 08:39:04,148 - batch_processing - INFO - Results saved to output\batch_results_20250305_083904.json
+2025-03-05 08:39:36,313 - spotify_token_manager - INFO - Loaded valid token from file, expires in 3600.0 seconds
+2025-03-05 08:39:36,314 - batch_processing - INFO - Token is valid for 3599 more seconds
+2025-03-05 08:39:36,316 - batch_processing - INFO - Starting batch process for 15 artists
+2025-03-05 08:39:36,316 - batch_processing - INFO -   Mid Tier (7 days): 5 artists
+2025-03-05 08:39:36,316 - batch_processing - INFO -   Lower Tier (14 days): 10 artists
+2025-03-05 08:39:36,316 - batch_processing - INFO - Artists to process (first 5):
+2025-03-05 08:39:36,316 - batch_processing - INFO -   OFFAIAH (2E1NFr5AeEGUJkLUUsWCAO)
+2025-03-05 08:39:36,316 - batch_processing - INFO -   Riva Starr (1TRFAJu3Cw64APToZaGk9D)
+2025-03-05 08:39:36,317 - batch_processing - INFO -   Space Motion (1k7iyyK6j5IJzF0cUMcaGY)
+2025-03-05 08:39:36,317 - batch_processing - INFO -   Franky Wah (3IG3Ub4ra8AuSxCFDVkVco)
+2025-03-05 08:39:36,317 - batch_processing - INFO -   SMACK (5uJw4WCX5nYj4FHky9r1Ug)
+2025-03-05 08:39:36,317 - batch_processing - INFO -   ... and 10 more
+2025-03-05 08:39:36,317 - batch_processing - INFO - Processing artist ID: 2E1NFr5AeEGUJkLUUsWCAO (OFFAIAH)
+2025-03-05 08:39:36,317 - spotify_partner_api - INFO - Getting detailed info for artist: 2E1NFr5AeEGUJkLUUsWCAO
+2025-03-05 08:39:36,861 - batch_processing - INFO - Saved data files for artist 2E1NFr5AeEGUJkLUUsWCAO
+2025-03-05 08:39:37,693 - batch_processing - INFO - Database updated for artist 2E1NFr5AeEGUJkLUUsWCAO
+2025-03-05 08:39:38,705 - batch_processing - INFO - Processing artist ID: 1TRFAJu3Cw64APToZaGk9D (Riva Starr)
+2025-03-05 08:39:38,705 - spotify_partner_api - INFO - Getting detailed info for artist: 1TRFAJu3Cw64APToZaGk9D
+2025-03-05 08:39:39,387 - batch_processing - INFO - Saved data files for artist 1TRFAJu3Cw64APToZaGk9D
+2025-03-05 08:39:39,413 - batch_processing - INFO - Database updated for artist 1TRFAJu3Cw64APToZaGk9D
+2025-03-05 08:39:40,420 - batch_processing - INFO - Processing artist ID: 1k7iyyK6j5IJzF0cUMcaGY (Space Motion)
+2025-03-05 08:39:40,421 - spotify_partner_api - INFO - Getting detailed info for artist: 1k7iyyK6j5IJzF0cUMcaGY
+2025-03-05 08:39:41,088 - batch_processing - INFO - Saved data files for artist 1k7iyyK6j5IJzF0cUMcaGY
+2025-03-05 08:39:41,144 - batch_processing - INFO - Database updated for artist 1k7iyyK6j5IJzF0cUMcaGY
+2025-03-05 08:39:42,154 - batch_processing - INFO - Processing artist ID: 3IG3Ub4ra8AuSxCFDVkVco (Franky Wah)
+2025-03-05 08:39:42,155 - spotify_partner_api - INFO - Getting detailed info for artist: 3IG3Ub4ra8AuSxCFDVkVco
+2025-03-05 08:39:42,676 - batch_processing - INFO - Saved data files for artist 3IG3Ub4ra8AuSxCFDVkVco
+2025-03-05 08:39:42,724 - batch_processing - INFO - Database updated for artist 3IG3Ub4ra8AuSxCFDVkVco
+2025-03-05 08:39:43,727 - batch_processing - INFO - Processing artist ID: 5uJw4WCX5nYj4FHky9r1Ug (SMACK)
+2025-03-05 08:39:43,728 - spotify_partner_api - INFO - Getting detailed info for artist: 5uJw4WCX5nYj4FHky9r1Ug
+2025-03-05 08:39:44,257 - batch_processing - INFO - Saved data files for artist 5uJw4WCX5nYj4FHky9r1Ug
+2025-03-05 08:39:44,298 - batch_processing - INFO - Database updated for artist 5uJw4WCX5nYj4FHky9r1Ug
+2025-03-05 08:39:45,300 - batch_processing - INFO - Processing artist ID: 6n1t55WMsSIUFHrAL4mUsB (Pete Tong)
+2025-03-05 08:39:45,301 - spotify_partner_api - INFO - Getting detailed info for artist: 6n1t55WMsSIUFHrAL4mUsB
+2025-03-05 08:39:45,854 - batch_processing - INFO - Saved data files for artist 6n1t55WMsSIUFHrAL4mUsB
+2025-03-05 08:39:45,898 - batch_processing - INFO - Database updated for artist 6n1t55WMsSIUFHrAL4mUsB
+2025-03-05 08:39:46,906 - batch_processing - INFO - Processing artist ID: 3PYRXP25JcbqhvNaJYcnWy (OMNOM)
+2025-03-05 08:39:46,907 - spotify_partner_api - INFO - Getting detailed info for artist: 3PYRXP25JcbqhvNaJYcnWy
+2025-03-05 08:39:47,459 - batch_processing - INFO - Saved data files for artist 3PYRXP25JcbqhvNaJYcnWy
+2025-03-05 08:39:47,501 - batch_processing - INFO - Database updated for artist 3PYRXP25JcbqhvNaJYcnWy
+2025-03-05 08:39:48,511 - batch_processing - INFO - Processing artist ID: 1Xv1qZHJ1hnRlWHRTZ3uci (DANNY AVILA)
+2025-03-05 08:39:48,512 - spotify_partner_api - INFO - Getting detailed info for artist: 1Xv1qZHJ1hnRlWHRTZ3uci
+2025-03-05 08:39:49,011 - batch_processing - INFO - Saved data files for artist 1Xv1qZHJ1hnRlWHRTZ3uci
+2025-03-05 08:39:49,053 - batch_processing - INFO - Database updated for artist 1Xv1qZHJ1hnRlWHRTZ3uci
+2025-03-05 08:39:50,067 - batch_processing - INFO - Processing artist ID: 6qJ61DomA73g7jQEKESw9Z (Noisecontrollers)
+2025-03-05 08:39:50,068 - spotify_partner_api - INFO - Getting detailed info for artist: 6qJ61DomA73g7jQEKESw9Z
+2025-03-05 08:39:50,673 - batch_processing - INFO - Saved data files for artist 6qJ61DomA73g7jQEKESw9Z
+2025-03-05 08:39:50,714 - batch_processing - INFO - Database updated for artist 6qJ61DomA73g7jQEKESw9Z
+2025-03-05 08:39:51,719 - batch_processing - INFO - Processing artist ID: 2g9i2kA0jUr6sfAT28l2vL (James Hurr)
+2025-03-05 08:39:51,720 - spotify_partner_api - INFO - Getting detailed info for artist: 2g9i2kA0jUr6sfAT28l2vL
+2025-03-05 08:39:52,331 - batch_processing - INFO - Saved data files for artist 2g9i2kA0jUr6sfAT28l2vL
+2025-03-05 08:39:52,380 - batch_processing - INFO - Database updated for artist 2g9i2kA0jUr6sfAT28l2vL
+2025-03-05 08:39:53,387 - batch_processing - INFO - Processing artist ID: 64KfnYe81Wld2AkG4bkGIV (Gabriel & Dresden)
+2025-03-05 08:39:53,388 - spotify_partner_api - INFO - Getting detailed info for artist: 64KfnYe81Wld2AkG4bkGIV
+2025-03-05 08:39:53,968 - batch_processing - INFO - Saved data files for artist 64KfnYe81Wld2AkG4bkGIV
+2025-03-05 08:39:54,018 - batch_processing - INFO - Database updated for artist 64KfnYe81Wld2AkG4bkGIV
+2025-03-05 08:39:55,023 - batch_processing - INFO - Processing artist ID: 00sAT5YX8W3xNd1EuqyHw9 (Dada Life)
+2025-03-05 08:39:55,024 - spotify_partner_api - INFO - Getting detailed info for artist: 00sAT5YX8W3xNd1EuqyHw9
+2025-03-05 08:39:55,571 - batch_processing - INFO - Saved data files for artist 00sAT5YX8W3xNd1EuqyHw9
+2025-03-05 08:39:55,600 - batch_processing - INFO - Database updated for artist 00sAT5YX8W3xNd1EuqyHw9
+2025-03-05 08:39:56,612 - batch_processing - INFO - Processing artist ID: 4mpJaw5y17CIN08qqe8EfB (Hernan Cattaneo)
+2025-03-05 08:39:56,613 - spotify_partner_api - INFO - Getting detailed info for artist: 4mpJaw5y17CIN08qqe8EfB
+2025-03-05 08:39:57,266 - batch_processing - INFO - Saved data files for artist 4mpJaw5y17CIN08qqe8EfB
+2025-03-05 08:39:57,314 - batch_processing - INFO - Database updated for artist 4mpJaw5y17CIN08qqe8EfB
+2025-03-05 08:39:58,329 - batch_processing - INFO - Processing artist ID: 22bukBZvUppuwQwmDz75Gz (Sander van Doorn)
+2025-03-05 08:39:58,329 - spotify_partner_api - INFO - Getting detailed info for artist: 22bukBZvUppuwQwmDz75Gz
+2025-03-05 08:39:58,986 - batch_processing - INFO - Saved data files for artist 22bukBZvUppuwQwmDz75Gz
+2025-03-05 08:39:59,044 - batch_processing - INFO - Database updated for artist 22bukBZvUppuwQwmDz75Gz
+2025-03-05 08:40:00,057 - batch_processing - INFO - Processing artist ID: 27Z5l2Kfy1IaYZMg5INWqO (Zatox)
+2025-03-05 08:40:00,057 - spotify_partner_api - INFO - Getting detailed info for artist: 27Z5l2Kfy1IaYZMg5INWqO
+2025-03-05 08:40:01,302 - batch_processing - INFO - Saved data files for artist 27Z5l2Kfy1IaYZMg5INWqO
+2025-03-05 08:40:01,353 - batch_processing - INFO - Database updated for artist 27Z5l2Kfy1IaYZMg5INWqO
+2025-03-05 08:40:02,365 - batch_processing - INFO - Cleaning up output files for 15 successfully processed artists
+2025-03-05 08:40:02,382 - batch_processing - INFO - Cleanup complete: 15 response files and 15 metrics files removed, 0 old batch files removed, 0 errors
+2025-03-05 08:40:02,382 - batch_processing - INFO - Batch processing complete: 15 succeeded, 0 failed
+2025-03-05 08:40:02,382 - batch_processing - INFO - Results saved to output\batch_results_20250305_084002.json
+2025-03-05 08:40:35,446 - spotify_token_manager - INFO - Loaded valid token from file, expires in 3600.0 seconds
+2025-03-05 08:40:35,447 - batch_processing - INFO - Token is valid for 3599 more seconds
+2025-03-05 08:40:35,449 - batch_processing - INFO - Starting batch process for 15 artists
+2025-03-05 08:40:35,449 - batch_processing - INFO -   Lower Tier (14 days): 15 artists
+2025-03-05 08:40:35,449 - batch_processing - INFO - Artists to process (first 5):
+2025-03-05 08:40:35,449 - batch_processing - INFO -   Tony Romera (7GQsOji7pfixzkLt63awo5)
+2025-03-05 08:40:35,450 - batch_processing - INFO -   Pickle (3RuyFkjMNXXXabK3bH5DQt)
+2025-03-05 08:40:35,450 - batch_processing - INFO -   Riordan (68rU1sdZ0HjxjEC5YnSmao)
+2025-03-05 08:40:35,450 - batch_processing - INFO -   Aly & Fila (2hL1EouqXLtBEB6JKnPF0h)
+2025-03-05 08:40:35,450 - batch_processing - INFO -   Frontliner (7momuad2Twkv5O7MY3dODa)
+2025-03-05 08:40:35,450 - batch_processing - INFO -   ... and 10 more
+2025-03-05 08:40:35,450 - batch_processing - INFO - Processing artist ID: 7GQsOji7pfixzkLt63awo5 (Tony Romera)
+2025-03-05 08:40:35,450 - spotify_partner_api - INFO - Getting detailed info for artist: 7GQsOji7pfixzkLt63awo5
+2025-03-05 08:40:36,110 - batch_processing - INFO - Saved data files for artist 7GQsOji7pfixzkLt63awo5
+2025-03-05 08:40:36,151 - batch_processing - INFO - Database updated for artist 7GQsOji7pfixzkLt63awo5
+2025-03-05 08:40:37,166 - batch_processing - INFO - Processing artist ID: 3RuyFkjMNXXXabK3bH5DQt (Pickle)
+2025-03-05 08:40:37,167 - spotify_partner_api - INFO - Getting detailed info for artist: 3RuyFkjMNXXXabK3bH5DQt
+2025-03-05 08:40:37,720 - batch_processing - INFO - Saved data files for artist 3RuyFkjMNXXXabK3bH5DQt
+2025-03-05 08:40:37,751 - batch_processing - INFO - Database updated for artist 3RuyFkjMNXXXabK3bH5DQt
+2025-03-05 08:40:38,756 - batch_processing - INFO - Processing artist ID: 68rU1sdZ0HjxjEC5YnSmao (Riordan)
+2025-03-05 08:40:38,756 - spotify_partner_api - INFO - Getting detailed info for artist: 68rU1sdZ0HjxjEC5YnSmao
+2025-03-05 08:40:39,247 - batch_processing - INFO - Saved data files for artist 68rU1sdZ0HjxjEC5YnSmao
+2025-03-05 08:40:39,269 - batch_processing - INFO - Database updated for artist 68rU1sdZ0HjxjEC5YnSmao
+2025-03-05 08:40:40,280 - batch_processing - INFO - Processing artist ID: 2hL1EouqXLtBEB6JKnPF0h (Aly & Fila)
+2025-03-05 08:40:40,281 - spotify_partner_api - INFO - Getting detailed info for artist: 2hL1EouqXLtBEB6JKnPF0h
+2025-03-05 08:40:40,962 - batch_processing - INFO - Saved data files for artist 2hL1EouqXLtBEB6JKnPF0h
+2025-03-05 08:40:41,011 - batch_processing - INFO - Database updated for artist 2hL1EouqXLtBEB6JKnPF0h
+2025-03-05 08:40:42,012 - batch_processing - INFO - Processing artist ID: 7momuad2Twkv5O7MY3dODa (Frontliner)
+2025-03-05 08:40:42,013 - spotify_partner_api - INFO - Getting detailed info for artist: 7momuad2Twkv5O7MY3dODa
+2025-03-05 08:40:42,523 - batch_processing - INFO - Saved data files for artist 7momuad2Twkv5O7MY3dODa
+2025-03-05 08:40:42,573 - batch_processing - INFO - Database updated for artist 7momuad2Twkv5O7MY3dODa
+2025-03-05 08:40:43,586 - batch_processing - INFO - Processing artist ID: 720JYpdCgHuTmDeryW0wEA (Deep Dish)
+2025-03-05 08:40:43,587 - spotify_partner_api - INFO - Getting detailed info for artist: 720JYpdCgHuTmDeryW0wEA
+2025-03-05 08:40:44,151 - batch_processing - INFO - Saved data files for artist 720JYpdCgHuTmDeryW0wEA
+2025-03-05 08:40:44,204 - batch_processing - INFO - Database updated for artist 720JYpdCgHuTmDeryW0wEA
+2025-03-05 08:40:45,207 - batch_processing - INFO - Processing artist ID: 7u160I5qtBYZTQMLEIJmyz (Borgore)
+2025-03-05 08:40:45,208 - spotify_partner_api - INFO - Getting detailed info for artist: 7u160I5qtBYZTQMLEIJmyz
+2025-03-05 08:40:45,657 - batch_processing - INFO - Saved data files for artist 7u160I5qtBYZTQMLEIJmyz
+2025-03-05 08:40:45,717 - batch_processing - INFO - Database updated for artist 7u160I5qtBYZTQMLEIJmyz
+2025-03-05 08:40:46,733 - batch_processing - INFO - Processing artist ID: 1bpzpALZwOoKXzwMg2i8WB (Dirty South)
+2025-03-05 08:40:46,734 - spotify_partner_api - INFO - Getting detailed info for artist: 1bpzpALZwOoKXzwMg2i8WB
+2025-03-05 08:40:47,317 - batch_processing - INFO - Saved data files for artist 1bpzpALZwOoKXzwMg2i8WB
+2025-03-05 08:40:47,384 - batch_processing - INFO - Database updated for artist 1bpzpALZwOoKXzwMg2i8WB
+2025-03-05 08:40:48,386 - batch_processing - INFO - Processing artist ID: 7wne8sUhTAJdIsnuO4GjnR (Richard Durand)
+2025-03-05 08:40:48,387 - spotify_partner_api - INFO - Getting detailed info for artist: 7wne8sUhTAJdIsnuO4GjnR
+2025-03-05 08:40:48,938 - batch_processing - INFO - Saved data files for artist 7wne8sUhTAJdIsnuO4GjnR
+2025-03-05 08:40:48,994 - batch_processing - INFO - Database updated for artist 7wne8sUhTAJdIsnuO4GjnR
+2025-03-05 08:40:50,007 - batch_processing - INFO - Processing artist ID: 6eZxwKfQWK4d5sLOlauR1Y (BLR)
+2025-03-05 08:40:50,008 - spotify_partner_api - INFO - Getting detailed info for artist: 6eZxwKfQWK4d5sLOlauR1Y
+2025-03-05 08:40:50,660 - batch_processing - INFO - Saved data files for artist 6eZxwKfQWK4d5sLOlauR1Y
+2025-03-05 08:40:50,715 - batch_processing - INFO - Database updated for artist 6eZxwKfQWK4d5sLOlauR1Y
+2025-03-05 08:40:51,722 - batch_processing - INFO - Processing artist ID: 1xfLBmx0n8DQri9HxJsq9O (Kryder)
+2025-03-05 08:40:51,723 - spotify_partner_api - INFO - Getting detailed info for artist: 1xfLBmx0n8DQri9HxJsq9O
+2025-03-05 08:40:52,376 - batch_processing - INFO - Saved data files for artist 1xfLBmx0n8DQri9HxJsq9O
+2025-03-05 08:40:52,412 - batch_processing - INFO - Database updated for artist 1xfLBmx0n8DQri9HxJsq9O
+2025-03-05 08:40:53,421 - batch_processing - INFO - Processing artist ID: 4CrDEHL7ysNabeYvL3xjUX (Skytech)
+2025-03-05 08:40:53,422 - spotify_partner_api - INFO - Getting detailed info for artist: 4CrDEHL7ysNabeYvL3xjUX
+2025-03-05 08:40:53,950 - batch_processing - INFO - Saved data files for artist 4CrDEHL7ysNabeYvL3xjUX
+2025-03-05 08:40:54,013 - batch_processing - INFO - Database updated for artist 4CrDEHL7ysNabeYvL3xjUX
+2025-03-05 08:40:55,025 - batch_processing - INFO - Processing artist ID: 0oPeHAZ3BpdlD8EyeBLady (HÄWK)
+2025-03-05 08:40:55,025 - spotify_partner_api - INFO - Getting detailed info for artist: 0oPeHAZ3BpdlD8EyeBLady
+2025-03-05 08:40:55,583 - batch_processing - INFO - Saved data files for artist 0oPeHAZ3BpdlD8EyeBLady
+2025-03-05 08:40:55,604 - batch_processing - INFO - Database updated for artist 0oPeHAZ3BpdlD8EyeBLady
+2025-03-05 08:40:56,614 - batch_processing - INFO - Processing artist ID: 21AUdblPrTRzkvJn8FGrlk (NITTI)
+2025-03-05 08:40:56,615 - spotify_partner_api - INFO - Getting detailed info for artist: 21AUdblPrTRzkvJn8FGrlk
+2025-03-05 08:40:57,144 - batch_processing - INFO - Saved data files for artist 21AUdblPrTRzkvJn8FGrlk
+2025-03-05 08:40:57,175 - batch_processing - INFO - Database updated for artist 21AUdblPrTRzkvJn8FGrlk
+2025-03-05 08:40:58,188 - batch_processing - INFO - Processing artist ID: 6H2JQ8igAAa5UBr2u496mb (John O'Callaghan)
+2025-03-05 08:40:58,188 - spotify_partner_api - INFO - Getting detailed info for artist: 6H2JQ8igAAa5UBr2u496mb
+2025-03-05 08:40:58,854 - batch_processing - INFO - Saved data files for artist 6H2JQ8igAAa5UBr2u496mb
+2025-03-05 08:40:58,904 - batch_processing - INFO - Database updated for artist 6H2JQ8igAAa5UBr2u496mb
+2025-03-05 08:40:59,919 - batch_processing - INFO - Cleaning up output files for 15 successfully processed artists
+2025-03-05 08:41:00,000 - batch_processing - INFO - Cleanup complete: 15 response files and 15 metrics files removed, 0 old batch files removed, 0 errors
+2025-03-05 08:41:00,001 - batch_processing - INFO - Batch processing complete: 15 succeeded, 0 failed
+2025-03-05 08:41:00,003 - batch_processing - INFO - Results saved to output\batch_results_20250305_084100.json
+2025-03-05 08:41:56,712 - spotify_token_manager - INFO - Loaded valid token from file, expires in 3600.0 seconds
+2025-03-05 08:41:56,713 - batch_processing - INFO - Token is valid for 3599 more seconds
+2025-03-05 08:41:56,715 - batch_processing - INFO - Starting batch process for 15 artists
+2025-03-05 08:41:56,715 - batch_processing - INFO -   Lower Tier (14 days): 15 artists
+2025-03-05 08:41:56,715 - batch_processing - INFO - Artists to process (first 5):
+2025-03-05 08:41:56,715 - batch_processing - INFO -   CASSIMM (1dA7pt23MNLlDsLpABATtG)
+2025-03-05 08:41:56,715 - batch_processing - INFO -   Piero Pirupa (5FD9tbbiWd6th8FaOdCtnB)
+2025-03-05 08:41:56,715 - batch_processing - INFO -   Low Steppa (5OImcY3khBn9UFjzgaapob)
+2025-03-05 08:41:56,716 - batch_processing - INFO -   Plastik Funk (7wmCy21VjfmbP8DznMJe8v)
+2025-03-05 08:41:56,716 - batch_processing - INFO -   Talla 2XLC (4cc7cII4mEQqKtczWKQVjJ)
+2025-03-05 08:41:56,716 - batch_processing - INFO -   ... and 10 more
+2025-03-05 08:41:56,716 - batch_processing - INFO - Processing artist ID: 1dA7pt23MNLlDsLpABATtG (CASSIMM)
+2025-03-05 08:41:56,716 - spotify_partner_api - INFO - Getting detailed info for artist: 1dA7pt23MNLlDsLpABATtG
+2025-03-05 08:41:57,262 - batch_processing - INFO - Saved data files for artist 1dA7pt23MNLlDsLpABATtG
+2025-03-05 08:41:57,313 - batch_processing - INFO - Database updated for artist 1dA7pt23MNLlDsLpABATtG
+2025-03-05 08:41:58,328 - batch_processing - INFO - Processing artist ID: 5FD9tbbiWd6th8FaOdCtnB (Piero Pirupa)
+2025-03-05 08:41:58,328 - spotify_partner_api - INFO - Getting detailed info for artist: 5FD9tbbiWd6th8FaOdCtnB
+2025-03-05 08:41:58,857 - batch_processing - INFO - Saved data files for artist 5FD9tbbiWd6th8FaOdCtnB
+2025-03-05 08:41:58,881 - batch_processing - INFO - Database updated for artist 5FD9tbbiWd6th8FaOdCtnB
+2025-03-05 08:41:59,884 - batch_processing - INFO - Processing artist ID: 5OImcY3khBn9UFjzgaapob (Low Steppa)
+2025-03-05 08:41:59,884 - spotify_partner_api - INFO - Getting detailed info for artist: 5OImcY3khBn9UFjzgaapob
+2025-03-05 08:42:00,790 - batch_processing - INFO - Saved data files for artist 5OImcY3khBn9UFjzgaapob
+2025-03-05 08:42:00,816 - batch_processing - INFO - Database updated for artist 5OImcY3khBn9UFjzgaapob
+2025-03-05 08:42:01,822 - batch_processing - INFO - Processing artist ID: 7wmCy21VjfmbP8DznMJe8v (Plastik Funk)
+2025-03-05 08:42:01,822 - spotify_partner_api - INFO - Getting detailed info for artist: 7wmCy21VjfmbP8DznMJe8v
+2025-03-05 08:42:02,582 - batch_processing - INFO - Saved data files for artist 7wmCy21VjfmbP8DznMJe8v
+2025-03-05 08:42:02,632 - batch_processing - INFO - Database updated for artist 7wmCy21VjfmbP8DznMJe8v
+2025-03-05 08:42:03,648 - batch_processing - INFO - Processing artist ID: 4cc7cII4mEQqKtczWKQVjJ (Talla 2XLC)
+2025-03-05 08:42:03,649 - spotify_partner_api - INFO - Getting detailed info for artist: 4cc7cII4mEQqKtczWKQVjJ
+2025-03-05 08:42:04,527 - batch_processing - INFO - Saved data files for artist 4cc7cII4mEQqKtczWKQVjJ
+2025-03-05 08:42:04,567 - batch_processing - INFO - Database updated for artist 4cc7cII4mEQqKtczWKQVjJ
+2025-03-05 08:42:05,569 - batch_processing - INFO - Processing artist ID: 1FGLT6mEhIrPhgqYiU57ro (VINNE)
+2025-03-05 08:42:05,569 - spotify_partner_api - INFO - Getting detailed info for artist: 1FGLT6mEhIrPhgqYiU57ro
+2025-03-05 08:42:06,170 - batch_processing - INFO - Saved data files for artist 1FGLT6mEhIrPhgqYiU57ro
+2025-03-05 08:42:06,227 - batch_processing - INFO - Database updated for artist 1FGLT6mEhIrPhgqYiU57ro
+2025-03-05 08:42:07,239 - batch_processing - INFO - Processing artist ID: 5WiohqjMNs7MtChjoHE9D1 (Marco Lys)
+2025-03-05 08:42:07,240 - spotify_partner_api - INFO - Getting detailed info for artist: 5WiohqjMNs7MtChjoHE9D1
+2025-03-05 08:42:08,393 - batch_processing - INFO - Saved data files for artist 5WiohqjMNs7MtChjoHE9D1
+2025-03-05 08:42:08,448 - batch_processing - INFO - Database updated for artist 5WiohqjMNs7MtChjoHE9D1
+2025-03-05 08:42:09,463 - batch_processing - INFO - Processing artist ID: 2BWfZGPtsjRlRp7JTDqI45 (Boy George)
+2025-03-05 08:42:09,463 - spotify_partner_api - INFO - Getting detailed info for artist: 2BWfZGPtsjRlRp7JTDqI45
+2025-03-05 08:42:10,084 - batch_processing - INFO - Saved data files for artist 2BWfZGPtsjRlRp7JTDqI45
+2025-03-05 08:42:10,133 - batch_processing - INFO - Database updated for artist 2BWfZGPtsjRlRp7JTDqI45
+2025-03-05 08:42:11,146 - batch_processing - INFO - Processing artist ID: 4BTcOR2hEQZQQL5AMo5u10 (Rusko)
+2025-03-05 08:42:11,147 - spotify_partner_api - INFO - Getting detailed info for artist: 4BTcOR2hEQZQQL5AMo5u10
+2025-03-05 08:42:11,734 - batch_processing - INFO - Saved data files for artist 4BTcOR2hEQZQQL5AMo5u10
+2025-03-05 08:42:11,781 - batch_processing - INFO - Database updated for artist 4BTcOR2hEQZQQL5AMo5u10
+2025-03-05 08:42:12,799 - batch_processing - INFO - Processing artist ID: 6OO0PboZcIWUWL7j2IyeoL (Markus Schulz)
+2025-03-05 08:42:12,799 - spotify_partner_api - INFO - Getting detailed info for artist: 6OO0PboZcIWUWL7j2IyeoL
+2025-03-05 08:42:14,037 - batch_processing - INFO - Saved data files for artist 6OO0PboZcIWUWL7j2IyeoL
+2025-03-05 08:42:14,091 - batch_processing - INFO - Database updated for artist 6OO0PboZcIWUWL7j2IyeoL
+2025-03-05 08:42:15,102 - batch_processing - INFO - Processing artist ID: 1YuNQvsvOsMBm0ahbxB8qM (Orjan Nilsen)
+2025-03-05 08:42:15,103 - spotify_partner_api - INFO - Getting detailed info for artist: 1YuNQvsvOsMBm0ahbxB8qM
+2025-03-05 08:42:15,869 - batch_processing - INFO - Saved data files for artist 1YuNQvsvOsMBm0ahbxB8qM
+2025-03-05 08:42:15,943 - batch_processing - INFO - Database updated for artist 1YuNQvsvOsMBm0ahbxB8qM
+2025-03-05 08:42:16,945 - batch_processing - INFO - Processing artist ID: 66MrdPDHTjnnMOTBmC81q5 (Thomas Newson)
+2025-03-05 08:42:16,946 - spotify_partner_api - INFO - Getting detailed info for artist: 66MrdPDHTjnnMOTBmC81q5
+2025-03-05 08:42:17,554 - batch_processing - INFO - Saved data files for artist 66MrdPDHTjnnMOTBmC81q5
+2025-03-05 08:42:17,621 - batch_processing - INFO - Database updated for artist 66MrdPDHTjnnMOTBmC81q5
+2025-03-05 08:42:18,629 - batch_processing - INFO - Processing artist ID: 6oIoaURalGEtkYTswOLoft (Crusy)
+2025-03-05 08:42:18,630 - spotify_partner_api - INFO - Getting detailed info for artist: 6oIoaURalGEtkYTswOLoft
+2025-03-05 08:42:19,241 - batch_processing - INFO - Saved data files for artist 6oIoaURalGEtkYTswOLoft
+2025-03-05 08:42:19,280 - batch_processing - INFO - Database updated for artist 6oIoaURalGEtkYTswOLoft
+2025-03-05 08:42:20,281 - batch_processing - INFO - Processing artist ID: 5Hini2nQyoglzpdKe41cZt (UMEK)
+2025-03-05 08:42:20,282 - spotify_partner_api - INFO - Getting detailed info for artist: 5Hini2nQyoglzpdKe41cZt
+2025-03-05 08:42:20,845 - batch_processing - INFO - Saved data files for artist 5Hini2nQyoglzpdKe41cZt
+2025-03-05 08:42:20,876 - batch_processing - INFO - Database updated for artist 5Hini2nQyoglzpdKe41cZt
+2025-03-05 08:42:21,885 - batch_processing - INFO - Processing artist ID: 3534yWWzmxx8NbKVoNolsK (Wolfgang Gartner)
+2025-03-05 08:42:21,886 - spotify_partner_api - INFO - Getting detailed info for artist: 3534yWWzmxx8NbKVoNolsK
+2025-03-05 08:42:22,446 - batch_processing - INFO - Saved data files for artist 3534yWWzmxx8NbKVoNolsK
+2025-03-05 08:42:22,505 - batch_processing - INFO - Database updated for artist 3534yWWzmxx8NbKVoNolsK
+2025-03-05 08:42:23,521 - batch_processing - INFO - Cleaning up output files for 15 successfully processed artists
+2025-03-05 08:42:23,607 - batch_processing - INFO - Cleanup complete: 15 response files and 15 metrics files removed, 0 old batch files removed, 0 errors
+2025-03-05 08:42:23,608 - batch_processing - INFO - Batch processing complete: 15 succeeded, 0 failed
+2025-03-05 08:42:23,611 - batch_processing - INFO - Results saved to output\batch_results_20250305_084223.json
+2025-03-05 08:42:48,521 - spotify_token_manager - INFO - Loaded valid token from file, expires in 3600.0 seconds
+2025-03-05 08:42:48,522 - batch_processing - INFO - Token is valid for 3599 more seconds
+2025-03-05 08:42:48,524 - batch_processing - INFO - Starting batch process for 15 artists
+2025-03-05 08:42:48,524 - batch_processing - INFO -   Lower Tier (14 days): 15 artists
+2025-03-05 08:42:48,524 - batch_processing - INFO - Artists to process (first 5):
+2025-03-05 08:42:48,524 - batch_processing - INFO -   Chapter & Verse (5yPVuutf3WAXUt1VqDaN1t)
+2025-03-05 08:42:48,524 - batch_processing - INFO -   Dannic (1PFc84GHTYPL0G12JHh9Mc)
+2025-03-05 08:42:48,524 - batch_processing - INFO -   Laurent Garnier (3y1SoTOdrmRNTBVph5T0VZ)
+2025-03-05 08:42:48,525 - batch_processing - INFO -   Danny Tenaglia (2tG935baRE4mH8B3saiwbm)
+2025-03-05 08:42:48,525 - batch_processing - INFO -   Andy Moor (0Fn4agIyGMwQsKHrx1i8Dn)
+2025-03-05 08:42:48,525 - batch_processing - INFO -   ... and 10 more
+2025-03-05 08:42:48,525 - batch_processing - INFO - Processing artist ID: 5yPVuutf3WAXUt1VqDaN1t (Chapter & Verse)
+2025-03-05 08:42:48,525 - spotify_partner_api - INFO - Getting detailed info for artist: 5yPVuutf3WAXUt1VqDaN1t
+2025-03-05 08:42:49,147 - batch_processing - INFO - Saved data files for artist 5yPVuutf3WAXUt1VqDaN1t
+2025-03-05 08:42:49,180 - batch_processing - INFO - Database updated for artist 5yPVuutf3WAXUt1VqDaN1t
+2025-03-05 08:42:50,193 - batch_processing - INFO - Processing artist ID: 1PFc84GHTYPL0G12JHh9Mc (Dannic)
+2025-03-05 08:42:50,193 - spotify_partner_api - INFO - Getting detailed info for artist: 1PFc84GHTYPL0G12JHh9Mc
+2025-03-05 08:42:50,766 - batch_processing - INFO - Saved data files for artist 1PFc84GHTYPL0G12JHh9Mc
+2025-03-05 08:42:50,787 - batch_processing - INFO - Database updated for artist 1PFc84GHTYPL0G12JHh9Mc
+2025-03-05 08:42:51,797 - batch_processing - INFO - Processing artist ID: 3y1SoTOdrmRNTBVph5T0VZ (Laurent Garnier)
+2025-03-05 08:42:51,798 - spotify_partner_api - INFO - Getting detailed info for artist: 3y1SoTOdrmRNTBVph5T0VZ
+2025-03-05 08:42:52,418 - batch_processing - INFO - Saved data files for artist 3y1SoTOdrmRNTBVph5T0VZ
+2025-03-05 08:42:52,441 - batch_processing - INFO - Database updated for artist 3y1SoTOdrmRNTBVph5T0VZ
+2025-03-05 08:42:53,450 - batch_processing - INFO - Processing artist ID: 2tG935baRE4mH8B3saiwbm (Danny Tenaglia)
+2025-03-05 08:42:53,450 - spotify_partner_api - INFO - Getting detailed info for artist: 2tG935baRE4mH8B3saiwbm
+2025-03-05 08:42:54,051 - batch_processing - INFO - Saved data files for artist 2tG935baRE4mH8B3saiwbm
+2025-03-05 08:42:54,109 - batch_processing - INFO - Database updated for artist 2tG935baRE4mH8B3saiwbm
+2025-03-05 08:42:55,119 - batch_processing - INFO - Processing artist ID: 0Fn4agIyGMwQsKHrx1i8Dn (Andy Moor)
+2025-03-05 08:42:55,120 - spotify_partner_api - INFO - Getting detailed info for artist: 0Fn4agIyGMwQsKHrx1i8Dn
+2025-03-05 08:42:55,827 - batch_processing - INFO - Saved data files for artist 0Fn4agIyGMwQsKHrx1i8Dn
+2025-03-05 08:42:55,875 - batch_processing - INFO - Database updated for artist 0Fn4agIyGMwQsKHrx1i8Dn
+2025-03-05 08:42:56,882 - batch_processing - INFO - Processing artist ID: 24xpaWFyBOwoB8lBBolWzv (Marco V)
+2025-03-05 08:42:56,883 - spotify_partner_api - INFO - Getting detailed info for artist: 24xpaWFyBOwoB8lBBolWzv
+2025-03-05 08:42:57,582 - batch_processing - INFO - Saved data files for artist 24xpaWFyBOwoB8lBBolWzv
+2025-03-05 08:42:57,626 - batch_processing - INFO - Database updated for artist 24xpaWFyBOwoB8lBBolWzv
+2025-03-05 08:42:58,631 - batch_processing - INFO - Processing artist ID: 2n7USVO8fO8FF8zq4kG2N1 (Mat Zo)
+2025-03-05 08:42:58,632 - spotify_partner_api - INFO - Getting detailed info for artist: 2n7USVO8fO8FF8zq4kG2N1
+2025-03-05 08:42:59,234 - batch_processing - INFO - Saved data files for artist 2n7USVO8fO8FF8zq4kG2N1
+2025-03-05 08:42:59,277 - batch_processing - INFO - Database updated for artist 2n7USVO8fO8FF8zq4kG2N1
+2025-03-05 08:43:00,283 - batch_processing - INFO - Processing artist ID: 3AhwIUus3pIaA3CvYBEtpy (Richie Hawtin)
+2025-03-05 08:43:00,284 - spotify_partner_api - INFO - Getting detailed info for artist: 3AhwIUus3pIaA3CvYBEtpy
+2025-03-05 08:43:00,870 - batch_processing - INFO - Saved data files for artist 3AhwIUus3pIaA3CvYBEtpy
+2025-03-05 08:43:00,919 - batch_processing - INFO - Database updated for artist 3AhwIUus3pIaA3CvYBEtpy
+2025-03-05 08:43:01,935 - batch_processing - INFO - Processing artist ID: 3xnDktxhudJR2Wv3HZDQ9W (John Digweed)
+2025-03-05 08:43:01,936 - spotify_partner_api - INFO - Getting detailed info for artist: 3xnDktxhudJR2Wv3HZDQ9W
+2025-03-05 08:43:02,581 - batch_processing - INFO - Saved data files for artist 3xnDktxhudJR2Wv3HZDQ9W
+2025-03-05 08:43:02,630 - batch_processing - INFO - Database updated for artist 3xnDktxhudJR2Wv3HZDQ9W
+2025-03-05 08:43:03,635 - batch_processing - INFO - Processing artist ID: 132Hhe61bhvXtkygENHZHA (Wh0)
+2025-03-05 08:43:03,636 - spotify_partner_api - INFO - Getting detailed info for artist: 132Hhe61bhvXtkygENHZHA
+2025-03-05 08:43:04,168 - batch_processing - INFO - Saved data files for artist 132Hhe61bhvXtkygENHZHA
+2025-03-05 08:43:04,208 - batch_processing - INFO - Database updated for artist 132Hhe61bhvXtkygENHZHA
+2025-03-05 08:43:05,223 - batch_processing - INFO - Processing artist ID: 3bh4M54m4LRs41WQs07Jy0 (Truth x Lies)
+2025-03-05 08:43:05,224 - spotify_partner_api - INFO - Getting detailed info for artist: 3bh4M54m4LRs41WQs07Jy0
+2025-03-05 08:43:05,766 - batch_processing - INFO - Saved data files for artist 3bh4M54m4LRs41WQs07Jy0
+2025-03-05 08:43:05,815 - batch_processing - INFO - Database updated for artist 3bh4M54m4LRs41WQs07Jy0
+2025-03-05 08:43:06,826 - batch_processing - INFO - Processing artist ID: 3bVYqr2NfmwmL4YJisWhJI (Dubfire)
+2025-03-05 08:43:06,827 - spotify_partner_api - INFO - Getting detailed info for artist: 3bVYqr2NfmwmL4YJisWhJI
+2025-03-05 08:43:07,513 - batch_processing - INFO - Saved data files for artist 3bVYqr2NfmwmL4YJisWhJI
+2025-03-05 08:43:07,564 - batch_processing - INFO - Database updated for artist 3bVYqr2NfmwmL4YJisWhJI
+2025-03-05 08:43:08,575 - batch_processing - INFO - Processing artist ID: 0pyi4vNCq5T6GgV1rt7ncc (Kyau & Albert)
+2025-03-05 08:43:08,576 - spotify_partner_api - INFO - Getting detailed info for artist: 0pyi4vNCq5T6GgV1rt7ncc
+2025-03-05 08:43:09,225 - batch_processing - INFO - Saved data files for artist 0pyi4vNCq5T6GgV1rt7ncc
+2025-03-05 08:43:09,262 - batch_processing - INFO - Database updated for artist 0pyi4vNCq5T6GgV1rt7ncc
+2025-03-05 08:43:10,274 - batch_processing - INFO - Processing artist ID: 0iSYvHKAdhWVdZkS1PYK3u (Tom Staar)
+2025-03-05 08:43:10,275 - spotify_partner_api - INFO - Getting detailed info for artist: 0iSYvHKAdhWVdZkS1PYK3u
+2025-03-05 08:43:10,920 - batch_processing - INFO - Saved data files for artist 0iSYvHKAdhWVdZkS1PYK3u
+2025-03-05 08:43:10,959 - batch_processing - INFO - Database updated for artist 0iSYvHKAdhWVdZkS1PYK3u
+2025-03-05 08:43:11,974 - batch_processing - INFO - Processing artist ID: 64ydm7vEEBjvH4AeC1slRM (Tim Hox)
+2025-03-05 08:43:11,975 - spotify_partner_api - INFO - Getting detailed info for artist: 64ydm7vEEBjvH4AeC1slRM
+2025-03-05 08:43:12,531 - batch_processing - INFO - Saved data files for artist 64ydm7vEEBjvH4AeC1slRM
+2025-03-05 08:43:12,560 - batch_processing - INFO - Database updated for artist 64ydm7vEEBjvH4AeC1slRM
+2025-03-05 08:43:13,563 - batch_processing - INFO - Cleaning up output files for 15 successfully processed artists
+2025-03-05 08:43:13,634 - batch_processing - INFO - Cleanup complete: 15 response files and 15 metrics files removed, 0 old batch files removed, 0 errors
+2025-03-05 08:43:13,634 - batch_processing - INFO - Batch processing complete: 15 succeeded, 0 failed
+2025-03-05 08:43:13,635 - batch_processing - INFO - Results saved to output\batch_results_20250305_084313.json
+2025-03-05 08:43:31,111 - spotify_token_manager - INFO - Loaded valid token from file, expires in 3600.0 seconds
+2025-03-05 08:43:31,112 - batch_processing - INFO - Token is valid for 3599 more seconds
+2025-03-05 08:43:31,114 - batch_processing - INFO - Starting batch process for 13 artists
+2025-03-05 08:43:31,114 - batch_processing - INFO -   Lower Tier (14 days): 13 artists
+2025-03-05 08:43:31,114 - batch_processing - INFO - Artists to process (first 5):
+2025-03-05 08:43:31,115 - batch_processing - INFO -   Achilles (1BgLi10FdtjQtMigV9Ddka)
+2025-03-05 08:43:31,115 - batch_processing - INFO -   Marco Carola (2p8O7NCyfWf1sIZamrU9N1)
+2025-03-05 08:43:31,115 - batch_processing - INFO -   Caspa (4nMuaJ4kBLDJCRBizNESI6)
+2025-03-05 08:43:31,115 - batch_processing - INFO -   Sean Tyas (4zqERoiO42cNiA3pPDWnvN)
+2025-03-05 08:43:31,115 - batch_processing - INFO -   Sven Väth (5TQaBSTOSypp7S4jfSnN3F)
+2025-03-05 08:43:31,115 - batch_processing - INFO -   ... and 8 more
+2025-03-05 08:43:31,115 - batch_processing - INFO - Processing artist ID: 1BgLi10FdtjQtMigV9Ddka (Achilles)
+2025-03-05 08:43:31,115 - spotify_partner_api - INFO - Getting detailed info for artist: 1BgLi10FdtjQtMigV9Ddka
+2025-03-05 08:43:31,700 - batch_processing - INFO - Saved data files for artist 1BgLi10FdtjQtMigV9Ddka
+2025-03-05 08:43:31,736 - batch_processing - INFO - Database updated for artist 1BgLi10FdtjQtMigV9Ddka
+2025-03-05 08:43:32,752 - batch_processing - INFO - Processing artist ID: 2p8O7NCyfWf1sIZamrU9N1 (Marco Carola)
+2025-03-05 08:43:32,753 - spotify_partner_api - INFO - Getting detailed info for artist: 2p8O7NCyfWf1sIZamrU9N1
+2025-03-05 08:43:33,383 - batch_processing - INFO - Saved data files for artist 2p8O7NCyfWf1sIZamrU9N1
+2025-03-05 08:43:33,413 - batch_processing - INFO - Database updated for artist 2p8O7NCyfWf1sIZamrU9N1
+2025-03-05 08:43:34,419 - batch_processing - INFO - Processing artist ID: 4nMuaJ4kBLDJCRBizNESI6 (Caspa)
+2025-03-05 08:43:34,420 - spotify_partner_api - INFO - Getting detailed info for artist: 4nMuaJ4kBLDJCRBizNESI6
+2025-03-05 08:43:34,957 - batch_processing - INFO - Saved data files for artist 4nMuaJ4kBLDJCRBizNESI6
+2025-03-05 08:43:34,995 - batch_processing - INFO - Database updated for artist 4nMuaJ4kBLDJCRBizNESI6
+2025-03-05 08:43:36,007 - batch_processing - INFO - Processing artist ID: 4zqERoiO42cNiA3pPDWnvN (Sean Tyas)
+2025-03-05 08:43:36,008 - spotify_partner_api - INFO - Getting detailed info for artist: 4zqERoiO42cNiA3pPDWnvN
+2025-03-05 08:43:36,633 - batch_processing - INFO - Saved data files for artist 4zqERoiO42cNiA3pPDWnvN
+2025-03-05 08:43:36,680 - batch_processing - INFO - Database updated for artist 4zqERoiO42cNiA3pPDWnvN
+2025-03-05 08:43:37,692 - batch_processing - INFO - Processing artist ID: 5TQaBSTOSypp7S4jfSnN3F (Sven Väth)
+2025-03-05 08:43:37,693 - spotify_partner_api - INFO - Getting detailed info for artist: 5TQaBSTOSypp7S4jfSnN3F
+2025-03-05 08:43:38,221 - batch_processing - INFO - Saved data files for artist 5TQaBSTOSypp7S4jfSnN3F
+2025-03-05 08:43:38,269 - batch_processing - INFO - Database updated for artist 5TQaBSTOSypp7S4jfSnN3F
+2025-03-05 08:43:39,280 - batch_processing - INFO - Processing artist ID: 3CfH3WZPzbk5mNDWXpGIy6 (Sander Kleinenberg)
+2025-03-05 08:43:39,280 - spotify_partner_api - INFO - Getting detailed info for artist: 3CfH3WZPzbk5mNDWXpGIy6
+2025-03-05 08:43:39,931 - batch_processing - INFO - Saved data files for artist 3CfH3WZPzbk5mNDWXpGIy6
+2025-03-05 08:43:39,969 - batch_processing - INFO - Database updated for artist 3CfH3WZPzbk5mNDWXpGIy6
+2025-03-05 08:43:40,979 - batch_processing - INFO - Processing artist ID: 7FurwsWcdTy84HcxhnYoNQ (Christopher Lawrence)
+2025-03-05 08:43:40,980 - spotify_partner_api - INFO - Getting detailed info for artist: 7FurwsWcdTy84HcxhnYoNQ
+2025-03-05 08:43:41,534 - batch_processing - INFO - Saved data files for artist 7FurwsWcdTy84HcxhnYoNQ
+2025-03-05 08:43:41,585 - batch_processing - INFO - Database updated for artist 7FurwsWcdTy84HcxhnYoNQ
+2025-03-05 08:43:42,599 - batch_processing - INFO - Processing artist ID: 3NwMwlJraqubsJPlKADvjN (DJ Chuckie)
+2025-03-05 08:43:42,599 - spotify_partner_api - INFO - Getting detailed info for artist: 3NwMwlJraqubsJPlKADvjN
+2025-03-05 08:43:43,032 - batch_processing - INFO - Saved data files for artist 3NwMwlJraqubsJPlKADvjN
+2025-03-05 08:43:43,059 - batch_processing - INFO - Database updated for artist 3NwMwlJraqubsJPlKADvjN
+2025-03-05 08:43:44,076 - batch_processing - INFO - Processing artist ID: 1PaP6h3jtpFHNpHWsCF4Zo (Judge Jules)
+2025-03-05 08:43:44,077 - spotify_partner_api - INFO - Getting detailed info for artist: 1PaP6h3jtpFHNpHWsCF4Zo
+2025-03-05 08:43:44,710 - batch_processing - INFO - Saved data files for artist 1PaP6h3jtpFHNpHWsCF4Zo
+2025-03-05 08:43:44,758 - batch_processing - INFO - Database updated for artist 1PaP6h3jtpFHNpHWsCF4Zo
+2025-03-05 08:43:45,759 - batch_processing - INFO - Processing artist ID: 15mGoF7xgIMiIasAgrrQPs (James Zabiela)
+2025-03-05 08:43:45,759 - spotify_partner_api - INFO - Getting detailed info for artist: 15mGoF7xgIMiIasAgrrQPs
+2025-03-05 08:43:46,303 - batch_processing - INFO - Saved data files for artist 15mGoF7xgIMiIasAgrrQPs
+2025-03-05 08:43:46,353 - batch_processing - INFO - Database updated for artist 15mGoF7xgIMiIasAgrrQPs
+2025-03-05 08:43:47,364 - batch_processing - INFO - Processing artist ID: 45A7XBuUTqH1KBFh3cZ4ZJ (Eddie Halliwell)
+2025-03-05 08:43:47,364 - spotify_partner_api - INFO - Getting detailed info for artist: 45A7XBuUTqH1KBFh3cZ4ZJ
+2025-03-05 08:43:47,974 - batch_processing - INFO - Saved data files for artist 45A7XBuUTqH1KBFh3cZ4ZJ
+2025-03-05 08:43:48,013 - batch_processing - INFO - Database updated for artist 45A7XBuUTqH1KBFh3cZ4ZJ
+2025-03-05 08:43:49,016 - batch_processing - INFO - Processing artist ID: 1dnB1vdNYX4omsJ79vFMZY (Bryx)
+2025-03-05 08:43:49,017 - spotify_partner_api - INFO - Getting detailed info for artist: 1dnB1vdNYX4omsJ79vFMZY
+2025-03-05 08:43:49,556 - batch_processing - INFO - Saved data files for artist 1dnB1vdNYX4omsJ79vFMZY
+2025-03-05 08:43:49,601 - batch_processing - INFO - Database updated for artist 1dnB1vdNYX4omsJ79vFMZY
+2025-03-05 08:43:50,605 - batch_processing - INFO - Processing artist ID: 2vqNlw7n9owtOoJCatHGoz (DJ Feel)
+2025-03-05 08:43:50,606 - spotify_partner_api - INFO - Getting detailed info for artist: 2vqNlw7n9owtOoJCatHGoz
+2025-03-05 08:43:51,158 - batch_processing - INFO - Saved data files for artist 2vqNlw7n9owtOoJCatHGoz
+2025-03-05 08:43:51,194 - batch_processing - INFO - Database updated for artist 2vqNlw7n9owtOoJCatHGoz
+2025-03-05 08:43:52,209 - batch_processing - INFO - Cleaning up output files for 13 successfully processed artists
+2025-03-05 08:43:52,259 - batch_processing - INFO - Cleanup complete: 13 response files and 13 metrics files removed, 0 old batch files removed, 0 errors
+2025-03-05 08:43:52,259 - batch_processing - INFO - Batch processing complete: 13 succeeded, 0 failed
+2025-03-05 08:43:52,260 - batch_processing - INFO - Results saved to output\batch_results_20250305_084352.json
+2025-03-05 08:43:57,661 - spotify_token_manager - INFO - Loaded valid token from file, expires in 3600.0 seconds
+2025-03-05 08:43:57,662 - batch_processing - INFO - Token is valid for 3599 more seconds
+2025-03-05 08:43:57,664 - batch_processing - INFO - Starting batch process for 0 artists
+2025-03-05 08:43:57,664 - batch_processing - INFO - No artists to process
