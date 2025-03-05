@@ -913,3 +913,81 @@
 2025-03-05 07:56:04,885 - batch_processing - INFO - Database updated for artist 2CIMQHirSU0MQqyYHq0eOx
 2025-03-05 07:56:05,892 - batch_processing - INFO - Batch processing complete: 1 succeeded, 0 failed
 2025-03-05 07:56:05,895 - batch_processing - INFO - Results saved to output\batch_results_20250305_075605.json
+2025-03-05 08:25:24,094 - spotify_token_manager - INFO - Loaded valid token from file, expires in 3600.0 seconds
+2025-03-05 08:25:39,981 - spotify_token_manager - INFO - Loaded valid token from file, expires in 3600.0 seconds
+2025-03-05 08:29:09,458 - spotify_token_manager - INFO - Loaded valid token from file, expires in 3600.0 seconds
+2025-03-05 08:29:09,458 - batch_processing - INFO - Token is valid for 3599 more seconds
+2025-03-05 08:29:09,460 - batch_processing - INFO - Starting batch process for 1 artists
+2025-03-05 08:29:09,460 - batch_processing - INFO -   Mid Tier (7 days): 1 artists
+2025-03-05 08:29:09,460 - batch_processing - INFO - Artists to process (first 5):
+2025-03-05 08:29:09,460 - batch_processing - INFO -   Martin Ikin (7DhdJhd6DrxeJlUajwttd1)
+2025-03-05 08:29:09,460 - batch_processing - INFO - Processing artist ID: 7DhdJhd6DrxeJlUajwttd1 (Martin Ikin)
+2025-03-05 08:29:09,460 - spotify_partner_api - INFO - Getting detailed info for artist: 7DhdJhd6DrxeJlUajwttd1
+2025-03-05 08:29:10,028 - batch_processing - INFO - Saved data files for artist 7DhdJhd6DrxeJlUajwttd1
+2025-03-05 08:29:10,067 - batch_processing - INFO - Database updated for artist 7DhdJhd6DrxeJlUajwttd1
+2025-03-05 08:29:11,078 - batch_processing - INFO - Cleaning up output files for 1 successfully processed artists
+2025-03-05 08:29:11,098 - batch_processing - INFO - Cleanup complete: 1 response files and 1 metrics files removed, 0 old batch files removed, 0 errors
+2025-03-05 08:29:11,099 - batch_processing - INFO - Batch processing complete: 1 succeeded, 0 failed
+2025-03-05 08:29:11,102 - batch_processing - INFO - Results saved to output\batch_results_20250305_082911.json
+2025-03-05 08:30:29,780 - spotify_token_manager - INFO - Loaded valid token from file, expires in 3600.0 seconds
+2025-03-05 08:30:29,780 - batch_processing - INFO - Token is valid for 3599 more seconds
+2025-03-05 08:30:29,784 - batch_processing - INFO - Starting batch process for 1 artists
+2025-03-05 08:30:29,784 - batch_processing - INFO -   Mid Tier (7 days): 1 artists
+2025-03-05 08:30:29,784 - batch_processing - INFO - Artists to process (first 5):
+2025-03-05 08:30:29,784 - batch_processing - INFO -   Mike Williams (3IpvVrP3VLhruTmnququq7)
+2025-03-05 08:30:29,784 - batch_processing - INFO - Processing artist ID: 3IpvVrP3VLhruTmnququq7 (Mike Williams)
+2025-03-05 08:30:29,784 - spotify_partner_api - INFO - Getting detailed info for artist: 3IpvVrP3VLhruTmnququq7
+2025-03-05 08:30:31,190 - batch_processing - INFO - Saved data files for artist 3IpvVrP3VLhruTmnququq7
+2025-03-05 08:30:31,240 - batch_processing - INFO - Database updated for artist 3IpvVrP3VLhruTmnququq7
+2025-03-05 08:30:32,251 - batch_processing - INFO - Cleaning up output files for 1 successfully processed artists
+2025-03-05 08:30:32,258 - batch_processing - INFO - Cleanup complete: 1 response files and 1 metrics files removed, 0 old batch files removed, 0 errors
+2025-03-05 08:30:32,259 - batch_processing - INFO - Batch processing complete: 1 succeeded, 0 failed
+2025-03-05 08:30:32,261 - batch_processing - INFO - Results saved to output\batch_results_20250305_083032.json
+2025-03-05 08:30:45,925 - spotify_token_manager - INFO - Loaded valid token from file, expires in 3600.0 seconds
+2025-03-05 08:30:45,926 - batch_processing - INFO - Token is valid for 3599 more seconds
+2025-03-05 08:30:45,928 - batch_processing - INFO - Starting batch process for 3 artists
+2025-03-05 08:30:45,928 - batch_processing - INFO -   Mid Tier (7 days): 3 artists
+2025-03-05 08:30:45,928 - batch_processing - INFO - Artists to process (first 5):
+2025-03-05 08:30:45,928 - batch_processing - INFO -   Krewella (0Cd6nHYwecCNM1sVEXKlYr)
+2025-03-05 08:30:45,928 - batch_processing - INFO -   Quintino (1V3VTM7VspiQjcmRhC010n)
+2025-03-05 08:30:45,928 - batch_processing - INFO -   Marten Hørger (0EdUwJSqkMmsH6Agg3G8Ls)
+2025-03-05 08:30:45,930 - batch_processing - INFO - Processing artist ID: 0Cd6nHYwecCNM1sVEXKlYr (Krewella)
+2025-03-05 08:30:45,930 - spotify_partner_api - INFO - Getting detailed info for artist: 0Cd6nHYwecCNM1sVEXKlYr
+2025-03-05 08:30:46,536 - batch_processing - INFO - Saved data files for artist 0Cd6nHYwecCNM1sVEXKlYr
+2025-03-05 08:30:46,579 - batch_processing - INFO - Database updated for artist 0Cd6nHYwecCNM1sVEXKlYr
+2025-03-05 08:30:47,594 - batch_processing - INFO - Processing artist ID: 1V3VTM7VspiQjcmRhC010n (Quintino)
+2025-03-05 08:30:47,595 - spotify_partner_api - INFO - Getting detailed info for artist: 1V3VTM7VspiQjcmRhC010n
+2025-03-05 08:30:48,240 - batch_processing - INFO - Saved data files for artist 1V3VTM7VspiQjcmRhC010n
+2025-03-05 08:30:48,332 - batch_processing - INFO - Database updated for artist 1V3VTM7VspiQjcmRhC010n
+2025-03-05 08:30:49,343 - batch_processing - INFO - Processing artist ID: 0EdUwJSqkMmsH6Agg3G8Ls (Marten Hørger)
+2025-03-05 08:30:49,344 - spotify_partner_api - INFO - Getting detailed info for artist: 0EdUwJSqkMmsH6Agg3G8Ls
+2025-03-05 08:30:49,897 - batch_processing - INFO - Saved data files for artist 0EdUwJSqkMmsH6Agg3G8Ls
+2025-03-05 08:30:49,937 - batch_processing - INFO - Database updated for artist 0EdUwJSqkMmsH6Agg3G8Ls
+2025-03-05 08:30:50,944 - batch_processing - INFO - Cleaning up output files for 3 successfully processed artists
+2025-03-05 08:30:50,964 - batch_processing - INFO - Cleanup complete: 3 response files and 3 metrics files removed, 0 old batch files removed, 0 errors
+2025-03-05 08:30:50,965 - batch_processing - INFO - Batch processing complete: 3 succeeded, 0 failed
+2025-03-05 08:30:50,968 - batch_processing - INFO - Results saved to output\batch_results_20250305_083050.json
+2025-03-05 08:31:53,818 - spotify_token_manager - INFO - Loaded valid token from file, expires in 3600.0 seconds
+2025-03-05 08:31:53,819 - batch_processing - INFO - Token is valid for 3599 more seconds
+2025-03-05 08:31:53,820 - batch_processing - INFO - Starting batch process for 3 artists
+2025-03-05 08:31:53,821 - batch_processing - INFO -   Mid Tier (7 days): 3 artists
+2025-03-05 08:31:53,821 - batch_processing - INFO - Artists to process (first 5):
+2025-03-05 08:31:53,821 - batch_processing - INFO -   Max Styler (3NKKngINK1tP6BFy0WOyWk)
+2025-03-05 08:31:53,821 - batch_processing - INFO -   Space 92 (6TVdVlY6irsNPkMHT2HkfD)
+2025-03-05 08:31:53,821 - batch_processing - INFO -   Solardo (0oO1IaDOBSeI96HbnCa5pZ)
+2025-03-05 08:31:53,821 - batch_processing - INFO - Processing artist ID: 3NKKngINK1tP6BFy0WOyWk (Max Styler)
+2025-03-05 08:31:53,821 - spotify_partner_api - INFO - Getting detailed info for artist: 3NKKngINK1tP6BFy0WOyWk
+2025-03-05 08:31:54,281 - batch_processing - INFO - Saved data files for artist 3NKKngINK1tP6BFy0WOyWk
+2025-03-05 08:31:54,323 - batch_processing - INFO - Database updated for artist 3NKKngINK1tP6BFy0WOyWk
+2025-03-05 08:31:55,328 - batch_processing - INFO - Processing artist ID: 6TVdVlY6irsNPkMHT2HkfD (Space 92)
+2025-03-05 08:31:55,329 - spotify_partner_api - INFO - Getting detailed info for artist: 6TVdVlY6irsNPkMHT2HkfD
+2025-03-05 08:31:55,813 - batch_processing - INFO - Saved data files for artist 6TVdVlY6irsNPkMHT2HkfD
+2025-03-05 08:31:55,833 - batch_processing - INFO - Database updated for artist 6TVdVlY6irsNPkMHT2HkfD
+2025-03-05 08:31:56,836 - batch_processing - INFO - Processing artist ID: 0oO1IaDOBSeI96HbnCa5pZ (Solardo)
+2025-03-05 08:31:56,837 - spotify_partner_api - INFO - Getting detailed info for artist: 0oO1IaDOBSeI96HbnCa5pZ
+2025-03-05 08:31:57,389 - batch_processing - INFO - Saved data files for artist 0oO1IaDOBSeI96HbnCa5pZ
+2025-03-05 08:31:57,408 - batch_processing - INFO - Database updated for artist 0oO1IaDOBSeI96HbnCa5pZ
+2025-03-05 08:31:58,424 - batch_processing - INFO - Cleaning up output files for 3 successfully processed artists
+2025-03-05 08:31:58,433 - batch_processing - INFO - Cleanup complete: 3 response files and 3 metrics files removed, 0 old batch files removed, 0 errors
+2025-03-05 08:31:58,434 - batch_processing - INFO - Batch processing complete: 3 succeeded, 0 failed
+2025-03-05 08:31:58,435 - batch_processing - INFO - Results saved to output\batch_results_20250305_083158.json

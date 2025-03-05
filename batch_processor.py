@@ -3,12 +3,15 @@ import json
 import os
 import asyncio
 import sys
+import glob
+import time
 from pathlib import Path
 from datetime import datetime
 import argparse
 import sqlite3
+import traceback
 
-# Import our new modules
+# Import our modules
 from spotify_token_manager import SpotifyTokenManager
 from spotify_partner_api import SpotifyPartnerAPI
 
@@ -33,12 +36,33 @@ class BatchProcessor:
         self.max_workers = max_workers
         self.delay = delay
         
-        # Create SpotifyPartnerAPI instance with automatic token management
+        # Create a single token manager to be shared
         token_path = os.path.join(self.output_dir, "batch_spotify_tokens.json")
-        self.api = SpotifyPartnerAPI(token_path)
+        self.token_manager = SpotifyTokenManager(token_path)
+        
+        # Create SpotifyPartnerAPI instance with the shared token manager
+        # Pass token_manager argument explicitly named
+        self.api = SpotifyPartnerAPI(token_manager=self.token_manager)
         
         # Ensure output directory exists
         os.makedirs(self.output_dir, exist_ok=True)
+        
+        # Verify token health at startup
+        self._check_token_health()
+    
+    def _check_token_health(self):
+        """Check and log token health status"""
+        try:
+            health = self.token_manager.check_token_health()
+            if health["has_token"]:
+                if health["token_valid"]:
+                    logger.info(f"Token is valid for {health['time_remaining_sec']} more seconds")
+                else:
+                    logger.warning("Token exists but is no longer valid, will refresh when needed")
+            else:
+                logger.info("No token loaded, will retrieve when needed")
+        except Exception as e:
+            logger.error(f"Error checking token health: {str(e)}")
     
     async def get_artists_needing_update(self, limit=None):
         """Get artists that need updates based on tier"""
@@ -128,7 +152,8 @@ class BatchProcessor:
             }
             
         except Exception as e:
-            logger.error(f"Error processing artist {artist_id}: {str(e)}")
+            error_details = traceback.format_exc()
+            logger.error(f"Error processing artist {artist_id}: {str(e)}\n{error_details}")
             return {"success": False, "error": str(e)}
     
     def save_artist_data(self, artist_id, artist_data, metrics):
@@ -202,6 +227,61 @@ class BatchProcessor:
             logger.error(f"Error updating database: {str(e)}")
             return False
     
+    def cleanup_output_files(self, successful_artist_ids):
+        """
+        Clean up JSON output files after successful processing
+        
+        Args:
+            successful_artist_ids: List of artist IDs that were successfully processed
+        """
+        try:
+            logger.info(f"Cleaning up output files for {len(successful_artist_ids)} successfully processed artists")
+            
+            cleaned_response_files = 0
+            cleaned_metrics_files = 0
+            errors = 0
+            
+            # Immediate cleanup for response and metrics files of successful artists
+            for artist_id in successful_artist_ids:
+                try:
+                    # Find all response and metrics files for this artist
+                    response_pattern = os.path.join(self.output_dir, f"{artist_id}_response_*.json")
+                    metrics_pattern = os.path.join(self.output_dir, f"{artist_id}_metrics_*.json")
+                    
+                    # Delete response files (larger files)
+                    for filepath in glob.glob(response_pattern):
+                        os.remove(filepath)
+                        cleaned_response_files += 1
+                    
+                    # Delete metrics files
+                    for filepath in glob.glob(metrics_pattern):
+                        os.remove(filepath)
+                        cleaned_metrics_files += 1
+                        
+                except Exception as e:
+                    logger.error(f"Error cleaning up files for artist {artist_id}: {str(e)}")
+                    errors += 1
+            
+            # For batch results files, only clean up old ones (older than 7 days)
+            batch_pattern = os.path.join(self.output_dir, "batch_results_*.json")
+            cutoff_time = time.time() - (7 * 24 * 60 * 60)  # 7 days
+            cleaned_batch_files = 0
+            
+            for filepath in glob.glob(batch_pattern):
+                try:
+                    file_stats = os.stat(filepath)
+                    if file_stats.st_mtime < cutoff_time:
+                        os.remove(filepath)
+                        cleaned_batch_files += 1
+                except Exception as e:
+                    logger.error(f"Error cleaning up batch file {filepath}: {str(e)}")
+                    errors += 1
+            
+            logger.info(f"Cleanup complete: {cleaned_response_files} response files and {cleaned_metrics_files} metrics files removed, {cleaned_batch_files} old batch files removed, {errors} errors")
+            
+        except Exception as e:
+            logger.error(f"Error during output file cleanup: {str(e)}")
+    
     async def process_batch(self, artist_list):
         """Process a batch of artists with controlled concurrency"""
         results = {
@@ -212,49 +292,119 @@ class BatchProcessor:
             "success_count": 0,
             "failure_count": 0,
             "start_time": datetime.now().isoformat(),
-            "end_time": None
+            "end_time": None,
+            "stopped_early": False,
+            "stop_reason": None
         }
         
-        if self.max_workers > 1:
-            # Process with concurrency
-            tasks = []
-            semaphore = asyncio.Semaphore(self.max_workers)
-            
-            async def process_with_semaphore(artist):
-                async with semaphore:
-                    # Process and add delay
-                    result = await self.process_artist(artist['id'], artist.get('name'))
-                    await asyncio.sleep(self.delay)
-                    return artist['id'], result
-            
-            # Create tasks
-            for artist in artist_list:
-                tasks.append(asyncio.create_task(process_with_semaphore(artist)))
-            
-            # Wait for all tasks to complete
-            for completed_task in asyncio.as_completed(tasks):
-                artist_id, result = await completed_task
+        # Check token health before starting
+        try:
+            token = self.token_manager.get_token()
+            if not token:
+                results["stopped_early"] = True
+                results["stop_reason"] = "Failed to retrieve a valid token before starting batch"
+                logger.error("Batch processing aborted: Could not retrieve a valid token")
+                results["end_time"] = datetime.now().isoformat()
+                return results
+        except Exception as e:
+            results["stopped_early"] = True
+            results["stop_reason"] = f"Token error before starting batch: {str(e)}"
+            logger.error(f"Batch processing aborted: Token error: {str(e)}")
+            results["end_time"] = datetime.now().isoformat()
+            return results
+        
+        # Process based on concurrency settings
+        try:
+            if self.max_workers > 1:
+                # Process with concurrency
+                tasks = []
+                semaphore = asyncio.Semaphore(self.max_workers)
+                stop_processing = asyncio.Event()
                 
-                if result['success']:
-                    results['successful'].append(artist_id)
-                    results['success_count'] += 1
-                else:
-                    results['failed'].append(artist_id)
-                    results['errors'][artist_id] = result['error']
-                    results['failure_count'] += 1
-        else:
-            # Process sequentially
-            for artist in artist_list:
-                result = await self.process_artist(artist['id'], artist.get('name'))
-                await asyncio.sleep(self.delay)
+                async def process_with_semaphore(artist):
+                    if stop_processing.is_set():
+                        return artist['id'], {"success": False, "error": "Batch processing was stopped due to token error"}
+                    
+                    async with semaphore:
+                        try:
+                            # Process and add delay
+                            result = await self.process_artist(artist['id'], artist.get('name'))
+                            await asyncio.sleep(self.delay)
+                            return artist['id'], result
+                        except Exception as e:
+                            if "token" in str(e).lower():
+                                stop_processing.set()
+                                logger.error(f"Stopping batch due to token error: {str(e)}")
+                                return artist['id'], {"success": False, "error": f"Token error: {str(e)}"}
+                            return artist['id'], {"success": False, "error": str(e)}
                 
-                if result['success']:
-                    results['successful'].append(artist['id'])
-                    results['success_count'] += 1
-                else:
-                    results['failed'].append(artist['id'])
-                    results['errors'][artist['id']] = result['error']
-                    results['failure_count'] += 1
+                # Create tasks
+                for artist in artist_list:
+                    tasks.append(asyncio.create_task(process_with_semaphore(artist)))
+                
+                # Wait for all tasks to complete
+                for completed_task in asyncio.as_completed(tasks):
+                    try:
+                        artist_id, result = await completed_task
+                        
+                        if result['success']:
+                            results['successful'].append(artist_id)
+                            results['success_count'] += 1
+                        else:
+                            results['failed'].append(artist_id)
+                            results['errors'][artist_id] = result['error']
+                            results['failure_count'] += 1
+                            
+                            # Check if processing should stop due to token error
+                            if "token" in str(result.get('error', '')).lower():
+                                stop_processing.set()
+                                results["stopped_early"] = True
+                                results["stop_reason"] = f"Token error: {result.get('error')}"
+                                logger.warning(f"Stopping batch processing due to token error: {result.get('error')}")
+                    except Exception as e:
+                        logger.error(f"Error handling task result: {str(e)}")
+            else:
+                # Process sequentially
+                for artist in artist_list:
+                    try:
+                        result = await self.process_artist(artist['id'], artist.get('name'))
+                        await asyncio.sleep(self.delay)
+                        
+                        if result['success']:
+                            results['successful'].append(artist['id'])
+                            results['success_count'] += 1
+                        else:
+                            results['failed'].append(artist['id'])
+                            results['errors'][artist['id']] = result['error']
+                            results['failure_count'] += 1
+                            
+                            # Check if processing should stop due to token error
+                            if "token" in str(result.get('error', '')).lower():
+                                results["stopped_early"] = True
+                                results["stop_reason"] = f"Token error: {result.get('error')}"
+                                logger.warning(f"Stopping batch processing due to token error: {result.get('error')}")
+                                break
+                    except Exception as e:
+                        # Handle unexpected errors
+                        results['failed'].append(artist['id'])
+                        results['errors'][artist['id']] = str(e)
+                        results['failure_count'] += 1
+                        
+                        # Stop batch on token errors
+                        if "token" in str(e).lower():
+                            results["stopped_early"] = True
+                            results["stop_reason"] = f"Token error: {str(e)}"
+                            logger.warning(f"Stopping batch processing due to token error: {str(e)}")
+                            break
+        except Exception as e:
+            # Handle unexpected batch processing errors
+            logger.error(f"Unexpected error in batch processing: {str(e)}")
+            results["stopped_early"] = True
+            results["stop_reason"] = f"Batch error: {str(e)}"
+        
+        # Clean up files for successfully processed artists
+        if results['success_count'] > 0:
+            self.cleanup_output_files(results['successful'])
         
         # Update end time
         results['end_time'] = datetime.now().isoformat()
@@ -410,7 +560,11 @@ async def main():
         results = await processor.process_batch(artists_to_process)
         
         # Log results
-        logger.info(f"Batch processing complete: {results['success_count']} succeeded, {results['failure_count']} failed")
+        if results.get("stopped_early"):
+            logger.warning(f"Batch processing stopped early: {results.get('stop_reason')}")
+            logger.info(f"Partial results: {results['success_count']} succeeded, {results['failure_count']} failed, {len(artists_to_process) - results['success_count'] - results['failure_count']} not processed")
+        else:
+            logger.info(f"Batch processing complete: {results['success_count']} succeeded, {results['failure_count']} failed")
         
         # Save results to file
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
