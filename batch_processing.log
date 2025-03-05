@@ -900,3 +900,16 @@
 2025-03-05 07:47:49,668 - spotify_partner_api - INFO - Getting detailed info for artist: 1rSGNXhhYuWoq9BEz5DZGO
 2025-03-05 07:47:50,447 - batch_processing - INFO - Saved data files for artist 1rSGNXhhYuWoq9BEz5DZGO
 2025-03-05 07:47:50,516 - batch_processing - INFO - Database updated for artist 1rSGNXhhYuWoq9BEz5DZGO
+2025-03-05 07:56:03,894 - batch_processing - INFO - Starting batch process for 1 artists
+2025-03-05 07:56:03,894 - batch_processing - INFO -   Mid Tier (7 days): 1 artists
+2025-03-05 07:56:03,894 - batch_processing - INFO - Artists to process (first 5):
+2025-03-05 07:56:03,894 - batch_processing - INFO -   deadmau5 (2CIMQHirSU0MQqyYHq0eOx)
+2025-03-05 07:56:03,895 - batch_processing - INFO - Processing artist ID: 2CIMQHirSU0MQqyYHq0eOx (deadmau5)
+2025-03-05 07:56:03,895 - spotify_partner_api - INFO - Getting detailed info for artist: 2CIMQHirSU0MQqyYHq0eOx
+2025-03-05 07:56:03,895 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-05 07:56:04,148 - spotify_token_manager - INFO - Token retrieved successfully, expires at 2025-03-05 08:46:17.663000
+2025-03-05 07:56:04,150 - spotify_token_manager - INFO - Token data saved to output\batch_spotify_tokens.json
+2025-03-05 07:56:04,848 - batch_processing - INFO - Saved data files for artist 2CIMQHirSU0MQqyYHq0eOx
+2025-03-05 07:56:04,885 - batch_processing - INFO - Database updated for artist 2CIMQHirSU0MQqyYHq0eOx
+2025-03-05 07:56:05,892 - batch_processing - INFO - Batch processing complete: 1 succeeded, 0 failed
+2025-03-05 07:56:05,895 - batch_processing - INFO - Results saved to output\batch_results_20250305_075605.json
