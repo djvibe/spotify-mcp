@@ -1,0 +1,4790 @@
+{
+  "data": {
+    "artistUnion": {
+      "__typename": "Artist",
+      "discography": {
+        "albums": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2019 Avicii Recordings AB, under exclusive license to Universal Music AB",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2019 Avicii Recordings AB, under exclusive license to Universal Music AB",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02660ee24281a547103f466ff5",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851660ee24281a547103f466ff5",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273660ee24281a547103f466ff5",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 6,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 2019
+                    },
+                    "id": "6Ad1E9vl75ZB3Ir87zwXIJ",
+                    "label": "Universal Music AB",
+                    "name": "TIM",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "Y2VWMesZQVGj34qAzYWhkA",
+                      "shareUrl": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ?si=Y2VWMesZQVGj34qAzYWhkA"
+                    },
+                    "tracks": {
+                      "totalCount": 12
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6Ad1E9vl75ZB3Ir87zwXIJ"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2015 Avicii Music AB, under exclusive license to Universal Music AB",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2015 Avicii Music AB, under exclusive license to Universal Music AB",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025393c5d3cac806092a9bc468",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515393c5d3cac806092a9bc468",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735393c5d3cac806092a9bc468",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 2,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2015
+                    },
+                    "id": "7dqftJ3kas6D0VAdmt3k3V",
+                    "label": "Universal Music AB",
+                    "name": "Stories",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "mgYDsxKDTLic3S2nj34qzg",
+                      "shareUrl": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V?si=mgYDsxKDTLic3S2nj34qzg"
+                    },
+                    "tracks": {
+                      "totalCount": 14
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:7dqftJ3kas6D0VAdmt3k3V"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2014 Avicii Music AB, / PRMD under exclusive license to Universal Music AB",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2014 Avicii Music AB, / PRMD under exclusive license to Universal Music AB",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02182fe5b5d3e3c3fcc895a3c8",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851182fe5b5d3e3c3fcc895a3c8",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273182fe5b5d3e3c3fcc895a3c8",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 1,
+                      "month": 1,
+                      "precision": "DAY",
+                      "year": 2014
+                    },
+                    "id": "0ignCov9foaLxuqND5GMtl",
+                    "label": "Universal Music AB",
+                    "name": "True: Avicii By Avicii",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "eqv1zXzvRR61f5lml-iRyg",
+                      "shareUrl": "https://open.spotify.com/album/0ignCov9foaLxuqND5GMtl?si=eqv1zXzvRR61f5lml-iRyg"
+                    },
+                    "tracks": {
+                      "totalCount": 9
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:0ignCov9foaLxuqND5GMtl"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2014 Avicii Music AB, under exclusive license to Universal Music AB",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2014 Avicii Music AB, under exclusive license to Universal Music AB",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020ae4f4d42e4a09f3a29f64ad",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510ae4f4d42e4a09f3a29f64ad",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730ae4f4d42e4a09f3a29f64ad",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 1,
+                      "month": 1,
+                      "precision": "DAY",
+                      "year": 2014
+                    },
+                    "id": "0h2knr6qpiAq0tV5ri5JMF",
+                    "label": "Universal Music AB",
+                    "name": "The Days / Nights",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "AOxvh-sURGi_8sUYlalN3g",
+                      "shareUrl": "https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF?si=AOxvh-sURGi_8sUYlalN3g"
+                    },
+                    "tracks": {
+                      "totalCount": 4
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:0h2knr6qpiAq0tV5ri5JMF"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2020 Avicii Music AB, under exclusive license to Universal Music AB",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2013 Avicii Music AB, under exclusive license to Universal Music AB",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c3760c26cc5374ddbd9fd530",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c3760c26cc5374ddbd9fd530",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c3760c26cc5374ddbd9fd530",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 16,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2013
+                    },
+                    "id": "50oWFJ0mDEeMa74ElsdAp3",
+                    "label": "Universal Music AB",
+                    "name": "True (Bonus Edition)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "JjYh5ILeRmCi5d2DAsY3zg",
+                      "shareUrl": "https://open.spotify.com/album/50oWFJ0mDEeMa74ElsdAp3?si=JjYh5ILeRmCi5d2DAsY3zg"
+                    },
+                    "tracks": {
+                      "totalCount": 15
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:50oWFJ0mDEeMa74ElsdAp3"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2013 Avicii Music AB, / PRMD under exclusive license to Universal Music AB",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2013 Avicii Music AB, / PRMD under exclusive license to Universal Music AB",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e14f11f796cef9f9a82691a7",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e14f11f796cef9f9a82691a7",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e14f11f796cef9f9a82691a7",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 1,
+                      "month": 1,
+                      "precision": "DAY",
+                      "year": 2013
+                    },
+                    "id": "2H6i2CrWgXE1HookLu8Au0",
+                    "label": "Universal Music AB",
+                    "name": "True",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "WjrKjTXFRH2TCiXe-dn4zA",
+                      "shareUrl": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0?si=WjrKjTXFRH2TCiXe-dn4zA"
+                    },
+                    "tracks": {
+                      "totalCount": 10
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2H6i2CrWgXE1HookLu8Au0"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 6
+        },
+        "compilations": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2013 Avicii Music AB, under exclusive license to Universal Music AB",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2013 Avicii Music AB, under exclusive license to Universal Music AB",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02f7e43e69a1436bffd1b72494",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851f7e43e69a1436bffd1b72494",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273f7e43e69a1436bffd1b72494",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 30,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2013
+                    },
+                    "id": "7fKhd6CBs8j8mNWSKRUANe",
+                    "label": "Avicii Music AB",
+                    "name": "True reveal",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "w5gHozSURsarVZVCNO89QA",
+                      "shareUrl": "https://open.spotify.com/album/7fKhd6CBs8j8mNWSKRUANe?si=w5gHozSURsarVZVCNO89QA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:7fKhd6CBs8j8mNWSKRUANe"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 1
+        },
+        "latest": {
+          "copyright": {
+            "items": [
+              {
+                "text": "\u00a9 2025 Pinguettes Recordings AB, under exclusive license to Universal Music AB",
+                "type": "C"
+              },
+              {
+                "text": "\u2117 2025 Pinguettes Recordings AB, under exclusive license to Universal Music AB",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0289bc409ad6fb0690bcb477fb",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485189bc409ad6fb0690bcb477fb",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27389bc409ad6fb0690bcb477fb",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 14,
+            "month": 2,
+            "precision": "DAY",
+            "year": 2025
+          },
+          "id": "1dKWcCmNn3YYWvcm1D8371",
+          "label": "Universal Music AB",
+          "name": "Forever Yours (Tim\u2019s 2016 Ibiza Version)",
+          "playability": {
+            "playable": true,
+            "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+            "shareId": "o6lGPlqZRLafFZGkMX_ZDQ",
+            "shareUrl": "https://open.spotify.com/album/1dKWcCmNn3YYWvcm1D8371?si=o6lGPlqZRLafFZGkMX_ZDQ"
+          },
+          "tracks": {
+            "totalCount": 1
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:1dKWcCmNn3YYWvcm1D8371"
+        },
+        "popularReleasesAlbums": {
+          "items": [
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2013 Avicii Music AB, / PRMD under exclusive license to Universal Music AB",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2013 Avicii Music AB, / PRMD under exclusive license to Universal Music AB",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e14f11f796cef9f9a82691a7",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e14f11f796cef9f9a82691a7",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e14f11f796cef9f9a82691a7",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 1,
+                "month": 1,
+                "precision": "DAY",
+                "year": 2013
+              },
+              "id": "2H6i2CrWgXE1HookLu8Au0",
+              "label": "Universal Music AB",
+              "name": "True",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "WjrKjTXFRH2TCiXe-dn4zA",
+                "shareUrl": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0?si=WjrKjTXFRH2TCiXe-dn4zA"
+              },
+              "tracks": {
+                "totalCount": 10
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:2H6i2CrWgXE1HookLu8Au0"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2014 Avicii Music AB, under exclusive license to Universal Music AB",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2014 Avicii Music AB, under exclusive license to Universal Music AB",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020ae4f4d42e4a09f3a29f64ad",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510ae4f4d42e4a09f3a29f64ad",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730ae4f4d42e4a09f3a29f64ad",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 1,
+                "month": 1,
+                "precision": "DAY",
+                "year": 2014
+              },
+              "id": "0h2knr6qpiAq0tV5ri5JMF",
+              "label": "Universal Music AB",
+              "name": "The Days / Nights",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "AOxvh-sURGi_8sUYlalN3g",
+                "shareUrl": "https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF?si=AOxvh-sURGi_8sUYlalN3g"
+              },
+              "tracks": {
+                "totalCount": 4
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:0h2knr6qpiAq0tV5ri5JMF"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2017 Avicii Music AB, under exclusive license to Universal Music AB",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2017 Avicii Music AB, under exclusive license to Universal Music AB",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a26cc58b4d64c2ece3376389",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a26cc58b4d64c2ece3376389",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a26cc58b4d64c2ece3376389",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 10,
+                "month": 8,
+                "precision": "DAY",
+                "year": 2017
+              },
+              "id": "1m3mf7xkXIwssVriaaTjOS",
+              "label": "Universal Music AB",
+              "name": "AV\u012aCI (01)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "xGJQmtdoREGaZkjdjZSD8g",
+                "shareUrl": "https://open.spotify.com/album/1m3mf7xkXIwssVriaaTjOS?si=xGJQmtdoREGaZkjdjZSD8g"
+              },
+              "tracks": {
+                "totalCount": 6
+              },
+              "type": "EP",
+              "uri": "spotify:album:1m3mf7xkXIwssVriaaTjOS"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2015 Avicii Music AB, under exclusive license to Universal Music AB",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2015 Avicii Music AB, under exclusive license to Universal Music AB",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025393c5d3cac806092a9bc468",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515393c5d3cac806092a9bc468",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735393c5d3cac806092a9bc468",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 2,
+                "month": 10,
+                "precision": "DAY",
+                "year": 2015
+              },
+              "id": "7dqftJ3kas6D0VAdmt3k3V",
+              "label": "Universal Music AB",
+              "name": "Stories",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "mgYDsxKDTLic3S2nj34qzg",
+                "shareUrl": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V?si=mgYDsxKDTLic3S2nj34qzg"
+              },
+              "tracks": {
+                "totalCount": 14
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:7dqftJ3kas6D0VAdmt3k3V"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2011 Avicii Music AB, Under exclusive license to Universal Music AB",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2011 Avicii Music AB, Under exclusive license to Universal Music AB",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ffb343926530168be4724dd4",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ffb343926530168be4724dd4",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ffb343926530168be4724dd4",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 28,
+                "month": 10,
+                "precision": "DAY",
+                "year": 2011
+              },
+              "id": "1OEGfToF7QbjUgyxMAnGXg",
+              "label": "Universal Music AB",
+              "name": "Levels",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "n8gKsDFOTMC2CXi9NJWPGQ",
+                "shareUrl": "https://open.spotify.com/album/1OEGfToF7QbjUgyxMAnGXg?si=n8gKsDFOTMC2CXi9NJWPGQ"
+              },
+              "tracks": {
+                "totalCount": 4
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1OEGfToF7QbjUgyxMAnGXg"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2019 Avicii Recordings AB, under exclusive license to Universal Music AB",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2019 Avicii Recordings AB, under exclusive license to Universal Music AB",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02660ee24281a547103f466ff5",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851660ee24281a547103f466ff5",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273660ee24281a547103f466ff5",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 6,
+                "month": 6,
+                "precision": "DAY",
+                "year": 2019
+              },
+              "id": "6Ad1E9vl75ZB3Ir87zwXIJ",
+              "label": "Universal Music AB",
+              "name": "TIM",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "Y2VWMesZQVGj34qAzYWhkA",
+                "shareUrl": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ?si=Y2VWMesZQVGj34qAzYWhkA"
+              },
+              "tracks": {
+                "totalCount": 12
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:6Ad1E9vl75ZB3Ir87zwXIJ"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2020 Avicii Music AB, under exclusive license to Universal Music AB",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2013 Avicii Music AB, under exclusive license to Universal Music AB",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c3760c26cc5374ddbd9fd530",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c3760c26cc5374ddbd9fd530",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c3760c26cc5374ddbd9fd530",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 16,
+                "month": 9,
+                "precision": "DAY",
+                "year": 2013
+              },
+              "id": "50oWFJ0mDEeMa74ElsdAp3",
+              "label": "Universal Music AB",
+              "name": "True (Bonus Edition)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "JjYh5ILeRmCi5d2DAsY3zg",
+                "shareUrl": "https://open.spotify.com/album/50oWFJ0mDEeMa74ElsdAp3?si=JjYh5ILeRmCi5d2DAsY3zg"
+              },
+              "tracks": {
+                "totalCount": 15
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:50oWFJ0mDEeMa74ElsdAp3"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2013 Avicii Music AB",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2012 Avicii Music AB",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d1f3c40cd2e251e04ae6413f",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d1f3c40cd2e251e04ae6413f",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d1f3c40cd2e251e04ae6413f",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 26,
+                "month": 12,
+                "precision": "DAY",
+                "year": 2012
+              },
+              "id": "0sOrbRnJcNod63r49kmGVb",
+              "label": "Universal Music AB",
+              "name": "I Could Be The One [Avicii vs Nicky Romero]",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "fGmqB3bgSi-3dMZaG3EqOg",
+                "shareUrl": "https://open.spotify.com/album/0sOrbRnJcNod63r49kmGVb?si=fGmqB3bgSi-3dMZaG3EqOg"
+              },
+              "tracks": {
+                "totalCount": 5
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:0sOrbRnJcNod63r49kmGVb"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2025 Pinguettes Recordings AB, under exclusive license to Universal Music AB",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2025 Pinguettes Recordings AB, under exclusive license to Universal Music AB",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0289bc409ad6fb0690bcb477fb",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485189bc409ad6fb0690bcb477fb",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27389bc409ad6fb0690bcb477fb",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 14,
+                "month": 2,
+                "precision": "DAY",
+                "year": 2025
+              },
+              "id": "1dKWcCmNn3YYWvcm1D8371",
+              "label": "Universal Music AB",
+              "name": "Forever Yours (Tim\u2019s 2016 Ibiza Version)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "o6lGPlqZRLafFZGkMX_ZDQ",
+                "shareUrl": "https://open.spotify.com/album/1dKWcCmNn3YYWvcm1D8371?si=o6lGPlqZRLafFZGkMX_ZDQ"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1dKWcCmNn3YYWvcm1D8371"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2020 Ineffable Music AB, under exclusive license to Universal Music AB",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2020 Ineffable Music AB, under exclusive license to Universal Music AB",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0254f90bb37c316c173c7a1cb7",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485154f90bb37c316c173c7a1cb7",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27354f90bb37c316c173c7a1cb7",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 24,
+                "month": 1,
+                "precision": "DAY",
+                "year": 2020
+              },
+              "id": "63VE57Ol6fcAC0fb6kGx5y",
+              "label": "Universal Music AB",
+              "name": "Forever Yours (Avicii Tribute)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "Jflxi8vCQDiqNRvigt3u3w",
+                "shareUrl": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y?si=Jflxi8vCQDiqNRvigt3u3w"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:63VE57Ol6fcAC0fb6kGx5y"
+            }
+          ],
+          "totalCount": 20
+        },
+        "singles": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2025 Pinguettes Recordings AB, under exclusive license to Universal Music AB",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2025 Pinguettes Recordings AB, under exclusive license to Universal Music AB",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0289bc409ad6fb0690bcb477fb",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485189bc409ad6fb0690bcb477fb",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27389bc409ad6fb0690bcb477fb",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 14,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "1dKWcCmNn3YYWvcm1D8371",
+                    "label": "Universal Music AB",
+                    "name": "Forever Yours (Tim\u2019s 2016 Ibiza Version)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "o6lGPlqZRLafFZGkMX_ZDQ",
+                      "shareUrl": "https://open.spotify.com/album/1dKWcCmNn3YYWvcm1D8371?si=o6lGPlqZRLafFZGkMX_ZDQ"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1dKWcCmNn3YYWvcm1D8371"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Vicious Recordings",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Vicious Recordings",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021bcb86a24864b2e392403ed2",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511bcb86a24864b2e392403ed2",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731bcb86a24864b2e392403ed2",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 18,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "6RBBJmRSp748wbqTHEHXY3",
+                    "label": "Vicious",
+                    "name": "Snus (Tony Romera Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "4WlpJhiKTE-_ZIfZtEFVVA",
+                      "shareUrl": "https://open.spotify.com/album/6RBBJmRSp748wbqTHEHXY3?si=4WlpJhiKTE-_ZIfZtEFVVA"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:6RBBJmRSp748wbqTHEHXY3"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2022 Vicious, a division of Vicious Recordings Pty Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2022 Vicious, a division of Vicious Recordings Pty Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ef3ea29c458c8a6ddf9ae36d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ef3ea29c458c8a6ddf9ae36d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ef3ea29c458c8a6ddf9ae36d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 26,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2022
+                    },
+                    "id": "1vd2JYeZdinqxPXF26yAuJ",
+                    "label": "Vicious",
+                    "name": "Malo (The Cube Guys Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "dWl5cHJLRXS0meAE6mP2Aw",
+                      "shareUrl": "https://open.spotify.com/album/1vd2JYeZdinqxPXF26yAuJ?si=dWl5cHJLRXS0meAE6mP2Aw"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1vd2JYeZdinqxPXF26yAuJ"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2022 Vicious, a division of Vicious Recordings Pty Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2022 Vicious, a division of Vicious Recordings Pty Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e028b2b52634e050d6c3efc4524",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048518b2b52634e050d6c3efc4524",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2738b2b52634e050d6c3efc4524",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 5,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2022
+                    },
+                    "id": "2fhQ63mzH0H68B0xpIbLqC",
+                    "label": "Vicious",
+                    "name": "Street Dancer (Sgt Slick's Discotizer 2022 Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "b8-KW3vFSV6vjGCDEh1wPQ",
+                      "shareUrl": "https://open.spotify.com/album/2fhQ63mzH0H68B0xpIbLqC?si=b8-KW3vFSV6vjGCDEh1wPQ"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:2fhQ63mzH0H68B0xpIbLqC"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2022 Vicious, a division of Vicious Recordings Pty Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2022 Vicious, a division of Vicious Recordings Pty Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020acda42b6bb107263bee9edc",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510acda42b6bb107263bee9edc",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730acda42b6bb107263bee9edc",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 15,
+                      "month": 7,
+                      "precision": "DAY",
+                      "year": 2022
+                    },
+                    "id": "3P4T0xEYwLZiB9xhzM0tzF",
+                    "label": "Vicious",
+                    "name": "My Feelings For You (Mark Knight Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "8I-m8HyeQe2L3xQpclVPuA",
+                      "shareUrl": "https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF?si=8I-m8HyeQe2L3xQpclVPuA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3P4T0xEYwLZiB9xhzM0tzF"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2022 Vicious, a division of Vicious Recordings Pty Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2022 Vicious, a division of Vicious Recordings Pty Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02208a803030ea4449adbbc45c",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851208a803030ea4449adbbc45c",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273208a803030ea4449adbbc45c",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 3,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 2022
+                    },
+                    "id": "32jpJfXBTiNcdVHSLib498",
+                    "label": "Vicious",
+                    "name": "My Feelings For You (Don Diablo Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "OSae9bvQTlWhzdl-5_l8Ow",
+                      "shareUrl": "https://open.spotify.com/album/32jpJfXBTiNcdVHSLib498?si=OSae9bvQTlWhzdl-5_l8Ow"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:32jpJfXBTiNcdVHSLib498"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2020 Ineffable Music AB, under exclusive license to Universal Music AB",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2020 Ineffable Music AB, under exclusive license to Universal Music AB",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0254f90bb37c316c173c7a1cb7",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485154f90bb37c316c173c7a1cb7",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27354f90bb37c316c173c7a1cb7",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 24,
+                      "month": 1,
+                      "precision": "DAY",
+                      "year": 2020
+                    },
+                    "id": "63VE57Ol6fcAC0fb6kGx5y",
+                    "label": "Universal Music AB",
+                    "name": "Forever Yours (Avicii Tribute)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "Jflxi8vCQDiqNRvigt3u3w",
+                      "shareUrl": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y?si=Jflxi8vCQDiqNRvigt3u3w"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:63VE57Ol6fcAC0fb6kGx5y"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2019 Avicii Recordings AB, under exclusive license to Universal Music AB",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2019 Avicii Recordings AB, under exclusive license to Universal Music AB",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025ff8ae1ce5d5614785965f7b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515ff8ae1ce5d5614785965f7b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735ff8ae1ce5d5614785965f7b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 5,
+                      "month": 12,
+                      "precision": "DAY",
+                      "year": 2019
+                    },
+                    "id": "3gtlfmfpJjdhUdpfeqj8KO",
+                    "label": "Universal Music AB",
+                    "name": "Fades Away (feat. MishCatt) [Tribute Concert Version]",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "_pGZezi_SJCEBryhp8a7Zg",
+                      "shareUrl": "https://open.spotify.com/album/3gtlfmfpJjdhUdpfeqj8KO?si=_pGZezi_SJCEBryhp8a7Zg"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3gtlfmfpJjdhUdpfeqj8KO"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2019 Avicii Recordings AB, under exclusive license to Universal Music AB",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2019 Avicii Recordings AB, under exclusive license to Universal Music AB",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02428bf430f66d9509300e5045",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851428bf430f66d9509300e5045",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273428bf430f66d9509300e5045",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 23,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2019
+                    },
+                    "id": "37bCTD5iLWMpDcBanNkkXB",
+                    "label": "Universal Music AB",
+                    "name": "Heaven (David Guetta & MORTEN Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "KcixRFFST8WfZjAhEbPVew",
+                      "shareUrl": "https://open.spotify.com/album/37bCTD5iLWMpDcBanNkkXB?si=KcixRFFST8WfZjAhEbPVew"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:37bCTD5iLWMpDcBanNkkXB"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2019 Avicii Recordings AB, under exclusive license to Universal Music AB",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2019 Avicii Recordings AB, under exclusive license to Universal Music AB",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02aa6c5d246f9521cdd05dcfc6",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851aa6c5d246f9521cdd05dcfc6",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273aa6c5d246f9521cdd05dcfc6",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 14,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 2019
+                    },
+                    "id": "7CvAfGvq4RlIwEbT9o8Iav",
+                    "label": "Universal Music AB",
+                    "name": "Tough Love (Ti\u00ebsto Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "O6H9d4DcTlCH94uR4JIzqg",
+                      "shareUrl": "https://open.spotify.com/album/7CvAfGvq4RlIwEbT9o8Iav?si=O6H9d4DcTlCH94uR4JIzqg"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7CvAfGvq4RlIwEbT9o8Iav"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 68
+        },
+        "topTracks": {
+          "items": [
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e14f11f796cef9f9a82691a7"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851e14f11f796cef9f9a82691a7"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e14f11f796cef9f9a82691a7"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:2H6i2CrWgXE1HookLu8Au0"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Avicii"
+                      },
+                      "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 247426
+                },
+                "id": "0nrRP2bk19rLc0orkWPQk2",
+                "name": "Wake Me Up",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "2633740137",
+                "uri": "spotify:track:0nrRP2bk19rLc0orkWPQk2"
+              },
+              "uid": "339df508f176127bbffd"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e020ae4f4d42e4a09f3a29f64ad"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048510ae4f4d42e4a09f3a29f64ad"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2730ae4f4d42e4a09f3a29f64ad"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:0h2knr6qpiAq0tV5ri5JMF"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Avicii"
+                      },
+                      "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 176658
+                },
+                "id": "0ct6r3EGTcMLPtrXHDvVjc",
+                "name": "The Nights",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "2029557532",
+                "uri": "spotify:track:0ct6r3EGTcMLPtrXHDvVjc"
+              },
+              "uid": "f366becb564d179a550b"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e025393c5d3cac806092a9bc468"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048515393c5d3cac806092a9bc468"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2735393c5d3cac806092a9bc468"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:7dqftJ3kas6D0VAdmt3k3V"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Avicii"
+                      },
+                      "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 230613
+                },
+                "id": "2P4OICZRVAQcYAV2JReRfj",
+                "name": "Waiting For Love",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1550622563",
+                "uri": "spotify:track:2P4OICZRVAQcYAV2JReRfj"
+              },
+              "uid": "d407d5007d3c09526ee9"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a26cc58b4d64c2ece3376389"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851a26cc58b4d64c2ece3376389"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a26cc58b4d64c2ece3376389"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:1m3mf7xkXIwssVriaaTjOS"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Avicii"
+                      },
+                      "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+                    },
+                    {
+                      "profile": {
+                        "name": "Sandro Cavazza"
+                      },
+                      "uri": "spotify:artist:5JYo7gm2dkyLLlWHjxS7Dy"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 2
+                  }
+                },
+                "contentRating": {
+                  "label": "EXPLICIT"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 181672
+                },
+                "id": "6Pgkp4qUoTmJIPn7ReaGxL",
+                "name": "Without You (feat. Sandro Cavazza)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1183626250",
+                "uri": "spotify:track:6Pgkp4qUoTmJIPn7ReaGxL"
+              },
+              "uid": "e5f9b5efb7ba982786e8"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02ffb343926530168be4724dd4"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851ffb343926530168be4724dd4"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273ffb343926530168be4724dd4"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:1OEGfToF7QbjUgyxMAnGXg"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Avicii"
+                      },
+                      "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 199906
+                },
+                "id": "5UqCQaDshqbIk3pkhy4Pjg",
+                "name": "Levels - Radio Edit",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1088724985",
+                "uri": "spotify:track:5UqCQaDshqbIk3pkhy4Pjg"
+              },
+              "uid": "7b230dbfe6b8e839e9f3"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e14f11f796cef9f9a82691a7"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851e14f11f796cef9f9a82691a7"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e14f11f796cef9f9a82691a7"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:2H6i2CrWgXE1HookLu8Au0"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Avicii"
+                      },
+                      "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 255093
+                },
+                "id": "4lhqb6JvbHId48OUJGwymk",
+                "name": "Hey Brother",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1117547104",
+                "uri": "spotify:track:4lhqb6JvbHId48OUJGwymk"
+              },
+              "uid": "bbf68daf643b0ff3757f"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e14f11f796cef9f9a82691a7"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851e14f11f796cef9f9a82691a7"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e14f11f796cef9f9a82691a7"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:2H6i2CrWgXE1HookLu8Au0"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Avicii"
+                      },
+                      "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 2
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 148386
+                },
+                "id": "4eDYMhIin1pSLIG96f1aD0",
+                "name": "Addicted To You",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "469269877",
+                "uri": "spotify:track:4eDYMhIin1pSLIG96f1aD0"
+              },
+              "uid": "f0f300c75f963442b39f"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02660ee24281a547103f466ff5"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851660ee24281a547103f466ff5"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273660ee24281a547103f466ff5"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6Ad1E9vl75ZB3Ir87zwXIJ"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Avicii"
+                      },
+                      "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+                    },
+                    {
+                      "profile": {
+                        "name": "Aloe Blacc"
+                      },
+                      "uri": "spotify:artist:0id62QV2SZZfvBn9xpmuCl"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 157202
+                },
+                "id": "2x0RZdkZcD8QRI53XT4GI5",
+                "name": "SOS (feat. Aloe Blacc)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "808922069",
+                "uri": "spotify:track:2x0RZdkZcD8QRI53XT4GI5"
+              },
+              "uid": "591e0d1c834794b0084e"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02c37b2ce76e8cc86b6683e0a5"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851c37b2ce76e8cc86b6683e0a5"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273c37b2ce76e8cc86b6683e0a5"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:292ltz2MxXuFZw9FaEbaZ3"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Avicii"
+                      },
+                      "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+                    },
+                    {
+                      "profile": {
+                        "name": "Nicky Romero"
+                      },
+                      "uri": "spotify:artist:5ChF3i92IPZHduM7jN3dpg"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 2
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 208320
+                },
+                "id": "591nHHHzZl1NLt9PMKpinM",
+                "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "483810489",
+                "uri": "spotify:track:591nHHHzZl1NLt9PMKpinM"
+              },
+              "uid": "ade7295cfd49830a9e99"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a26cc58b4d64c2ece3376389"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851a26cc58b4d64c2ece3376389"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a26cc58b4d64c2ece3376389"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:1m3mf7xkXIwssVriaaTjOS"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Avicii"
+                      },
+                      "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+                    },
+                    {
+                      "profile": {
+                        "name": "Rita Ora"
+                      },
+                      "uri": "spotify:artist:5CCwRZC6euC8Odo6y9X8jr"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 181812
+                },
+                "id": "75NhhYjHO43mvZgYtnXgti",
+                "name": "Lonely Together (feat. Rita Ora)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "731135037",
+                "uri": "spotify:track:75NhhYjHO43mvZgYtnXgti"
+              },
+              "uid": "6b3b454eaf0494eb5148"
+            }
+          ]
+        }
+      },
+      "goods": {
+        "concerts": {
+          "items": [],
+          "totalCount": 0
+        },
+        "merch": {
+          "items": []
+        }
+      },
+      "headerImage": {
+        "data": {
+          "__typename": "ImageV2",
+          "sources": [
+            {
+              "maxHeight": 640,
+              "maxWidth": 1494,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67618600000194854168487c5bbfe52478ba09"
+            },
+            {
+              "maxHeight": 1080,
+              "maxWidth": 1920,
+              "url": "https://i2o.scdn.co/image/ab67618600001667854168487c5bbfe52478ba09"
+            },
+            {
+              "maxHeight": 641,
+              "maxWidth": 1495,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67618600009d80854168487c5bbfe52478ba09"
+            },
+            {
+              "maxHeight": 1140,
+              "maxWidth": 2660,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab6761860000eab1854168487c5bbfe52478ba09"
+            }
+          ]
+        }
+      },
+      "id": "1vCWHaC5f2uS3yhpwWbIA6",
+      "preRelease": null,
+      "profile": {
+        "biography": {
+          "text": "With his melodic songs and inspirational lyrics Swedish house producer Avicii was one of the defining artists of modern pop. The genre-bending tracks captivated audiences worldwide and are widely considered the soundtrack of a generation.\nBorn 1989 in Stockholm, Tim Bergling grew up being obsessed with video games, a passion that in his teens translated into him making music. After being discovered through a blog and gaining some traction with \u201dSeek Bromance\u201d, his career exploded in 2011 with \u201dLevels\u201d. His way of boldly blending musical styles became a trademark of Avicii, shown on full display on his first album \u201dTrue\u201d. The leading single \u201dWake Me Up\u201d, a fusion of house music and traditional bluegrass, reached the number one spot on the iTunes charts in over 60 countries. The song became the most streamed ever on Spotify to that date, played over 200 million times, and turned Avicii into a sought-after pop producer, collaborating with stars such as Madonna and Coldplay.\nAfter touring the world at a frantic pace, all the while struggling with health issues and substance abuse, in 2015 Tim Bergling retired from performing live altogether. \u00a0\u2028The slower lifestyle allowed him to focus purely on composing, drawing inspiration this time mainly from African and Asian traditions. Bergling was working on his fourth project, \u201dTim\u201d, when he tragically passed away during a holiday trip to Oman, in April of 2018. He is regarded as one of the most influential house producers of all time.\u00a0",
+          "type": "AUTOBIOGRAPHY"
+        },
+        "externalLinks": {
+          "items": [
+            {
+              "name": "FACEBOOK",
+              "url": "https://facebook.com/avicii"
+            },
+            {
+              "name": "INSTAGRAM",
+              "url": "https://instagram.com/avicii"
+            },
+            {
+              "name": "WIKIPEDIA",
+              "url": "https://en.wikipedia.org/wiki/Avicii"
+            }
+          ]
+        },
+        "name": "Avicii",
+        "pinnedItem": {
+          "backgroundImageV2": null,
+          "comment": "",
+          "itemV2": {
+            "__typename": "AlbumResponseWrapper",
+            "data": {
+              "__typename": "Album",
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0289bc409ad6fb0690bcb477fb",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485189bc409ad6fb0690bcb477fb",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27389bc409ad6fb0690bcb477fb",
+                    "width": 640
+                  }
+                ]
+              },
+              "name": "Forever Yours (Tim\u2019s 2016 Ibiza Version)",
+              "type": "SINGLE",
+              "uri": "spotify:album:1dKWcCmNn3YYWvcm1D8371"
+            }
+          },
+          "subtitle": "Single \u2022 New Release",
+          "thumbnailImage": {
+            "data": {
+              "sources": [
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000075a089bc409ad6fb0690bcb477fb"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000090d589bc409ad6fb0690bcb477fb"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000ab8789bc409ad6fb0690bcb477fb"
+                }
+              ]
+            }
+          },
+          "title": "Forever Yours (Tim\u2019s 2016 Ibiza Version)",
+          "type": "ALBUM",
+          "uri": "spotify:album:1dKWcCmNn3YYWvcm1D8371"
+        },
+        "playlistsV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Avicii. The essential tracks, all in one playlist.",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002331d69cf9b3156603d0547ec",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "This Is Avicii",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXcXBWjiVEM8R"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84c09593b748645f9d4857d0d2",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "AVICII - Essentials",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Avicii"
+                  }
+                },
+                "uri": "spotify:playlist:0Nfd1i1ofRRIXN8Kyk5ms1"
+              }
+            }
+          ],
+          "totalCount": 2
+        },
+        "verified": true
+      },
+      "relatedContent": {
+        "appearsOn": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "David Guetta"
+                          },
+                          "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025c8cfe4b2c4aa89c9c92108e",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515c8cfe4b2c4aa89c9c92108e",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735c8cfe4b2c4aa89c9c92108e",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2012
+                    },
+                    "id": "4bTjdxhRRUiWfwj200f9Kl",
+                    "name": "Nothing but the Beat (Ultimate Edition)",
+                    "sharingInfo": {
+                      "shareId": "DDZCgZ-8TSCPP_gDB0YBhg",
+                      "shareUrl": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl?si=DDZCgZ-8TSCPP_gDB0YBhg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4bTjdxhRRUiWfwj200f9Kl"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ffd3f00fc718dda0ef50d237",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ffd3f00fc718dda0ef50d237",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ffd3f00fc718dda0ef50d237",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "3MWSY8N1zWSNBcnMTIeiTz",
+                    "name": "Good Morning Music: Wake Up Workout",
+                    "sharingInfo": {
+                      "shareId": "AEILpNhVQOOSvtwCvRTtBQ",
+                      "shareUrl": "https://open.spotify.com/album/3MWSY8N1zWSNBcnMTIeiTz?si=AEILpNhVQOOSvtwCvRTtBQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3MWSY8N1zWSNBcnMTIeiTz"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e026dd4cddae5c3c32477d33740",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048516dd4cddae5c3c32477d33740",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2736dd4cddae5c3c32477d33740",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "3zuiRKPaFalv72BcNJ47Ih",
+                    "name": "Best of 10s",
+                    "sharingInfo": {
+                      "shareId": "miVxQQUdSVm7OqTAagovsg",
+                      "shareUrl": "https://open.spotify.com/album/3zuiRKPaFalv72BcNJ47Ih?si=miVxQQUdSVm7OqTAagovsg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3zuiRKPaFalv72BcNJ47Ih"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0202e01e7720076e53d1f88ea9",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485102e01e7720076e53d1f88ea9",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27302e01e7720076e53d1f88ea9",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "3BRZHiNQiv0t7x6kVuzFwq",
+                    "name": "House Party Jams",
+                    "sharingInfo": {
+                      "shareId": "TWHAmGQMSrmkhji9tDKTHw",
+                      "shareUrl": "https://open.spotify.com/album/3BRZHiNQiv0t7x6kVuzFwq?si=TWHAmGQMSrmkhji9tDKTHw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3BRZHiNQiv0t7x6kVuzFwq"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02167d49d5d7098b176562f9b2",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851167d49d5d7098b176562f9b2",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273167d49d5d7098b176562f9b2",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "37bu5iGP8qyG50MbFUKbGi",
+                    "name": "EDM Hits",
+                    "sharingInfo": {
+                      "shareId": "dqlQpMmrSkWReniT3vfmBw",
+                      "shareUrl": "https://open.spotify.com/album/37bu5iGP8qyG50MbFUKbGi?si=dqlQpMmrSkWReniT3vfmBw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:37bu5iGP8qyG50MbFUKbGi"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02625fe347d8e5565382d26c62",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851625fe347d8e5565382d26c62",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273625fe347d8e5565382d26c62",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2014
+                    },
+                    "id": "5htwZrf4lCiZ6GTj9Z0CMo",
+                    "name": "The 2014 FIFA World Cup Official Album: One Love, One Rhythm",
+                    "sharingInfo": {
+                      "shareId": "QYwpRed-RTyl5spvNT2EIQ",
+                      "shareUrl": "https://open.spotify.com/album/5htwZrf4lCiZ6GTj9Z0CMo?si=QYwpRed-RTyl5spvNT2EIQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:5htwZrf4lCiZ6GTj9Z0CMo"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Faithless"
+                          },
+                          "uri": "spotify:artist:5T4UKHhr4HGIC0VzdZQtAE"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0231b2f20e14d9d9bf9c481f04",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485131b2f20e14d9d9bf9c481f04",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27331b2f20e14d9d9bf9c481f04",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2015
+                    },
+                    "id": "5USqWtDnrzYSN7oh1wPl2O",
+                    "name": "Faithless 2.0",
+                    "sharingInfo": {
+                      "shareId": "Fo_bx4MXRhmf4UibRNQCjw",
+                      "shareUrl": "https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O?si=Fo_bx4MXRhmf4UibRNQCjw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:5USqWtDnrzYSN7oh1wPl2O"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e028c5eac7598409bd2f3c057ae",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048518c5eac7598409bd2f3c057ae",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2738c5eac7598409bd2f3c057ae",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "5nuW5lV74AyC92DXxKAGqG",
+                    "name": "Sing Along Bangers",
+                    "sharingInfo": {
+                      "shareId": "dal_7nVoScOhii0_0nk9Cg",
+                      "shareUrl": "https://open.spotify.com/album/5nuW5lV74AyC92DXxKAGqG?si=dal_7nVoScOhii0_0nk9Cg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:5nuW5lV74AyC92DXxKAGqG"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Junior Caldera"
+                          },
+                          "uri": "spotify:artist:0uRgQor0jDWaKojnCUhR0b"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029e8eca2a763abbc5ae049686",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519e8eca2a763abbc5ae049686",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739e8eca2a763abbc5ae049686",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2014
+                    },
+                    "id": "5PWBm9v7VxGtt344G8h5Li",
+                    "name": "Debut (Gold Edition)",
+                    "sharingInfo": {
+                      "shareId": "HpPQvxozRle1PBrAn8GkTQ",
+                      "shareUrl": "https://open.spotify.com/album/5PWBm9v7VxGtt344G8h5Li?si=HpPQvxozRle1PBrAn8GkTQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:5PWBm9v7VxGtt344G8h5Li"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0252bd7c1128fff7268a48da8d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485152bd7c1128fff7268a48da8d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27352bd7c1128fff7268a48da8d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2017
+                    },
+                    "id": "3zRe0BRg8wZbtC9nfkG9so",
+                    "name": "Superbeat Ibiza 2017",
+                    "sharingInfo": {
+                      "shareId": "_QpI-6BwRFyrFPYOWTxf8A",
+                      "shareUrl": "https://open.spotify.com/album/3zRe0BRg8wZbtC9nfkG9so?si=_QpI-6BwRFyrFPYOWTxf8A"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3zRe0BRg8wZbtC9nfkG9so"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Daft Punk"
+                          },
+                          "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0226597c053b38c9cf93f8f3a9",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485126597c053b38c9cf93f8f3a9",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27326597c053b38c9cf93f8f3a9",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2011
+                    },
+                    "id": "382ObEPsp2rxGrnsizN5TX",
+                    "name": "TRON: Legacy Reconfigured",
+                    "sharingInfo": {
+                      "shareId": "oWRphm_TR1anAhBFFj_Lfw",
+                      "shareUrl": "https://open.spotify.com/album/382ObEPsp2rxGrnsizN5TX?si=oWRphm_TR1anAhBFFj_Lfw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:382ObEPsp2rxGrnsizN5TX"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029da9d09e742fc514168c0b69",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519da9d09e742fc514168c0b69",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739da9d09e742fc514168c0b69",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2012
+                    },
+                    "id": "2yfQvBqdTi54cxaBpTkhHA",
+                    "name": "Progressive Essentials, Vol. 3",
+                    "sharingInfo": {
+                      "shareId": "QAX9c1aRQUWcXWSbnJ1T8w",
+                      "shareUrl": "https://open.spotify.com/album/2yfQvBqdTi54cxaBpTkhHA?si=QAX9c1aRQUWcXWSbnJ1T8w"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:2yfQvBqdTi54cxaBpTkhHA"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a2ef720b47c4c77141041d2a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a2ef720b47c4c77141041d2a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a2ef720b47c4c77141041d2a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2012
+                    },
+                    "id": "7fym5VfEqhrrQhzFMLghvD",
+                    "name": "Fitness Beats 2013",
+                    "sharingInfo": {
+                      "shareId": "sxcPMcTMRCGHgi_nNIkIaQ",
+                      "shareUrl": "https://open.spotify.com/album/7fym5VfEqhrrQhzFMLghvD?si=sxcPMcTMRCGHgi_nNIkIaQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:7fym5VfEqhrrQhzFMLghvD"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Otto Knows"
+                          },
+                          "uri": "spotify:artist:5fahUm8t5c0GIdeTq0ZaG8"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e86879dff1cf1476698d05c7",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e86879dff1cf1476698d05c7",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e86879dff1cf1476698d05c7",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2016
+                    },
+                    "id": "6c4fND91gsKojyp3Mox97y",
+                    "name": "Back Where I Belong (feat. Avicii)",
+                    "sharingInfo": {
+                      "shareId": "RD3pKIssQwK7V_QOVoPOlQ",
+                      "shareUrl": "https://open.spotify.com/album/6c4fND91gsKojyp3Mox97y?si=RD3pKIssQwK7V_QOVoPOlQ"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:6c4fND91gsKojyp3Mox97y"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024c679675499a451f7e7046ac",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514c679675499a451f7e7046ac",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734c679675499a451f7e7046ac",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "4Xn7Bb8dZ1zVdZXKts2nVl",
+                    "name": "100 Greatest Motivation Songs",
+                    "sharingInfo": {
+                      "shareId": "j4pZzP7wRJC-k_gS0gn7sQ",
+                      "shareUrl": "https://open.spotify.com/album/4Xn7Bb8dZ1zVdZXKts2nVl?si=j4pZzP7wRJC-k_gS0gn7sQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:4Xn7Bb8dZ1zVdZXKts2nVl"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Tim Berg"
+                          },
+                          "uri": "spotify:artist:7iLc4hrjOjQPfg1E3cCHg1"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020788b2d8fb96d2f86aab5b87",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510788b2d8fb96d2f86aab5b87",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730788b2d8fb96d2f86aab5b87",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2010
+                    },
+                    "id": "4zQnSr3qIEuy9Wv6sOXJXY",
+                    "name": "Bromance (Remixes)",
+                    "sharingInfo": {
+                      "shareId": "9sOjs3gjS3Gy6Lupbk9OjA",
+                      "shareUrl": "https://open.spotify.com/album/4zQnSr3qIEuy9Wv6sOXJXY?si=9sOjs3gjS3Gy6Lupbk9OjA"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4zQnSr3qIEuy9Wv6sOXJXY"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b65edde89b9516b2214fb2c2",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b65edde89b9516b2214fb2c2",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b65edde89b9516b2214fb2c2",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "5zoMTFng02JOaUaa5BldKT",
+                    "name": "Sport",
+                    "sharingInfo": {
+                      "shareId": "cvS0yIGqRiCuYrBa3RR4xw",
+                      "shareUrl": "https://open.spotify.com/album/5zoMTFng02JOaUaa5BldKT?si=cvS0yIGqRiCuYrBa3RR4xw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:5zoMTFng02JOaUaa5BldKT"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ea4dbfbc9b150a29f71de4f1",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ea4dbfbc9b150a29f71de4f1",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ea4dbfbc9b150a29f71de4f1",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2013
+                    },
+                    "id": "7A19ynZIohLCG6dr9k44rJ",
+                    "name": "Party Hits: Summer Edition",
+                    "sharingInfo": {
+                      "shareId": "y1Brah7jTmmze3uFITQbmw",
+                      "shareUrl": "https://open.spotify.com/album/7A19ynZIohLCG6dr9k44rJ?si=y1Brah7jTmmze3uFITQbmw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:7A19ynZIohLCG6dr9k44rJ"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e1e247827dcf295c670b361a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e1e247827dcf295c670b361a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e1e247827dcf295c670b361a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "3uoi0WSv99nejC8O0PYoB2",
+                    "name": "EDM Party",
+                    "sharingInfo": {
+                      "shareId": "DEYmBq6YT7eqiERh44KjTQ",
+                      "shareUrl": "https://open.spotify.com/album/3uoi0WSv99nejC8O0PYoB2?si=DEYmBq6YT7eqiERh44KjTQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3uoi0WSv99nejC8O0PYoB2"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e026ed09f65e45935a54adca5dd",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048516ed09f65e45935a54adca5dd",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2736ed09f65e45935a54adca5dd",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "51Z21bW6Pc6JRx9Iob7gno",
+                    "name": "Pop Hits 2012-2015",
+                    "sharingInfo": {
+                      "shareId": "gnNQnyhOTiqJdQLGVlmACw",
+                      "shareUrl": "https://open.spotify.com/album/51Z21bW6Pc6JRx9Iob7gno?si=gnNQnyhOTiqJdQLGVlmACw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:51Z21bW6Pc6JRx9Iob7gno"
+                  }
+                ],
+                "totalCount": 1
+              }
+            }
+          ],
+          "totalCount": 949
+        },
+        "discoveredOnV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Avicii. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DXcXBWjiVEM8R",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002331d69cf9b3156603d0547ec",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Avicii",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXcXBWjiVEM8R"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "I chose that I think the best music of Avicii and put it here! I may not put some song of Avicii at here, you can find full album of Avicii at my another playlist &quot;Avicii (Legend of Tim Bergling)&quot;",
+                "id": "6Sv7aZ1fHZVEWfGdhqWn87",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846edc592cb9d69e7250980ebc",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "The Best Of Avicii",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "\u6c88\u5b8f\u60a6 NICHOLAS SIM"
+                  }
+                },
+                "uri": "spotify:playlist:6Sv7aZ1fHZVEWfGdhqWn87"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Best of Avicii Tags: Avicii, Aviccii, Best Of Avicii, This Is Avicii, Avicii tribute",
+                "id": "1RusvPi0OVDWsvJXLYoxNl",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8447c394bad11dc994ac944b1b",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Avicii Best Of",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "dustinpietsch"
+                  }
+                },
+                "uri": "spotify:playlist:1RusvPi0OVDWsvJXLYoxNl"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Lo mejor en ingl\u00e9s de la \u00faltima d\u00e9cada. Para novedades, escucha <a href=\"spotify:playlist:37i9dQZF1DX6aTaZa0K6VA\">Pop Up</a>.",
+                "id": "37i9dQZF1DX1ngEVM0lKrb",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002bc543b839338fcddd53a8938",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Pop Internacional 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX1ngEVM0lKrb"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The biggest party hits of the 2010s. Cover: Kesha",
+                "id": "37i9dQZF1DWWylYLMvjuRG",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000021cb757ccbe7a4f7e0e67fe4a",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Party Hits 2010s",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWWylYLMvjuRG"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Electr\u00f3nica 2025 - Best Tracks of Tomorrowland - Tomorrowland Soundtrack - EDM 2025 - Techno Mix - Dance Anthems - Party Mix - Festival Music - Tomorrowland Winter - Tomorrowland Brasil - EDM Playlist - Eletr\u00f4nicas As Melhores \ud83c\udfaa",
+                "id": "33PyRULhtc4SRrUE1wbbmp",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c60f35b2f2202708688cc14cc",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Tomorrowland 2025 Playlist \ud83d\udc99 EDM HITS",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "The Circus \ud83c\udfaa"
+                  }
+                },
+                "uri": "spotify:playlist:33PyRULhtc4SRrUE1wbbmp"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "id": "574gu0rKWEABHngdcdYSbJ",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f04590329dbff3aefc23d0c3",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Electr\u00f3nica Vieja \u00c9xitos ",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Low-fi club \ud83c\udf19"
+                  }
+                },
+                "uri": "spotify:playlist:574gu0rKWEABHngdcdYSbJ"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "\ud83d\udd25 Summer Eletrohits  (( AS MELHORES )) - Verao - Ver\u00e3o - Summer Mix - Eletro Ver\u00e3o Mix - Electronicas Ver\u00e3o Mais Tocadas - Musicas Ver\u00e3o",
+                "id": "237XnwuS1Y3Mhr3BQmuPhp",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8485e35544a4bab2b72797a4ab",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "\ud83d\udd25 Summer Eletrohits  (( AS MELHORES )) \ud83d\udd25",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Summer Eletrohits"
+                  }
+                },
+                "uri": "spotify:playlist:237XnwuS1Y3Mhr3BQmuPhp"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The biggest songs of the 2010s. Cover: Lady Gaga",
+                "id": "37i9dQZF1DX5Ejj0EkURtP",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002d8968192efe2f409766f2ff2",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "All Out 2010s",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX5Ejj0EkURtP"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Este 20 de abril se anunci\u00f3 la muerte del DJ. Lo recordamos con sus mejores \u00e9xitos",
+                "id": "5eLnCWd9zgKG67I93UZuXW",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da849bb495b9c85e35f18d09d732",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Lo mejor de Avicii",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "El Sol de M\u00e9xico"
+                  }
+                },
+                "uri": "spotify:playlist:5eLnCWd9zgKG67I93UZuXW"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Avicii. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO0PRpBu",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO0PRpBu-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Avicii",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO0PRpBu"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "A mega mix of 75 favorites from the last few years! ",
+                "id": "37i9dQZF1DXbYM3nMM0oPk",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000023909428545db5e34677f01f0",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Mega Hit Mix",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXbYM3nMM0oPk"
+              }
+            }
+          ],
+          "totalCount": 100
+        },
+        "featuringV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Avicii. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DXcXBWjiVEM8R",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002331d69cf9b3156603d0547ec",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Avicii",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXcXBWjiVEM8R"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "With Jonas Blue, Axwell /\\ Ingrosso, Swedish House Mafia and more",
+                "id": "37i9dQZF1E4kUE8oxyvqI9",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/1vCWHaC5f2uS3yhpwWbIA6/en",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Avicii Radio",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1E4kUE8oxyvqI9"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Splash and sing-along.",
+                "id": "37i9dQZF1DWSqmBTGDYngZ",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002b4fc8034217025210cc630c1",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Songs to Sing in the Shower",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWSqmBTGDYngZ"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Home is where the main stage is \ud83d\udc97 with Martin Garrix",
+                "id": "37i9dQZF1DX1kCIzMYtzum",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000024cf1707f40fc4e4eeded35e9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "EDM 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX1kCIzMYtzum"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The best uptempo pop for the workout girlies",
+                "id": "37i9dQZF1DX5gQonLbZD9s",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002f627ad1561941f125fa4ce5b",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Pumped Pop",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX5gQonLbZD9s"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The biggest songs of the 2010s. Cover: Lady Gaga",
+                "id": "37i9dQZF1DX5Ejj0EkURtP",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002d8968192efe2f409766f2ff2",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "All Out 2010s",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX5Ejj0EkURtP"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
+                "id": "37i9dQZF1DWSf2RDTDayIx",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002518096c62a9e453db38093db",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Happy Beats",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWSf2RDTDayIx"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "A perfect little pop party. ",
+                "id": "37i9dQZF1DWXti3N4Wp5xy",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002dce5bc8321d570243742d421",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Pop Party",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWXti3N4Wp5xy"
+              }
+            }
+          ],
+          "totalCount": 8
+        },
+        "relatedArtists": {
+          "items": [
+            {
+              "id": "60d24wfXkVzDSfLS6hyCjZ",
+              "profile": {
+                "name": "Martin Garrix"
+              },
+              "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb45c3688488f871aace7a4a57",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17845c3688488f871aace7a4a57",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517445c3688488f871aace7a4a57",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4sTQVOfp9vEMCemLw50sbu",
+              "profile": {
+                "name": "Galantis"
+              },
+              "uri": "spotify:artist:4sTQVOfp9vEMCemLw50sbu",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb7bda087d6fb48d481efd3344",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1787bda087d6fb48d481efd3344",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051747bda087d6fb48d481efd3344",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7CajNmpbOovFoOoasH2HaY",
+              "profile": {
+                "name": "Calvin Harris"
+              },
+              "uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb014a3c1730d960c66396ed63",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178014a3c1730d960c66396ed63",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174014a3c1730d960c66396ed63",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2XnBwblw31dfGnspMIwgWz",
+              "profile": {
+                "name": "Axwell /\\ Ingrosso"
+              },
+              "uri": "spotify:artist:2XnBwblw31dfGnspMIwgWz",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb9f6e5d736809c4cb40d59a7e",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1789f6e5d736809c4cb40d59a7e",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051749f6e5d736809c4cb40d59a7e",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5JYo7gm2dkyLLlWHjxS7Dy",
+              "profile": {
+                "name": "Sandro Cavazza"
+              },
+              "uri": "spotify:artist:5JYo7gm2dkyLLlWHjxS7Dy",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebabc78e987a9deb1cde2734c3",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178abc78e987a9deb1cde2734c3",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174abc78e987a9deb1cde2734c3",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "69GGBxA162lTqCwzJG5jLp",
+              "profile": {
+                "name": "The Chainsmokers"
+              },
+              "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb44434ab91c37f5407f8e83b6",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17844434ab91c37f5407f8e83b6",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517444434ab91c37f5407f8e83b6",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "23fqKkggKUBHNkbKtXEls4",
+              "profile": {
+                "name": "Kygo"
+              },
+              "uri": "spotify:artist:23fqKkggKUBHNkbKtXEls4",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebe5ea1aa1404629c12ad86658",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178e5ea1aa1404629c12ad86658",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174e5ea1aa1404629c12ad86658",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2auikkNYqigWStoHWK1Grq",
+              "profile": {
+                "name": "John Martin"
+              },
+              "uri": "spotify:artist:2auikkNYqigWStoHWK1Grq",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebc219fd875a1df4abf7eb157d",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178c219fd875a1df4abf7eb157d",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174c219fd875a1df4abf7eb157d",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+              "profile": {
+                "name": "David Guetta"
+              },
+              "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebf150017ca69c8793503c2d4f",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178f150017ca69c8793503c2d4f",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174f150017ca69c8793503c2d4f",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6MDME20pz9RveH9rEXvrOM",
+              "profile": {
+                "name": "Clean Bandit"
+              },
+              "uri": "spotify:artist:6MDME20pz9RveH9rEXvrOM",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb70d80b8ab8e193aef64223ec",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17870d80b8ab8e193aef64223ec",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517470d80b8ab8e193aef64223ec",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1HBjj22wzbscIZ9sEb5dyf",
+              "profile": {
+                "name": "Jonas Blue"
+              },
+              "uri": "spotify:artist:1HBjj22wzbscIZ9sEb5dyf",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb1382d5a1d6a664832ec547a8",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1781382d5a1d6a664832ec547a8",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051741382d5a1d6a664832ec547a8",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5Pwc4xIPtQLFEnJriah9YJ",
+              "profile": {
+                "name": "OneRepublic"
+              },
+              "uri": "spotify:artist:5Pwc4xIPtQLFEnJriah9YJ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb57138b98e7ddd5a86ee97a9b",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17857138b98e7ddd5a86ee97a9b",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517457138b98e7ddd5a86ee97a9b",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3t5xRXzsuZmMDkQzgOX35S",
+              "profile": {
+                "name": "Robin Schulz"
+              },
+              "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb82c0d0d4ef6742997f03d678",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17882c0d0d4ef6742997f03d678",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517482c0d0d4ef6742997f03d678",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4AVFqumd2ogHFlRbKIjp1t",
+              "profile": {
+                "name": "Alesso"
+              },
+              "uri": "spotify:artist:4AVFqumd2ogHFlRbKIjp1t",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb327e7178289c299c48e12577",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178327e7178289c299c48e12577",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174327e7178289c299c48e12577",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0X2BH1fck6amBIoJhDVmmJ",
+              "profile": {
+                "name": "Ellie Goulding"
+              },
+              "uri": "spotify:artist:0X2BH1fck6amBIoJhDVmmJ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178c3cd7dc428871e8985d62b9a",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174c3cd7dc428871e8985d62b9a",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3JhNCzhSMTxs9WLGJJxWOY",
+              "profile": {
+                "name": "Macklemore"
+              },
+              "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb488b3b242f97163a7f8e17b9",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178488b3b242f97163a7f8e17b9",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174488b3b242f97163a7f8e17b9",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "34v5MVKeQnIo0CWYMbbrPf",
+              "profile": {
+                "name": "John Newman"
+              },
+              "uri": "spotify:artist:34v5MVKeQnIo0CWYMbbrPf",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb4eaf903c2b9df9217dafeba8",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1784eaf903c2b9df9217dafeba8",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051744eaf903c2b9df9217dafeba8",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0jnsk9HBra6NMjO2oANoPY",
+              "profile": {
+                "name": "Flo Rida"
+              },
+              "uri": "spotify:artist:0jnsk9HBra6NMjO2oANoPY",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb655ca8f3196953554b479452",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178655ca8f3196953554b479452",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174655ca8f3196953554b479452",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "64M6ah0SkkRsnPGtGiRAbb",
+              "profile": {
+                "name": "Bebe Rexha"
+              },
+              "uri": "spotify:artist:64M6ah0SkkRsnPGtGiRAbb",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebead1540fa76796266fadba33",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178ead1540fa76796266fadba33",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174ead1540fa76796266fadba33",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7EQ0qTo7fWT7DPxmxtSYEc",
+              "profile": {
+                "name": "Bastille"
+              },
+              "uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eba2d481cc638c0edd452b4abd",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178a2d481cc638c0edd452b4abd",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174a2d481cc638c0edd452b4abd",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "totalCount": 40
+        }
+      },
+      "relatedVideos": {
+        "__typename": "RelatedVideoPage",
+        "items": [],
+        "totalCount": 0
+      },
+      "saved": false,
+      "sharingInfo": {
+        "shareId": "Q-2p1FqLS7mynBBMopdvbA",
+        "shareUrl": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6?si=Q-2p1FqLS7mynBBMopdvbA"
+      },
+      "stats": {
+        "followers": 23445772,
+        "monthlyListeners": 38519101,
+        "topCities": {
+          "items": [
+            {
+              "city": "Mexico City",
+              "country": "MX",
+              "numberOfListeners": 493189,
+              "region": "CMX"
+            },
+            {
+              "city": "S\u00e3o Paulo",
+              "country": "BR",
+              "numberOfListeners": 490904,
+              "region": "SP"
+            },
+            {
+              "city": "Sydney",
+              "country": "AU",
+              "numberOfListeners": 490643,
+              "region": "NSW"
+            },
+            {
+              "city": "London",
+              "country": "GB",
+              "numberOfListeners": 448448,
+              "region": "ENG"
+            },
+            {
+              "city": "Stockholm",
+              "country": "SE",
+              "numberOfListeners": 446279,
+              "region": "AB"
+            }
+          ]
+        },
+        "worldRank": 93
+      },
+      "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6",
+      "visualIdentity": {
+        "wideFullBleedImage": {
+          "__typename": "VisualIdentityImage",
+          "extractedColorSet": {
+            "encoreBaseSetTextColor": {
+              "alpha": 255,
+              "blue": 187,
+              "green": 187,
+              "red": 187
+            },
+            "highContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 83,
+                "green": 83,
+                "red": 83
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 51,
+                "green": 51,
+                "red": 51
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 205,
+                "green": 205,
+                "red": 205
+              }
+            },
+            "higherContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 53,
+                "green": 53,
+                "red": 53
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 86,
+                "green": 86,
+                "red": 86
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 96,
+                "green": 215,
+                "red": 30
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 205,
+                "green": 205,
+                "red": 205
+              }
+            },
+            "minContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 83,
+                "green": 83,
+                "red": 83
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 51,
+                "green": 51,
+                "red": 51
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              }
+            }
+          }
+        }
+      },
+      "visuals": {
+        "avatarImage": {
+          "extractedColors": {
+            "colorRaw": {
+              "hex": "#E0D0A8"
+            }
+          },
+          "sources": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebae07171f989fb39736674113",
+              "width": 640
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178ae07171f989fb39736674113",
+              "width": 160
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174ae07171f989fb39736674113",
+              "width": 320
+            }
+          ]
+        },
+        "gallery": {
+          "items": [
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd484e640b2466e84ef9876be3c",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4328b1ff387355e11a4584b5d",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4d23728b7375238c071e44276",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd416d176d484737c9f650fba3d",
+                  "width": 640
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "watchFeedEntrypoint": null
+    }
+  },
+  "extensions": {}
+}

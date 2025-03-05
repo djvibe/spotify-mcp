@@ -13,3 +13,30 @@
 2025-03-04 19:34:48,840 - partner_api_test - INFO - This means we don't need the client token anymore!
 2025-03-04 19:34:48,841 - partner_api_test - INFO - 
 Test complete. Check the log file and JSON responses for details.
+2025-03-04 19:48:34,503 - partner_api_test - INFO - === TESTING PARTNER API CLIENT ===
+2025-03-04 19:48:34,504 - partner_api_test - INFO - Token will be saved to: D:\DJVIBE\MCP\spotify-mcp\tests\output\partner_api_token.json
+2025-03-04 19:48:34,504 - partner_api_test - INFO - Fetching details for artist ID: 2CIMQHirSU0MQqyYHq0eOx
+2025-03-04 19:48:34,504 - spotify_partner_api - INFO - Getting detailed info for artist: 2CIMQHirSU0MQqyYHq0eOx
+2025-03-04 19:48:34,504 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 19:48:34,783 - spotify_token_manager - INFO - Token retrieved successfully, expires at 2025-03-04 20:35:24.820000
+2025-03-04 19:48:34,784 - spotify_token_manager - INFO - Token data saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\partner_api_token.json
+2025-03-04 19:48:35,273 - partner_api_test - INFO - Successfully retrieved artist data
+2025-03-04 19:48:35,321 - partner_api_test - INFO - Full response saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\test_artist_response.json
+2025-03-04 19:48:35,322 - partner_api_test - INFO - 
+=== Artist Metrics ===
+2025-03-04 19:48:35,322 - partner_api_test - INFO - Name: deadmau5
+2025-03-04 19:48:35,322 - partner_api_test - INFO - Monthly Listeners: 5,138,996
+2025-03-04 19:48:35,323 - partner_api_test - INFO - Followers: 2,846,965
+2025-03-04 19:48:35,323 - partner_api_test - INFO - Verified: Yes
+2025-03-04 19:48:35,324 - partner_api_test - INFO - 
+Top Cities:
+2025-03-04 19:48:35,325 - partner_api_test - INFO - • Los Angeles, US: 95,802
+2025-03-04 19:48:35,326 - partner_api_test - INFO - • Sydney, AU: 95,395
+2025-03-04 19:48:35,326 - partner_api_test - INFO - • Melbourne, AU: 92,306
+2025-03-04 19:48:35,327 - partner_api_test - INFO - 
+Social Links:
+2025-03-04 19:48:35,327 - partner_api_test - INFO - • facebook: https://facebook.com/deadmau5
+2025-03-04 19:48:35,328 - partner_api_test - INFO - • instagram: https://instagram.com/deadmau5
+2025-03-04 19:48:35,328 - partner_api_test - INFO - • twitter: https://twitter.com/deadmau5
+2025-03-04 19:48:35,330 - partner_api_test - INFO - 
+Metrics saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\test_artist_metrics.json

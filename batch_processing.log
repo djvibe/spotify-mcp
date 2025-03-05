@@ -1,0 +1,54 @@
+2025-03-04 22:34:50,436 - batch_processing - INFO - Starting batch process for 10 artists
+2025-03-04 22:34:50,437 - batch_processing - INFO -   Top Tier (3 days): 10 artists
+2025-03-04 22:34:50,437 - batch_processing - INFO - Artists to process (first 5):
+2025-03-04 22:34:50,437 - batch_processing - INFO -   David Guetta (1Cs0zKBU1kc0i8ypK3B9ai)
+2025-03-04 22:34:50,437 - batch_processing - INFO -   Calvin Harris (7CajNmpbOovFoOoasH2HaY)
+2025-03-04 22:34:50,437 - batch_processing - INFO -   Avicii (1vCWHaC5f2uS3yhpwWbIA6)
+2025-03-04 22:34:50,437 - batch_processing - INFO -   Marshmello (64KEffDW9EtZ1y2vBYgq8T)
+2025-03-04 22:34:50,438 - batch_processing - INFO -   Tiësto (2o5jDhtHVPhrJdv3cEQ99Z)
+2025-03-04 22:34:50,438 - batch_processing - INFO -   ... and 5 more
+2025-03-04 22:34:50,438 - batch_processing - INFO - Processing artist ID: 1Cs0zKBU1kc0i8ypK3B9ai (David Guetta)
+2025-03-04 22:34:50,438 - spotify_partner_api - INFO - Getting detailed info for artist: 1Cs0zKBU1kc0i8ypK3B9ai
+2025-03-04 22:34:50,438 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:34:50,689 - spotify_token_manager - INFO - Token retrieved successfully, expires at 2025-03-04 23:05:45.544000
+2025-03-04 22:34:50,692 - spotify_token_manager - INFO - Token data saved to output\batch_spotify_tokens.json
+2025-03-04 22:34:51,538 - batch_processing - INFO - Saved data files for artist 1Cs0zKBU1kc0i8ypK3B9ai
+2025-03-04 22:34:51,588 - batch_processing - INFO - Database updated for artist 1Cs0zKBU1kc0i8ypK3B9ai
+2025-03-04 22:34:52,591 - batch_processing - INFO - Processing artist ID: 7CajNmpbOovFoOoasH2HaY (Calvin Harris)
+2025-03-04 22:34:52,592 - spotify_partner_api - INFO - Getting detailed info for artist: 7CajNmpbOovFoOoasH2HaY
+2025-03-04 22:34:53,174 - batch_processing - INFO - Saved data files for artist 7CajNmpbOovFoOoasH2HaY
+2025-03-04 22:34:53,225 - batch_processing - INFO - Database updated for artist 7CajNmpbOovFoOoasH2HaY
+2025-03-04 22:34:54,242 - batch_processing - INFO - Processing artist ID: 1vCWHaC5f2uS3yhpwWbIA6 (Avicii)
+2025-03-04 22:34:54,244 - spotify_partner_api - INFO - Getting detailed info for artist: 1vCWHaC5f2uS3yhpwWbIA6
+2025-03-04 22:34:54,867 - batch_processing - INFO - Saved data files for artist 1vCWHaC5f2uS3yhpwWbIA6
+2025-03-04 22:34:54,907 - batch_processing - INFO - Database updated for artist 1vCWHaC5f2uS3yhpwWbIA6
+2025-03-04 22:34:55,909 - batch_processing - INFO - Processing artist ID: 64KEffDW9EtZ1y2vBYgq8T (Marshmello)
+2025-03-04 22:34:55,910 - spotify_partner_api - INFO - Getting detailed info for artist: 64KEffDW9EtZ1y2vBYgq8T
+2025-03-04 22:34:56,633 - batch_processing - INFO - Saved data files for artist 64KEffDW9EtZ1y2vBYgq8T
+2025-03-04 22:34:56,706 - batch_processing - INFO - Database updated for artist 64KEffDW9EtZ1y2vBYgq8T
+2025-03-04 22:34:57,710 - batch_processing - INFO - Processing artist ID: 2o5jDhtHVPhrJdv3cEQ99Z (Tiësto)
+2025-03-04 22:34:57,712 - spotify_partner_api - INFO - Getting detailed info for artist: 2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-04 22:34:58,377 - batch_processing - INFO - Saved data files for artist 2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-04 22:34:58,442 - batch_processing - INFO - Database updated for artist 2o5jDhtHVPhrJdv3cEQ99Z
+2025-03-04 22:34:59,445 - batch_processing - INFO - Processing artist ID: 4tZwfgrHOc3mvqYlEYSvVi (Daft Punk)
+2025-03-04 22:34:59,446 - spotify_partner_api - INFO - Getting detailed info for artist: 4tZwfgrHOc3mvqYlEYSvVi
+2025-03-04 22:34:59,986 - batch_processing - INFO - Saved data files for artist 4tZwfgrHOc3mvqYlEYSvVi
+2025-03-04 22:35:00,040 - batch_processing - INFO - Database updated for artist 4tZwfgrHOc3mvqYlEYSvVi
+2025-03-04 22:35:01,045 - batch_processing - INFO - Processing artist ID: 69GGBxA162lTqCwzJG5jLp (The Chainsmokers)
+2025-03-04 22:35:01,046 - spotify_partner_api - INFO - Getting detailed info for artist: 69GGBxA162lTqCwzJG5jLp
+2025-03-04 22:35:01,789 - batch_processing - INFO - Saved data files for artist 69GGBxA162lTqCwzJG5jLp
+2025-03-04 22:35:01,841 - batch_processing - INFO - Database updated for artist 69GGBxA162lTqCwzJG5jLp
+2025-03-04 22:35:02,847 - batch_processing - INFO - Processing artist ID: 7vk5e3vY1uw9plTHJAMwjN (Alan Walker)
+2025-03-04 22:35:02,848 - spotify_partner_api - INFO - Getting detailed info for artist: 7vk5e3vY1uw9plTHJAMwjN
+2025-03-04 22:35:03,527 - batch_processing - INFO - Saved data files for artist 7vk5e3vY1uw9plTHJAMwjN
+2025-03-04 22:35:03,564 - batch_processing - INFO - Database updated for artist 7vk5e3vY1uw9plTHJAMwjN
+2025-03-04 22:35:04,580 - batch_processing - INFO - Processing artist ID: 23fqKkggKUBHNkbKtXEls4 (Kygo)
+2025-03-04 22:35:04,582 - spotify_partner_api - INFO - Getting detailed info for artist: 23fqKkggKUBHNkbKtXEls4
+2025-03-04 22:35:05,270 - batch_processing - INFO - Saved data files for artist 23fqKkggKUBHNkbKtXEls4
+2025-03-04 22:35:05,336 - batch_processing - INFO - Database updated for artist 23fqKkggKUBHNkbKtXEls4
+2025-03-04 22:35:06,345 - batch_processing - INFO - Processing artist ID: 540vIaP2JwjQb9dm3aArA4 (DJ Snake)
+2025-03-04 22:35:06,347 - spotify_partner_api - INFO - Getting detailed info for artist: 540vIaP2JwjQb9dm3aArA4
+2025-03-04 22:35:06,919 - batch_processing - INFO - Saved data files for artist 540vIaP2JwjQb9dm3aArA4
+2025-03-04 22:35:06,934 - batch_processing - INFO - Database updated for artist 540vIaP2JwjQb9dm3aArA4
+2025-03-04 22:35:07,947 - batch_processing - INFO - Batch processing complete: 10 succeeded, 0 failed
+2025-03-04 22:35:07,951 - batch_processing - INFO - Results saved to output\batch_results_20250304_223507.json

@@ -1,0 +1,5210 @@
+{
+  "data": {
+    "artistUnion": {
+      "__typename": "Artist",
+      "discography": {
+        "albums": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2023 Sony Music Entertainment US Latin LLC, under exclusive license from Joytime Collective",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e026a84be92318cebb5ac7fbc47",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048516a84be92318cebb5ac7fbc47",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2736a84be92318cebb5ac7fbc47",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 3,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "4KNN5lVMc1EREJFlbppJqH",
+                    "label": "Sony Music Latin",
+                    "name": "Sugar Papi",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "cmjeiXNKR72I3AQbTzR4Og",
+                      "shareUrl": "https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH?si=cmjeiXNKR72I3AQbTzR4Og"
+                    },
+                    "tracks": {
+                      "totalCount": 11
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4KNN5lVMc1EREJFlbppJqH"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2021 Joytime Collective",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2021 Joytime Collective",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d82de295af2bbdc06fb14068",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d82de295af2bbdc06fb14068",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d82de295af2bbdc06fb14068",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 11,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 2021
+                    },
+                    "id": "6yXPyhVxt3PHBwkinPFn6I",
+                    "label": "Joytime Collective",
+                    "name": "Shockwave",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "9nmzDqpkTV2IpXYb8NnVrA",
+                      "shareUrl": "https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I?si=9nmzDqpkTV2IpXYb8NnVrA"
+                    },
+                    "tracks": {
+                      "totalCount": 12
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6yXPyhVxt3PHBwkinPFn6I"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2019 Joytime Collective",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2019 Joytime Collective",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02fecc635189268ac13e510147",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851fecc635189268ac13e510147",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273fecc635189268ac13e510147",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 3,
+                      "month": 7,
+                      "precision": "DAY",
+                      "year": 2019
+                    },
+                    "id": "662MMKEWOxGXbPXQIcgBlW",
+                    "label": "Joytime Collective",
+                    "name": "Joytime III",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "LeOwY2VOTRWutpFyVAby1w",
+                      "shareUrl": "https://open.spotify.com/album/662MMKEWOxGXbPXQIcgBlW?si=LeOwY2VOTRWutpFyVAby1w"
+                    },
+                    "tracks": {
+                      "totalCount": 13
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:662MMKEWOxGXbPXQIcgBlW"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2018 Marshmello",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2018 Marshmello",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024b146ee90f8845b41ce2fc1d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514b146ee90f8845b41ce2fc1d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734b146ee90f8845b41ce2fc1d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 22,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 2018
+                    },
+                    "id": "0xi4cOWPUHjctyYU8ypCOB",
+                    "label": "Marshmello",
+                    "name": "Joytime II",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "agjK4LK0Sf-4DAuPjpeSHA",
+                      "shareUrl": "https://open.spotify.com/album/0xi4cOWPUHjctyYU8ypCOB?si=agjK4LK0Sf-4DAuPjpeSHA"
+                    },
+                    "tracks": {
+                      "totalCount": 9
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:0xi4cOWPUHjctyYU8ypCOB"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2016 Joytime Collective",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2016 Joytime Collective",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c89e7ad65c4486567cbf4759",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c89e7ad65c4486567cbf4759",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c89e7ad65c4486567cbf4759",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 8,
+                      "month": 1,
+                      "precision": "DAY",
+                      "year": 2016
+                    },
+                    "id": "6opKASPALOkPwCfHvqIS9H",
+                    "label": "Joytime Collective",
+                    "name": "Joytime",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "D83y3N-dQvuZLvgvnC4inw",
+                      "shareUrl": "https://open.spotify.com/album/6opKASPALOkPwCfHvqIS9H?si=D83y3N-dQvuZLvgvnC4inw"
+                    },
+                    "tracks": {
+                      "totalCount": 10
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6opKASPALOkPwCfHvqIS9H"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 5
+        },
+        "compilations": {
+          "items": [],
+          "totalCount": 0
+        },
+        "latest": {
+          "copyright": {
+            "items": [
+              {
+                "text": "2025 Sony Music Entertainment US Latin LLC under exclusive license from Joytime Collective",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b14348c6b57224075a7fe7c4",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b14348c6b57224075a7fe7c4",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b14348c6b57224075a7fe7c4",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 19,
+            "month": 2,
+            "precision": "DAY",
+            "year": 2025
+          },
+          "id": "0ZrHY6dWuWT0Nv7PfNaZXG",
+          "label": "Sony Music Latin",
+          "name": "Fale Ent\u00e3o",
+          "playability": {
+            "playable": true,
+            "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+            "shareId": "fC0pXg7ESp2cd7JtyXV9HA",
+            "shareUrl": "https://open.spotify.com/album/0ZrHY6dWuWT0Nv7PfNaZXG?si=fC0pXg7ESp2cd7JtyXV9HA"
+          },
+          "tracks": {
+            "totalCount": 1
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:0ZrHY6dWuWT0Nv7PfNaZXG"
+        },
+        "popularReleasesAlbums": {
+          "items": [
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2018 Joytime Collective",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2018 Joytime Collective",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02dd0a40eecd4b13e4c59988da",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851dd0a40eecd4b13e4c59988da",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273dd0a40eecd4b13e4c59988da",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 17,
+                "month": 8,
+                "precision": "DAY",
+                "year": 2018
+              },
+              "id": "2u4Yp2ADTKYPwFSBFL4ffa",
+              "label": "Joytime Collective",
+              "name": "Happier",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "VwjR5impQiqR8-HB28Z26g",
+                "shareUrl": "https://open.spotify.com/album/2u4Yp2ADTKYPwFSBFL4ffa?si=VwjR5impQiqR8-HB28Z26g"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:2u4Yp2ADTKYPwFSBFL4ffa"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2024 Joytime Collective, under exclusive license to Sony Music Entertainment. All rights reserved.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0200ac867eff7ed64be10a517c",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485100ac867eff7ed64be10a517c",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27300ac867eff7ed64be10a517c",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 3,
+                "month": 5,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "5gWV4yp27HCbXJ1YLe8hQM",
+              "label": "RCA Records Label Nashville",
+              "name": "Miles On It",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "2e4FBAATQiOWIYnugXDXqQ",
+                "shareUrl": "https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM?si=2e4FBAATQiOWIYnugXDXqQ"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:5gWV4yp27HCbXJ1YLe8hQM"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2021 Joytime Collective, under exclusive license to UMG Recordings, Inc.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2021 Joytime Collective, under exclusive license to UMG Recordings, Inc.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ae40468931087f78919b86ce",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ae40468931087f78919b86ce",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ae40468931087f78919b86ce",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 21,
+                "month": 5,
+                "precision": "DAY",
+                "year": 2021
+              },
+              "id": "66JuK41D3LpkbX3HCTGcQk",
+              "label": "Republic Records",
+              "name": "Leave Before You Love Me",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "HCLaaIE6TLmcFItX3dYpDg",
+                "shareUrl": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk?si=HCLaaIE6TLmcFItX3dYpDg"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:66JuK41D3LpkbX3HCTGcQk"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2017 Joytime Collective, under exclusive license to RCA Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f33ba583059dc2f7d08bf2b8",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f33ba583059dc2f7d08bf2b8",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f33ba583059dc2f7d08bf2b8",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 11,
+                "month": 8,
+                "precision": "DAY",
+                "year": 2017
+              },
+              "id": "2bw00gRKNKbTFOqCkohbSh",
+              "label": "Joytime Collective/RCA Records",
+              "name": "Silence",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "SZfZxotWSYGJOHk8zIcnWg",
+                "shareUrl": "https://open.spotify.com/album/2bw00gRKNKbTFOqCkohbSh?si=SZfZxotWSYGJOHk8zIcnWg"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:2bw00gRKNKbTFOqCkohbSh"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2023 Sony Music Entertainment US Latin LLC, under exclusive license from Joytime Collective",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026a84be92318cebb5ac7fbc47",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516a84be92318cebb5ac7fbc47",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736a84be92318cebb5ac7fbc47",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 3,
+                "month": 11,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "4KNN5lVMc1EREJFlbppJqH",
+              "label": "Sony Music Latin",
+              "name": "Sugar Papi",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "cmjeiXNKR72I3AQbTzR4Og",
+                "shareUrl": "https://open.spotify.com/album/4KNN5lVMc1EREJFlbppJqH?si=cmjeiXNKR72I3AQbTzR4Og"
+              },
+              "tracks": {
+                "totalCount": 11
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:4KNN5lVMc1EREJFlbppJqH"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2025 Joytime Collective, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2025 Joytime Collective, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e20a58c0f47a1b5f180f1042",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e20a58c0f47a1b5f180f1042",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e20a58c0f47a1b5f180f1042",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 17,
+                "month": 1,
+                "precision": "DAY",
+                "year": 2025
+              },
+              "id": "6AigIAiWriqJI4dgWjwFqf",
+              "label": "Republic Records",
+              "name": "Slow Motion",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "wF0jLgdORGWMfKcHBnNJcw",
+                "shareUrl": "https://open.spotify.com/album/6AigIAiWriqJI4dgWjwFqf?si=wF0jLgdORGWMfKcHBnNJcw"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:6AigIAiWriqJI4dgWjwFqf"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2017 Interscope Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2017 Interscope Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02307910d4242c0d6b1fedf955",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851307910d4242c0d6b1fedf955",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273307910d4242c0d6b1fedf955",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 25,
+                "month": 10,
+                "precision": "DAY",
+                "year": 2017
+              },
+              "id": "5gQZvWM1o8NkQndueJtZcP",
+              "label": "Selena Gomez PS",
+              "name": "Wolves",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "RtVj2n1ES4ibAXJ_KAwwtQ",
+                "shareUrl": "https://open.spotify.com/album/5gQZvWM1o8NkQndueJtZcP?si=RtVj2n1ES4ibAXJ_KAwwtQ"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:5gQZvWM1o8NkQndueJtZcP"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2018 Asylum Records, a division of Atlantic Records UK, a Warner Music Group Company",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2018 Joytime Collective under exclusive licence to Asylum Records a division of Atlantic Records UK, a Warner Music Group Company",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02569f64493ca55cd96fdee412",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851569f64493ca55cd96fdee412",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273569f64493ca55cd96fdee412",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 9,
+                "month": 2,
+                "precision": "DAY",
+                "year": 2018
+              },
+              "id": "1BmxOYHjQv1dKZRr13YRZM",
+              "label": "Atlantic Records UK",
+              "name": "FRIENDS",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "IW9EAPXuSJi8xLc5ls7cAw",
+                "shareUrl": "https://open.spotify.com/album/1BmxOYHjQv1dKZRr13YRZM?si=IW9EAPXuSJi8xLc5ls7cAw"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1BmxOYHjQv1dKZRr13YRZM"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2023 Sony Music Entertainment US Latin LLC under exclusive license from Joytime Collective",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f404676577626a87d92cf33f",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f404676577626a87d92cf33f",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f404676577626a87d92cf33f",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 3,
+                "month": 3,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "6sU751LOdNBPvVErW1GunP",
+              "label": "Sony Music Latin",
+              "name": "El Merengue",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "WQ1bY2NzQxaltd1BkIbUdg",
+                "shareUrl": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP?si=WQ1bY2NzQxaltd1BkIbUdg"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:6sU751LOdNBPvVErW1GunP"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2019 Joytime Collective",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2019 Joytime Collective",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028ed6845745db21e6c956ab1d",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518ed6845745db21e6c956ab1d",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738ed6845745db21e6c956ab1d",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 21,
+                "month": 6,
+                "precision": "DAY",
+                "year": 2019
+              },
+              "id": "1zZyFySIvpfT6Vl9reroCL",
+              "label": "Joytime Collective",
+              "name": "One Thing Right",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "U9L2CK2HRZ2uPnfLkpKNDQ",
+                "shareUrl": "https://open.spotify.com/album/1zZyFySIvpfT6Vl9reroCL?si=U9L2CK2HRZ2uPnfLkpKNDQ"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1zZyFySIvpfT6Vl9reroCL"
+            }
+          ],
+          "totalCount": 20
+        },
+        "singles": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2025 Sony Music Entertainment US Latin LLC under exclusive license from Joytime Collective",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b14348c6b57224075a7fe7c4",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b14348c6b57224075a7fe7c4",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b14348c6b57224075a7fe7c4",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 19,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "0ZrHY6dWuWT0Nv7PfNaZXG",
+                    "label": "Sony Music Latin",
+                    "name": "Fale Ent\u00e3o",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "fC0pXg7ESp2cd7JtyXV9HA",
+                      "shareUrl": "https://open.spotify.com/album/0ZrHY6dWuWT0Nv7PfNaZXG?si=fC0pXg7ESp2cd7JtyXV9HA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:0ZrHY6dWuWT0Nv7PfNaZXG"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2025 Joytime Collective",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2025 Joytime Collective",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02cc60a6e65b417e60f7a3a521",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851cc60a6e65b417e60f7a3a521",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273cc60a6e65b417e60f7a3a521",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 13,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "1BknQpNlwmGJWJ6fXE2Qwa",
+                    "label": "Joytime Collective",
+                    "name": "Bad Boys (BARELY ALIVE & YDG Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "R7nDGBP6TN-_kauOPuPcdQ",
+                      "shareUrl": "https://open.spotify.com/album/1BknQpNlwmGJWJ6fXE2Qwa?si=R7nDGBP6TN-_kauOPuPcdQ"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1BknQpNlwmGJWJ6fXE2Qwa"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2025 Joytime Collective",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2025 Joytime Collective",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c4d5034e832e72d6071b6c50",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c4d5034e832e72d6071b6c50",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c4d5034e832e72d6071b6c50",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 7,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "5oCmyYQlzf00S0Cno2yKlV",
+                    "label": "Joytime Collective",
+                    "name": "wantsomemusic? (RemK Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "Kdbc-3_qSYGRBmmQX4Bjwg",
+                      "shareUrl": "https://open.spotify.com/album/5oCmyYQlzf00S0Cno2yKlV?si=Kdbc-3_qSYGRBmmQX4Bjwg"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5oCmyYQlzf00S0Cno2yKlV"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2025 Joytime Collective, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2025 Joytime Collective, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e20a58c0f47a1b5f180f1042",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e20a58c0f47a1b5f180f1042",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e20a58c0f47a1b5f180f1042",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 17,
+                      "month": 1,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "6AigIAiWriqJI4dgWjwFqf",
+                    "label": "Republic Records",
+                    "name": "Slow Motion",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "wF0jLgdORGWMfKcHBnNJcw",
+                      "shareUrl": "https://open.spotify.com/album/6AigIAiWriqJI4dgWjwFqf?si=wF0jLgdORGWMfKcHBnNJcw"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:6AigIAiWriqJI4dgWjwFqf"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Joytime Collective",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Joytime Collective",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a2560201359181486d32ca04",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a2560201359181486d32ca04",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a2560201359181486d32ca04",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 13,
+                      "month": 12,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "6zQEf8INlgYs6MunxxK3tq",
+                    "label": "Joytime Collective",
+                    "name": "Rave Repeater",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "-K0B8wUCSw2tWvXe5iY_hA",
+                      "shareUrl": "https://open.spotify.com/album/6zQEf8INlgYs6MunxxK3tq?si=-K0B8wUCSw2tWvXe5iY_hA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:6zQEf8INlgYs6MunxxK3tq"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Joytime Collective",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Joytime Collective",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029b95b40d528747137080d150",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519b95b40d528747137080d150",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739b95b40d528747137080d150",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 15,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "38CrfMbByq9Tf685Cm4sw7",
+                    "label": "Joytime Collective",
+                    "name": "The R\u267e\ufe0fts",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "n8Uxxl-PQQiBwpIo7lP7aQ",
+                      "shareUrl": "https://open.spotify.com/album/38CrfMbByq9Tf685Cm4sw7?si=n8Uxxl-PQQiBwpIo7lP7aQ"
+                    },
+                    "tracks": {
+                      "totalCount": 10
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:38CrfMbByq9Tf685Cm4sw7"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Joytime Collective",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Joytime Collective",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02aed6ee4a18fdca2549cdc4c7",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851aed6ee4a18fdca2549cdc4c7",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273aed6ee4a18fdca2549cdc4c7",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 8,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "6E8VDqNluihErYla4aeKZX",
+                    "label": "Joytime Collective",
+                    "name": "Bad Boys",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "gOny62QnQwyx3lo4fU4MTg",
+                      "shareUrl": "https://open.spotify.com/album/6E8VDqNluihErYla4aeKZX?si=gOny62QnQwyx3lo4fU4MTg"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:6E8VDqNluihErYla4aeKZX"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Joytime Collective",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Joytime Collective",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d172177769512dc900ec433c",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d172177769512dc900ec433c",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d172177769512dc900ec433c",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 1,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "7cZSWuOdlkrIdrEfsWgoQe",
+                    "label": "Joytime Collective",
+                    "name": "Fired Up",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "PUpZSf_7RbaIGmHtJkuK4A",
+                      "shareUrl": "https://open.spotify.com/album/7cZSWuOdlkrIdrEfsWgoQe?si=PUpZSf_7RbaIGmHtJkuK4A"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7cZSWuOdlkrIdrEfsWgoQe"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Joytime Collective",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Joytime Collective",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029111ddddf695c34103d385fb",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519111ddddf695c34103d385fb",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739111ddddf695c34103d385fb",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 6,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "6UvvBB9erje8tde7ssRJjM",
+                    "label": "Joytime Collective",
+                    "name": "In The Cut",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "302a650pQ3aKjcAMaDOmpQ",
+                      "shareUrl": "https://open.spotify.com/album/6UvvBB9erje8tde7ssRJjM?si=302a650pQ3aKjcAMaDOmpQ"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:6UvvBB9erje8tde7ssRJjM"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2024 Joytime Collective, under exclusive license to Sony Music Entertainment. All rights reserved.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0254d81458b8d1be9d9139a22a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485154d81458b8d1be9d9139a22a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27354d81458b8d1be9d9139a22a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 23,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "1TrDDvVmpvWzLqAcXJyqI5",
+                    "label": "RCA Records Label Nashville",
+                    "name": "Miles On It (Remixes)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "b1DXi6_OSVihH4nWNw21aw",
+                      "shareUrl": "https://open.spotify.com/album/1TrDDvVmpvWzLqAcXJyqI5?si=b1DXi6_OSVihH4nWNw21aw"
+                    },
+                    "tracks": {
+                      "totalCount": 7
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1TrDDvVmpvWzLqAcXJyqI5"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 165
+        },
+        "topTracks": {
+          "items": [
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02dd0a40eecd4b13e4c59988da"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851dd0a40eecd4b13e4c59988da"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273dd0a40eecd4b13e4c59988da"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:2u4Yp2ADTKYPwFSBFL4ffa"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Marshmello"
+                      },
+                      "uri": "spotify:artist:64KEffDW9EtZ1y2vBYgq8T"
+                    },
+                    {
+                      "profile": {
+                        "name": "Bastille"
+                      },
+                      "uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 214289
+                },
+                "id": "7BqHUALzNBTanL6OvsqmC1",
+                "name": "Happier",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "2350511361",
+                "uri": "spotify:track:7BqHUALzNBTanL6OvsqmC1"
+              },
+              "uid": "4039c22a4da3e34c41f2"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0200ac867eff7ed64be10a517c"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485100ac867eff7ed64be10a517c"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27300ac867eff7ed64be10a517c"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:5gWV4yp27HCbXJ1YLe8hQM"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Marshmello"
+                      },
+                      "uri": "spotify:artist:64KEffDW9EtZ1y2vBYgq8T"
+                    },
+                    {
+                      "profile": {
+                        "name": "Kane Brown"
+                      },
+                      "uri": "spotify:artist:3oSJ7TBVCWMDMiYjXNiCKE"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 168355
+                },
+                "id": "4pkb8SbRGeHAvdb87v9rpf",
+                "name": "Miles On It",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "243156028",
+                "uri": "spotify:track:4pkb8SbRGeHAvdb87v9rpf"
+              },
+              "uid": "2151eed621e789bd5ca5"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e026a84be92318cebb5ac7fbc47"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048516a84be92318cebb5ac7fbc47"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2736a84be92318cebb5ac7fbc47"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:4KNN5lVMc1EREJFlbppJqH"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Marshmello"
+                      },
+                      "uri": "spotify:artist:64KEffDW9EtZ1y2vBYgq8T"
+                    },
+                    {
+                      "profile": {
+                        "name": "Manuel Turizo"
+                      },
+                      "uri": "spotify:artist:0tmwSHipWxN12fsoLcFU3B"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 189668
+                },
+                "id": "5KbBVSj6AJZ5662fO8EYFh",
+                "name": "El Merengue",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "736885404",
+                "uri": "spotify:track:5KbBVSj6AJZ5662fO8EYFh"
+              },
+              "uid": "c0b5d2c0db78b5131f11"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02ae40468931087f78919b86ce"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851ae40468931087f78919b86ce"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273ae40468931087f78919b86ce"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:66JuK41D3LpkbX3HCTGcQk"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Marshmello"
+                      },
+                      "uri": "spotify:artist:64KEffDW9EtZ1y2vBYgq8T"
+                    },
+                    {
+                      "profile": {
+                        "name": "Jonas Brothers"
+                      },
+                      "uri": "spotify:artist:7gOdHgIoIKoe4i9Tta6qdD"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 154983
+                },
+                "id": "4qu63nuBpdn0qHUHuObEj1",
+                "name": "Leave Before You Love Me (with Jonas Brothers)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "960438224",
+                "uri": "spotify:track:4qu63nuBpdn0qHUHuObEj1"
+              },
+              "uid": "c17543821821a4dddef6"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02ad57982065339f7dc2058efe"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851ad57982065339f7dc2058efe"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273ad57982065339f7dc2058efe"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:3zu0hJJew2qXZNlselIQk8"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Fuerza Regida"
+                      },
+                      "uri": "spotify:artist:0ys2OFYzWYB5hRDLCsBqxt"
+                    },
+                    {
+                      "profile": {
+                        "name": "Marshmello"
+                      },
+                      "uri": "spotify:artist:64KEffDW9EtZ1y2vBYgq8T"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "EXPLICIT"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 143327
+                },
+                "id": "6CvTEtGagmzQvkUzzyKR9k",
+                "name": "HARLEY QUINN",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "594466243",
+                "uri": "spotify:track:6CvTEtGagmzQvkUzzyKR9k"
+              },
+              "uid": "ccbb8f4209ce62bde1cb"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f33ba583059dc2f7d08bf2b8"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851f33ba583059dc2f7d08bf2b8"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f33ba583059dc2f7d08bf2b8"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:2bw00gRKNKbTFOqCkohbSh"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Marshmello"
+                      },
+                      "uri": "spotify:artist:64KEffDW9EtZ1y2vBYgq8T"
+                    },
+                    {
+                      "profile": {
+                        "name": "Khalid"
+                      },
+                      "uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 180822
+                },
+                "id": "7vGuf3Y35N4wmASOKLUVVU",
+                "name": "Silence",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1758640172",
+                "uri": "spotify:track:7vGuf3Y35N4wmASOKLUVVU"
+              },
+              "uid": "0241be7b85853d1d83cd"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02307910d4242c0d6b1fedf955"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851307910d4242c0d6b1fedf955"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273307910d4242c0d6b1fedf955"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:5gQZvWM1o8NkQndueJtZcP"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Selena Gomez"
+                      },
+                      "uri": "spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx"
+                    },
+                    {
+                      "profile": {
+                        "name": "Marshmello"
+                      },
+                      "uri": "spotify:artist:64KEffDW9EtZ1y2vBYgq8T"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 197993
+                },
+                "id": "0tBbt8CrmxbjRP0pueQkyU",
+                "name": "Wolves",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1435840180",
+                "uri": "spotify:track:0tBbt8CrmxbjRP0pueQkyU"
+              },
+              "uid": "d1bfeb6029c836c3f2ed"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e20a58c0f47a1b5f180f1042"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851e20a58c0f47a1b5f180f1042"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e20a58c0f47a1b5f180f1042"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6AigIAiWriqJI4dgWjwFqf"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Marshmello"
+                      },
+                      "uri": "spotify:artist:64KEffDW9EtZ1y2vBYgq8T"
+                    },
+                    {
+                      "profile": {
+                        "name": "Jonas Brothers"
+                      },
+                      "uri": "spotify:artist:7gOdHgIoIKoe4i9Tta6qdD"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 151986
+                },
+                "id": "2xijXb00w9o7Ol04MPCL6c",
+                "name": "Slow Motion",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "17649772",
+                "uri": "spotify:track:2xijXb00w9o7Ol04MPCL6c"
+              },
+              "uid": "2c491fbfc52ba6779db9"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e023e0698e4ae5ffb82a005aeeb"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048513e0698e4ae5ffb82a005aeeb"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6n9DKpOxwifT5hOXtgLZSL"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Juice WRLD"
+                      },
+                      "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+                    },
+                    {
+                      "profile": {
+                        "name": "Marshmello"
+                      },
+                      "uri": "spotify:artist:64KEffDW9EtZ1y2vBYgq8T"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "EXPLICIT"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 205484
+                },
+                "id": "2Y0wPrPQBrGhoLn14xRYCG",
+                "name": "Come & Go (with Marshmello)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1037925549",
+                "uri": "spotify:track:2Y0wPrPQBrGhoLn14xRYCG"
+              },
+              "uid": "f74d817d7533e2867618"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02569f64493ca55cd96fdee412"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851569f64493ca55cd96fdee412"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273569f64493ca55cd96fdee412"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:1BmxOYHjQv1dKZRr13YRZM"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Marshmello"
+                      },
+                      "uri": "spotify:artist:64KEffDW9EtZ1y2vBYgq8T"
+                    },
+                    {
+                      "profile": {
+                        "name": "Anne-Marie"
+                      },
+                      "uri": "spotify:artist:1zNqDE7qDGCsyzJwohVaoX"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 3
+                  }
+                },
+                "contentRating": {
+                  "label": "EXPLICIT"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 202620
+                },
+                "id": "08bNPGLD8AhKpnnERrAc6G",
+                "name": "FRIENDS",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1509550628",
+                "uri": "spotify:track:08bNPGLD8AhKpnnERrAc6G"
+              },
+              "uid": "52c145e2fc612ed8b868"
+            }
+          ]
+        }
+      },
+      "goods": {
+        "concerts": {
+          "items": [
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "North Bay Village",
+                  "name": "Palm Tree Club Miami Hotel"
+                },
+                "startDateIsoString": "2025-03-08T15:00-05:00",
+                "title": "Marshmello",
+                "uri": "spotify:concert:0Uzllan6cxhZoVQaXW2rEW"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Las Vegas",
+                  "name": "Encore Beach Club"
+                },
+                "startDateIsoString": "2025-03-15T11:00-07:00",
+                "title": "Marshmello",
+                "uri": "spotify:concert:2LtjgcuhVuwhn2NUV5Hzwz"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "The Shoppes At Marina Bay Sands",
+                  "name": "Marquee Nightclub Singapore"
+                },
+                "startDateIsoString": "2025-03-21T22:00+08:00",
+                "title": "Marshmello",
+                "uri": "spotify:concert:14AvlujKdAWDTSpHzMUyng"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Miami Beach",
+                  "name": "Hyde Beach"
+                },
+                "startDateIsoString": "2025-03-28T12:00-04:00",
+                "title": "Marshmello",
+                "uri": "spotify:concert:5HKgvBnS6upv7zYz0mGw4x"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Miami",
+                  "name": "E11EVEN Miami"
+                },
+                "startDateIsoString": "2025-03-28T20:00-04:00",
+                "title": "Marshmello",
+                "uri": "spotify:concert:51StcYLfkUSMmhzXB8Wjd7"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Las Vegas",
+                  "name": "XS Nightclub"
+                },
+                "startDateIsoString": "2025-03-29T22:30-07:00",
+                "title": "Marshmello",
+                "uri": "spotify:concert:7uFlVl55NOekCKWrgrixPz"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Las Vegas",
+                  "name": "Encore Beach Club"
+                },
+                "startDateIsoString": "2025-04-05T11:00-07:00",
+                "title": "Marshmello",
+                "uri": "spotify:concert:6Y4EMYXBKaF3Avc5Z8ddfC"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Thailand",
+                  "name": "Rajamangala National Stadium"
+                },
+                "startDateIsoString": "2025-04-12T16:00+07:00",
+                "title": "Marshmello",
+                "uri": "spotify:concert:4mjCRGuPqJ0WeomLdH7bgu"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Las Vegas",
+                  "name": "XS Las Vegas"
+                },
+                "startDateIsoString": "2025-04-19T22:30-07:00",
+                "title": "Marshmello",
+                "uri": "spotify:concert:0HQSqXEFRlcSk9LWFRqRXU"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Las Vegas",
+                  "name": "Encore Beach Club"
+                },
+                "startDateIsoString": "2025-04-26T11:00-07:00",
+                "title": "Marshmello",
+                "uri": "spotify:concert:4DU4uXNepCicUv8eaD92TS"
+              }
+            }
+          ],
+          "totalCount": 33
+        },
+        "merch": {
+          "items": []
+        }
+      },
+      "headerImage": {
+        "data": {
+          "__typename": "ImageV2",
+          "sources": [
+            {
+              "maxHeight": 640,
+              "maxWidth": 1494,
+              "url": "https://image-cdn-fa.spotifycdn.com/image/ab6761860000019439f94196c6f3f45c3f2221ad"
+            },
+            {
+              "maxHeight": 1080,
+              "maxWidth": 1920,
+              "url": "https://i2o.scdn.co/image/ab6761860000166739f94196c6f3f45c3f2221ad"
+            },
+            {
+              "maxHeight": 641,
+              "maxWidth": 1495,
+              "url": "https://image-cdn-fa.spotifycdn.com/image/ab67618600009d8039f94196c6f3f45c3f2221ad"
+            },
+            {
+              "maxHeight": 1140,
+              "maxWidth": 2660,
+              "url": "https://image-cdn-fa.spotifycdn.com/image/ab6761860000eab139f94196c6f3f45c3f2221ad"
+            }
+          ]
+        }
+      },
+      "id": "64KEffDW9EtZ1y2vBYgq8T",
+      "preRelease": null,
+      "profile": {
+        "biography": {
+          "text": "GRAMMY-nominated Marshmello&#39;s star continues to rise as the famously masked artist breaks boundaries across the industry. With chart-topping singles and collaborations with the likes of Juice WRLD, Halsey, Demi Lovato, Bastille, Kane Brown, Selena Gomez, Khalid, Jonas Brothers, and more, Marshmello has clocked a staggering 13 billion streams across Spotify alone. With over 40 million monthly listeners on the platform, he&#39;s one of the top 40 most streamed artists in the world on Spotify and the third-most- subscribed artist on YouTube. Featured on the cover of the Forbes magazine &#34;30 Under 30&#34; issue, Marshmello has proved to not only be an innovative producer, but a forward- thinking businessman. With his own brand of chocolate-filled marshmallows (\u201cStuffed Puffs\u201d), he\u2019s also launched a children\u2019s entertainment channel, Mellodees. Marshmello collaborated with the Jonas Brothers on their early summers mash \u201cLeave Before You Love Me,\u201d which peaked at number 13 on the Billboard Hot 100 and was also nominated for the best dance / electronic album at the 2022 Grammy\u2019s. Most recently, Marshmello teamed up with Khalid to release \u201cNumb,\u201d which has steadily climbed the Billboard Hot 100.",
+          "type": "AUTOBIOGRAPHY"
+        },
+        "externalLinks": {
+          "items": [
+            {
+              "name": "FACEBOOK",
+              "url": "https://facebook.com/marshmello"
+            },
+            {
+              "name": "INSTAGRAM",
+              "url": "https://instagram.com/marshmello/"
+            },
+            {
+              "name": "TWITTER",
+              "url": "https://twitter.com/marshmello"
+            }
+          ]
+        },
+        "name": "Marshmello",
+        "pinnedItem": {
+          "backgroundImageV2": {
+            "data": {
+              "__typename": "ImageV2",
+              "sources": [
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab676170000059107ec044f48b6180c2b001aa87"
+                }
+              ]
+            }
+          },
+          "comment": "Hey, I like where this is going..",
+          "itemV2": {
+            "__typename": "AlbumResponseWrapper",
+            "data": {
+              "__typename": "Album",
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e20a58c0f47a1b5f180f1042",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e20a58c0f47a1b5f180f1042",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e20a58c0f47a1b5f180f1042",
+                    "width": 640
+                  }
+                ]
+              },
+              "name": "Slow Motion",
+              "type": "SINGLE",
+              "uri": "spotify:album:6AigIAiWriqJI4dgWjwFqf"
+            }
+          },
+          "subtitle": "Single \u2022 New Release",
+          "thumbnailImage": {
+            "data": {
+              "sources": [
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000075a0e20a58c0f47a1b5f180f1042"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000090d5e20a58c0f47a1b5f180f1042"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000ab87e20a58c0f47a1b5f180f1042"
+                }
+              ]
+            }
+          },
+          "title": "Slow Motion",
+          "type": "ALBUM",
+          "uri": "spotify:album:6AigIAiWriqJI4dgWjwFqf"
+        },
+        "playlistsV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "A collection of all my songs to date #MelloGang",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8403b7c807073d3cae8089d2ea",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Marshmello Essentials",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Marshmello"
+                  }
+                },
+                "uri": "spotify:playlist:1sLat4YbVFH53x0eQU2rLs"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Make sure to follow my profile <a href=\"https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t\">here</a> for more music and playlists!",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f8147603d069ac8fe89b4a46",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Progresso",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Alesso"
+                  }
+                },
+                "uri": "spotify:playlist:3LSJAftuAhQ31PHIc00Sjj"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Say hello to the newest member of Joytime Collective!",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84bb2150fa46c71b7ff0903d10",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Joytime Presents: The Viperactive Takeover",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Joytime Collective"
+                  }
+                },
+                "uri": "spotify:playlist:0mJWl3dZraaH2uNWiEJaWQ"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8406a043bf69afc86af62282ee",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "MELLODEATH MIXTAPE",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Marshmello"
+                  }
+                },
+                "uri": "spotify:playlist:5nvZos27G7fyIthMCedWfh"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "What's up Sharksquad?! Check out this playlist I made for us all to jam to!!! I'm getting pumped up with tunes from myself &amp; Skrillex, Ghastly, Valentino Khan, and many more! Hope to catch up with all of you on the road, check out the tour dates <a href=\"https://jauzofficial.com/landing\">here</a>! - (^^^)",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84534b4a2299ddc7adedd1e948",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Jauz Jams",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Jauz"
+                  }
+                },
+                "uri": "spotify:playlist:4uHVVHPQoc5ar5sB3Ya5ss"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The latest releases signed to Marshmello&#x27;s record label.",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ac7146162444f09aaf40fc2d",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Joytime Collective New Releases",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Joytime Collective"
+                  }
+                },
+                "uri": "spotify:playlist:0GjNGgFehj81ebpLnZbee6"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Mello's Top Rap &amp; Hip-Hop Tracks",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8466886e00d5c4d0a26f33beb7",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Mello Made It Right",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Marshmello"
+                  }
+                },
+                "uri": "spotify:playlist:7AZpXTlPdJLmQkaronwSSQ"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Essential gaming music playlist for all my Mello Gamers",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c03ca46779e967926fa17b7ae",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Mello Gaming",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Marshmello"
+                  }
+                },
+                "uri": "spotify:playlist:22i2zfq4g5VkyLWGUc1wmH"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "I like to keep it <a href=\"http://instagram.com/marshmello\">mello</a>. Here is some music from my friends.",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8409e034180eeac6426d7ac6f2",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Keep It Mello",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Marshmello"
+                  }
+                },
+                "uri": "spotify:playlist:2MBSSLDiiOOtxJb2bVjO56"
+              }
+            }
+          ],
+          "totalCount": 9
+        },
+        "verified": true
+      },
+      "relatedContent": {
+        "appearsOn": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Fuerza Regida"
+                          },
+                          "uri": "spotify:artist:0ys2OFYzWYB5hRDLCsBqxt"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ad57982065339f7dc2058efe",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ad57982065339f7dc2058efe",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ad57982065339f7dc2058efe",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "3zu0hJJew2qXZNlselIQk8",
+                    "name": "Pa las Baby's Y Belikeada",
+                    "sharingInfo": {
+                      "shareId": "vzTvRHHTTz68ftDfamrkpw",
+                      "shareUrl": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8?si=vzTvRHHTTz68ftDfamrkpw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3zu0hJJew2qXZNlselIQk8"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Juice WRLD"
+                          },
+                          "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e023e0698e4ae5ffb82a005aeeb",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048513e0698e4ae5ffb82a005aeeb",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "6n9DKpOxwifT5hOXtgLZSL",
+                    "name": "Legends Never Die",
+                    "sharingInfo": {
+                      "shareId": "td22v6TvTVOxpTKg94wzLQ",
+                      "shareUrl": "https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL?si=td22v6TvTVOxpTKg94wzLQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6n9DKpOxwifT5hOXtgLZSL"
+                  },
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Juice WRLD"
+                          },
+                          "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025059100e732e6e17b9adbf09",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515059100e732e6e17b9adbf09",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735059100e732e6e17b9adbf09",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "3rt9CHTA1UdpNZRqEtlPbl",
+                    "name": "Legends Never Die",
+                    "sharingInfo": {
+                      "shareId": "aYVH74cGQnqSxjvSoOXp1w",
+                      "shareUrl": "https://open.spotify.com/album/3rt9CHTA1UdpNZRqEtlPbl?si=aYVH74cGQnqSxjvSoOXp1w"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3rt9CHTA1UdpNZRqEtlPbl"
+                  }
+                ],
+                "totalCount": 2
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "The Kid LAROI"
+                          },
+                          "uri": "spotify:artist:2tIP7SsRs7vjIcLrU85W8J"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b4d59e6fa7e5e7cbc57ac33a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b4d59e6fa7e5e7cbc57ac33a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b4d59e6fa7e5e7cbc57ac33a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "576UTio7xgY7YUxrHMzxeI",
+                    "name": "F*CK LOVE 3+: OVER YOU",
+                    "sharingInfo": {
+                      "shareId": "MQM2OW4kSoSbQPhzvVRsqw",
+                      "shareUrl": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI?si=MQM2OW4kSoSbQPhzvVRsqw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:576UTio7xgY7YUxrHMzxeI"
+                  },
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "The Kid LAROI"
+                          },
+                          "uri": "spotify:artist:2tIP7SsRs7vjIcLrU85W8J"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e027cf3e7a4688e521d8948b9f0",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048517cf3e7a4688e521d8948b9f0",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2737cf3e7a4688e521d8948b9f0",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "4NYDjLwVArqXrxnFWnRITq",
+                    "name": "F*CK LOVE 3+: OVER YOU",
+                    "sharingInfo": {
+                      "shareId": "xmFKKJn7RSiTvH0-qS7h7g",
+                      "shareUrl": "https://open.spotify.com/album/4NYDjLwVArqXrxnFWnRITq?si=xmFKKJn7RSiTvH0-qS7h7g"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4NYDjLwVArqXrxnFWnRITq"
+                  }
+                ],
+                "totalCount": 2
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Sleepy Hallow"
+                          },
+                          "uri": "spotify:artist:6EPlBSH2RSiettczlz7ihV"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b61bab0113fd666ceab61615",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b61bab0113fd666ceab61615",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b61bab0113fd666ceab61615",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "2Qq4N5lYtsZspF2QFLKcbY",
+                    "name": "Boy Meets World",
+                    "sharingInfo": {
+                      "shareId": "xpbGLKXXRp2TgoGk7-TRwg",
+                      "shareUrl": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY?si=xpbGLKXXRp2TgoGk7-TRwg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2Qq4N5lYtsZspF2QFLKcbY"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Anne-Marie"
+                          },
+                          "uri": "spotify:artist:1zNqDE7qDGCsyzJwohVaoX"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0238aae75dc37fb42457866ffd",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485138aae75dc37fb42457866ffd",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27338aae75dc37fb42457866ffd",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "7lPoGKpCGgdKFAxpudhAH5",
+                    "name": "Speak Your Mind (Deluxe)",
+                    "sharingInfo": {
+                      "shareId": "Z9zQXUgkQZ-JoAHCQerqeg",
+                      "shareUrl": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5?si=Z9zQXUgkQZ-JoAHCQerqeg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:7lPoGKpCGgdKFAxpudhAH5"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Manuel Turizo"
+                          },
+                          "uri": "spotify:artist:0tmwSHipWxN12fsoLcFU3B"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024dd99565ae6453deab7c26e1",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514dd99565ae6453deab7c26e1",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "7ubO2LZJZFpyhiWMZkRwcH",
+                    "name": "2000",
+                    "sharingInfo": {
+                      "shareId": "SVLNmdVKQ_WdmRchyojCfg",
+                      "shareUrl": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH?si=SVLNmdVKQ_WdmRchyojCfg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:7ubO2LZJZFpyhiWMZkRwcH"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Kane Brown"
+                          },
+                          "uri": "spotify:artist:3oSJ7TBVCWMDMiYjXNiCKE"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ffe127ba1031045a1356e5c1",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ffe127ba1031045a1356e5c1",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ffe127ba1031045a1356e5c1",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2025
+                    },
+                    "id": "3UPTShNGcVewuV8nSxIMYY",
+                    "name": "The High Road",
+                    "sharingInfo": {
+                      "shareId": "BSdDbhzVSXSH1ysC9BVG5w",
+                      "shareUrl": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY?si=BSdDbhzVSXSH1ysC9BVG5w"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3UPTShNGcVewuV8nSxIMYY"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Halsey"
+                          },
+                          "uri": "spotify:artist:26VFTg2z8YR0cCuwLzESi2"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02309b0cb81728d42a6dfb2b81",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851309b0cb81728d42a6dfb2b81",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273309b0cb81728d42a6dfb2b81",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "1hlapolkCnQLMgKcKNVCuc",
+                    "name": "Manic",
+                    "sharingInfo": {
+                      "shareId": "VWaBWyMMSYe1xb3a5vgyVQ",
+                      "shareUrl": "https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc?si=VWaBWyMMSYe1xb3a5vgyVQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:1hlapolkCnQLMgKcKNVCuc"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Ali Gatie"
+                          },
+                          "uri": "spotify:artist:4rTv3Ejc7hKMtmoBOK1B4T"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e022a0e84f7f86349253277349b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048512a0e84f7f86349253277349b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2732a0e84f7f86349253277349b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "5SBdHir3OHo2WZN0F3Pnbr",
+                    "name": "The Idea Of Her",
+                    "sharingInfo": {
+                      "shareId": "CRT7V7CpSo-iXo_UnZdDuQ",
+                      "shareUrl": "https://open.spotify.com/album/5SBdHir3OHo2WZN0F3Pnbr?si=CRT7V7CpSo-iXo_UnZdDuQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:5SBdHir3OHo2WZN0F3Pnbr"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Logic"
+                          },
+                          "uri": "spotify:artist:4xRYI6VqpkE3UwrDrAZL8L"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e19b1b51cdd35051e17cf6dc",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e19b1b51cdd35051e17cf6dc",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e19b1b51cdd35051e17cf6dc",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "4F87p1aiFwHeU4uu65MaPV",
+                    "name": "Bobby Tarantino II",
+                    "sharingInfo": {
+                      "shareId": "SFB8b5ZiQqq9uibx4LbxRA",
+                      "shareUrl": "https://open.spotify.com/album/4F87p1aiFwHeU4uu65MaPV?si=SFB8b5ZiQqq9uibx4LbxRA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4F87p1aiFwHeU4uu65MaPV"
+                  },
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Logic"
+                          },
+                          "uri": "spotify:artist:4xRYI6VqpkE3UwrDrAZL8L"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02035d17596e2a6bc7ab9c7adb",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851035d17596e2a6bc7ab9c7adb",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273035d17596e2a6bc7ab9c7adb",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "7D0N06QQZHEkH5X71FexQ0",
+                    "name": "Bobby Tarantino II",
+                    "sharingInfo": {
+                      "shareId": "1N5PHxTRQMq297cMKuq-ow",
+                      "shareUrl": "https://open.spotify.com/album/7D0N06QQZHEkH5X71FexQ0?si=1N5PHxTRQMq297cMKuq-ow"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:7D0N06QQZHEkH5X71FexQ0"
+                  }
+                ],
+                "totalCount": 2
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Wacotron"
+                          },
+                          "uri": "spotify:artist:4CAL0nDGvLhUfQEpwSLnUz"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0250143458ee52eb4b90a61b34",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485150143458ee52eb4b90a61b34",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27350143458ee52eb4b90a61b34",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "4Wj7RdGgmcNbNghdgUVQXi",
+                    "name": "Smokin Texas",
+                    "sharingInfo": {
+                      "shareId": "_lBMdOhaTICJRMQlH1UtcA",
+                      "shareUrl": "https://open.spotify.com/album/4Wj7RdGgmcNbNghdgUVQXi?si=_lBMdOhaTICJRMQlH1UtcA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4Wj7RdGgmcNbNghdgUVQXi"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Farruko"
+                          },
+                          "uri": "spotify:artist:329e4yvIujISKGKz1BZZbO"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d1bdcce4292c52f45ad4de02",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d1bdcce4292c52f45ad4de02",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d1bdcce4292c52f45ad4de02",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "4ZOlDViNpY9CrAXTNZMffm",
+                    "name": "CVRBON VRMOR",
+                    "sharingInfo": {
+                      "shareId": "pY2SOwNlQzqB3A00PlsAvQ",
+                      "shareUrl": "https://open.spotify.com/album/4ZOlDViNpY9CrAXTNZMffm?si=pY2SOwNlQzqB3A00PlsAvQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4ZOlDViNpY9CrAXTNZMffm"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "benny blanco"
+                          },
+                          "uri": "spotify:artist:5CiGnKThu5ctn9pBxv7DGa"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02eb970c6e08ac03bcd56be288",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851eb970c6e08ac03bcd56be288",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273eb970c6e08ac03bcd56be288",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "7jainWomsRbTs5dGUOP21C",
+                    "name": "FRIENDS KEEP SECRETS 2",
+                    "sharingInfo": {
+                      "shareId": "mTSYXDMiQ8WoI4O0CWdWew",
+                      "shareUrl": "https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C?si=mTSYXDMiQ8WoI4O0CWdWew"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:7jainWomsRbTs5dGUOP21C"
+                  },
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "benny blanco"
+                          },
+                          "uri": "spotify:artist:5CiGnKThu5ctn9pBxv7DGa"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0254a03d57490f84d59644e52e",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485154a03d57490f84d59644e52e",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27354a03d57490f84d59644e52e",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "5xU9zYkbJowe8ghn8A7t7c",
+                    "name": "FRIENDS KEEP SECRETS 2",
+                    "sharingInfo": {
+                      "shareId": "d4A5mjUlT8SuxSoZrM46JA",
+                      "shareUrl": "https://open.spotify.com/album/5xU9zYkbJowe8ghn8A7t7c?si=d4A5mjUlT8SuxSoZrM46JA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:5xU9zYkbJowe8ghn8A7t7c"
+                  }
+                ],
+                "totalCount": 2
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Alan Walker"
+                          },
+                          "uri": "spotify:artist:7vk5e3vY1uw9plTHJAMwjN"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0225d3bdf7a569b926dab0f151",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485125d3bdf7a569b926dab0f151",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27325d3bdf7a569b926dab0f151",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2016
+                    },
+                    "id": "4wQNBX0Mp50Q2JFSEDW5G1",
+                    "name": "Sing Me to Sleep",
+                    "sharingInfo": {
+                      "shareId": "U41QdW9DRLC8egGcQzpxAQ",
+                      "shareUrl": "https://open.spotify.com/album/4wQNBX0Mp50Q2JFSEDW5G1?si=U41QdW9DRLC8egGcQzpxAQ"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4wQNBX0Mp50Q2JFSEDW5G1"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "League of Legends"
+                          },
+                          "uri": "spotify:artist:47mIJdHORyRerp4os813jD"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a2ef30abcc11701922e2168c",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a2ef30abcc11701922e2168c",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a2ef30abcc11701922e2168c",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2016
+                    },
+                    "id": "25iitzpEYGoW3AxyWL6Zb8",
+                    "name": "Warsongs",
+                    "sharingInfo": {
+                      "shareId": "HwDR3gLsRqq-kocoE0f3Qg",
+                      "shareUrl": "https://open.spotify.com/album/25iitzpEYGoW3AxyWL6Zb8?si=HwDR3gLsRqq-kocoE0f3Qg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:25iitzpEYGoW3AxyWL6Zb8"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "DUSTY"
+                          },
+                          "uri": "spotify:artist:3kBOtwy37e9fzJ3LFSnpbQ"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02910afd39f7ae15e49bd0360e",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851910afd39f7ae15e49bd0360e",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273910afd39f7ae15e49bd0360e",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "697qiz2CuFuz40mdjG4C77",
+                    "name": "UNDERGROWTH",
+                    "sharingInfo": {
+                      "shareId": "2hfRTEglTB-qkSRHmFNMWg",
+                      "shareUrl": "https://open.spotify.com/album/697qiz2CuFuz40mdjG4C77?si=2hfRTEglTB-qkSRHmFNMWg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:697qiz2CuFuz40mdjG4C77"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "P!nk"
+                          },
+                          "uri": "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e028d71d2d8b853b9dee2a24952",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048518d71d2d8b853b9dee2a24952",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2738d71d2d8b853b9dee2a24952",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "3rYB02CvfMqjKeXaqCRBK6",
+                    "name": "TRUSTFALL (Tour Deluxe Edition)",
+                    "sharingInfo": {
+                      "shareId": "_ehZBz7GS6G3Q0CmeGtrkw",
+                      "shareUrl": "https://open.spotify.com/album/3rYB02CvfMqjKeXaqCRBK6?si=_ehZBz7GS6G3Q0CmeGtrkw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3rYB02CvfMqjKeXaqCRBK6"
+                  },
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "P!nk"
+                          },
+                          "uri": "spotify:artist:1KCSPY1glIKqW2TotWuXOR"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0211477d4b138bc2ff174afb00",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485111477d4b138bc2ff174afb00",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27311477d4b138bc2ff174afb00",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "4hgincUyDza4A228fFQRiK",
+                    "name": "TRUSTFALL (Tour Deluxe Edition)",
+                    "sharingInfo": {
+                      "shareId": "Oe34Jv9WQPK5h0BwgWDUfw",
+                      "shareUrl": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK?si=Oe34Jv9WQPK5h0BwgWDUfw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4hgincUyDza4A228fFQRiK"
+                  }
+                ],
+                "totalCount": 2
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Demi Lovato"
+                          },
+                          "uri": "spotify:artist:6S2OmqARrzebs0tKUEyXyp"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e026593537e6a1510219779f1a5",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048516593537e6a1510219779f1a5",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2736593537e6a1510219779f1a5",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "3XsdVkuj3zMVHPRvodOgeE",
+                    "name": "Dancing With The Devil\u2026The Art of Starting Over (Expanded Edition)",
+                    "sharingInfo": {
+                      "shareId": "ISpRTsW0SAWnmbPOX1rF0w",
+                      "shareUrl": "https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE?si=ISpRTsW0SAWnmbPOX1rF0w"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3XsdVkuj3zMVHPRvodOgeE"
+                  },
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Demi Lovato"
+                          },
+                          "uri": "spotify:artist:6S2OmqARrzebs0tKUEyXyp"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020135c11e03fc5ed8f8675912",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510135c11e03fc5ed8f8675912",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730135c11e03fc5ed8f8675912",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "27BV0InvILUWQE7T1SN5vP",
+                    "name": "Dancing With The Devil\u2026The Art of Starting Over (Expanded Edition)",
+                    "sharingInfo": {
+                      "shareId": "dAAlfbxASyKpqfa1z9B43w",
+                      "shareUrl": "https://open.spotify.com/album/27BV0InvILUWQE7T1SN5vP?si=dAAlfbxASyKpqfa1z9B43w"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:27BV0InvILUWQE7T1SN5vP"
+                  }
+                ],
+                "totalCount": 2
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02593ce19e205a819f4b3df4d7",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851593ce19e205a819f4b3df4d7",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273593ce19e205a819f4b3df4d7",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "72lIx0OdNExTWVppt60sCU",
+                    "name": "No Bad Days",
+                    "sharingInfo": {
+                      "shareId": "hn9cQHRrT8CFEDURfG19Tg",
+                      "shareUrl": "https://open.spotify.com/album/72lIx0OdNExTWVppt60sCU?si=hn9cQHRrT8CFEDURfG19Tg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:72lIx0OdNExTWVppt60sCU"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Rico Nasty"
+                          },
+                          "uri": "spotify:artist:2OaHYHb2XcFPvqL3VsyPzU"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02df9edb7f913cb49fd5abfbae",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851df9edb7f913cb49fd5abfbae",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273df9edb7f913cb49fd5abfbae",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "6pyTFqxVk6Js8A8xfOg8ZO",
+                    "name": "Las Ruinas",
+                    "sharingInfo": {
+                      "shareId": "kvC3rCIPQqyDkKSZC995Mg",
+                      "shareUrl": "https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO?si=kvC3rCIPQqyDkKSZC995Mg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6pyTFqxVk6Js8A8xfOg8ZO"
+                  }
+                ],
+                "totalCount": 1
+              }
+            }
+          ],
+          "totalCount": 546
+        },
+        "discoveredOnV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Marshmello. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO3Adu8w",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO3Adu8w-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Marshmello",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO3Adu8w"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Get happy with today's dose of feel-good songs!",
+                "id": "37i9dQZF1DX3rxVfibe1L0",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000028191cc41d8585df6170b3e5e",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Mood Booster",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX3rxVfibe1L0"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "best country music of 2025 most popular trending today modern mix viral top 100 hottest contemporary country pop rock latest americana \u26a0\ufe0f NO SOCIAL MEDIA ACCOUNTS ASSOCIATED WITH THIS PROFILE. BEWARE OF SCAMS!",
+                "id": "4Jb4PDWREzNnbZcOHPcZPy",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c8c8afccecd02d63d920f4c97",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "COUNTRY HITS 2025 \ud83d\udd25 New Country Songs + Top Hits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spot"
+                  }
+                },
+                "uri": "spotify:playlist:4Jb4PDWREzNnbZcOHPcZPy"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "A mega mix of 75 favorites from the last few years! ",
+                "id": "37i9dQZF1DXbYM3nMM0oPk",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000023909428545db5e34677f01f0",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Mega Hit Mix",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXbYM3nMM0oPk"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Warm familiar pop you know and love. Cover: Adele",
+                "id": "37i9dQZF1DWTwnEm1IYyoj",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f0000000242ede53dcaaa172b7bbca101",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Soft Pop Hits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWTwnEm1IYyoj"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Country music's 50 most played songs in the world. Updated weekly. Cover: Post Malone and Morgan Wallen",
+                "id": "37i9dQZF1DX7aUUBCKwo4Y",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000025b07a04dce2d3bdf7b3352e5",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Country Top 50",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX7aUUBCKwo4Y"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Hits to boost your mood and fill you with happiness!",
+                "id": "37i9dQZF1DXdPec7aLTmlC",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f0000000249a1ed33d2ca64e6a5d0e550",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Happy Hits!",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXdPec7aLTmlC"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: Feid",
+                "id": "37i9dQZF1DX10zKzsJ2jva",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000026ac0420d3d53144fad5794e4",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Viva Latino",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX10zKzsJ2jva"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Get your beast mode on!",
+                "id": "37i9dQZF1DX76Wlfdnj7AP",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000021c85876e7d9b8633ec32a8b9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Beast Mode",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX76Wlfdnj7AP"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Current favorites and exciting new music. Cover: Sabrina Carpenter",
+                "id": "37i9dQZF1DXcRXFNfZr7Tp",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f0000000261f458ea0ecf8d5e13654741",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "just hits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXcRXFNfZr7Tp"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO2O09Hg",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO2O09Hg-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Juice WRLD",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO2O09Hg"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            }
+          ],
+          "totalCount": 100
+        },
+        "featuringV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Marshmello. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO3Adu8w",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO3Adu8w-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Marshmello",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO3Adu8w"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "With Avicii, Shawn Mendes, Martin Garrix and more",
+                "id": "37i9dQZF1E4r6vy4OdlpN6",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/64KEffDW9EtZ1y2vBYgq8T/en",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Marshmello Radio",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1E4r6vy4OdlpN6"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The hottest tracks in the North. Cover: PARTYNEXTDOOR, Drake",
+                "id": "37i9dQZF1DWXT8uSSn6PRy",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f0000000264164503d43bca5903446a1d",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Hot Hits Canada",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWXT8uSSn6PRy"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Warm familiar pop you know and love. Cover: Adele",
+                "id": "37i9dQZF1DWTwnEm1IYyoj",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f0000000242ede53dcaaa172b7bbca101",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Soft Pop Hits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWTwnEm1IYyoj"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Country music's 50 most played songs in the world. Updated weekly. Cover: Post Malone and Morgan Wallen",
+                "id": "37i9dQZF1DX7aUUBCKwo4Y",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000025b07a04dce2d3bdf7b3352e5",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Country Top 50",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX7aUUBCKwo4Y"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Splash and sing-along.",
+                "id": "37i9dQZF1DWSqmBTGDYngZ",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002b4fc8034217025210cc630c1",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Songs to Sing in the Shower",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWSqmBTGDYngZ"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The pop hits you just can't get enough of. Cover: Tate McRae",
+                "id": "37i9dQZF1DXcOFePJj4Rgb",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000026091b2487246698172ce1b20",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Pop Favourites",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXcOFePJj4Rgb"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Get your beast mode on!",
+                "id": "37i9dQZF1DX76Wlfdnj7AP",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000021c85876e7d9b8633ec32a8b9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Beast Mode",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX76Wlfdnj7AP"
+              }
+            }
+          ],
+          "totalCount": 8
+        },
+        "relatedArtists": {
+          "items": [
+            {
+              "id": "64M6ah0SkkRsnPGtGiRAbb",
+              "profile": {
+                "name": "Bebe Rexha"
+              },
+              "uri": "spotify:artist:64M6ah0SkkRsnPGtGiRAbb",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebead1540fa76796266fadba33",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178ead1540fa76796266fadba33",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174ead1540fa76796266fadba33",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "69GGBxA162lTqCwzJG5jLp",
+              "profile": {
+                "name": "The Chainsmokers"
+              },
+              "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb44434ab91c37f5407f8e83b6",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17844434ab91c37f5407f8e83b6",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517444434ab91c37f5407f8e83b6",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5Pwc4xIPtQLFEnJriah9YJ",
+              "profile": {
+                "name": "OneRepublic"
+              },
+              "uri": "spotify:artist:5Pwc4xIPtQLFEnJriah9YJ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb57138b98e7ddd5a86ee97a9b",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17857138b98e7ddd5a86ee97a9b",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517457138b98e7ddd5a86ee97a9b",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "23fqKkggKUBHNkbKtXEls4",
+              "profile": {
+                "name": "Kygo"
+              },
+              "uri": "spotify:artist:23fqKkggKUBHNkbKtXEls4",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebe5ea1aa1404629c12ad86658",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178e5ea1aa1404629c12ad86658",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174e5ea1aa1404629c12ad86658",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5CiGnKThu5ctn9pBxv7DGa",
+              "profile": {
+                "name": "benny blanco"
+              },
+              "uri": "spotify:artist:5CiGnKThu5ctn9pBxv7DGa",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb9e339e423b680759b0006a63",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1789e339e423b680759b0006a63",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051749e339e423b680759b0006a63",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6Dd3NScHWwnW6obMFbl1BH",
+              "profile": {
+                "name": "Daya"
+              },
+              "uri": "spotify:artist:6Dd3NScHWwnW6obMFbl1BH",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb540e862652f24fe2988911b2",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178540e862652f24fe2988911b2",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174540e862652f24fe2988911b2",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "60d24wfXkVzDSfLS6hyCjZ",
+              "profile": {
+                "name": "Martin Garrix"
+              },
+              "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb45c3688488f871aace7a4a57",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17845c3688488f871aace7a4a57",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517445c3688488f871aace7a4a57",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1zNqDE7qDGCsyzJwohVaoX",
+              "profile": {
+                "name": "Anne-Marie"
+              },
+              "uri": "spotify:artist:1zNqDE7qDGCsyzJwohVaoX",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb44f98903293dccbee09e37bc",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17844f98903293dccbee09e37bc",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517444f98903293dccbee09e37bc",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "246dkjvS1zLTtiykXe5h60",
+              "profile": {
+                "name": "Post Malone"
+              },
+              "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebe17c0aa1714a03d62b5ce4e0",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178e17c0aa1714a03d62b5ce4e0",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174e17c0aa1714a03d62b5ce4e0",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5fMUXHkw8R8eOP2RNVYEZX",
+              "profile": {
+                "name": "Diplo"
+              },
+              "uri": "spotify:artist:5fMUXHkw8R8eOP2RNVYEZX",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebdf01727aa674ddefa777797a",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178df01727aa674ddefa777797a",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174df01727aa674ddefa777797a",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0X2BH1fck6amBIoJhDVmmJ",
+              "profile": {
+                "name": "Ellie Goulding"
+              },
+              "uri": "spotify:artist:0X2BH1fck6amBIoJhDVmmJ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178c3cd7dc428871e8985d62b9a",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174c3cd7dc428871e8985d62b9a",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+              "profile": {
+                "name": "David Guetta"
+              },
+              "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebf150017ca69c8793503c2d4f",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178f150017ca69c8793503c2d4f",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174f150017ca69c8793503c2d4f",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4nDoRrQiYLoBzwC5BhVJzF",
+              "profile": {
+                "name": "Camila Cabello"
+              },
+              "uri": "spotify:artist:4nDoRrQiYLoBzwC5BhVJzF",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb76470faf6330235edbcb90a9",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17876470faf6330235edbcb90a9",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517476470faf6330235edbcb90a9",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "26VFTg2z8YR0cCuwLzESi2",
+              "profile": {
+                "name": "Halsey"
+              },
+              "uri": "spotify:artist:26VFTg2z8YR0cCuwLzESi2",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb7f17140567e7df5799d5c3a9",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1787f17140567e7df5799d5c3a9",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051747f17140567e7df5799d5c3a9",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7n2wHs1TKAczGzO7Dd2rGr",
+              "profile": {
+                "name": "Shawn Mendes"
+              },
+              "uri": "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb58b4b9419486550f6fda0535",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17858b4b9419486550f6fda0535",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517458b4b9419486550f6fda0535",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4npEfmQ6YuiwW1GpUmaq3F",
+              "profile": {
+                "name": "Ava Max"
+              },
+              "uri": "spotify:artist:4npEfmQ6YuiwW1GpUmaq3F",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebde0f96585c65bb764ee81b67",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178de0f96585c65bb764ee81b67",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174de0f96585c65bb764ee81b67",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1vCWHaC5f2uS3yhpwWbIA6",
+              "profile": {
+                "name": "Avicii"
+              },
+              "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebae07171f989fb39736674113",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178ae07171f989fb39736674113",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174ae07171f989fb39736674113",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4AVFqumd2ogHFlRbKIjp1t",
+              "profile": {
+                "name": "Alesso"
+              },
+              "uri": "spotify:artist:4AVFqumd2ogHFlRbKIjp1t",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb327e7178289c299c48e12577",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178327e7178289c299c48e12577",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174327e7178289c299c48e12577",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6eUKZXaKkcviH0Ku9w2n3V",
+              "profile": {
+                "name": "Ed Sheeran"
+              },
+              "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb784daff754ecfe0464ddbeb9",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178784daff754ecfe0464ddbeb9",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174784daff754ecfe0464ddbeb9",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1HBjj22wzbscIZ9sEb5dyf",
+              "profile": {
+                "name": "Jonas Blue"
+              },
+              "uri": "spotify:artist:1HBjj22wzbscIZ9sEb5dyf",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb1382d5a1d6a664832ec547a8",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1781382d5a1d6a664832ec547a8",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051741382d5a1d6a664832ec547a8",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "totalCount": 40
+        }
+      },
+      "relatedVideos": {
+        "__typename": "RelatedVideoPage",
+        "items": [],
+        "totalCount": 0
+      },
+      "saved": false,
+      "sharingInfo": {
+        "shareId": "vHwu1I2USIGH7V9rdwFBtg",
+        "shareUrl": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T?si=vHwu1I2USIGH7V9rdwFBtg"
+      },
+      "stats": {
+        "followers": 34123762,
+        "monthlyListeners": 52026349,
+        "topCities": {
+          "items": [
+            {
+              "city": "Mexico City",
+              "country": "MX",
+              "numberOfListeners": 726174,
+              "region": "CMX"
+            },
+            {
+              "city": "S\u00e3o Paulo",
+              "country": "BR",
+              "numberOfListeners": 640880,
+              "region": "SP"
+            },
+            {
+              "city": "Sydney",
+              "country": "AU",
+              "numberOfListeners": 619656,
+              "region": "NSW"
+            },
+            {
+              "city": "Santiago",
+              "country": "CL",
+              "numberOfListeners": 537827,
+              "region": "RM"
+            },
+            {
+              "city": "Melbourne",
+              "country": "AU",
+              "numberOfListeners": 471809,
+              "region": "VIC"
+            }
+          ]
+        },
+        "worldRank": 44
+      },
+      "uri": "spotify:artist:64KEffDW9EtZ1y2vBYgq8T",
+      "visualIdentity": {
+        "wideFullBleedImage": {
+          "__typename": "VisualIdentityImage",
+          "extractedColorSet": {
+            "encoreBaseSetTextColor": {
+              "alpha": 255,
+              "blue": 216,
+              "green": 208,
+              "red": 72
+            },
+            "highContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 98,
+                "green": 91,
+                "red": 0
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 62,
+                "green": 56,
+                "red": 0
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 231,
+                "green": 223,
+                "red": 94
+              }
+            },
+            "higherContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 64,
+                "green": 58,
+                "red": 0
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 99,
+                "green": 93,
+                "red": 43
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 96,
+                "green": 215,
+                "red": 30
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 231,
+                "green": 223,
+                "red": 94
+              }
+            },
+            "minContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 176,
+                "green": 168,
+                "red": 0
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 149,
+                "green": 141,
+                "red": 0
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              }
+            }
+          }
+        }
+      },
+      "visuals": {
+        "avatarImage": {
+          "extractedColors": {
+            "colorRaw": {
+              "hex": "#535353"
+            }
+          },
+          "sources": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb53ca421f91678c26b4f15512",
+              "width": 640
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f17853ca421f91678c26b4f15512",
+              "width": 160
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab6761610000517453ca421f91678c26b4f15512",
+              "width": 320
+            }
+          ]
+        },
+        "gallery": {
+          "items": [
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4fe5d4015f3206598ec34389e",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd491193b006d438b322291717a",
+                  "width": 640
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "watchFeedEntrypoint": null
+    }
+  },
+  "extensions": {}
+}
