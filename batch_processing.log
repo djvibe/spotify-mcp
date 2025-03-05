@@ -52,3 +52,851 @@
 2025-03-04 22:35:06,934 - batch_processing - INFO - Database updated for artist 540vIaP2JwjQb9dm3aArA4
 2025-03-04 22:35:07,947 - batch_processing - INFO - Batch processing complete: 10 succeeded, 0 failed
 2025-03-04 22:35:07,951 - batch_processing - INFO - Results saved to output\batch_results_20250304_223507.json
+2025-03-04 22:44:04,973 - batch_processing - INFO - Starting batch process for 10 artists
+2025-03-04 22:44:04,974 - batch_processing - INFO -   Top Tier (3 days): 10 artists
+2025-03-04 22:44:04,974 - batch_processing - INFO - Artists to process (first 5):
+2025-03-04 22:44:04,974 - batch_processing - INFO -   Lost Frequencies (7f5Zgnp2spUuuzKplmRkt7)
+2025-03-04 22:44:04,974 - batch_processing - INFO -   Robin Schulz (3t5xRXzsuZmMDkQzgOX35S)
+2025-03-04 22:44:04,974 - batch_processing - INFO -   HUGEL (5PlfkPxwCpRRWQJBxCa0By)
+2025-03-04 22:44:04,975 - batch_processing - INFO -   Diplo (5fMUXHkw8R8eOP2RNVYEZX)
+2025-03-04 22:44:04,975 - batch_processing - INFO -   Fred again.. (4oLeXFyACqeem2VImYeBFe)
+2025-03-04 22:44:04,975 - batch_processing - INFO -   ... and 5 more
+2025-03-04 22:44:04,975 - batch_processing - INFO - Processing artist ID: 7f5Zgnp2spUuuzKplmRkt7 (Lost Frequencies)
+2025-03-04 22:44:04,975 - spotify_partner_api - INFO - Getting detailed info for artist: 7f5Zgnp2spUuuzKplmRkt7
+2025-03-04 22:44:04,975 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:44:05,244 - spotify_token_manager - INFO - Token retrieved successfully, expires at 2025-03-04 23:39:02.153000
+2025-03-04 22:44:05,247 - spotify_token_manager - INFO - Token data saved to output\batch_spotify_tokens.json
+2025-03-04 22:44:06,744 - batch_processing - INFO - Saved data files for artist 7f5Zgnp2spUuuzKplmRkt7
+2025-03-04 22:44:06,794 - batch_processing - INFO - Database updated for artist 7f5Zgnp2spUuuzKplmRkt7
+2025-03-04 22:44:07,804 - batch_processing - INFO - Processing artist ID: 3t5xRXzsuZmMDkQzgOX35S (Robin Schulz)
+2025-03-04 22:44:07,805 - spotify_partner_api - INFO - Getting detailed info for artist: 3t5xRXzsuZmMDkQzgOX35S
+2025-03-04 22:44:08,433 - batch_processing - INFO - Saved data files for artist 3t5xRXzsuZmMDkQzgOX35S
+2025-03-04 22:44:08,456 - batch_processing - INFO - Database updated for artist 3t5xRXzsuZmMDkQzgOX35S
+2025-03-04 22:44:09,473 - batch_processing - INFO - Processing artist ID: 5PlfkPxwCpRRWQJBxCa0By (HUGEL)
+2025-03-04 22:44:09,474 - spotify_partner_api - INFO - Getting detailed info for artist: 5PlfkPxwCpRRWQJBxCa0By
+2025-03-04 22:44:10,189 - batch_processing - INFO - Saved data files for artist 5PlfkPxwCpRRWQJBxCa0By
+2025-03-04 22:44:10,230 - batch_processing - INFO - Database updated for artist 5PlfkPxwCpRRWQJBxCa0By
+2025-03-04 22:44:11,238 - batch_processing - INFO - Processing artist ID: 5fMUXHkw8R8eOP2RNVYEZX (Diplo)
+2025-03-04 22:44:11,239 - spotify_partner_api - INFO - Getting detailed info for artist: 5fMUXHkw8R8eOP2RNVYEZX
+2025-03-04 22:44:11,903 - batch_processing - INFO - Saved data files for artist 5fMUXHkw8R8eOP2RNVYEZX
+2025-03-04 22:44:11,950 - batch_processing - INFO - Database updated for artist 5fMUXHkw8R8eOP2RNVYEZX
+2025-03-04 22:44:12,957 - batch_processing - INFO - Processing artist ID: 4oLeXFyACqeem2VImYeBFe (Fred again..)
+2025-03-04 22:44:12,959 - spotify_partner_api - INFO - Getting detailed info for artist: 4oLeXFyACqeem2VImYeBFe
+2025-03-04 22:44:13,467 - batch_processing - INFO - Saved data files for artist 4oLeXFyACqeem2VImYeBFe
+2025-03-04 22:44:13,510 - batch_processing - INFO - Database updated for artist 4oLeXFyACqeem2VImYeBFe
+2025-03-04 22:44:14,513 - batch_processing - INFO - Processing artist ID: 1VJ0briNOlXRtJUAzoUJdt (FISHER)
+2025-03-04 22:44:14,514 - spotify_partner_api - INFO - Getting detailed info for artist: 1VJ0briNOlXRtJUAzoUJdt
+2025-03-04 22:44:15,046 - batch_processing - INFO - Saved data files for artist 1VJ0briNOlXRtJUAzoUJdt
+2025-03-04 22:44:15,100 - batch_processing - INFO - Database updated for artist 1VJ0briNOlXRtJUAzoUJdt
+2025-03-04 22:44:16,105 - batch_processing - INFO - Processing artist ID: 1h6Cn3P4NGzXbaXidqURXs (Swedish House Mafia)
+2025-03-04 22:44:16,107 - spotify_partner_api - INFO - Getting detailed info for artist: 1h6Cn3P4NGzXbaXidqURXs
+2025-03-04 22:44:16,721 - batch_processing - INFO - Saved data files for artist 1h6Cn3P4NGzXbaXidqURXs
+2025-03-04 22:44:16,772 - batch_processing - INFO - Database updated for artist 1h6Cn3P4NGzXbaXidqURXs
+2025-03-04 22:44:17,775 - batch_processing - INFO - Processing artist ID: 5ENS85nZShljwNgg4wFD7D (Gabry Ponte)
+2025-03-04 22:44:17,776 - spotify_partner_api - INFO - Getting detailed info for artist: 5ENS85nZShljwNgg4wFD7D
+2025-03-04 22:44:18,302 - batch_processing - INFO - Saved data files for artist 5ENS85nZShljwNgg4wFD7D
+2025-03-04 22:44:18,362 - batch_processing - INFO - Database updated for artist 5ENS85nZShljwNgg4wFD7D
+2025-03-04 22:44:19,379 - batch_processing - INFO - Processing artist ID: 0SfsnGyD8FpIN4U4WCkBZ5 (Armin van Buuren)
+2025-03-04 22:44:19,380 - spotify_partner_api - INFO - Getting detailed info for artist: 0SfsnGyD8FpIN4U4WCkBZ5
+2025-03-04 22:44:20,020 - batch_processing - INFO - Saved data files for artist 0SfsnGyD8FpIN4U4WCkBZ5
+2025-03-04 22:44:20,066 - batch_processing - INFO - Database updated for artist 0SfsnGyD8FpIN4U4WCkBZ5
+2025-03-04 22:44:21,080 - batch_processing - INFO - Processing artist ID: 738wLrAtLtCtFOLvQBXOXp (Major Lazer)
+2025-03-04 22:44:21,082 - spotify_partner_api - INFO - Getting detailed info for artist: 738wLrAtLtCtFOLvQBXOXp
+2025-03-04 22:44:21,793 - batch_processing - INFO - Saved data files for artist 738wLrAtLtCtFOLvQBXOXp
+2025-03-04 22:44:21,854 - batch_processing - INFO - Database updated for artist 738wLrAtLtCtFOLvQBXOXp
+2025-03-04 22:44:22,863 - batch_processing - INFO - Batch processing complete: 10 succeeded, 0 failed
+2025-03-04 22:44:22,867 - batch_processing - INFO - Results saved to output\batch_results_20250304_224422.json
+2025-03-04 22:45:40,355 - batch_processing - INFO - Starting batch process for 50 artists
+2025-03-04 22:45:40,356 - batch_processing - INFO -   Top Tier (3 days): 3 artists
+2025-03-04 22:45:40,356 - batch_processing - INFO -   Mid Tier (7 days): 47 artists
+2025-03-04 22:45:40,356 - batch_processing - INFO - Artists to process (first 5):
+2025-03-04 22:45:40,356 - batch_processing - INFO -   Martin Garrix (60d24wfXkVzDSfLS6hyCjZ)
+2025-03-04 22:45:40,356 - batch_processing - INFO -   Skrillex (5he5w2lnU9x7JFhnwcekXX)
+2025-03-04 22:45:40,356 - batch_processing - INFO -   Zedd (2qxJFvFYMEDqd7ui6kSAcq)
+2025-03-04 22:45:40,356 - batch_processing - INFO -   Alesso (4AVFqumd2ogHFlRbKIjp1t)
+2025-03-04 22:45:40,356 - batch_processing - INFO -   Disclosure (6nS5roXSAGhTGr34W6n7Et)
+2025-03-04 22:45:40,357 - batch_processing - INFO -   ... and 45 more
+2025-03-04 22:45:40,357 - batch_processing - INFO - Processing artist ID: 60d24wfXkVzDSfLS6hyCjZ (Martin Garrix)
+2025-03-04 22:45:40,357 - spotify_partner_api - INFO - Getting detailed info for artist: 60d24wfXkVzDSfLS6hyCjZ
+2025-03-04 22:45:40,357 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:45:40,612 - spotify_token_manager - INFO - Token retrieved successfully, expires at 2025-03-04 23:39:02.153000
+2025-03-04 22:45:40,616 - spotify_token_manager - INFO - Token data saved to output\batch_spotify_tokens.json
+2025-03-04 22:45:41,278 - batch_processing - INFO - Saved data files for artist 60d24wfXkVzDSfLS6hyCjZ
+2025-03-04 22:45:42,131 - batch_processing - INFO - Database updated for artist 60d24wfXkVzDSfLS6hyCjZ
+2025-03-04 22:45:43,138 - batch_processing - INFO - Processing artist ID: 5he5w2lnU9x7JFhnwcekXX (Skrillex)
+2025-03-04 22:45:43,139 - spotify_partner_api - INFO - Getting detailed info for artist: 5he5w2lnU9x7JFhnwcekXX
+2025-03-04 22:45:43,714 - batch_processing - INFO - Saved data files for artist 5he5w2lnU9x7JFhnwcekXX
+2025-03-04 22:45:43,762 - batch_processing - INFO - Database updated for artist 5he5w2lnU9x7JFhnwcekXX
+2025-03-04 22:45:44,774 - batch_processing - INFO - Processing artist ID: 2qxJFvFYMEDqd7ui6kSAcq (Zedd)
+2025-03-04 22:45:44,774 - spotify_partner_api - INFO - Getting detailed info for artist: 2qxJFvFYMEDqd7ui6kSAcq
+2025-03-04 22:45:45,359 - batch_processing - INFO - Saved data files for artist 2qxJFvFYMEDqd7ui6kSAcq
+2025-03-04 22:45:45,385 - batch_processing - INFO - Database updated for artist 2qxJFvFYMEDqd7ui6kSAcq
+2025-03-04 22:45:46,397 - batch_processing - INFO - Processing artist ID: 4AVFqumd2ogHFlRbKIjp1t (Alesso)
+2025-03-04 22:45:46,399 - spotify_partner_api - INFO - Getting detailed info for artist: 4AVFqumd2ogHFlRbKIjp1t
+2025-03-04 22:45:47,070 - batch_processing - INFO - Saved data files for artist 4AVFqumd2ogHFlRbKIjp1t
+2025-03-04 22:45:47,120 - batch_processing - INFO - Database updated for artist 4AVFqumd2ogHFlRbKIjp1t
+2025-03-04 22:45:48,129 - batch_processing - INFO - Processing artist ID: 6nS5roXSAGhTGr34W6n7Et (Disclosure)
+2025-03-04 22:45:48,130 - spotify_partner_api - INFO - Getting detailed info for artist: 6nS5roXSAGhTGr34W6n7Et
+2025-03-04 22:45:48,688 - batch_processing - INFO - Saved data files for artist 6nS5roXSAGhTGr34W6n7Et
+2025-03-04 22:45:48,748 - batch_processing - INFO - Database updated for artist 6nS5roXSAGhTGr34W6n7Et
+2025-03-04 22:45:49,767 - batch_processing - INFO - Processing artist ID: 6cEuCEZu7PAE9ZSzLLc2oQ (R3HAB)
+2025-03-04 22:45:49,768 - spotify_partner_api - INFO - Getting detailed info for artist: 6cEuCEZu7PAE9ZSzLLc2oQ
+2025-03-04 22:45:50,383 - batch_processing - INFO - Saved data files for artist 6cEuCEZu7PAE9ZSzLLc2oQ
+2025-03-04 22:45:50,437 - batch_processing - INFO - Database updated for artist 6cEuCEZu7PAE9ZSzLLc2oQ
+2025-03-04 22:45:51,454 - batch_processing - INFO - Processing artist ID: 2rTo8KIkBTFjQS7VvaKYQ4 (W&W)
+2025-03-04 22:45:51,455 - spotify_partner_api - INFO - Getting detailed info for artist: 2rTo8KIkBTFjQS7VvaKYQ4
+2025-03-04 22:45:52,095 - batch_processing - INFO - Saved data files for artist 2rTo8KIkBTFjQS7VvaKYQ4
+2025-03-04 22:45:52,138 - batch_processing - INFO - Database updated for artist 2rTo8KIkBTFjQS7VvaKYQ4
+2025-03-04 22:45:53,154 - batch_processing - INFO - Processing artist ID: 0xRXCcSX89eobfrshSVdyu (MEDUZA)
+2025-03-04 22:45:53,155 - spotify_partner_api - INFO - Getting detailed info for artist: 0xRXCcSX89eobfrshSVdyu
+2025-03-04 22:45:53,674 - batch_processing - INFO - Saved data files for artist 0xRXCcSX89eobfrshSVdyu
+2025-03-04 22:45:53,736 - batch_processing - INFO - Database updated for artist 0xRXCcSX89eobfrshSVdyu
+2025-03-04 22:45:54,747 - batch_processing - INFO - Processing artist ID: 4D75GcNG95ebPtNvoNVXhz (AFROJACK)
+2025-03-04 22:45:54,749 - spotify_partner_api - INFO - Getting detailed info for artist: 4D75GcNG95ebPtNvoNVXhz
+2025-03-04 22:45:55,371 - batch_processing - INFO - Saved data files for artist 4D75GcNG95ebPtNvoNVXhz
+2025-03-04 22:45:55,405 - batch_processing - INFO - Database updated for artist 4D75GcNG95ebPtNvoNVXhz
+2025-03-04 22:45:56,405 - batch_processing - INFO - Processing artist ID: 28uJnu5EsrGml2tBd7y8ts (Vintage Culture)
+2025-03-04 22:45:56,406 - spotify_partner_api - INFO - Getting detailed info for artist: 28uJnu5EsrGml2tBd7y8ts
+2025-03-04 22:45:56,937 - batch_processing - INFO - Saved data files for artist 28uJnu5EsrGml2tBd7y8ts
+2025-03-04 22:45:56,995 - batch_processing - INFO - Database updated for artist 28uJnu5EsrGml2tBd7y8ts
+2025-03-04 22:45:58,010 - batch_processing - INFO - Processing artist ID: 7kNqXtgeIwFtelmRjWv205 (John Summit)
+2025-03-04 22:45:58,010 - spotify_partner_api - INFO - Getting detailed info for artist: 7kNqXtgeIwFtelmRjWv205
+2025-03-04 22:45:58,548 - batch_processing - INFO - Saved data files for artist 7kNqXtgeIwFtelmRjWv205
+2025-03-04 22:45:58,598 - batch_processing - INFO - Database updated for artist 7kNqXtgeIwFtelmRjWv205
+2025-03-04 22:45:59,615 - batch_processing - INFO - Processing artist ID: 73jBynjsVtofjRpdpRAJGk (Dimitri Vegas & Like Mike)
+2025-03-04 22:45:59,616 - spotify_partner_api - INFO - Getting detailed info for artist: 73jBynjsVtofjRpdpRAJGk
+2025-03-04 22:46:00,182 - batch_processing - INFO - Saved data files for artist 73jBynjsVtofjRpdpRAJGk
+2025-03-04 22:46:00,224 - batch_processing - INFO - Database updated for artist 73jBynjsVtofjRpdpRAJGk
+2025-03-04 22:46:01,238 - batch_processing - INFO - Processing artist ID: 77AiFEVeAVj2ORpC85QVJs (Steve Aoki)
+2025-03-04 22:46:01,240 - spotify_partner_api - INFO - Getting detailed info for artist: 77AiFEVeAVj2ORpC85QVJs
+2025-03-04 22:46:01,854 - batch_processing - INFO - Saved data files for artist 77AiFEVeAVj2ORpC85QVJs
+2025-03-04 22:46:01,921 - batch_processing - INFO - Database updated for artist 77AiFEVeAVj2ORpC85QVJs
+2025-03-04 22:46:02,938 - batch_processing - INFO - Processing artist ID: 1gR0gsQYfi6joyO1dlp76N (Justice)
+2025-03-04 22:46:02,939 - spotify_partner_api - INFO - Getting detailed info for artist: 1gR0gsQYfi6joyO1dlp76N
+2025-03-04 22:46:03,400 - batch_processing - INFO - Saved data files for artist 1gR0gsQYfi6joyO1dlp76N
+2025-03-04 22:46:03,438 - batch_processing - INFO - Database updated for artist 1gR0gsQYfi6joyO1dlp76N
+2025-03-04 22:46:04,449 - batch_processing - INFO - Processing artist ID: 0CbeG1224FS58EUx4tPevZ (Timmy Trumpet)
+2025-03-04 22:46:04,450 - spotify_partner_api - INFO - Getting detailed info for artist: 0CbeG1224FS58EUx4tPevZ
+2025-03-04 22:46:05,000 - batch_processing - INFO - Saved data files for artist 0CbeG1224FS58EUx4tPevZ
+2025-03-04 22:46:05,091 - batch_processing - INFO - Database updated for artist 0CbeG1224FS58EUx4tPevZ
+2025-03-04 22:46:06,102 - batch_processing - INFO - Processing artist ID: 4iBwchw0U0GZv5RfVYSMxN (Anyma)
+2025-03-04 22:46:06,103 - spotify_partner_api - INFO - Getting detailed info for artist: 4iBwchw0U0GZv5RfVYSMxN
+2025-03-04 22:46:06,613 - batch_processing - INFO - Saved data files for artist 4iBwchw0U0GZv5RfVYSMxN
+2025-03-04 22:46:06,660 - batch_processing - INFO - Database updated for artist 4iBwchw0U0GZv5RfVYSMxN
+2025-03-04 22:46:07,677 - batch_processing - INFO - Processing artist ID: 2HkAI0YrEcgoR8QdaURqhO (Dimitri Vegas)
+2025-03-04 22:46:07,678 - spotify_partner_api - INFO - Getting detailed info for artist: 2HkAI0YrEcgoR8QdaURqhO
+2025-03-04 22:46:08,308 - batch_processing - INFO - Saved data files for artist 2HkAI0YrEcgoR8QdaURqhO
+2025-03-04 22:46:08,362 - batch_processing - INFO - Database updated for artist 2HkAI0YrEcgoR8QdaURqhO
+2025-03-04 22:46:09,379 - batch_processing - INFO - Processing artist ID: 6sFIWsNpZYqfjUpaCgueju (Carly Rae Jepsen)
+2025-03-04 22:46:09,380 - spotify_partner_api - INFO - Getting detailed info for artist: 6sFIWsNpZYqfjUpaCgueju
+2025-03-04 22:46:09,963 - batch_processing - INFO - Saved data files for artist 6sFIWsNpZYqfjUpaCgueju
+2025-03-04 22:46:10,025 - batch_processing - INFO - Database updated for artist 6sFIWsNpZYqfjUpaCgueju
+2025-03-04 22:46:11,033 - batch_processing - INFO - Processing artist ID: 6nxWCVXbOlEVRexSbLsTer (Flume)
+2025-03-04 22:46:11,034 - spotify_partner_api - INFO - Getting detailed info for artist: 6nxWCVXbOlEVRexSbLsTer
+2025-03-04 22:46:11,625 - batch_processing - INFO - Saved data files for artist 6nxWCVXbOlEVRexSbLsTer
+2025-03-04 22:46:11,672 - batch_processing - INFO - Database updated for artist 6nxWCVXbOlEVRexSbLsTer
+2025-03-04 22:46:12,686 - batch_processing - INFO - Processing artist ID: 205i7E8fNVfojowcQSfK9m (Dom Dolla)
+2025-03-04 22:46:12,687 - spotify_partner_api - INFO - Getting detailed info for artist: 205i7E8fNVfojowcQSfK9m
+2025-03-04 22:46:13,241 - batch_processing - INFO - Saved data files for artist 205i7E8fNVfojowcQSfK9m
+2025-03-04 22:46:13,292 - batch_processing - INFO - Database updated for artist 205i7E8fNVfojowcQSfK9m
+2025-03-04 22:46:14,308 - batch_processing - INFO - Processing artist ID: 3jNkaOXasoc7RsxdchvEVq (Chase & Status)
+2025-03-04 22:46:14,309 - spotify_partner_api - INFO - Getting detailed info for artist: 3jNkaOXasoc7RsxdchvEVq
+2025-03-04 22:46:14,877 - batch_processing - INFO - Saved data files for artist 3jNkaOXasoc7RsxdchvEVq
+2025-03-04 22:46:14,939 - batch_processing - INFO - Database updated for artist 3jNkaOXasoc7RsxdchvEVq
+2025-03-04 22:46:15,944 - batch_processing - INFO - Processing artist ID: 4sTQVOfp9vEMCemLw50sbu (Galantis)
+2025-03-04 22:46:15,945 - spotify_partner_api - INFO - Getting detailed info for artist: 4sTQVOfp9vEMCemLw50sbu
+2025-03-04 22:46:16,518 - batch_processing - INFO - Saved data files for artist 4sTQVOfp9vEMCemLw50sbu
+2025-03-04 22:46:16,547 - batch_processing - INFO - Database updated for artist 4sTQVOfp9vEMCemLw50sbu
+2025-03-04 22:46:17,551 - batch_processing - INFO - Processing artist ID: 6DgP9otnZw5z6daOntINxp (Joel Corry)
+2025-03-04 22:46:17,552 - spotify_partner_api - INFO - Getting detailed info for artist: 6DgP9otnZw5z6daOntINxp
+2025-03-04 22:46:18,173 - batch_processing - INFO - Saved data files for artist 6DgP9otnZw5z6daOntINxp
+2025-03-04 22:46:18,217 - batch_processing - INFO - Database updated for artist 6DgP9otnZw5z6daOntINxp
+2025-03-04 22:46:19,219 - batch_processing - INFO - Processing artist ID: 43BxCL6t4c73BQnIJtry5v (James Hype)
+2025-03-04 22:46:19,220 - spotify_partner_api - INFO - Getting detailed info for artist: 43BxCL6t4c73BQnIJtry5v
+2025-03-04 22:46:19,775 - batch_processing - INFO - Saved data files for artist 43BxCL6t4c73BQnIJtry5v
+2025-03-04 22:46:19,828 - batch_processing - INFO - Database updated for artist 43BxCL6t4c73BQnIJtry5v
+2025-03-04 22:46:20,840 - batch_processing - INFO - Processing artist ID: 5Igpc9iLZ3YGtKeYfSrrOE (Chris Lake)
+2025-03-04 22:46:20,842 - spotify_partner_api - INFO - Getting detailed info for artist: 5Igpc9iLZ3YGtKeYfSrrOE
+2025-03-04 22:46:21,402 - batch_processing - INFO - Saved data files for artist 5Igpc9iLZ3YGtKeYfSrrOE
+2025-03-04 22:46:21,446 - batch_processing - INFO - Database updated for artist 5Igpc9iLZ3YGtKeYfSrrOE
+2025-03-04 22:46:22,462 - batch_processing - INFO - Processing artist ID: 6BrvowZBreEkXzJQMpL174 (Hardwell)
+2025-03-04 22:46:22,463 - spotify_partner_api - INFO - Getting detailed info for artist: 6BrvowZBreEkXzJQMpL174
+2025-03-04 22:46:23,028 - batch_processing - INFO - Saved data files for artist 6BrvowZBreEkXzJQMpL174
+2025-03-04 22:46:23,076 - batch_processing - INFO - Database updated for artist 6BrvowZBreEkXzJQMpL174
+2025-03-04 22:46:24,083 - batch_processing - INFO - Processing artist ID: 4pwXiI7Z5ZStkgKowZyoKi (Like Mike)
+2025-03-04 22:46:24,084 - spotify_partner_api - INFO - Getting detailed info for artist: 4pwXiI7Z5ZStkgKowZyoKi
+2025-03-04 22:46:24,719 - batch_processing - INFO - Saved data files for artist 4pwXiI7Z5ZStkgKowZyoKi
+2025-03-04 22:46:24,759 - batch_processing - INFO - Database updated for artist 4pwXiI7Z5ZStkgKowZyoKi
+2025-03-04 22:46:25,764 - batch_processing - INFO - Processing artist ID: 5nki7yRhxgM509M5ADlN1p (Oliver Heldens)
+2025-03-04 22:46:25,765 - spotify_partner_api - INFO - Getting detailed info for artist: 5nki7yRhxgM509M5ADlN1p
+2025-03-04 22:46:26,388 - batch_processing - INFO - Saved data files for artist 5nki7yRhxgM509M5ADlN1p
+2025-03-04 22:46:26,462 - batch_processing - INFO - Database updated for artist 5nki7yRhxgM509M5ADlN1p
+2025-03-04 22:46:27,465 - batch_processing - INFO - Processing artist ID: 1l2ekx5skC4gJH8djERwh1 (Don Diablo)
+2025-03-04 22:46:27,465 - spotify_partner_api - INFO - Getting detailed info for artist: 1l2ekx5skC4gJH8djERwh1
+2025-03-04 22:46:28,069 - batch_processing - INFO - Saved data files for artist 1l2ekx5skC4gJH8djERwh1
+2025-03-04 22:46:28,111 - batch_processing - INFO - Database updated for artist 1l2ekx5skC4gJH8djERwh1
+2025-03-04 22:46:29,118 - batch_processing - INFO - Processing artist ID: 0RMeG9M8QFzss9bAbq99KA (Maddix)
+2025-03-04 22:46:29,119 - spotify_partner_api - INFO - Getting detailed info for artist: 0RMeG9M8QFzss9bAbq99KA
+2025-03-04 22:46:29,671 - batch_processing - INFO - Saved data files for artist 0RMeG9M8QFzss9bAbq99KA
+2025-03-04 22:46:29,730 - batch_processing - INFO - Database updated for artist 0RMeG9M8QFzss9bAbq99KA
+2025-03-04 22:46:30,738 - batch_processing - INFO - Processing artist ID: 240wlM8vDrf6S4zCyzGj2W (CamelPhat)
+2025-03-04 22:46:30,741 - spotify_partner_api - INFO - Getting detailed info for artist: 240wlM8vDrf6S4zCyzGj2W
+2025-03-04 22:46:31,255 - batch_processing - INFO - Saved data files for artist 240wlM8vDrf6S4zCyzGj2W
+2025-03-04 22:46:31,309 - batch_processing - INFO - Database updated for artist 240wlM8vDrf6S4zCyzGj2W
+2025-03-04 22:46:32,327 - batch_processing - INFO - Processing artist ID: 4cdyqaBREB68H77QKCrKP1 (Dubdogz)
+2025-03-04 22:46:32,329 - spotify_partner_api - INFO - Getting detailed info for artist: 4cdyqaBREB68H77QKCrKP1
+2025-03-04 22:46:32,884 - batch_processing - INFO - Saved data files for artist 4cdyqaBREB68H77QKCrKP1
+2025-03-04 22:46:32,912 - batch_processing - INFO - Database updated for artist 4cdyqaBREB68H77QKCrKP1
+2025-03-04 22:46:33,915 - batch_processing - INFO - Processing artist ID: 2nm38smINjms1LtczR0Cei (Goodboys)
+2025-03-04 22:46:33,915 - spotify_partner_api - INFO - Getting detailed info for artist: 2nm38smINjms1LtczR0Cei
+2025-03-04 22:46:34,494 - batch_processing - INFO - Saved data files for artist 2nm38smINjms1LtczR0Cei
+2025-03-04 22:46:34,531 - batch_processing - INFO - Database updated for artist 2nm38smINjms1LtczR0Cei
+2025-03-04 22:46:35,532 - batch_processing - INFO - Processing artist ID: 1yqxFtPHKcGcv6SXZNdyT9 (MK)
+2025-03-04 22:46:35,533 - spotify_partner_api - INFO - Getting detailed info for artist: 1yqxFtPHKcGcv6SXZNdyT9
+2025-03-04 22:46:35,982 - batch_processing - INFO - Saved data files for artist 1yqxFtPHKcGcv6SXZNdyT9
+2025-03-04 22:46:36,027 - batch_processing - INFO - Database updated for artist 1yqxFtPHKcGcv6SXZNdyT9
+2025-03-04 22:46:37,039 - batch_processing - INFO - Processing artist ID: 0JDkhL4rjiPNEp92jAgJnS (Roy Orbison)
+2025-03-04 22:46:37,040 - spotify_partner_api - INFO - Getting detailed info for artist: 0JDkhL4rjiPNEp92jAgJnS
+2025-03-04 22:46:37,638 - batch_processing - INFO - Saved data files for artist 0JDkhL4rjiPNEp92jAgJnS
+2025-03-04 22:46:37,699 - batch_processing - INFO - Database updated for artist 0JDkhL4rjiPNEp92jAgJnS
+2025-03-04 22:46:38,707 - batch_processing - INFO - Processing artist ID: 4Ws2otunReOa6BbwxxpCt6 (Benny Benassi)
+2025-03-04 22:46:38,708 - spotify_partner_api - INFO - Getting detailed info for artist: 4Ws2otunReOa6BbwxxpCt6
+2025-03-04 22:46:39,452 - batch_processing - INFO - Saved data files for artist 4Ws2otunReOa6BbwxxpCt6
+2025-03-04 22:46:39,501 - batch_processing - INFO - Database updated for artist 4Ws2otunReOa6BbwxxpCt6
+2025-03-04 22:46:40,503 - batch_processing - INFO - Processing artist ID: 6VD4UEUPvtsemqD3mmTqCR (Deorro)
+2025-03-04 22:46:40,504 - spotify_partner_api - INFO - Getting detailed info for artist: 6VD4UEUPvtsemqD3mmTqCR
+2025-03-04 22:46:41,175 - batch_processing - INFO - Saved data files for artist 6VD4UEUPvtsemqD3mmTqCR
+2025-03-04 22:46:41,214 - batch_processing - INFO - Database updated for artist 6VD4UEUPvtsemqD3mmTqCR
+2025-03-04 22:46:42,217 - batch_processing - INFO - Processing artist ID: 6TQj5BFPooTa08A7pk8AQ1 (Kaskade)
+2025-03-04 22:46:42,219 - spotify_partner_api - INFO - Getting detailed info for artist: 6TQj5BFPooTa08A7pk8AQ1
+2025-03-04 22:46:42,757 - batch_processing - INFO - Saved data files for artist 6TQj5BFPooTa08A7pk8AQ1
+2025-03-04 22:46:42,824 - batch_processing - INFO - Database updated for artist 6TQj5BFPooTa08A7pk8AQ1
+2025-03-04 22:46:43,838 - batch_processing - INFO - Processing artist ID: 7jZM5w05mGhw6wTB1okhD9 (ATB)
+2025-03-04 22:46:43,838 - spotify_partner_api - INFO - Getting detailed info for artist: 7jZM5w05mGhw6wTB1okhD9
+2025-03-04 22:46:44,407 - batch_processing - INFO - Saved data files for artist 7jZM5w05mGhw6wTB1okhD9
+2025-03-04 22:46:44,448 - batch_processing - INFO - Database updated for artist 7jZM5w05mGhw6wTB1okhD9
+2025-03-04 22:46:45,459 - batch_processing - INFO - Processing artist ID: 6wMr4zKPrrR0UVz08WtUWc (Black Coffee)
+2025-03-04 22:46:45,460 - spotify_partner_api - INFO - Getting detailed info for artist: 6wMr4zKPrrR0UVz08WtUWc
+2025-03-04 22:46:45,982 - batch_processing - INFO - Saved data files for artist 6wMr4zKPrrR0UVz08WtUWc
+2025-03-04 22:46:46,040 - batch_processing - INFO - Database updated for artist 6wMr4zKPrrR0UVz08WtUWc
+2025-03-04 22:46:47,052 - batch_processing - INFO - Processing artist ID: 3BkRu2TGd2I1uBxZKddfg1 (ARTBAT)
+2025-03-04 22:46:47,053 - spotify_partner_api - INFO - Getting detailed info for artist: 3BkRu2TGd2I1uBxZKddfg1
+2025-03-04 22:46:47,716 - batch_processing - INFO - Saved data files for artist 3BkRu2TGd2I1uBxZKddfg1
+2025-03-04 22:46:47,760 - batch_processing - INFO - Database updated for artist 3BkRu2TGd2I1uBxZKddfg1
+2025-03-04 22:46:48,775 - batch_processing - INFO - Processing artist ID: 1GuqTQbuixFHD6eBkFwVcb (Sammy Virji)
+2025-03-04 22:46:48,776 - spotify_partner_api - INFO - Getting detailed info for artist: 1GuqTQbuixFHD6eBkFwVcb
+2025-03-04 22:46:49,247 - batch_processing - INFO - Saved data files for artist 1GuqTQbuixFHD6eBkFwVcb
+2025-03-04 22:46:49,280 - batch_processing - INFO - Database updated for artist 1GuqTQbuixFHD6eBkFwVcb
+2025-03-04 22:46:50,287 - batch_processing - INFO - Processing artist ID: 6zsJjoCtL1WByG0VsuFWzR (BLOND:ISH)
+2025-03-04 22:46:50,288 - spotify_partner_api - INFO - Getting detailed info for artist: 6zsJjoCtL1WByG0VsuFWzR
+2025-03-04 22:46:50,803 - batch_processing - INFO - Saved data files for artist 6zsJjoCtL1WByG0VsuFWzR
+2025-03-04 22:46:50,867 - batch_processing - INFO - Database updated for artist 6zsJjoCtL1WByG0VsuFWzR
+2025-03-04 22:46:51,876 - batch_processing - INFO - Processing artist ID: 1xNmvlEiICkRlRGqlNFZ43 (Axwell)
+2025-03-04 22:46:51,877 - spotify_partner_api - INFO - Getting detailed info for artist: 1xNmvlEiICkRlRGqlNFZ43
+2025-03-04 22:46:52,489 - batch_processing - INFO - Saved data files for artist 1xNmvlEiICkRlRGqlNFZ43
+2025-03-04 22:46:52,537 - batch_processing - INFO - Database updated for artist 1xNmvlEiICkRlRGqlNFZ43
+2025-03-04 22:46:53,545 - batch_processing - INFO - Processing artist ID: 5sm0jQ1mq0dusiLtDJ2b4R (Eric Prydz)
+2025-03-04 22:46:53,546 - spotify_partner_api - INFO - Getting detailed info for artist: 5sm0jQ1mq0dusiLtDJ2b4R
+2025-03-04 22:46:54,168 - batch_processing - INFO - Saved data files for artist 5sm0jQ1mq0dusiLtDJ2b4R
+2025-03-04 22:46:54,211 - batch_processing - INFO - Database updated for artist 5sm0jQ1mq0dusiLtDJ2b4R
+2025-03-04 22:46:55,228 - batch_processing - INFO - Processing artist ID: 4Y7tXHSEejGu1vQ9bwDdXW (Fatboy Slim)
+2025-03-04 22:46:55,229 - spotify_partner_api - INFO - Getting detailed info for artist: 4Y7tXHSEejGu1vQ9bwDdXW
+2025-03-04 22:46:55,859 - batch_processing - INFO - Saved data files for artist 4Y7tXHSEejGu1vQ9bwDdXW
+2025-03-04 22:46:55,918 - batch_processing - INFO - Database updated for artist 4Y7tXHSEejGu1vQ9bwDdXW
+2025-03-04 22:46:56,929 - batch_processing - INFO - Processing artist ID: 1GhPHrq36VKCY3ucVaZCfo (The Chemical Brothers)
+2025-03-04 22:46:56,929 - spotify_partner_api - INFO - Getting detailed info for artist: 1GhPHrq36VKCY3ucVaZCfo
+2025-03-04 22:46:57,476 - batch_processing - INFO - Saved data files for artist 1GhPHrq36VKCY3ucVaZCfo
+2025-03-04 22:46:57,493 - batch_processing - INFO - Database updated for artist 1GhPHrq36VKCY3ucVaZCfo
+2025-03-04 22:46:58,501 - batch_processing - INFO - Processing artist ID: 2wX6xSig4Rig5kZU6ePlWe (KSHMR)
+2025-03-04 22:46:58,503 - spotify_partner_api - INFO - Getting detailed info for artist: 2wX6xSig4Rig5kZU6ePlWe
+2025-03-04 22:46:59,245 - batch_processing - INFO - Saved data files for artist 2wX6xSig4Rig5kZU6ePlWe
+2025-03-04 22:46:59,304 - batch_processing - INFO - Database updated for artist 2wX6xSig4Rig5kZU6ePlWe
+2025-03-04 22:47:00,312 - batch_processing - INFO - Processing artist ID: 5ChF3i92IPZHduM7jN3dpg (Nicky Romero)
+2025-03-04 22:47:00,312 - spotify_partner_api - INFO - Getting detailed info for artist: 5ChF3i92IPZHduM7jN3dpg
+2025-03-04 22:47:00,892 - batch_processing - INFO - Saved data files for artist 5ChF3i92IPZHduM7jN3dpg
+2025-03-04 22:47:00,927 - batch_processing - INFO - Database updated for artist 5ChF3i92IPZHduM7jN3dpg
+2025-03-04 22:47:01,930 - batch_processing - INFO - Processing artist ID: 4qLwtWhlhyAoQ4S9mSrDW9 (Odd Mob)
+2025-03-04 22:47:01,931 - spotify_partner_api - INFO - Getting detailed info for artist: 4qLwtWhlhyAoQ4S9mSrDW9
+2025-03-04 22:47:02,517 - batch_processing - INFO - Saved data files for artist 4qLwtWhlhyAoQ4S9mSrDW9
+2025-03-04 22:47:02,555 - batch_processing - INFO - Database updated for artist 4qLwtWhlhyAoQ4S9mSrDW9
+2025-03-04 22:47:03,570 - batch_processing - INFO - Batch processing complete: 50 succeeded, 0 failed
+2025-03-04 22:47:03,575 - batch_processing - INFO - Results saved to output\batch_results_20250304_224703.json
+2025-03-04 22:48:20,652 - batch_processing - INFO - Starting batch process for 50 artists
+2025-03-04 22:48:20,652 - batch_processing - INFO -   Mid Tier (7 days): 50 artists
+2025-03-04 22:48:20,652 - batch_processing - INFO - Artists to process (first 5):
+2025-03-04 22:48:20,652 - batch_processing - INFO -   MORTEN (19HFRWmRCl27kTk6LeqAO8)
+2025-03-04 22:48:20,653 - batch_processing - INFO -   Mau P (0w1sbtZVQoK6GzV4A4OkCv)
+2025-03-04 22:48:20,653 - batch_processing - INFO -   ACRAZE (4pnp4w9g30yLfVIAFnZMRd)
+2025-03-04 22:48:20,653 - batch_processing - INFO -   Dash Berlin (1xT5p0VBpnZDrvVSjX9sri)
+2025-03-04 22:48:20,653 - batch_processing - INFO -   Yellow Claw (47z7ZrgFoBvVpCnElCE3Zh)
+2025-03-04 22:48:20,653 - batch_processing - INFO -   ... and 45 more
+2025-03-04 22:48:20,653 - batch_processing - INFO - Processing artist ID: 19HFRWmRCl27kTk6LeqAO8 (MORTEN)
+2025-03-04 22:48:20,653 - spotify_partner_api - INFO - Getting detailed info for artist: 19HFRWmRCl27kTk6LeqAO8
+2025-03-04 22:48:20,654 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:48:21,138 - spotify_token_manager - INFO - Token retrieved successfully, expires at 2025-03-04 23:39:02.153000
+2025-03-04 22:48:21,141 - spotify_token_manager - INFO - Token data saved to output\batch_spotify_tokens.json
+2025-03-04 22:48:21,709 - batch_processing - INFO - Saved data files for artist 19HFRWmRCl27kTk6LeqAO8
+2025-03-04 22:48:22,549 - batch_processing - INFO - Database updated for artist 19HFRWmRCl27kTk6LeqAO8
+2025-03-04 22:48:23,565 - batch_processing - INFO - Processing artist ID: 0w1sbtZVQoK6GzV4A4OkCv (Mau P)
+2025-03-04 22:48:23,566 - spotify_partner_api - INFO - Getting detailed info for artist: 0w1sbtZVQoK6GzV4A4OkCv
+2025-03-04 22:48:24,047 - batch_processing - INFO - Saved data files for artist 0w1sbtZVQoK6GzV4A4OkCv
+2025-03-04 22:48:24,086 - batch_processing - INFO - Database updated for artist 0w1sbtZVQoK6GzV4A4OkCv
+2025-03-04 22:48:25,092 - batch_processing - INFO - Processing artist ID: 4pnp4w9g30yLfVIAFnZMRd (ACRAZE)
+2025-03-04 22:48:25,093 - spotify_partner_api - INFO - Getting detailed info for artist: 4pnp4w9g30yLfVIAFnZMRd
+2025-03-04 22:48:25,688 - batch_processing - INFO - Saved data files for artist 4pnp4w9g30yLfVIAFnZMRd
+2025-03-04 22:48:25,746 - batch_processing - INFO - Database updated for artist 4pnp4w9g30yLfVIAFnZMRd
+2025-03-04 22:48:26,757 - batch_processing - INFO - Processing artist ID: 1xT5p0VBpnZDrvVSjX9sri (Dash Berlin)
+2025-03-04 22:48:26,758 - spotify_partner_api - INFO - Getting detailed info for artist: 1xT5p0VBpnZDrvVSjX9sri
+2025-03-04 22:48:27,489 - batch_processing - INFO - Saved data files for artist 1xT5p0VBpnZDrvVSjX9sri
+2025-03-04 22:48:27,554 - batch_processing - INFO - Database updated for artist 1xT5p0VBpnZDrvVSjX9sri
+2025-03-04 22:48:28,569 - batch_processing - INFO - Processing artist ID: 47z7ZrgFoBvVpCnElCE3Zh (Yellow Claw)
+2025-03-04 22:48:28,570 - spotify_partner_api - INFO - Getting detailed info for artist: 47z7ZrgFoBvVpCnElCE3Zh
+2025-03-04 22:48:29,186 - batch_processing - INFO - Saved data files for artist 47z7ZrgFoBvVpCnElCE3Zh
+2025-03-04 22:48:29,228 - batch_processing - INFO - Database updated for artist 47z7ZrgFoBvVpCnElCE3Zh
+2025-03-04 22:48:30,235 - batch_processing - INFO - Processing artist ID: 1bj5GrcLom5gZFF5t949Xl (Martin Solveig)
+2025-03-04 22:48:30,237 - spotify_partner_api - INFO - Getting detailed info for artist: 1bj5GrcLom5gZFF5t949Xl
+2025-03-04 22:48:30,925 - batch_processing - INFO - Saved data files for artist 1bj5GrcLom5gZFF5t949Xl
+2025-03-04 22:48:30,968 - batch_processing - INFO - Database updated for artist 1bj5GrcLom5gZFF5t949Xl
+2025-03-04 22:48:31,982 - batch_processing - INFO - Processing artist ID: 3dz0NnIZhtKKeXZxLOxCam (Porter Robinson)
+2025-03-04 22:48:31,983 - spotify_partner_api - INFO - Getting detailed info for artist: 3dz0NnIZhtKKeXZxLOxCam
+2025-03-04 22:48:32,609 - batch_processing - INFO - Saved data files for artist 3dz0NnIZhtKKeXZxLOxCam
+2025-03-04 22:48:32,651 - batch_processing - INFO - Database updated for artist 3dz0NnIZhtKKeXZxLOxCam
+2025-03-04 22:48:33,665 - batch_processing - INFO - Processing artist ID: 0daugAjUgbJSqdlyYNwIbT (Vicetone)
+2025-03-04 22:48:33,666 - spotify_partner_api - INFO - Getting detailed info for artist: 0daugAjUgbJSqdlyYNwIbT
+2025-03-04 22:48:34,242 - batch_processing - INFO - Saved data files for artist 0daugAjUgbJSqdlyYNwIbT
+2025-03-04 22:48:34,303 - batch_processing - INFO - Database updated for artist 0daugAjUgbJSqdlyYNwIbT
+2025-03-04 22:48:35,319 - batch_processing - INFO - Processing artist ID: 37czgDRfGMvgRiUKHvnnhj (Öwnboss)
+2025-03-04 22:48:35,319 - spotify_partner_api - INFO - Getting detailed info for artist: 37czgDRfGMvgRiUKHvnnhj
+2025-03-04 22:48:35,896 - batch_processing - INFO - Saved data files for artist 37czgDRfGMvgRiUKHvnnhj
+2025-03-04 22:48:35,931 - batch_processing - INFO - Database updated for artist 37czgDRfGMvgRiUKHvnnhj
+2025-03-04 22:48:36,938 - batch_processing - INFO - Processing artist ID: 4FqPRilb0Ja0TKG3RS3y4s (Steve Angello)
+2025-03-04 22:48:36,939 - spotify_partner_api - INFO - Getting detailed info for artist: 4FqPRilb0Ja0TKG3RS3y4s
+2025-03-04 22:48:37,527 - batch_processing - INFO - Saved data files for artist 4FqPRilb0Ja0TKG3RS3y4s
+2025-03-04 22:48:37,585 - batch_processing - INFO - Database updated for artist 4FqPRilb0Ja0TKG3RS3y4s
+2025-03-04 22:48:38,592 - batch_processing - INFO - Processing artist ID: 5QySqc6yAFDx9m7fedFZmC (Brennan Heart)
+2025-03-04 22:48:38,593 - spotify_partner_api - INFO - Getting detailed info for artist: 5QySqc6yAFDx9m7fedFZmC
+2025-03-04 22:48:39,133 - batch_processing - INFO - Saved data files for artist 5QySqc6yAFDx9m7fedFZmC
+2025-03-04 22:48:39,176 - batch_processing - INFO - Database updated for artist 5QySqc6yAFDx9m7fedFZmC
+2025-03-04 22:48:40,180 - batch_processing - INFO - Processing artist ID: 37awA8DFCAnCCL7aqYbDnD (Blasterjaxx)
+2025-03-04 22:48:40,181 - spotify_partner_api - INFO - Getting detailed info for artist: 37awA8DFCAnCCL7aqYbDnD
+2025-03-04 22:48:40,730 - batch_processing - INFO - Saved data files for artist 37awA8DFCAnCCL7aqYbDnD
+2025-03-04 22:48:40,760 - batch_processing - INFO - Database updated for artist 37awA8DFCAnCCL7aqYbDnD
+2025-03-04 22:48:41,769 - batch_processing - INFO - Processing artist ID: 7iTLGcddv1bOPirdYJjKVy (Dj Yo!)
+2025-03-04 22:48:41,769 - spotify_partner_api - INFO - Getting detailed info for artist: 7iTLGcddv1bOPirdYJjKVy
+2025-03-04 22:48:42,233 - batch_processing - INFO - Saved data files for artist 7iTLGcddv1bOPirdYJjKVy
+2025-03-04 22:48:42,294 - batch_processing - INFO - Database updated for artist 7iTLGcddv1bOPirdYJjKVy
+2025-03-04 22:48:43,309 - batch_processing - INFO - Processing artist ID: 4mncDFjVLUa3s025Tct3Ry (Claptone)
+2025-03-04 22:48:43,310 - spotify_partner_api - INFO - Getting detailed info for artist: 4mncDFjVLUa3s025Tct3Ry
+2025-03-04 22:48:44,041 - batch_processing - INFO - Saved data files for artist 4mncDFjVLUa3s025Tct3Ry
+2025-03-04 22:48:44,096 - batch_processing - INFO - Database updated for artist 4mncDFjVLUa3s025Tct3Ry
+2025-03-04 22:48:45,106 - batch_processing - INFO - Processing artist ID: 3gk0OYeLFWYupGFRHqLSR7 (Showtek)
+2025-03-04 22:48:45,108 - spotify_partner_api - INFO - Getting detailed info for artist: 3gk0OYeLFWYupGFRHqLSR7
+2025-03-04 22:48:45,734 - batch_processing - INFO - Saved data files for artist 3gk0OYeLFWYupGFRHqLSR7
+2025-03-04 22:48:45,771 - batch_processing - INFO - Database updated for artist 3gk0OYeLFWYupGFRHqLSR7
+2025-03-04 22:48:46,788 - batch_processing - INFO - Processing artist ID: 0DdDnziut7wOo6cAYWVZC5 (KREAM)
+2025-03-04 22:48:46,789 - spotify_partner_api - INFO - Getting detailed info for artist: 0DdDnziut7wOo6cAYWVZC5
+2025-03-04 22:48:47,427 - batch_processing - INFO - Saved data files for artist 0DdDnziut7wOo6cAYWVZC5
+2025-03-04 22:48:47,488 - batch_processing - INFO - Database updated for artist 0DdDnziut7wOo6cAYWVZC5
+2025-03-04 22:48:48,510 - batch_processing - INFO - Processing artist ID: 4VNQWV2y1E97Eqo2D5UTjx (Gorgon City)
+2025-03-04 22:48:48,519 - spotify_partner_api - INFO - Getting detailed info for artist: 4VNQWV2y1E97Eqo2D5UTjx
+2025-03-04 22:48:49,091 - batch_processing - INFO - Saved data files for artist 4VNQWV2y1E97Eqo2D5UTjx
+2025-03-04 22:48:49,138 - batch_processing - INFO - Database updated for artist 4VNQWV2y1E97Eqo2D5UTjx
+2025-03-04 22:48:50,154 - batch_processing - INFO - Processing artist ID: 2GHclqNVjqGuiE5mA7BEoc (Common)
+2025-03-04 22:48:50,155 - spotify_partner_api - INFO - Getting detailed info for artist: 2GHclqNVjqGuiE5mA7BEoc
+2025-03-04 22:48:50,743 - batch_processing - INFO - Saved data files for artist 2GHclqNVjqGuiE5mA7BEoc
+2025-03-04 22:48:50,791 - batch_processing - INFO - Database updated for artist 2GHclqNVjqGuiE5mA7BEoc
+2025-03-04 22:48:51,809 - batch_processing - INFO - Processing artist ID: 10gzBoINW3cLJfZUka8Zoe (Above & Beyond)
+2025-03-04 22:48:51,810 - spotify_partner_api - INFO - Getting detailed info for artist: 10gzBoINW3cLJfZUka8Zoe
+2025-03-04 22:48:52,527 - batch_processing - INFO - Saved data files for artist 10gzBoINW3cLJfZUka8Zoe
+2025-03-04 22:48:52,563 - batch_processing - INFO - Database updated for artist 10gzBoINW3cLJfZUka8Zoe
+2025-03-04 22:48:53,568 - batch_processing - INFO - Processing artist ID: 6hyMWrxGBsOx6sWcVj1DqP (Sebastian Ingrosso)
+2025-03-04 22:48:53,568 - spotify_partner_api - INFO - Getting detailed info for artist: 6hyMWrxGBsOx6sWcVj1DqP
+2025-03-04 22:48:54,146 - batch_processing - INFO - Saved data files for artist 6hyMWrxGBsOx6sWcVj1DqP
+2025-03-04 22:48:54,174 - batch_processing - INFO - Database updated for artist 6hyMWrxGBsOx6sWcVj1DqP
+2025-03-04 22:48:55,190 - batch_processing - INFO - Processing artist ID: 5R3Hr2cnCCjt220Jmt2xLf (Dillon Francis)
+2025-03-04 22:48:55,191 - spotify_partner_api - INFO - Getting detailed info for artist: 5R3Hr2cnCCjt220Jmt2xLf
+2025-03-04 22:48:55,817 - batch_processing - INFO - Saved data files for artist 5R3Hr2cnCCjt220Jmt2xLf
+2025-03-04 22:48:55,856 - batch_processing - INFO - Database updated for artist 5R3Hr2cnCCjt220Jmt2xLf
+2025-03-04 22:48:56,873 - batch_processing - INFO - Processing artist ID: 6UOk7DmvqlzWmo6gjhZvn6 (Da Tweekaz)
+2025-03-04 22:48:56,874 - spotify_partner_api - INFO - Getting detailed info for artist: 6UOk7DmvqlzWmo6gjhZvn6
+2025-03-04 22:48:57,416 - batch_processing - INFO - Saved data files for artist 6UOk7DmvqlzWmo6gjhZvn6
+2025-03-04 22:48:57,463 - batch_processing - INFO - Database updated for artist 6UOk7DmvqlzWmo6gjhZvn6
+2025-03-04 22:48:58,478 - batch_processing - INFO - Processing artist ID: 5lVNSw2GPci8kebrAQpZqU (Eli Brown)
+2025-03-04 22:48:58,479 - spotify_partner_api - INFO - Getting detailed info for artist: 5lVNSw2GPci8kebrAQpZqU
+2025-03-04 22:48:59,069 - batch_processing - INFO - Saved data files for artist 5lVNSw2GPci8kebrAQpZqU
+2025-03-04 22:48:59,107 - batch_processing - INFO - Database updated for artist 5lVNSw2GPci8kebrAQpZqU
+2025-03-04 22:49:00,113 - batch_processing - INFO - Processing artist ID: 6xQvQwZQQuq9R3TdPNbcR8 (Bassjackers)
+2025-03-04 22:49:00,113 - spotify_partner_api - INFO - Getting detailed info for artist: 6xQvQwZQQuq9R3TdPNbcR8
+2025-03-04 22:49:00,665 - batch_processing - INFO - Saved data files for artist 6xQvQwZQQuq9R3TdPNbcR8
+2025-03-04 22:49:00,712 - batch_processing - INFO - Database updated for artist 6xQvQwZQQuq9R3TdPNbcR8
+2025-03-04 22:49:01,719 - batch_processing - INFO - Processing artist ID: 2vVNxGBvKRQMWwI5c8KmYh (Tujamo)
+2025-03-04 22:49:01,720 - spotify_partner_api - INFO - Getting detailed info for artist: 2vVNxGBvKRQMWwI5c8KmYh
+2025-03-04 22:49:02,266 - batch_processing - INFO - Saved data files for artist 2vVNxGBvKRQMWwI5c8KmYh
+2025-03-04 22:49:02,329 - batch_processing - INFO - Database updated for artist 2vVNxGBvKRQMWwI5c8KmYh
+2025-03-04 22:49:03,337 - batch_processing - INFO - Processing artist ID: 7dc6hUwyuIhrZdh80eaCEE (Fedde Le Grand)
+2025-03-04 22:49:03,338 - spotify_partner_api - INFO - Getting detailed info for artist: 7dc6hUwyuIhrZdh80eaCEE
+2025-03-04 22:49:03,979 - batch_processing - INFO - Saved data files for artist 7dc6hUwyuIhrZdh80eaCEE
+2025-03-04 22:49:04,056 - batch_processing - INFO - Database updated for artist 7dc6hUwyuIhrZdh80eaCEE
+2025-03-04 22:49:05,067 - batch_processing - INFO - Processing artist ID: 5wwneIFdawNgQ7GvKK29Z3 (Lucas & Steve)
+2025-03-04 22:49:05,069 - spotify_partner_api - INFO - Getting detailed info for artist: 5wwneIFdawNgQ7GvKK29Z3
+2025-03-04 22:49:05,688 - batch_processing - INFO - Saved data files for artist 5wwneIFdawNgQ7GvKK29Z3
+2025-03-04 22:49:05,732 - batch_processing - INFO - Database updated for artist 5wwneIFdawNgQ7GvKK29Z3
+2025-03-04 22:49:06,733 - batch_processing - INFO - Processing artist ID: 5X4LWwbUFNzPkEas04uU82 (DVBBS)
+2025-03-04 22:49:06,734 - spotify_partner_api - INFO - Getting detailed info for artist: 5X4LWwbUFNzPkEas04uU82
+2025-03-04 22:49:07,395 - batch_processing - INFO - Saved data files for artist 5X4LWwbUFNzPkEas04uU82
+2025-03-04 22:49:07,450 - batch_processing - INFO - Database updated for artist 5X4LWwbUFNzPkEas04uU82
+2025-03-04 22:49:08,465 - batch_processing - INFO - Processing artist ID: 45lcbTsX07JWzmTIjcdyBz (Matroda)
+2025-03-04 22:49:08,466 - spotify_partner_api - INFO - Getting detailed info for artist: 45lcbTsX07JWzmTIjcdyBz
+2025-03-04 22:49:08,933 - batch_processing - INFO - Saved data files for artist 45lcbTsX07JWzmTIjcdyBz
+2025-03-04 22:49:09,074 - batch_processing - INFO - Database updated for artist 45lcbTsX07JWzmTIjcdyBz
+2025-03-04 22:49:10,085 - batch_processing - INFO - Processing artist ID: 7mC3RkNNTV6p2j9w4F8Ip4 (Layton Giordani)
+2025-03-04 22:49:10,086 - spotify_partner_api - INFO - Getting detailed info for artist: 7mC3RkNNTV6p2j9w4F8Ip4
+2025-03-04 22:49:10,704 - batch_processing - INFO - Saved data files for artist 7mC3RkNNTV6p2j9w4F8Ip4
+2025-03-04 22:49:10,740 - batch_processing - INFO - Database updated for artist 7mC3RkNNTV6p2j9w4F8Ip4
+2025-03-04 22:49:11,749 - batch_processing - INFO - Processing artist ID: 6htWLP8aiuf19FYMA4VQAZ (Massano)
+2025-03-04 22:49:11,750 - spotify_partner_api - INFO - Getting detailed info for artist: 6htWLP8aiuf19FYMA4VQAZ
+2025-03-04 22:49:12,316 - batch_processing - INFO - Saved data files for artist 6htWLP8aiuf19FYMA4VQAZ
+2025-03-04 22:49:12,388 - batch_processing - INFO - Database updated for artist 6htWLP8aiuf19FYMA4VQAZ
+2025-03-04 22:49:13,397 - batch_processing - INFO - Processing artist ID: 0hprEC0nsWuQPSHag1O2Vi (Gareth Emery)
+2025-03-04 22:49:13,398 - spotify_partner_api - INFO - Getting detailed info for artist: 0hprEC0nsWuQPSHag1O2Vi
+2025-03-04 22:49:14,211 - batch_processing - INFO - Saved data files for artist 0hprEC0nsWuQPSHag1O2Vi
+2025-03-04 22:49:14,274 - batch_processing - INFO - Database updated for artist 0hprEC0nsWuQPSHag1O2Vi
+2025-03-04 22:49:15,287 - batch_processing - INFO - Processing artist ID: 4sQNUQjOYj9rV2sdfJ8laS (Angerfist)
+2025-03-04 22:49:15,287 - spotify_partner_api - INFO - Getting detailed info for artist: 4sQNUQjOYj9rV2sdfJ8laS
+2025-03-04 22:49:15,798 - batch_processing - INFO - Saved data files for artist 4sQNUQjOYj9rV2sdfJ8laS
+2025-03-04 22:49:15,845 - batch_processing - INFO - Database updated for artist 4sQNUQjOYj9rV2sdfJ8laS
+2025-03-04 22:49:16,854 - batch_processing - INFO - Processing artist ID: 5TgQ66WuWkoQ2xYxaSTnVP (Netsky)
+2025-03-04 22:49:16,856 - spotify_partner_api - INFO - Getting detailed info for artist: 5TgQ66WuWkoQ2xYxaSTnVP
+2025-03-04 22:49:17,449 - batch_processing - INFO - Saved data files for artist 5TgQ66WuWkoQ2xYxaSTnVP
+2025-03-04 22:49:17,498 - batch_processing - INFO - Database updated for artist 5TgQ66WuWkoQ2xYxaSTnVP
+2025-03-04 22:49:18,510 - batch_processing - INFO - Processing artist ID: 052B9SONfhoScw7dgYWw5o (Biscits)
+2025-03-04 22:49:18,512 - spotify_partner_api - INFO - Getting detailed info for artist: 052B9SONfhoScw7dgYWw5o
+2025-03-04 22:49:18,976 - batch_processing - INFO - Saved data files for artist 052B9SONfhoScw7dgYWw5o
+2025-03-04 22:49:19,040 - batch_processing - INFO - Database updated for artist 052B9SONfhoScw7dgYWw5o
+2025-03-04 22:49:20,048 - batch_processing - INFO - Processing artist ID: 310IX3ZzFSl14ZvY2dM8Da (Silver Panda)
+2025-03-04 22:49:20,049 - spotify_partner_api - INFO - Getting detailed info for artist: 310IX3ZzFSl14ZvY2dM8Da
+2025-03-04 22:49:20,674 - batch_processing - INFO - Saved data files for artist 310IX3ZzFSl14ZvY2dM8Da
+2025-03-04 22:49:20,724 - batch_processing - INFO - Database updated for artist 310IX3ZzFSl14ZvY2dM8Da
+2025-03-04 22:49:21,733 - batch_processing - INFO - Processing artist ID: 02QYcz7JjwzKiKGHg53rZY (Sasha)
+2025-03-04 22:49:21,734 - spotify_partner_api - INFO - Getting detailed info for artist: 02QYcz7JjwzKiKGHg53rZY
+2025-03-04 22:49:22,325 - batch_processing - INFO - Saved data files for artist 02QYcz7JjwzKiKGHg53rZY
+2025-03-04 22:49:22,380 - batch_processing - INFO - Database updated for artist 02QYcz7JjwzKiKGHg53rZY
+2025-03-04 22:49:23,382 - batch_processing - INFO - Processing artist ID: 53cQZtWDwDJwVCNZlfJ6Qk (Laidback Luke)
+2025-03-04 22:49:23,383 - spotify_partner_api - INFO - Getting detailed info for artist: 53cQZtWDwDJwVCNZlfJ6Qk
+2025-03-04 22:49:23,979 - batch_processing - INFO - Saved data files for artist 53cQZtWDwDJwVCNZlfJ6Qk
+2025-03-04 22:49:24,006 - batch_processing - INFO - Database updated for artist 53cQZtWDwDJwVCNZlfJ6Qk
+2025-03-04 22:49:25,019 - batch_processing - INFO - Processing artist ID: 7muzHifhMdnfN1xncRLOqk (Flux Pavilion)
+2025-03-04 22:49:25,021 - spotify_partner_api - INFO - Getting detailed info for artist: 7muzHifhMdnfN1xncRLOqk
+2025-03-04 22:49:25,594 - batch_processing - INFO - Saved data files for artist 7muzHifhMdnfN1xncRLOqk
+2025-03-04 22:49:25,649 - batch_processing - INFO - Database updated for artist 7muzHifhMdnfN1xncRLOqk
+2025-03-04 22:49:26,652 - batch_processing - INFO - Processing artist ID: 6C0KWmCdqrLU2LzzWBPbOy (Headhunterz)
+2025-03-04 22:49:26,653 - spotify_partner_api - INFO - Getting detailed info for artist: 6C0KWmCdqrLU2LzzWBPbOy
+2025-03-04 22:49:27,215 - batch_processing - INFO - Saved data files for artist 6C0KWmCdqrLU2LzzWBPbOy
+2025-03-04 22:49:27,282 - batch_processing - INFO - Database updated for artist 6C0KWmCdqrLU2LzzWBPbOy
+2025-03-04 22:49:28,290 - batch_processing - INFO - Processing artist ID: 7wU1naftD3lNq7rNsiDvOR (Paul van Dyk)
+2025-03-04 22:49:28,290 - spotify_partner_api - INFO - Getting detailed info for artist: 7wU1naftD3lNq7rNsiDvOR
+2025-03-04 22:49:28,896 - batch_processing - INFO - Saved data files for artist 7wU1naftD3lNq7rNsiDvOR
+2025-03-04 22:49:28,925 - batch_processing - INFO - Database updated for artist 7wU1naftD3lNq7rNsiDvOR
+2025-03-04 22:49:29,938 - batch_processing - INFO - Processing artist ID: 4epc3Bd0DOBA0kDywkRAsu (Westend)
+2025-03-04 22:49:29,938 - spotify_partner_api - INFO - Getting detailed info for artist: 4epc3Bd0DOBA0kDywkRAsu
+2025-03-04 22:49:30,449 - batch_processing - INFO - Saved data files for artist 4epc3Bd0DOBA0kDywkRAsu
+2025-03-04 22:49:30,495 - batch_processing - INFO - Database updated for artist 4epc3Bd0DOBA0kDywkRAsu
+2025-03-04 22:49:31,511 - batch_processing - INFO - Processing artist ID: 6Nva7JhU0nL9SZ8ZvJni6O (Tom Enzy)
+2025-03-04 22:49:31,512 - spotify_partner_api - INFO - Getting detailed info for artist: 6Nva7JhU0nL9SZ8ZvJni6O
+2025-03-04 22:49:32,057 - batch_processing - INFO - Saved data files for artist 6Nva7JhU0nL9SZ8ZvJni6O
+2025-03-04 22:49:32,095 - batch_processing - INFO - Database updated for artist 6Nva7JhU0nL9SZ8ZvJni6O
+2025-03-04 22:49:33,110 - batch_processing - INFO - Processing artist ID: 4OG9hOPsfAEziKvOJj2SG7 (GENESI)
+2025-03-04 22:49:33,112 - spotify_partner_api - INFO - Getting detailed info for artist: 4OG9hOPsfAEziKvOJj2SG7
+2025-03-04 22:49:33,680 - batch_processing - INFO - Saved data files for artist 4OG9hOPsfAEziKvOJj2SG7
+2025-03-04 22:49:33,752 - batch_processing - INFO - Database updated for artist 4OG9hOPsfAEziKvOJj2SG7
+2025-03-04 22:49:34,764 - batch_processing - INFO - Processing artist ID: 29TpNOsTNYbLb6Xa10H0PR (Miss Monique)
+2025-03-04 22:49:34,765 - spotify_partner_api - INFO - Getting detailed info for artist: 29TpNOsTNYbLb6Xa10H0PR
+2025-03-04 22:49:35,377 - batch_processing - INFO - Saved data files for artist 29TpNOsTNYbLb6Xa10H0PR
+2025-03-04 22:49:35,435 - batch_processing - INFO - Database updated for artist 29TpNOsTNYbLb6Xa10H0PR
+2025-03-04 22:49:36,444 - batch_processing - INFO - Processing artist ID: 76M2Ekj8bG8W7X2nbx2CpF (NGHTMRE)
+2025-03-04 22:49:36,445 - spotify_partner_api - INFO - Getting detailed info for artist: 76M2Ekj8bG8W7X2nbx2CpF
+2025-03-04 22:49:36,991 - batch_processing - INFO - Saved data files for artist 76M2Ekj8bG8W7X2nbx2CpF
+2025-03-04 22:49:37,043 - batch_processing - INFO - Database updated for artist 76M2Ekj8bG8W7X2nbx2CpF
+2025-03-04 22:49:38,050 - batch_processing - INFO - Processing artist ID: 2ohlvFf9PBsDELdRstPtlP (Ferry Corsten)
+2025-03-04 22:49:38,051 - spotify_partner_api - INFO - Getting detailed info for artist: 2ohlvFf9PBsDELdRstPtlP
+2025-03-04 22:49:38,670 - batch_processing - INFO - Saved data files for artist 2ohlvFf9PBsDELdRstPtlP
+2025-03-04 22:49:38,686 - batch_processing - INFO - Database updated for artist 2ohlvFf9PBsDELdRstPtlP
+2025-03-04 22:49:39,698 - batch_processing - INFO - Processing artist ID: 3h11MHQeCrcsUgRRijI1zL (Mark Knight)
+2025-03-04 22:49:39,698 - spotify_partner_api - INFO - Getting detailed info for artist: 3h11MHQeCrcsUgRRijI1zL
+2025-03-04 22:49:40,361 - batch_processing - INFO - Saved data files for artist 3h11MHQeCrcsUgRRijI1zL
+2025-03-04 22:49:40,421 - batch_processing - INFO - Database updated for artist 3h11MHQeCrcsUgRRijI1zL
+2025-03-04 22:49:41,430 - batch_processing - INFO - Processing artist ID: 6S2tas4z6DyIklBajDqJxI (Infected Mushroom)
+2025-03-04 22:49:41,435 - spotify_partner_api - INFO - Getting detailed info for artist: 6S2tas4z6DyIklBajDqJxI
+2025-03-04 22:49:42,017 - batch_processing - INFO - Saved data files for artist 6S2tas4z6DyIklBajDqJxI
+2025-03-04 22:49:42,061 - batch_processing - INFO - Database updated for artist 6S2tas4z6DyIklBajDqJxI
+2025-03-04 22:49:43,076 - batch_processing - INFO - Processing artist ID: 0wr85NuJuAYZsRzP1lJgiV (Wildstylez)
+2025-03-04 22:49:43,077 - spotify_partner_api - INFO - Getting detailed info for artist: 0wr85NuJuAYZsRzP1lJgiV
+2025-03-04 22:49:43,715 - batch_processing - INFO - Saved data files for artist 0wr85NuJuAYZsRzP1lJgiV
+2025-03-04 22:49:43,772 - batch_processing - INFO - Database updated for artist 0wr85NuJuAYZsRzP1lJgiV
+2025-03-04 22:49:44,779 - batch_processing - INFO - Batch processing complete: 50 succeeded, 0 failed
+2025-03-04 22:49:44,785 - batch_processing - INFO - Results saved to output\batch_results_20250304_224944.json
+2025-03-04 22:50:09,159 - batch_processing - INFO - Starting batch process for 50 artists
+2025-03-04 22:50:09,159 - batch_processing - INFO -   Mid Tier (7 days): 43 artists
+2025-03-04 22:50:09,159 - batch_processing - INFO -   Lower Tier (14 days): 7 artists
+2025-03-04 22:50:09,159 - batch_processing - INFO - Artists to process (first 5):
+2025-03-04 22:50:09,159 - batch_processing - INFO -   Tchami (1KpCi9BOfviCVhmpI4G2sY)
+2025-03-04 22:50:09,159 - batch_processing - INFO -   Martin Ikin (7DhdJhd6DrxeJlUajwttd1)
+2025-03-04 22:50:09,160 - batch_processing - INFO -   Mike Williams (3IpvVrP3VLhruTmnququq7)
+2025-03-04 22:50:09,160 - batch_processing - INFO -   DubVision (3XINWZaloea97SIRiyTJxX)
+2025-03-04 22:50:09,160 - batch_processing - INFO -   Adam Beyer (1btv9qmIpbp7q1ixCYNdHu)
+2025-03-04 22:50:09,160 - batch_processing - INFO -   ... and 45 more
+2025-03-04 22:50:09,160 - batch_processing - INFO - Processing artist ID: 1KpCi9BOfviCVhmpI4G2sY (Tchami)
+2025-03-04 22:50:09,160 - spotify_partner_api - INFO - Getting detailed info for artist: 1KpCi9BOfviCVhmpI4G2sY
+2025-03-04 22:50:09,160 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:09,510 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:09,511 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:09,711 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:09,713 - batch_processing - ERROR - Failed to get data for artist ID: 1KpCi9BOfviCVhmpI4G2sY
+2025-03-04 22:50:10,719 - batch_processing - INFO - Processing artist ID: 7DhdJhd6DrxeJlUajwttd1 (Martin Ikin)
+2025-03-04 22:50:10,720 - spotify_partner_api - INFO - Getting detailed info for artist: 7DhdJhd6DrxeJlUajwttd1
+2025-03-04 22:50:10,721 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:15,924 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 504
+2025-03-04 22:50:15,925 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 504
+2025-03-04 22:50:16,142 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:16,144 - batch_processing - ERROR - Failed to get data for artist ID: 7DhdJhd6DrxeJlUajwttd1
+2025-03-04 22:50:17,158 - batch_processing - INFO - Processing artist ID: 3IpvVrP3VLhruTmnququq7 (Mike Williams)
+2025-03-04 22:50:17,159 - spotify_partner_api - INFO - Getting detailed info for artist: 3IpvVrP3VLhruTmnququq7
+2025-03-04 22:50:17,160 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:17,460 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:17,461 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:17,658 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:17,659 - batch_processing - ERROR - Failed to get data for artist ID: 3IpvVrP3VLhruTmnququq7
+2025-03-04 22:50:18,668 - batch_processing - INFO - Processing artist ID: 3XINWZaloea97SIRiyTJxX (DubVision)
+2025-03-04 22:50:18,669 - spotify_partner_api - INFO - Getting detailed info for artist: 3XINWZaloea97SIRiyTJxX
+2025-03-04 22:50:18,670 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:18,942 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:18,943 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:19,175 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:19,177 - batch_processing - ERROR - Failed to get data for artist ID: 3XINWZaloea97SIRiyTJxX
+2025-03-04 22:50:20,180 - batch_processing - INFO - Processing artist ID: 1btv9qmIpbp7q1ixCYNdHu (Adam Beyer)
+2025-03-04 22:50:20,182 - spotify_partner_api - INFO - Getting detailed info for artist: 1btv9qmIpbp7q1ixCYNdHu
+2025-03-04 22:50:20,182 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:20,478 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:20,479 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:20,707 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:20,709 - batch_processing - ERROR - Failed to get data for artist ID: 1btv9qmIpbp7q1ixCYNdHu
+2025-03-04 22:50:21,723 - batch_processing - INFO - Processing artist ID: 1HT9k1ZSUL9IczSstOAgWJ (Roger Sanchez)
+2025-03-04 22:50:21,724 - spotify_partner_api - INFO - Getting detailed info for artist: 1HT9k1ZSUL9IczSstOAgWJ
+2025-03-04 22:50:21,724 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:22,006 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:22,007 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:22,208 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:22,210 - batch_processing - ERROR - Failed to get data for artist ID: 1HT9k1ZSUL9IczSstOAgWJ
+2025-03-04 22:50:23,218 - batch_processing - INFO - Processing artist ID: 1rSGNXhhYuWoq9BEz5DZGO (ARTY)
+2025-03-04 22:50:23,219 - spotify_partner_api - INFO - Getting detailed info for artist: 1rSGNXhhYuWoq9BEz5DZGO
+2025-03-04 22:50:23,220 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:23,486 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:23,487 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:23,752 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:23,753 - batch_processing - ERROR - Failed to get data for artist ID: 1rSGNXhhYuWoq9BEz5DZGO
+2025-03-04 22:50:24,759 - batch_processing - INFO - Processing artist ID: 0Cd6nHYwecCNM1sVEXKlYr (Krewella)
+2025-03-04 22:50:24,760 - spotify_partner_api - INFO - Getting detailed info for artist: 0Cd6nHYwecCNM1sVEXKlYr
+2025-03-04 22:50:24,761 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:25,028 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:25,029 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:25,260 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:25,262 - batch_processing - ERROR - Failed to get data for artist ID: 0Cd6nHYwecCNM1sVEXKlYr
+2025-03-04 22:50:26,270 - batch_processing - INFO - Processing artist ID: 1V3VTM7VspiQjcmRhC010n (Quintino)
+2025-03-04 22:50:26,271 - spotify_partner_api - INFO - Getting detailed info for artist: 1V3VTM7VspiQjcmRhC010n
+2025-03-04 22:50:26,272 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:26,605 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:26,606 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:26,833 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:26,834 - batch_processing - ERROR - Failed to get data for artist ID: 1V3VTM7VspiQjcmRhC010n
+2025-03-04 22:50:27,843 - batch_processing - INFO - Processing artist ID: 0EdUwJSqkMmsH6Agg3G8Ls (Marten Hørger)
+2025-03-04 22:50:27,844 - spotify_partner_api - INFO - Getting detailed info for artist: 0EdUwJSqkMmsH6Agg3G8Ls
+2025-03-04 22:50:27,845 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:28,149 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:28,150 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:28,350 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:28,352 - batch_processing - ERROR - Failed to get data for artist ID: 0EdUwJSqkMmsH6Agg3G8Ls
+2025-03-04 22:50:29,369 - batch_processing - INFO - Processing artist ID: 3NKKngINK1tP6BFy0WOyWk (Max Styler)
+2025-03-04 22:50:29,370 - spotify_partner_api - INFO - Getting detailed info for artist: 3NKKngINK1tP6BFy0WOyWk
+2025-03-04 22:50:29,371 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:29,702 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:29,703 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:29,936 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:29,937 - batch_processing - ERROR - Failed to get data for artist ID: 3NKKngINK1tP6BFy0WOyWk
+2025-03-04 22:50:30,944 - batch_processing - INFO - Processing artist ID: 6TVdVlY6irsNPkMHT2HkfD (Space 92)
+2025-03-04 22:50:30,945 - spotify_partner_api - INFO - Getting detailed info for artist: 6TVdVlY6irsNPkMHT2HkfD
+2025-03-04 22:50:30,946 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:31,346 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:31,347 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:31,589 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:31,591 - batch_processing - ERROR - Failed to get data for artist ID: 6TVdVlY6irsNPkMHT2HkfD
+2025-03-04 22:50:32,600 - batch_processing - INFO - Processing artist ID: 0oO1IaDOBSeI96HbnCa5pZ (Solardo)
+2025-03-04 22:50:32,602 - spotify_partner_api - INFO - Getting detailed info for artist: 0oO1IaDOBSeI96HbnCa5pZ
+2025-03-04 22:50:32,603 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:33,056 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:33,057 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:33,270 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:33,272 - batch_processing - ERROR - Failed to get data for artist ID: 0oO1IaDOBSeI96HbnCa5pZ
+2025-03-04 22:50:34,284 - batch_processing - INFO - Processing artist ID: 5Dyfxq0ZrFjjeFBdSNxDbo (Yotto)
+2025-03-04 22:50:34,287 - spotify_partner_api - INFO - Getting detailed info for artist: 5Dyfxq0ZrFjjeFBdSNxDbo
+2025-03-04 22:50:34,288 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:34,584 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:34,584 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:34,792 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:34,794 - batch_processing - ERROR - Failed to get data for artist ID: 5Dyfxq0ZrFjjeFBdSNxDbo
+2025-03-04 22:50:35,808 - batch_processing - INFO - Processing artist ID: 3ABaec4jjl95VqmG1iD4k2 (Green Velvet)
+2025-03-04 22:50:35,810 - spotify_partner_api - INFO - Getting detailed info for artist: 3ABaec4jjl95VqmG1iD4k2
+2025-03-04 22:50:35,810 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:36,280 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:36,281 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:36,483 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:36,485 - batch_processing - ERROR - Failed to get data for artist ID: 3ABaec4jjl95VqmG1iD4k2
+2025-03-04 22:50:37,494 - batch_processing - INFO - Processing artist ID: 75HK7rgkmDMTnWwwmcN53N (Andy C)
+2025-03-04 22:50:37,495 - spotify_partner_api - INFO - Getting detailed info for artist: 75HK7rgkmDMTnWwwmcN53N
+2025-03-04 22:50:37,496 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:37,805 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:37,806 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:38,026 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:38,027 - batch_processing - ERROR - Failed to get data for artist ID: 75HK7rgkmDMTnWwwmcN53N
+2025-03-04 22:50:39,036 - batch_processing - INFO - Processing artist ID: 2DuJi13MWHjRHrqRUwk8vH (Knife Party)
+2025-03-04 22:50:39,038 - spotify_partner_api - INFO - Getting detailed info for artist: 2DuJi13MWHjRHrqRUwk8vH
+2025-03-04 22:50:39,039 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:39,422 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:39,423 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:39,644 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:39,646 - batch_processing - ERROR - Failed to get data for artist ID: 2DuJi13MWHjRHrqRUwk8vH
+2025-03-04 22:50:40,658 - batch_processing - INFO - Processing artist ID: 6ySxYu68zTsO5ghsThpGtS (Cosmic Gate)
+2025-03-04 22:50:40,659 - spotify_partner_api - INFO - Getting detailed info for artist: 6ySxYu68zTsO5ghsThpGtS
+2025-03-04 22:50:40,660 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:40,988 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:40,989 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:41,196 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:41,197 - batch_processing - ERROR - Failed to get data for artist ID: 6ySxYu68zTsO5ghsThpGtS
+2025-03-04 22:50:42,201 - batch_processing - INFO - Processing artist ID: 53YSn9tHwGJ6bq5P0gGoYo (Firebeatz)
+2025-03-04 22:50:42,202 - spotify_partner_api - INFO - Getting detailed info for artist: 53YSn9tHwGJ6bq5P0gGoYo
+2025-03-04 22:50:42,204 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:42,689 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:42,690 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:42,914 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:42,916 - batch_processing - ERROR - Failed to get data for artist ID: 53YSn9tHwGJ6bq5P0gGoYo
+2025-03-04 22:50:43,930 - batch_processing - INFO - Processing artist ID: 5ttgIeUVka6FLyi00Uu5h8 (Jauz)
+2025-03-04 22:50:43,930 - spotify_partner_api - INFO - Getting detailed info for artist: 5ttgIeUVka6FLyi00Uu5h8
+2025-03-04 22:50:43,930 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:44,464 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:44,465 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:44,676 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:44,677 - batch_processing - ERROR - Failed to get data for artist ID: 5ttgIeUVka6FLyi00Uu5h8
+2025-03-04 22:50:45,696 - batch_processing - INFO - Processing artist ID: 3dUltShd2gJQc98Kc7Syit (Astrix)
+2025-03-04 22:50:45,697 - spotify_partner_api - INFO - Getting detailed info for artist: 3dUltShd2gJQc98Kc7Syit
+2025-03-04 22:50:45,698 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:46,201 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:46,201 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:46,435 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:46,437 - batch_processing - ERROR - Failed to get data for artist ID: 3dUltShd2gJQc98Kc7Syit
+2025-03-04 22:50:47,445 - batch_processing - INFO - Processing artist ID: 4EhiIwwMPecLznwn87sRw2 (Joachim Garraud)
+2025-03-04 22:50:47,446 - spotify_partner_api - INFO - Getting detailed info for artist: 4EhiIwwMPecLznwn87sRw2
+2025-03-04 22:50:47,447 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:47,814 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:47,815 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:48,042 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:48,044 - batch_processing - ERROR - Failed to get data for artist ID: 4EhiIwwMPecLznwn87sRw2
+2025-03-04 22:50:49,052 - batch_processing - INFO - Processing artist ID: 1PzAgFVk9v8cxn9flrqrv5 (Joshwa)
+2025-03-04 22:50:49,053 - spotify_partner_api - INFO - Getting detailed info for artist: 1PzAgFVk9v8cxn9flrqrv5
+2025-03-04 22:50:49,054 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:49,524 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:49,525 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:49,752 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:49,753 - batch_processing - ERROR - Failed to get data for artist ID: 1PzAgFVk9v8cxn9flrqrv5
+2025-03-04 22:50:50,755 - batch_processing - INFO - Processing artist ID: 25DnzR3jtrD8StkyyRCvHR (Roman Messer)
+2025-03-04 22:50:50,756 - spotify_partner_api - INFO - Getting detailed info for artist: 25DnzR3jtrD8StkyyRCvHR
+2025-03-04 22:50:50,758 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:51,135 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:51,138 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:51,372 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:51,374 - batch_processing - ERROR - Failed to get data for artist ID: 25DnzR3jtrD8StkyyRCvHR
+2025-03-04 22:50:52,392 - batch_processing - INFO - Processing artist ID: 7LJSAfWhO7jhjnewy6pKyZ (Kyle Watson)
+2025-03-04 22:50:52,392 - spotify_partner_api - INFO - Getting detailed info for artist: 7LJSAfWhO7jhjnewy6pKyZ
+2025-03-04 22:50:52,393 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:52,768 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:52,769 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:52,987 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:52,989 - batch_processing - ERROR - Failed to get data for artist ID: 7LJSAfWhO7jhjnewy6pKyZ
+2025-03-04 22:50:53,999 - batch_processing - INFO - Processing artist ID: 07VdEUK5mf0rifGeNqs0Wg (Kevin McKay)
+2025-03-04 22:50:54,001 - spotify_partner_api - INFO - Getting detailed info for artist: 07VdEUK5mf0rifGeNqs0Wg
+2025-03-04 22:50:54,002 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:54,406 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:54,407 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:54,638 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:54,640 - batch_processing - ERROR - Failed to get data for artist ID: 07VdEUK5mf0rifGeNqs0Wg
+2025-03-04 22:50:55,653 - batch_processing - INFO - Processing artist ID: 1eucLGnPT27tdEh6MU29wp (Marsh)
+2025-03-04 22:50:55,654 - spotify_partner_api - INFO - Getting detailed info for artist: 1eucLGnPT27tdEh6MU29wp
+2025-03-04 22:50:55,655 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:56,044 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:56,045 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:56,281 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:56,282 - batch_processing - ERROR - Failed to get data for artist ID: 1eucLGnPT27tdEh6MU29wp
+2025-03-04 22:50:57,291 - batch_processing - INFO - Processing artist ID: 19SmlbABtI4bXz864MLqOS (Carl Cox)
+2025-03-04 22:50:57,292 - spotify_partner_api - INFO - Getting detailed info for artist: 19SmlbABtI4bXz864MLqOS
+2025-03-04 22:50:57,293 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:57,557 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:57,558 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:57,770 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:57,771 - batch_processing - ERROR - Failed to get data for artist ID: 19SmlbABtI4bXz864MLqOS
+2025-03-04 22:50:58,785 - batch_processing - INFO - Processing artist ID: 1JPy5PsJtkhftfdr6saN2i (Bassnectar)
+2025-03-04 22:50:58,786 - spotify_partner_api - INFO - Getting detailed info for artist: 1JPy5PsJtkhftfdr6saN2i
+2025-03-04 22:50:58,788 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:50:59,126 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:50:59,127 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:50:59,330 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:50:59,331 - batch_processing - ERROR - Failed to get data for artist ID: 1JPy5PsJtkhftfdr6saN2i
+2025-03-04 22:51:00,343 - batch_processing - INFO - Processing artist ID: 5MO2kbaGGA2a8kL4c9qqHq (Paul Oakenfold)
+2025-03-04 22:51:00,344 - spotify_partner_api - INFO - Getting detailed info for artist: 5MO2kbaGGA2a8kL4c9qqHq
+2025-03-04 22:51:00,345 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:51:00,712 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:51:00,713 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:51:00,908 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:51:00,911 - batch_processing - ERROR - Failed to get data for artist ID: 5MO2kbaGGA2a8kL4c9qqHq
+2025-03-04 22:51:01,918 - batch_processing - INFO - Processing artist ID: 4j5KBTO4tk7up54ZirNGvK (NERVO)
+2025-03-04 22:51:01,919 - spotify_partner_api - INFO - Getting detailed info for artist: 4j5KBTO4tk7up54ZirNGvK
+2025-03-04 22:51:01,920 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:51:02,230 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:51:02,231 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:51:02,429 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:51:02,431 - batch_processing - ERROR - Failed to get data for artist ID: 4j5KBTO4tk7up54ZirNGvK
+2025-03-04 22:51:03,445 - batch_processing - INFO - Processing artist ID: 2XiiUuK68XNdHaHOAF5hnT (Curbi)
+2025-03-04 22:51:03,446 - spotify_partner_api - INFO - Getting detailed info for artist: 2XiiUuK68XNdHaHOAF5hnT
+2025-03-04 22:51:03,447 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:51:03,773 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:51:03,774 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:51:03,995 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:51:03,996 - batch_processing - ERROR - Failed to get data for artist ID: 2XiiUuK68XNdHaHOAF5hnT
+2025-03-04 22:51:05,004 - batch_processing - INFO - Processing artist ID: 2GVtgxcx7jg5xVCZsIHSGN (Dombresky)
+2025-03-04 22:51:05,005 - spotify_partner_api - INFO - Getting detailed info for artist: 2GVtgxcx7jg5xVCZsIHSGN
+2025-03-04 22:51:05,007 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:51:05,423 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:51:05,424 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:51:05,619 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:51:05,620 - batch_processing - ERROR - Failed to get data for artist ID: 2GVtgxcx7jg5xVCZsIHSGN
+2025-03-04 22:51:06,626 - batch_processing - INFO - Processing artist ID: 2T86EVnDCP64EaVKRXIcRx (Guz)
+2025-03-04 22:51:06,626 - spotify_partner_api - INFO - Getting detailed info for artist: 2T86EVnDCP64EaVKRXIcRx
+2025-03-04 22:51:06,626 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:51:07,080 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:51:07,081 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:51:07,282 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:51:07,283 - batch_processing - ERROR - Failed to get data for artist ID: 2T86EVnDCP64EaVKRXIcRx
+2025-03-04 22:51:08,295 - batch_processing - INFO - Processing artist ID: 4DE0cYxMnEEmfKLwDkYwxb (Erick Morillo)
+2025-03-04 22:51:08,296 - spotify_partner_api - INFO - Getting detailed info for artist: 4DE0cYxMnEEmfKLwDkYwxb
+2025-03-04 22:51:08,297 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:51:08,653 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:51:08,654 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:51:08,951 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:51:08,952 - batch_processing - ERROR - Failed to get data for artist ID: 4DE0cYxMnEEmfKLwDkYwxb
+2025-03-04 22:51:09,965 - batch_processing - INFO - Processing artist ID: 3Ij56hbjOTHq8RgutQwfxC (Radical Redemption)
+2025-03-04 22:51:09,966 - spotify_partner_api - INFO - Getting detailed info for artist: 3Ij56hbjOTHq8RgutQwfxC
+2025-03-04 22:51:09,966 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:51:10,295 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:51:10,296 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:51:10,509 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:51:10,511 - batch_processing - ERROR - Failed to get data for artist ID: 3Ij56hbjOTHq8RgutQwfxC
+2025-03-04 22:51:11,524 - batch_processing - INFO - Processing artist ID: 5B9q1NRokzWYB7nSgnlHyv (Giuseppe Ottaviani)
+2025-03-04 22:51:11,525 - spotify_partner_api - INFO - Getting detailed info for artist: 5B9q1NRokzWYB7nSgnlHyv
+2025-03-04 22:51:11,526 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:51:11,921 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:51:11,922 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:51:12,158 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:51:12,160 - batch_processing - ERROR - Failed to get data for artist ID: 5B9q1NRokzWYB7nSgnlHyv
+2025-03-04 22:51:13,162 - batch_processing - INFO - Processing artist ID: 5jBerZvTAajwYvdxt3UhgU (San Pacho)
+2025-03-04 22:51:13,162 - spotify_partner_api - INFO - Getting detailed info for artist: 5jBerZvTAajwYvdxt3UhgU
+2025-03-04 22:51:13,163 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:51:13,469 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:51:13,470 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:51:13,701 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:51:13,703 - batch_processing - ERROR - Failed to get data for artist ID: 5jBerZvTAajwYvdxt3UhgU
+2025-03-04 22:51:14,721 - batch_processing - INFO - Processing artist ID: 2E1NFr5AeEGUJkLUUsWCAO (OFFAIAH)
+2025-03-04 22:51:14,722 - spotify_partner_api - INFO - Getting detailed info for artist: 2E1NFr5AeEGUJkLUUsWCAO
+2025-03-04 22:51:14,723 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:51:15,210 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:51:15,211 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:51:15,429 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:51:15,429 - batch_processing - ERROR - Failed to get data for artist ID: 2E1NFr5AeEGUJkLUUsWCAO
+2025-03-04 22:51:16,432 - batch_processing - INFO - Processing artist ID: 1TRFAJu3Cw64APToZaGk9D (Riva Starr)
+2025-03-04 22:51:16,433 - spotify_partner_api - INFO - Getting detailed info for artist: 1TRFAJu3Cw64APToZaGk9D
+2025-03-04 22:51:16,434 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:51:16,808 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:51:16,809 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:51:17,016 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:51:17,017 - batch_processing - ERROR - Failed to get data for artist ID: 1TRFAJu3Cw64APToZaGk9D
+2025-03-04 22:51:18,023 - batch_processing - INFO - Processing artist ID: 1k7iyyK6j5IJzF0cUMcaGY (Space Motion)
+2025-03-04 22:51:18,024 - spotify_partner_api - INFO - Getting detailed info for artist: 1k7iyyK6j5IJzF0cUMcaGY
+2025-03-04 22:51:18,025 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:51:18,596 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:51:18,597 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:51:18,831 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:51:18,832 - batch_processing - ERROR - Failed to get data for artist ID: 1k7iyyK6j5IJzF0cUMcaGY
+2025-03-04 22:51:28,820 - batch_processing - INFO - Starting batch process for 1 artists
+2025-03-04 22:51:28,820 - batch_processing - INFO -   Mid Tier (7 days): 1 artists
+2025-03-04 22:51:28,820 - batch_processing - INFO - Artists to process (first 5):
+2025-03-04 22:51:28,820 - batch_processing - INFO -   Tchami (1KpCi9BOfviCVhmpI4G2sY)
+2025-03-04 22:51:28,820 - batch_processing - INFO - Processing artist ID: 1KpCi9BOfviCVhmpI4G2sY (Tchami)
+2025-03-04 22:51:28,820 - spotify_partner_api - INFO - Getting detailed info for artist: 1KpCi9BOfviCVhmpI4G2sY
+2025-03-04 22:51:28,820 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-04 22:51:29,163 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 503
+2025-03-04 22:51:29,164 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 503
+2025-03-04 22:51:29,385 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-04 22:51:29,387 - batch_processing - ERROR - Failed to get data for artist ID: 1KpCi9BOfviCVhmpI4G2sY
+2025-03-04 22:51:30,400 - batch_processing - INFO - Batch processing complete: 0 succeeded, 1 failed
+2025-03-04 22:51:30,405 - batch_processing - INFO - Results saved to output\batch_results_20250304_225130.json
+2025-03-05 07:27:38,820 - batch_processing - INFO - Starting batch process for 1 artists
+2025-03-05 07:27:38,833 - batch_processing - INFO -   Mid Tier (7 days): 1 artists
+2025-03-05 07:27:38,833 - batch_processing - INFO - Artists to process (first 5):
+2025-03-05 07:27:38,834 - batch_processing - INFO -   Tchami (1KpCi9BOfviCVhmpI4G2sY)
+2025-03-05 07:27:38,834 - batch_processing - INFO - Processing artist ID: 1KpCi9BOfviCVhmpI4G2sY (Tchami)
+2025-03-05 07:27:38,834 - spotify_partner_api - INFO - Getting detailed info for artist: 1KpCi9BOfviCVhmpI4G2sY
+2025-03-05 07:27:38,834 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-05 07:27:39,132 - spotify_token_manager - INFO - Token retrieved successfully, expires at 2025-03-05 08:21:44.427000
+2025-03-05 07:27:39,136 - spotify_token_manager - INFO - Token data saved to output\batch_spotify_tokens.json
+2025-03-05 07:27:39,840 - batch_processing - INFO - Saved data files for artist 1KpCi9BOfviCVhmpI4G2sY
+2025-03-05 07:27:39,877 - batch_processing - INFO - Database updated for artist 1KpCi9BOfviCVhmpI4G2sY
+2025-03-05 07:27:40,881 - batch_processing - INFO - Batch processing complete: 1 succeeded, 0 failed
+2025-03-05 07:27:40,884 - batch_processing - INFO - Results saved to output\batch_results_20250305_072740.json
+2025-03-05 07:47:31,105 - batch_processing - INFO - Starting batch process for 10 artists
+2025-03-05 07:47:31,105 - batch_processing - INFO -   Mid Tier (7 days): 10 artists
+2025-03-05 07:47:31,105 - batch_processing - INFO - Artists to process (first 5):
+2025-03-05 07:47:31,105 - batch_processing - INFO -   Martin Ikin (7DhdJhd6DrxeJlUajwttd1)
+2025-03-05 07:47:31,105 - batch_processing - INFO -   Mike Williams (3IpvVrP3VLhruTmnququq7)
+2025-03-05 07:47:31,105 - batch_processing - INFO -   DubVision (3XINWZaloea97SIRiyTJxX)
+2025-03-05 07:47:31,105 - batch_processing - INFO -   Adam Beyer (1btv9qmIpbp7q1ixCYNdHu)
+2025-03-05 07:47:31,105 - batch_processing - INFO -   Roger Sanchez (1HT9k1ZSUL9IczSstOAgWJ)
+2025-03-05 07:47:31,105 - batch_processing - INFO -   ... and 5 more
+2025-03-05 07:47:31,105 - batch_processing - INFO - Processing artist ID: 7DhdJhd6DrxeJlUajwttd1 (Martin Ikin)
+2025-03-05 07:47:31,106 - spotify_partner_api - INFO - Getting detailed info for artist: 7DhdJhd6DrxeJlUajwttd1
+2025-03-05 07:47:31,106 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-05 07:47:36,396 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 504
+2025-03-05 07:47:36,396 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 504
+2025-03-05 07:47:36,662 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-05 07:47:36,663 - batch_processing - ERROR - Failed to get data for artist ID: 7DhdJhd6DrxeJlUajwttd1
+2025-03-05 07:47:37,674 - batch_processing - INFO - Processing artist ID: 3IpvVrP3VLhruTmnququq7 (Mike Williams)
+2025-03-05 07:47:37,675 - spotify_partner_api - INFO - Getting detailed info for artist: 3IpvVrP3VLhruTmnququq7
+2025-03-05 07:47:37,675 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-05 07:47:42,945 - spotify_token_manager - ERROR - Failed to retrieve token: HTTP 504
+2025-03-05 07:47:42,946 - spotify_token_manager - ERROR - Error retrieving token: Token retrieval failed with status 504
+2025-03-05 07:47:43,157 - spotify_partner_api - ERROR - API request failed with status 401
+2025-03-05 07:47:43,159 - batch_processing - ERROR - Failed to get data for artist ID: 3IpvVrP3VLhruTmnququq7
+2025-03-05 07:47:44,161 - batch_processing - INFO - Processing artist ID: 3XINWZaloea97SIRiyTJxX (DubVision)
+2025-03-05 07:47:44,162 - spotify_partner_api - INFO - Getting detailed info for artist: 3XINWZaloea97SIRiyTJxX
+2025-03-05 07:47:44,162 - spotify_token_manager - INFO - Retrieving fresh Spotify access token...
+2025-03-05 07:47:44,481 - spotify_token_manager - INFO - Token retrieved successfully, expires at 2025-03-05 08:42:16.368000
+2025-03-05 07:47:44,483 - spotify_token_manager - INFO - Token data saved to output\batch_spotify_tokens.json
+2025-03-05 07:47:45,127 - batch_processing - INFO - Saved data files for artist 3XINWZaloea97SIRiyTJxX
+2025-03-05 07:47:45,158 - batch_processing - INFO - Database updated for artist 3XINWZaloea97SIRiyTJxX
+2025-03-05 07:47:46,175 - batch_processing - INFO - Processing artist ID: 1btv9qmIpbp7q1ixCYNdHu (Adam Beyer)
+2025-03-05 07:47:46,176 - spotify_partner_api - INFO - Getting detailed info for artist: 1btv9qmIpbp7q1ixCYNdHu
+2025-03-05 07:47:46,854 - batch_processing - INFO - Saved data files for artist 1btv9qmIpbp7q1ixCYNdHu
+2025-03-05 07:47:46,912 - batch_processing - INFO - Database updated for artist 1btv9qmIpbp7q1ixCYNdHu
+2025-03-05 07:47:47,922 - batch_processing - INFO - Processing artist ID: 1HT9k1ZSUL9IczSstOAgWJ (Roger Sanchez)
+2025-03-05 07:47:47,923 - spotify_partner_api - INFO - Getting detailed info for artist: 1HT9k1ZSUL9IczSstOAgWJ
+2025-03-05 07:47:48,613 - batch_processing - INFO - Saved data files for artist 1HT9k1ZSUL9IczSstOAgWJ
+2025-03-05 07:47:48,661 - batch_processing - INFO - Database updated for artist 1HT9k1ZSUL9IczSstOAgWJ
+2025-03-05 07:47:49,667 - batch_processing - INFO - Processing artist ID: 1rSGNXhhYuWoq9BEz5DZGO (ARTY)
+2025-03-05 07:47:49,668 - spotify_partner_api - INFO - Getting detailed info for artist: 1rSGNXhhYuWoq9BEz5DZGO
+2025-03-05 07:47:50,447 - batch_processing - INFO - Saved data files for artist 1rSGNXhhYuWoq9BEz5DZGO
+2025-03-05 07:47:50,516 - batch_processing - INFO - Database updated for artist 1rSGNXhhYuWoq9BEz5DZGO

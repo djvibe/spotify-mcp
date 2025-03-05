@@ -1,0 +1,4208 @@
+{
+  "data": {
+    "artistUnion": {
+      "__typename": "Artist",
+      "discography": {
+        "albums": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 Anyma, under exclusive license to Interscope Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 Anyma, under exclusive license to Interscope Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d2454ff9b99989ac16faf007",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d2454ff9b99989ac16faf007",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d2454ff9b99989ac16faf007",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 29,
+                      "month": 3,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "4jkiarZE3b7c3a5D3L2LZy",
+                    "label": "Anyma/Afterlife/Interscope Records",
+                    "name": "Genesys II",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "VlPoaYJUTqOVqR2T14kqKA",
+                      "shareUrl": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy?si=VlPoaYJUTqOVqR2T14kqKA"
+                    },
+                    "tracks": {
+                      "totalCount": 21
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4jkiarZE3b7c3a5D3L2LZy"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2023 Anyma, under exclusive license to Interscope Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2023 Anyma, under exclusive license to Interscope Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e022f952feea610a910c7daf561",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048512f952feea610a910c7daf561",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2732f952feea610a910c7daf561",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 11,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "7rCb8j8kaVvoKE44Dxf21y",
+                    "label": "Anyma/Afterlife/Interscope Records",
+                    "name": "Genesys",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "fBbvcau_Scajq5z_sAepHA",
+                      "shareUrl": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y?si=fBbvcau_Scajq5z_sAepHA"
+                    },
+                    "tracks": {
+                      "totalCount": 14
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:7rCb8j8kaVvoKE44Dxf21y"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 2
+        },
+        "compilations": {
+          "items": [],
+          "totalCount": 0
+        },
+        "latest": {
+          "copyright": {
+            "items": [
+              {
+                "text": "\u00a9 2025 Anyma, under exclusive license to Interscope Records",
+                "type": "C"
+              },
+              {
+                "text": "\u2117 2025 Anyma, under exclusive license to Interscope Records",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e021496eabdcc91b768abca87a3",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048511496eabdcc91b768abca87a3",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2731496eabdcc91b768abca87a3",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 28,
+            "month": 2,
+            "precision": "DAY",
+            "year": 2025
+          },
+          "id": "2eZyOgXmahrzJwNeYiilwQ",
+          "label": "Anyma/Interscope Records",
+          "name": "Hypnotized (John Summit Remix)",
+          "playability": {
+            "playable": true,
+            "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+            "shareId": "D8ReAlSqQ7y3s6STczSa0g",
+            "shareUrl": "https://open.spotify.com/album/2eZyOgXmahrzJwNeYiilwQ?si=D8ReAlSqQ7y3s6STczSa0g"
+          },
+          "tracks": {
+            "totalCount": 2
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:2eZyOgXmahrzJwNeYiilwQ"
+        },
+        "popularReleasesAlbums": {
+          "items": [
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2023 Anyma, under exclusive license to Interscope Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2023 Anyma, under exclusive license to Interscope Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022f952feea610a910c7daf561",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512f952feea610a910c7daf561",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732f952feea610a910c7daf561",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 11,
+                "month": 8,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "7rCb8j8kaVvoKE44Dxf21y",
+              "label": "Anyma/Afterlife/Interscope Records",
+              "name": "Genesys",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "fBbvcau_Scajq5z_sAepHA",
+                "shareUrl": "https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y?si=fBbvcau_Scajq5z_sAepHA"
+              },
+              "tracks": {
+                "totalCount": 14
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:7rCb8j8kaVvoKE44Dxf21y"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2024 Anyma, under exclusive license to Interscope Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2024 Anyma, under exclusive license to Interscope Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d2454ff9b99989ac16faf007",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d2454ff9b99989ac16faf007",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d2454ff9b99989ac16faf007",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 29,
+                "month": 3,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "4jkiarZE3b7c3a5D3L2LZy",
+              "label": "Anyma/Afterlife/Interscope Records",
+              "name": "Genesys II",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "VlPoaYJUTqOVqR2T14kqKA",
+                "shareUrl": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy?si=VlPoaYJUTqOVqR2T14kqKA"
+              },
+              "tracks": {
+                "totalCount": 21
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:4jkiarZE3b7c3a5D3L2LZy"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2025 Anyma, under exclusive license to Interscope Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2025 Anyma, under exclusive license to Interscope Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ea945672c3cecfcbd5a94530",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ea945672c3cecfcbd5a94530",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ea945672c3cecfcbd5a94530",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 10,
+                "month": 1,
+                "precision": "DAY",
+                "year": 2025
+              },
+              "id": "4k0x8hi3zxwSKNxkcYX67J",
+              "label": "Anyma/Interscope Records",
+              "name": "Hypnotized",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "nauwcpgnTqKdQwUjjgM0wg",
+                "shareUrl": "https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J?si=nauwcpgnTqKdQwUjjgM0wg"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:4k0x8hi3zxwSKNxkcYX67J"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2024 Anyma, under exclusive license to Interscope Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2024 Anyma, under exclusive license to Interscope Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a8191393f99a0c4798afc7cb",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a8191393f99a0c4798afc7cb",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a8191393f99a0c4798afc7cb",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 27,
+                "month": 12,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "4BjOZI6zShm1ezWaDxPvBm",
+              "label": "Anyma/Interscope Records",
+              "name": "Angel In The Dark",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "mYUC_OylRdSa2l9bZ1XnSg",
+                "shareUrl": "https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm?si=mYUC_OylRdSa2l9bZ1XnSg"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:4BjOZI6zShm1ezWaDxPvBm"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2024 Nervous Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2024 Nervous Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023d5709200b8d7b2612210186",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513d5709200b8d7b2612210186",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733d5709200b8d7b2612210186",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 17,
+                "month": 5,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "001JSP4fD2dw3KA95XFxOa",
+              "label": "Nervous Records",
+              "name": "Last Night (Anyma x Layton Giordani Remix)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "Mk3eb2RhTXurUhjpbZVYFQ",
+                "shareUrl": "https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa?si=Mk3eb2RhTXurUhjpbZVYFQ"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:001JSP4fD2dw3KA95XFxOa"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2025 Anyma, under exclusive license to Interscope Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2025 Anyma, under exclusive license to Interscope Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024192de3a30943d67dc50f70a",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514192de3a30943d67dc50f70a",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734192de3a30943d67dc50f70a",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 14,
+                "month": 2,
+                "precision": "DAY",
+                "year": 2025
+              },
+              "id": "3oqyPmPlaemFapxrymzwef",
+              "label": "Anyma/Interscope Records",
+              "name": "Voices In My Head",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "Q7u9PEt-RG6tWrxRe1Hkwg",
+                "shareUrl": "https://open.spotify.com/album/3oqyPmPlaemFapxrymzwef?si=Q7u9PEt-RG6tWrxRe1Hkwg"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:3oqyPmPlaemFapxrymzwef"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2023 Lana Del Rey, under exclusive licence to Universal Music Operations Limited",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2023 Lana Del Rey, under exclusive licence to Universal Music Operations Limited",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02feb6e3b7f523c5709484ca38",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851feb6e3b7f523c5709484ca38",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273feb6e3b7f523c5709484ca38",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 21,
+                "month": 5,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "35ZI8inROOaI4YkvOmCSLq",
+              "label": "Polydor Records",
+              "name": "Say Yes To Heaven (Anyma Remix)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "G825N3BIQR2lLAQbjTB_yw",
+                "shareUrl": "https://open.spotify.com/album/35ZI8inROOaI4YkvOmCSLq?si=G825N3BIQR2lLAQbjTB_yw"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:35ZI8inROOaI4YkvOmCSLq"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2025 Anyma, under exclusive license to Interscope Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2025 Anyma, under exclusive license to Interscope Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e021496eabdcc91b768abca87a3",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048511496eabdcc91b768abca87a3",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731496eabdcc91b768abca87a3",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 28,
+                "month": 2,
+                "precision": "DAY",
+                "year": 2025
+              },
+              "id": "2eZyOgXmahrzJwNeYiilwQ",
+              "label": "Anyma/Interscope Records",
+              "name": "Hypnotized (John Summit Remix)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "D8ReAlSqQ7y3s6STczSa0g",
+                "shareUrl": "https://open.spotify.com/album/2eZyOgXmahrzJwNeYiilwQ?si=D8ReAlSqQ7y3s6STczSa0g"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:2eZyOgXmahrzJwNeYiilwQ"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2024 Young Recordings Limited under exclusive license to Atlantic Recording Corporation for the world excluding UK and Eire",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2024 Young Recordings Limited under exclusive license to Atlantic Recording Corporation for the world excluding UK and Eire",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0229fe8df103c4bfd198b8de1b",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485129fe8df103c4bfd198b8de1b",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27329fe8df103c4bfd198b8de1b",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 6,
+                "month": 12,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "3XNLi9xalekB3v4swIj7zN",
+              "label": "Atlantic Records",
+              "name": "Eusexua (Anyma Remix)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "XS81oUcqSo-dmkRYzZl_QA",
+                "shareUrl": "https://open.spotify.com/album/3XNLi9xalekB3v4swIj7zN?si=XS81oUcqSo-dmkRYzZl_QA"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:3XNLi9xalekB3v4swIj7zN"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2023 Getting Out Our Dreams, Inc./Def Jam Recordings, a division of UMG Recordings, Inc.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2023 Getting Out Our Dreams, Inc./Def Jam Recordings, a division of UMG Recordings, Inc.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02eb637cb3a9eb3fa471e6ce3c",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851eb637cb3a9eb3fa471e6ce3c",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273eb637cb3a9eb3fa471e6ce3c",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 27,
+                "month": 10,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "5U7oU0J5fzAry7Cf8AiyIj",
+              "label": "Getting Out Our Dreams Inc. (G.O.O.D.) Music / IDJ",
+              "name": "Black Dress (Anyma Remix)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "kxR0whQRQ_KlcTdxtdSW1w",
+                "shareUrl": "https://open.spotify.com/album/5U7oU0J5fzAry7Cf8AiyIj?si=kxR0whQRQ_KlcTdxtdSW1w"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:5U7oU0J5fzAry7Cf8AiyIj"
+            }
+          ],
+          "totalCount": 19
+        },
+        "singles": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2025 Anyma, under exclusive license to Interscope Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2025 Anyma, under exclusive license to Interscope Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021496eabdcc91b768abca87a3",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511496eabdcc91b768abca87a3",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731496eabdcc91b768abca87a3",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 28,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "2eZyOgXmahrzJwNeYiilwQ",
+                    "label": "Anyma/Interscope Records",
+                    "name": "Hypnotized (John Summit Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "D8ReAlSqQ7y3s6STczSa0g",
+                      "shareUrl": "https://open.spotify.com/album/2eZyOgXmahrzJwNeYiilwQ?si=D8ReAlSqQ7y3s6STczSa0g"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:2eZyOgXmahrzJwNeYiilwQ"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2025 Anyma, under exclusive license to Interscope Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2025 Anyma, under exclusive license to Interscope Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024192de3a30943d67dc50f70a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514192de3a30943d67dc50f70a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734192de3a30943d67dc50f70a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 14,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "3oqyPmPlaemFapxrymzwef",
+                    "label": "Anyma/Interscope Records",
+                    "name": "Voices In My Head",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "Q7u9PEt-RG6tWrxRe1Hkwg",
+                      "shareUrl": "https://open.spotify.com/album/3oqyPmPlaemFapxrymzwef?si=Q7u9PEt-RG6tWrxRe1Hkwg"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3oqyPmPlaemFapxrymzwef"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2025 Anyma, under exclusive license to Interscope Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2025 Anyma, under exclusive license to Interscope Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ea945672c3cecfcbd5a94530",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ea945672c3cecfcbd5a94530",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ea945672c3cecfcbd5a94530",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 10,
+                      "month": 1,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "4k0x8hi3zxwSKNxkcYX67J",
+                    "label": "Anyma/Interscope Records",
+                    "name": "Hypnotized",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "nauwcpgnTqKdQwUjjgM0wg",
+                      "shareUrl": "https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J?si=nauwcpgnTqKdQwUjjgM0wg"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4k0x8hi3zxwSKNxkcYX67J"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 Anyma, under exclusive license to Interscope Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 Anyma, under exclusive license to Interscope Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a8191393f99a0c4798afc7cb",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a8191393f99a0c4798afc7cb",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a8191393f99a0c4798afc7cb",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 27,
+                      "month": 12,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "4BjOZI6zShm1ezWaDxPvBm",
+                    "label": "Anyma/Interscope Records",
+                    "name": "Angel In The Dark",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "mYUC_OylRdSa2l9bZ1XnSg",
+                      "shareUrl": "https://open.spotify.com/album/4BjOZI6zShm1ezWaDxPvBm?si=mYUC_OylRdSa2l9bZ1XnSg"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4BjOZI6zShm1ezWaDxPvBm"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 Young Recordings Limited under exclusive license to Atlantic Recording Corporation for the world excluding UK and Eire",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 Young Recordings Limited under exclusive license to Atlantic Recording Corporation for the world excluding UK and Eire",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0229fe8df103c4bfd198b8de1b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485129fe8df103c4bfd198b8de1b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27329fe8df103c4bfd198b8de1b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 6,
+                      "month": 12,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "3XNLi9xalekB3v4swIj7zN",
+                    "label": "Atlantic Records",
+                    "name": "Eusexua (Anyma Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "XS81oUcqSo-dmkRYzZl_QA",
+                      "shareUrl": "https://open.spotify.com/album/3XNLi9xalekB3v4swIj7zN?si=XS81oUcqSo-dmkRYzZl_QA"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3XNLi9xalekB3v4swIj7zN"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Nervous Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Nervous Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e023d5709200b8d7b2612210186",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048513d5709200b8d7b2612210186",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2733d5709200b8d7b2612210186",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 17,
+                      "month": 5,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "001JSP4fD2dw3KA95XFxOa",
+                    "label": "Nervous Records",
+                    "name": "Last Night (Anyma x Layton Giordani Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "Mk3eb2RhTXurUhjpbZVYFQ",
+                      "shareUrl": "https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa?si=Mk3eb2RhTXurUhjpbZVYFQ"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:001JSP4fD2dw3KA95XFxOa"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2023 Afterlife",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2023 Afterlife",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0282e1f62d5108fad52a99a070",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485182e1f62d5108fad52a99a070",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27382e1f62d5108fad52a99a070",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 24,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "08D0nW5tIE8sRDIZruTU2V",
+                    "label": "Afterlife",
+                    "name": "Simulation",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "xvAr-LZNSsK79Hg-6CtIsQ",
+                      "shareUrl": "https://open.spotify.com/album/08D0nW5tIE8sRDIZruTU2V?si=xvAr-LZNSsK79Hg-6CtIsQ"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:08D0nW5tIE8sRDIZruTU2V"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2023 Getting Out Our Dreams, Inc./Def Jam Recordings, a division of UMG Recordings, Inc.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2023 Getting Out Our Dreams, Inc./Def Jam Recordings, a division of UMG Recordings, Inc.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02eb637cb3a9eb3fa471e6ce3c",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851eb637cb3a9eb3fa471e6ce3c",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273eb637cb3a9eb3fa471e6ce3c",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 27,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "5U7oU0J5fzAry7Cf8AiyIj",
+                    "label": "Getting Out Our Dreams Inc. (G.O.O.D.) Music / IDJ",
+                    "name": "Black Dress (Anyma Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "kxR0whQRQ_KlcTdxtdSW1w",
+                      "shareUrl": "https://open.spotify.com/album/5U7oU0J5fzAry7Cf8AiyIj?si=kxR0whQRQ_KlcTdxtdSW1w"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5U7oU0J5fzAry7Cf8AiyIj"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2023 Atlantic Recording Corporation",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2023 Atlantic Recording Corporation",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a00cb3278b1e68ce109ea964",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a00cb3278b1e68ce109ea964",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a00cb3278b1e68ce109ea964",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 25,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "1df48ZyihLZfWMVeeFipQ2",
+                    "label": "Atlantic Records",
+                    "name": "Time\u2019s a Fantasy (feat. Jeff Bhasker) - Anyma Remix",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "xbmp1QmGQwKpmHF1qy7t4Q",
+                      "shareUrl": "https://open.spotify.com/album/1df48ZyihLZfWMVeeFipQ2?si=xbmp1QmGQwKpmHF1qy7t4Q"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1df48ZyihLZfWMVeeFipQ2"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2023 Lana Del Rey, under exclusive licence to Universal Music Operations Limited",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2023 Lana Del Rey, under exclusive licence to Universal Music Operations Limited",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02feb6e3b7f523c5709484ca38",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851feb6e3b7f523c5709484ca38",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273feb6e3b7f523c5709484ca38",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 21,
+                      "month": 5,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "35ZI8inROOaI4YkvOmCSLq",
+                    "label": "Polydor Records",
+                    "name": "Say Yes To Heaven (Anyma Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "G825N3BIQR2lLAQbjTB_yw",
+                      "shareUrl": "https://open.spotify.com/album/35ZI8inROOaI4YkvOmCSLq?si=G825N3BIQR2lLAQbjTB_yw"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:35ZI8inROOaI4YkvOmCSLq"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 17
+        },
+        "topTracks": {
+          "items": [
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02ea945672c3cecfcbd5a94530"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851ea945672c3cecfcbd5a94530"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273ea945672c3cecfcbd5a94530"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:4k0x8hi3zxwSKNxkcYX67J"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Anyma"
+                      },
+                      "uri": "spotify:artist:4iBwchw0U0GZv5RfVYSMxN"
+                    },
+                    {
+                      "profile": {
+                        "name": "Ellie Goulding"
+                      },
+                      "uri": "spotify:artist:0X2BH1fck6amBIoJhDVmmJ"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 180540
+                },
+                "id": "16qhKHGz2mDlFrxvNLYeHW",
+                "name": "Hypnotized (feat. Ellie Goulding)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "15802888",
+                "uri": "spotify:track:16qhKHGz2mDlFrxvNLYeHW"
+              },
+              "uid": "60d01f2dd5eb9b40915c"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a8191393f99a0c4798afc7cb"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851a8191393f99a0c4798afc7cb"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a8191393f99a0c4798afc7cb"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:4BjOZI6zShm1ezWaDxPvBm"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Anyma"
+                      },
+                      "uri": "spotify:artist:4iBwchw0U0GZv5RfVYSMxN"
+                    },
+                    {
+                      "profile": {
+                        "name": "Massano"
+                      },
+                      "uri": "spotify:artist:6htWLP8aiuf19FYMA4VQAZ"
+                    },
+                    {
+                      "profile": {
+                        "name": "Nathan Nicholson"
+                      },
+                      "uri": "spotify:artist:4q8SjmBr5X7DUmVvrnNrsd"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 199335
+                },
+                "id": "1omZLqRQ0nyXJwwYw94GPb",
+                "name": "Angel In The Dark",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "7051713",
+                "uri": "spotify:track:1omZLqRQ0nyXJwwYw94GPb"
+              },
+              "uid": "7fd4f0a600d8221764a5"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e023d5709200b8d7b2612210186"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048513d5709200b8d7b2612210186"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2733d5709200b8d7b2612210186"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:001JSP4fD2dw3KA95XFxOa"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Loofy"
+                      },
+                      "uri": "spotify:artist:6zx3vuOK841XDu7XFozhFv"
+                    },
+                    {
+                      "profile": {
+                        "name": "Anyma"
+                      },
+                      "uri": "spotify:artist:4iBwchw0U0GZv5RfVYSMxN"
+                    },
+                    {
+                      "profile": {
+                        "name": "Layton Giordani"
+                      },
+                      "uri": "spotify:artist:7mC3RkNNTV6p2j9w4F8Ip4"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 256743
+                },
+                "id": "22hOKPKTAegLoLJKM33K4a",
+                "name": "Last Night - Anyma x Layton Giordani Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "23199700",
+                "uri": "spotify:track:22hOKPKTAegLoLJKM33K4a"
+              },
+              "uid": "49b47cd6654c700333aa"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e022f952feea610a910c7daf561"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048512f952feea610a910c7daf561"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2732f952feea610a910c7daf561"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:7rCb8j8kaVvoKE44Dxf21y"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Anyma"
+                      },
+                      "uri": "spotify:artist:4iBwchw0U0GZv5RfVYSMxN"
+                    },
+                    {
+                      "profile": {
+                        "name": "Chris Avantgarde"
+                      },
+                      "uri": "spotify:artist:715OI7hiv58daVlEDXM47U"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 186240
+                },
+                "id": "1GBBbKOarAJ38HwIfLcOji",
+                "name": "Eternity",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "67180090",
+                "uri": "spotify:track:1GBBbKOarAJ38HwIfLcOji"
+              },
+              "uid": "0e32cb9aa61d12f2acf4"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e024192de3a30943d67dc50f70a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048514192de3a30943d67dc50f70a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734192de3a30943d67dc50f70a"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:3oqyPmPlaemFapxrymzwef"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Anyma"
+                      },
+                      "uri": "spotify:artist:4iBwchw0U0GZv5RfVYSMxN"
+                    },
+                    {
+                      "profile": {
+                        "name": "Argy"
+                      },
+                      "uri": "spotify:artist:1NaQOKgddaJipUtmptb7GI"
+                    },
+                    {
+                      "profile": {
+                        "name": "Son of Son"
+                      },
+                      "uri": "spotify:artist:4xG5i2Smlt6o5QxuGp9LqM"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 146308
+                },
+                "id": "7pS1ts9rfwuSOMu2kZkBZ7",
+                "name": "Voices In My Head",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "2263586",
+                "uri": "spotify:track:7pS1ts9rfwuSOMu2kZkBZ7"
+              },
+              "uid": "7e070408c7ffe5680c08"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d2454ff9b99989ac16faf007"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851d2454ff9b99989ac16faf007"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d2454ff9b99989ac16faf007"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:4jkiarZE3b7c3a5D3L2LZy"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Anyma"
+                      },
+                      "uri": "spotify:artist:4iBwchw0U0GZv5RfVYSMxN"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 175312
+                },
+                "id": "0QQBgAXdLm0hfk9aBJe97f",
+                "name": "Pictures Of You",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "30774948",
+                "uri": "spotify:track:0QQBgAXdLm0hfk9aBJe97f"
+              },
+              "uid": "da8d31f065df91463b53"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e022f952feea610a910c7daf561"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048512f952feea610a910c7daf561"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2732f952feea610a910c7daf561"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:7rCb8j8kaVvoKE44Dxf21y"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Anyma"
+                      },
+                      "uri": "spotify:artist:4iBwchw0U0GZv5RfVYSMxN"
+                    },
+                    {
+                      "profile": {
+                        "name": "Reb\u016bke"
+                      },
+                      "uri": "spotify:artist:113reBz1jA6rVxbXl55mlj"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 197822
+                },
+                "id": "3hGXZKj3lYKKRQtKE8XN55",
+                "name": "Syren",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "35925244",
+                "uri": "spotify:track:3hGXZKj3lYKKRQtKE8XN55"
+              },
+              "uid": "d630fc9e52fb991be2f2"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e026e9ee7f3ab0cd0d77c5368a9"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048516e9ee7f3ab0cd0d77c5368a9"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2736e9ee7f3ab0cd0d77c5368a9"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:71yJ0XH2iQA1uOk5CE95fx"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Swedish House Mafia"
+                      },
+                      "uri": "spotify:artist:1h6Cn3P4NGzXbaXidqURXs"
+                    },
+                    {
+                      "profile": {
+                        "name": "Anyma"
+                      },
+                      "uri": "spotify:artist:4iBwchw0U0GZv5RfVYSMxN"
+                    },
+                    {
+                      "profile": {
+                        "name": "Future"
+                      },
+                      "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+                    },
+                    {
+                      "profile": {
+                        "name": "Fred again.."
+                      },
+                      "uri": "spotify:artist:4oLeXFyACqeem2VImYeBFe"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 253433
+                },
+                "id": "4ptnQ0kQnN1U1Ig8TSslj6",
+                "name": "Turn On The Lights again.. (feat. Future & Fred again..) - Anyma Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "51294385",
+                "uri": "spotify:track:4ptnQ0kQnN1U1Ig8TSslj6"
+              },
+              "uid": "fc901758011aa4814989"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d2454ff9b99989ac16faf007"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851d2454ff9b99989ac16faf007"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d2454ff9b99989ac16faf007"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:4jkiarZE3b7c3a5D3L2LZy"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Anyma"
+                      },
+                      "uri": "spotify:artist:4iBwchw0U0GZv5RfVYSMxN"
+                    },
+                    {
+                      "profile": {
+                        "name": "Argy"
+                      },
+                      "uri": "spotify:artist:1NaQOKgddaJipUtmptb7GI"
+                    },
+                    {
+                      "profile": {
+                        "name": "MAGNUS"
+                      },
+                      "uri": "spotify:artist:4pOglqMAavrWFo20ORRx5w"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 208601
+                },
+                "id": "475r8pbikqtqehhc1qUIOf",
+                "name": "Higher Power",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "23084531",
+                "uri": "spotify:track:475r8pbikqtqehhc1qUIOf"
+              },
+              "uid": "600add73f9145c6706af"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02feb6e3b7f523c5709484ca38"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851feb6e3b7f523c5709484ca38"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273feb6e3b7f523c5709484ca38"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:35ZI8inROOaI4YkvOmCSLq"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Lana Del Rey"
+                      },
+                      "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+                    },
+                    {
+                      "profile": {
+                        "name": "Anyma"
+                      },
+                      "uri": "spotify:artist:4iBwchw0U0GZv5RfVYSMxN"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 222076
+                },
+                "id": "6YzWNNWyxVGC0eczvuUtmF",
+                "name": "Say Yes To Heaven - Anyma Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "20882674",
+                "uri": "spotify:track:6YzWNNWyxVGC0eczvuUtmF"
+              },
+              "uid": "dfecd4fcc69351371032"
+            }
+          ]
+        }
+      },
+      "goods": {
+        "concerts": {
+          "items": [
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Miami",
+                  "name": "FPL Solar Amphitheater at Bayfront Park"
+                },
+                "startDateIsoString": "2025-03-30T12:00-04:00",
+                "title": "999999999, Above & Beyond, Adam Beyer, AFROJACK, Alesso, Anyma, Solomun, Armin van Buuren, ARTBAT, Axwell, Boris Brejcha, Carl Cox, Charlotte de Witte, Chase & Status, deadmau5, Pendulum, Eli Brown, Dom Dolla, John Summit, Four Tet, Gesaffelstein, Hardwell, I Hate Models, LSDREAM, CloZee, Martin Garrix, Mau P, Miss Monique, Nero, NGHTMRE, Sullivan King, Richie Hawtin, Subtronics, Ti\u00ebsto, Zedd, Zeds Dead",
+                "uri": "spotify:concert:1hm0glYlRtuTbuKru9Pu4G"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Brussels",
+                  "name": "Atomium"
+                },
+                "startDateIsoString": "2025-05-17T14:00+02:00",
+                "title": "Anyma",
+                "uri": "spotify:concert:23D26hjQXdP8XJOcwrWTe5"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Montmel\u00f3",
+                  "name": "Circuit de Barcelona - Catalunya"
+                },
+                "startDateIsoString": "2025-06-13T15:00+02:00",
+                "title": "Anyma",
+                "uri": "spotify:concert:2YE0CZKwNuSerK5kg7IFJJ"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Torino",
+                  "name": "Turin, Italy"
+                },
+                "startDateIsoString": "2025-07-04T17:00+02:00",
+                "title": "Anyma",
+                "uri": "spotify:concert:4WWSY0rNJ2AhmpP8aobKF6"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Budapest",
+                  "name": "Ile Obudai / Hongrie"
+                },
+                "startDateIsoString": "2025-08-09T12:00+02:00",
+                "title": "Anyma",
+                "uri": "spotify:concert:5htsPreHFyAceUQqZSVLOq"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Saint-Cloud",
+                  "name": "Rock en Seine, Domaine national de Saint-Cloud"
+                },
+                "startDateIsoString": "2025-08-22T02:00+02:00",
+                "title": "Anyma",
+                "uri": "spotify:concert:5OEpAXcl2N6pVYwPh2I6L8"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Glattbrugg",
+                  "name": "Z\u00dcRICH OPENAIR"
+                },
+                "startDateIsoString": "2025-08-23T14:00+02:00",
+                "title": "Anyma",
+                "uri": "spotify:concert:6VqkIOZdm2MHgr18u1kRLR"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Daresbury",
+                  "name": "Creamfields"
+                },
+                "startDateIsoString": "2025-08-24T00:00+01:00",
+                "title": "Anyma",
+                "uri": "spotify:concert:2mxfckRbEBTvCYoyUBCfhv"
+              }
+            }
+          ],
+          "totalCount": 8
+        },
+        "merch": {
+          "items": []
+        }
+      },
+      "headerImage": {
+        "data": {
+          "__typename": "ImageV2",
+          "sources": [
+            {
+              "maxHeight": 640,
+              "maxWidth": 1494,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab6761860000019410ccc023ac34142d902c3514"
+            },
+            {
+              "maxHeight": 1080,
+              "maxWidth": 1920,
+              "url": "https://i2o.scdn.co/image/ab6761860000166710ccc023ac34142d902c3514"
+            },
+            {
+              "maxHeight": 641,
+              "maxWidth": 1495,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67618600009d8010ccc023ac34142d902c3514"
+            },
+            {
+              "maxHeight": 1140,
+              "maxWidth": 2660,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab6761860000eab110ccc023ac34142d902c3514"
+            }
+          ]
+        }
+      },
+      "id": "4iBwchw0U0GZv5RfVYSMxN",
+      "preRelease": null,
+      "profile": {
+        "biography": {
+          "text": null,
+          "type": "BIOGRAPHY"
+        },
+        "externalLinks": {
+          "items": [
+            {
+              "name": "FACEBOOK",
+              "url": "https://facebook.com/anyma.ofc"
+            },
+            {
+              "name": "INSTAGRAM",
+              "url": "https://instagram.com/anyma"
+            },
+            {
+              "name": "TWITTER",
+              "url": "https://twitter.com/anyma_eva"
+            }
+          ]
+        },
+        "name": "Anyma",
+        "pinnedItem": {
+          "backgroundImageV2": {
+            "data": {
+              "__typename": "ImageV2",
+              "sources": [
+                {
+                  "url": "https://image-cdn-fa.spotifycdn.com/image/ab676170000059102e00138f179a62d40bf2682b"
+                }
+              ]
+            }
+          },
+          "comment": "",
+          "itemV2": {
+            "__typename": "AlbumResponseWrapper",
+            "data": {
+              "__typename": "Album",
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e021496eabdcc91b768abca87a3",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048511496eabdcc91b768abca87a3",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731496eabdcc91b768abca87a3",
+                    "width": 640
+                  }
+                ]
+              },
+              "name": "Hypnotized (John Summit Remix)",
+              "type": "SINGLE",
+              "uri": "spotify:album:2eZyOgXmahrzJwNeYiilwQ"
+            }
+          },
+          "subtitle": "Single \u2022 New Release",
+          "thumbnailImage": {
+            "data": {
+              "sources": [
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000075a01496eabdcc91b768abca87a3"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000090d51496eabdcc91b768abca87a3"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000ab871496eabdcc91b768abca87a3"
+                }
+              ]
+            }
+          },
+          "title": "Hypnotized (John Summit Remix)",
+          "type": "ALBUM",
+          "uri": "spotify:album:2eZyOgXmahrzJwNeYiilwQ"
+        },
+        "playlistsV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "<a href=\"spotify:artist:1UL813H5aj3e8ekE5RqWqc\">Tale Of Us</a>'s favorite tracks. Updated regularly. Curated by Tale Of Us. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002d77264b03b14f338ea17c5d4",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Tale Of Us' track IDs",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWYSp7hjZhav2"
+              }
+            }
+          ],
+          "totalCount": 1
+        },
+        "verified": true
+      },
+      "relatedContent": {
+        "appearsOn": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Argy"
+                          },
+                          "uri": "spotify:artist:1NaQOKgddaJipUtmptb7GI"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024b0cf5068f1af6be93fa0a60",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514b0cf5068f1af6be93fa0a60",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734b0cf5068f1af6be93fa0a60",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "34eqkiNdakhMaOmklFTpOv",
+                    "name": "New World",
+                    "sharingInfo": {
+                      "shareId": "XogAUgn2SCG3do4dR7-e5Q",
+                      "shareUrl": "https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv?si=XogAUgn2SCG3do4dR7-e5Q"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:34eqkiNdakhMaOmklFTpOv"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "R\u00dcF\u00dcS DU SOL"
+                          },
+                          "uri": "spotify:artist:5Pb27ujIyYb33zBqVysBkj"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b73fe8d1ede1d94961074685",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b73fe8d1ede1d94961074685",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b73fe8d1ede1d94961074685",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "73TcBRSRsPLKmxnjnVsSV3",
+                    "name": "Surrender (Remixes)",
+                    "sharingInfo": {
+                      "shareId": "-q4JiKIpSaCeNwR4_-IprQ",
+                      "shareUrl": "https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3?si=-q4JiKIpSaCeNwR4_-IprQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:73TcBRSRsPLKmxnjnVsSV3"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Swedish House Mafia"
+                          },
+                          "uri": "spotify:artist:1h6Cn3P4NGzXbaXidqURXs"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e026e9ee7f3ab0cd0d77c5368a9",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048516e9ee7f3ab0cd0d77c5368a9",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2736e9ee7f3ab0cd0d77c5368a9",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "71yJ0XH2iQA1uOk5CE95fx",
+                    "name": "Turn On The Lights again.. (feat. Future & Fred again..) [Remixes]",
+                    "sharingInfo": {
+                      "shareId": "9kGAFiCWTN-e_oLY1tBypA",
+                      "shareUrl": "https://open.spotify.com/album/71yJ0XH2iQA1uOk5CE95fx?si=9kGAFiCWTN-e_oLY1tBypA"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:71yJ0XH2iQA1uOk5CE95fx"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "CamelPhat"
+                          },
+                          "uri": "spotify:artist:240wlM8vDrf6S4zCyzGj2W"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e027c07b1e9df93f84394007555",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048517c07b1e9df93f84394007555",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2737c07b1e9df93f84394007555",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "6GupLKo0sruoLNQZZ8MFTW",
+                    "name": "Spiritual Milk",
+                    "sharingInfo": {
+                      "shareId": "Tu1qlLFoQSucgMuo9ePbwQ",
+                      "shareUrl": "https://open.spotify.com/album/6GupLKo0sruoLNQZZ8MFTW?si=Tu1qlLFoQSucgMuo9ePbwQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6GupLKo0sruoLNQZZ8MFTW"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0216223bfb854175cd4cebc34e",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485116223bfb854175cd4cebc34e",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27316223bfb854175cd4cebc34e",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "3vvD1FivxYbLWMsOTPCvmi",
+                    "name": "Unity",
+                    "sharingInfo": {
+                      "shareId": "g1ACNmY3QnGDq7l6MWomnA",
+                      "shareUrl": "https://open.spotify.com/album/3vvD1FivxYbLWMsOTPCvmi?si=g1ACNmY3QnGDq7l6MWomnA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3vvD1FivxYbLWMsOTPCvmi"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0268ac9eed2e46bab1887137a2",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485168ac9eed2e46bab1887137a2",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27368ac9eed2e46bab1887137a2",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "4ufQcFRJtuzNHDx2Kpjax7",
+                    "name": "Realm Of Consciouness Pt. VI",
+                    "sharingInfo": {
+                      "shareId": "wIeivJflRfOxC2qBdMTAbQ",
+                      "shareUrl": "https://open.spotify.com/album/4ufQcFRJtuzNHDx2Kpjax7?si=wIeivJflRfOxC2qBdMTAbQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:4ufQcFRJtuzNHDx2Kpjax7"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Amelie Lens"
+                          },
+                          "uri": "spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0228d78ee0f5758474fd8ae579",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485128d78ee0f5758474fd8ae579",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27328d78ee0f5758474fd8ae579",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "2TGeXmcebG4mLWM5t2t1Tg",
+                    "name": "Global Underground #44: Amelie Lens - Antwerp (DJ Mix)",
+                    "sharingInfo": {
+                      "shareId": "dIiD2KNqSvShaHTWZuSutQ",
+                      "shareUrl": "https://open.spotify.com/album/2TGeXmcebG4mLWM5t2t1Tg?si=dIiD2KNqSvShaHTWZuSutQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2TGeXmcebG4mLWM5t2t1Tg"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "KAS:ST"
+                          },
+                          "uri": "spotify:artist:7orlzf5LTqSnCzURkZFebN"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0270a01a99d38471c4df5e395f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485170a01a99d38471c4df5e395f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27370a01a99d38471c4df5e395f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "39rJ5ozCZCmmeC7N0e2JOS",
+                    "name": "A Magic World (Remixes)",
+                    "sharingInfo": {
+                      "shareId": "x2fwl-wvSnqH5cRqJDZuyg",
+                      "shareUrl": "https://open.spotify.com/album/39rJ5ozCZCmmeC7N0e2JOS?si=x2fwl-wvSnqH5cRqJDZuyg"
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:39rJ5ozCZCmmeC7N0e2JOS"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0237cb53fc78d733fbe0f39079",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485137cb53fc78d733fbe0f39079",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27337cb53fc78d733fbe0f39079",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "4ghEGe8PxoSMrpZJeaxkZA",
+                    "name": "Workout Music 2024",
+                    "sharingInfo": {
+                      "shareId": "rPZLAKWaSyGpyxiBbL7qCg",
+                      "shareUrl": "https://open.spotify.com/album/4ghEGe8PxoSMrpZJeaxkZA?si=rPZLAKWaSyGpyxiBbL7qCg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:4ghEGe8PxoSMrpZJeaxkZA"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Moby"
+                          },
+                          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02470a35b8702521728c7b2e61",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851470a35b8702521728c7b2e61",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273470a35b8702521728c7b2e61",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "2N9K6ezxGNAXWGvbZ6oote",
+                    "name": "All Visible Objects [Remixed : DJ Set]",
+                    "sharingInfo": {
+                      "shareId": "RKdIVBw0RK-3O-e5juFP_g",
+                      "shareUrl": "https://open.spotify.com/album/2N9K6ezxGNAXWGvbZ6oote?si=RKdIVBw0RK-3O-e5juFP_g"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2N9K6ezxGNAXWGvbZ6oote"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "CamelPhat"
+                          },
+                          "uri": "spotify:artist:240wlM8vDrf6S4zCyzGj2W"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e028c86b678d70230657d1f9438",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048518c86b678d70230657d1f9438",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2738c86b678d70230657d1f9438",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "0awg4VZUkiWoEEDBysfq7y",
+                    "name": "The Sign Spiritual Milk Edit",
+                    "sharingInfo": {
+                      "shareId": "pm1AWItsTq2DVQvmc_9JkA",
+                      "shareUrl": "https://open.spotify.com/album/0awg4VZUkiWoEEDBysfq7y?si=pm1AWItsTq2DVQvmc_9JkA"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:0awg4VZUkiWoEEDBysfq7y"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Creep Giuliano"
+                          },
+                          "uri": "spotify:artist:61hK1jzlZ1AnEQhq7dLmAv"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02318f32cd52b15210412bbce7",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851318f32cd52b15210412bbce7",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273318f32cd52b15210412bbce7",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "12hdymGuwT2HvfPEr19cWo",
+                    "name": "Alzati e Cammina",
+                    "sharingInfo": {
+                      "shareId": "Cci5gQfYQQeVGh8VRCF1Kw",
+                      "shareUrl": "https://open.spotify.com/album/12hdymGuwT2HvfPEr19cWo?si=Cci5gQfYQQeVGh8VRCF1Kw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:12hdymGuwT2HvfPEr19cWo"
+                  }
+                ],
+                "totalCount": 1
+              }
+            }
+          ],
+          "totalCount": 12
+        },
+        "discoveredOnV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "MC Menor JP au sommet de la premi\u00e8re playlist de France.",
+                "id": "37i9dQZF1DWVuV87wUBNwc",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000027e1464268ae3ead11ca84676",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Hits du Moment",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWVuV87wUBNwc"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Anyma. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO2vWqjw",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO2vWqjw-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Anyma",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO2vWqjw"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Discover the best tracks by Anyma and the mesmerizing world of Afterlife. An enchanting playlist for Progressive house and melodic techno lovers. Dive into a unique sonic experience. \ud83c\udfb6",
+                "id": "4ZAoInvsns8J9d6loJ9YoY",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cd5e37784805f0de4da6585d4",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "BEST OF ANYMA | AFTERLIFE \ud83e\uddbe ",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Abstract"
+                  }
+                },
+                "uri": "spotify:playlist:4ZAoInvsns8J9d6loJ9YoY"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Pumping tracks for pumping iron!",
+                "id": "37i9dQZF1DXdxcBWuJkbcy",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002636a699fcada8d04339c7803",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Gym Hits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXdxcBWuJkbcy"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Home is where the main stage is \ud83d\udc97 with Martin Garrix",
+                "id": "37i9dQZF1DX1kCIzMYtzum",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000024cf1707f40fc4e4eeded35e9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "EDM 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX1kCIzMYtzum"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "La playlist survitamin\u00e9e !",
+                "id": "37i9dQZF1DX8685vIIepKh",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002be0235eaec22950f50986841",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Garde la p\u00eache !",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX8685vIIepKh"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The world's biggest dance & electronic hits. Cover: Miss Monique",
+                "id": "37i9dQZF1DX4dyzvuaRJ0n",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000028fa06c80c9026416cbb105d1",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "mint",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
+                "id": "37i9dQZF1DX6GJXiuZRisr",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002c10f679b1fe5266e9c7eaa8f",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Night Rider",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX6GJXiuZRisr"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Afterlife Releases &amp; Afterlife Worldwide selection ! Inspired by the world of Afterlife ! Melodic Techno and Techno House MIX ! Including artists : Tale Of Us \u2022 Anyma \u2022 Kevin De Vries \u2022 Mathame \u2022 Camelphat \u2022 MRAK \u2022 Stephan Jolk \u2022 Mind Against and many more ! ",
+                "id": "6vnFMXxcaNOIWydX0vP3vL",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c32e263a04d2838836473b560",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "BEST OF AFTERLIFE 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Abstract"
+                  }
+                },
+                "uri": "spotify:playlist:6vnFMXxcaNOIWydX0vP3vL"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "id": "0q0zemkMq3PRgg65oJqG0n",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841512984ce73b9731c82e485b",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "TECHNO TULUM\ud83c\udf34",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "adolfo.salgado99"
+                  }
+                },
+                "uri": "spotify:playlist:0q0zemkMq3PRgg65oJqG0n"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "A hypnotic journey through Melodic Techno. Photographer: Kevin Mazur via Getty Images",
+                "id": "37i9dQZF1DX9gPDOAK0Yqv",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000025c820da003375796b71df840",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Melodic Techno Elements",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX9gPDOAK0Yqv"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Tap it back or go for a spin with these uptempo tracks!",
+                "id": "37i9dQZF1DX32NsLKyzScr",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002ecbc3f66c5912d783dee45b7",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Power Hour",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX32NsLKyzScr"
+              }
+            }
+          ],
+          "totalCount": 100
+        },
+        "featuringV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Anyma. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO2vWqjw",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO2vWqjw-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Anyma",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO2vWqjw"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "With Argy, Kevin de Vries, Chris Avantgarde and more",
+                "id": "37i9dQZF1E4ps1uyfLxHJF",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/4iBwchw0U0GZv5RfVYSMxN/en",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Anyma Radio",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1E4ps1uyfLxHJF"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Get your beast mode on!",
+                "id": "37i9dQZF1DX76Wlfdnj7AP",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000021c85876e7d9b8633ec32a8b9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Beast Mode",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX76Wlfdnj7AP"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Home is where the main stage is \ud83d\udc97 with Martin Garrix",
+                "id": "37i9dQZF1DX1kCIzMYtzum",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000024cf1707f40fc4e4eeded35e9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "EDM 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX1kCIzMYtzum"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Pumping tracks for pumping iron!",
+                "id": "37i9dQZF1DXdxcBWuJkbcy",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002636a699fcada8d04339c7803",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Gym Hits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXdxcBWuJkbcy"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The best of today's dance hits. Cover: Miss Monique",
+                "id": "37i9dQZF1DXdIpacQDPDV5",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000021e3374b6ca3cc969ee2f861d",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "mint Canada",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXdIpacQDPDV5"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The world's biggest dance & electronic hits. Cover: Miss Monique",
+                "id": "37i9dQZF1DX4dyzvuaRJ0n",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000028fa06c80c9026416cbb105d1",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "mint",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
+                "id": "37i9dQZF1DX6GJXiuZRisr",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002c10f679b1fe5266e9c7eaa8f",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Night Rider",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX6GJXiuZRisr"
+              }
+            }
+          ],
+          "totalCount": 8
+        },
+        "relatedArtists": {
+          "items": [
+            {
+              "id": "1NaQOKgddaJipUtmptb7GI",
+              "profile": {
+                "name": "Argy"
+              },
+              "uri": "spotify:artist:1NaQOKgddaJipUtmptb7GI",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb6af308cbf977d9d0d4c4d820",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1786af308cbf977d9d0d4c4d820",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051746af308cbf977d9d0d4c4d820",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "113reBz1jA6rVxbXl55mlj",
+              "profile": {
+                "name": "Reb\u016bke"
+              },
+              "uri": "spotify:artist:113reBz1jA6rVxbXl55mlj",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebac13fe2e01ba8bdb3ddd1f89",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178ac13fe2e01ba8bdb3ddd1f89",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174ac13fe2e01ba8bdb3ddd1f89",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3BkRu2TGd2I1uBxZKddfg1",
+              "profile": {
+                "name": "ARTBAT"
+              },
+              "uri": "spotify:artist:3BkRu2TGd2I1uBxZKddfg1",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb111dd7f3a44a7c5b9c1aeb06",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178111dd7f3a44a7c5b9c1aeb06",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174111dd7f3a44a7c5b9c1aeb06",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6htWLP8aiuf19FYMA4VQAZ",
+              "profile": {
+                "name": "Massano"
+              },
+              "uri": "spotify:artist:6htWLP8aiuf19FYMA4VQAZ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb4c500573f0fceb7a0ac018ac",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1784c500573f0fceb7a0ac018ac",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051744c500573f0fceb7a0ac018ac",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "11aPF3sc8lDWNqPVInm4Zx",
+              "profile": {
+                "name": "Kevin de Vries"
+              },
+              "uri": "spotify:artist:11aPF3sc8lDWNqPVInm4Zx",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebfca0470ef4050a23e8be83a2",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178fca0470ef4050a23e8be83a2",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174fca0470ef4050a23e8be83a2",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2NrprO4CludRmaWtpqud10",
+              "profile": {
+                "name": "Rivo"
+              },
+              "uri": "spotify:artist:2NrprO4CludRmaWtpqud10",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebf8c0c74db840aa8a919fc3f8",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178f8c0c74db840aa8a919fc3f8",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174f8c0c74db840aa8a919fc3f8",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "19HFRWmRCl27kTk6LeqAO8",
+              "profile": {
+                "name": "MORTEN"
+              },
+              "uri": "spotify:artist:19HFRWmRCl27kTk6LeqAO8",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb9ac615ec13df35bc1017aec1",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1789ac615ec13df35bc1017aec1",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051749ac615ec13df35bc1017aec1",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7mC3RkNNTV6p2j9w4F8Ip4",
+              "profile": {
+                "name": "Layton Giordani"
+              },
+              "uri": "spotify:artist:7mC3RkNNTV6p2j9w4F8Ip4",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb6c6952edf91019d3d9ce777e",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1786c6952edf91019d3d9ce777e",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051746c6952edf91019d3d9ce777e",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4xG5i2Smlt6o5QxuGp9LqM",
+              "profile": {
+                "name": "Son of Son"
+              },
+              "uri": "spotify:artist:4xG5i2Smlt6o5QxuGp9LqM",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebf11439ce3c85076a8ef24e32",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178f11439ce3c85076a8ef24e32",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174f11439ce3c85076a8ef24e32",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "715OI7hiv58daVlEDXM47U",
+              "profile": {
+                "name": "Chris Avantgarde"
+              },
+              "uri": "spotify:artist:715OI7hiv58daVlEDXM47U",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebf94ebd8a3ec3e68ae25eb746",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178f94ebd8a3ec3e68ae25eb746",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174f94ebd8a3ec3e68ae25eb746",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7ICFbeWRkxZ9JppxYRhtBl",
+              "profile": {
+                "name": "Baset"
+              },
+              "uri": "spotify:artist:7ICFbeWRkxZ9JppxYRhtBl",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebeb1adf1fde8f6c75f132f082",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178eb1adf1fde8f6c75f132f082",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174eb1adf1fde8f6c75f132f082",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4yX6mpMyBGf9UfvBB8JJrc",
+              "profile": {
+                "name": "HAYLA"
+              },
+              "uri": "spotify:artist:4yX6mpMyBGf9UfvBB8JJrc",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb327e391ef0e0e7b11e2db1c9",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178327e391ef0e0e7b11e2db1c9",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174327e391ef0e0e7b11e2db1c9",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7kNqXtgeIwFtelmRjWv205",
+              "profile": {
+                "name": "John Summit"
+              },
+              "uri": "spotify:artist:7kNqXtgeIwFtelmRjWv205",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb81180f8a7fd1f2c2e657c436",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17881180f8a7fd1f2c2e657c436",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517481180f8a7fd1f2c2e657c436",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0DdDnziut7wOo6cAYWVZC5",
+              "profile": {
+                "name": "KREAM"
+              },
+              "uri": "spotify:artist:0DdDnziut7wOo6cAYWVZC5",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb4518a931bc31c3339bf48e47",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1784518a931bc31c3339bf48e47",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051744518a931bc31c3339bf48e47",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5mU7ohKXRejACFS8eZIixp",
+              "profile": {
+                "name": "Malou"
+              },
+              "uri": "spotify:artist:5mU7ohKXRejACFS8eZIixp",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebb318c95576edfc64b533d4ea",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178b318c95576edfc64b533d4ea",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174b318c95576edfc64b533d4ea",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1ChtRJ3f4rbv4vtz87i6CD",
+              "profile": {
+                "name": "Cassian"
+              },
+              "uri": "spotify:artist:1ChtRJ3f4rbv4vtz87i6CD",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb7a962fd922a918f6fbddc2d2",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1787a962fd922a918f6fbddc2d2",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051747a962fd922a918f6fbddc2d2",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6PTNNcLg90Kkl89JcEwKhT",
+              "profile": {
+                "name": "Alex Wann"
+              },
+              "uri": "spotify:artist:6PTNNcLg90Kkl89JcEwKhT",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb1519e881b10fb2035f644427",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1781519e881b10fb2035f644427",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051741519e881b10fb2035f644427",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5lVNSw2GPci8kebrAQpZqU",
+              "profile": {
+                "name": "Eli Brown"
+              },
+              "uri": "spotify:artist:5lVNSw2GPci8kebrAQpZqU",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb0f9b9210b2276c1268ece518",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1780f9b9210b2276c1268ece518",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051740f9b9210b2276c1268ece518",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6zx3vuOK841XDu7XFozhFv",
+              "profile": {
+                "name": "Loofy"
+              },
+              "uri": "spotify:artist:6zx3vuOK841XDu7XFozhFv",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb90e8e7ebf3fc96d413df84fc",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17890e8e7ebf3fc96d413df84fc",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517490e8e7ebf3fc96d413df84fc",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0w1sbtZVQoK6GzV4A4OkCv",
+              "profile": {
+                "name": "Mau P"
+              },
+              "uri": "spotify:artist:0w1sbtZVQoK6GzV4A4OkCv",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebc494c9e97f2c6ee7560db705",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178c494c9e97f2c6ee7560db705",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174c494c9e97f2c6ee7560db705",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "totalCount": 40
+        }
+      },
+      "relatedVideos": {
+        "__typename": "RelatedVideoPage",
+        "items": [],
+        "totalCount": 0
+      },
+      "saved": false,
+      "sharingInfo": {
+        "shareId": "k3nu3Q9hQMK6aZIErgkv0A",
+        "shareUrl": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN?si=k3nu3Q9hQMK6aZIErgkv0A"
+      },
+      "stats": {
+        "followers": 666362,
+        "monthlyListeners": 7263420,
+        "topCities": {
+          "items": [
+            {
+              "city": "Mexico City",
+              "country": "MX",
+              "numberOfListeners": 140477,
+              "region": "CMX"
+            },
+            {
+              "city": "S\u00e3o Paulo",
+              "country": "BR",
+              "numberOfListeners": 85597,
+              "region": "SP"
+            },
+            {
+              "city": "Paris",
+              "country": "FR",
+              "numberOfListeners": 82472,
+              "region": "IDF"
+            },
+            {
+              "city": "Sydney",
+              "country": "AU",
+              "numberOfListeners": 80819,
+              "region": "NSW"
+            },
+            {
+              "city": "Istanbul",
+              "country": "TR",
+              "numberOfListeners": 79753,
+              "region": "34"
+            }
+          ]
+        },
+        "worldRank": 0
+      },
+      "uri": "spotify:artist:4iBwchw0U0GZv5RfVYSMxN",
+      "visualIdentity": {
+        "wideFullBleedImage": {
+          "__typename": "VisualIdentityImage",
+          "extractedColorSet": {
+            "encoreBaseSetTextColor": {
+              "alpha": 255,
+              "blue": 206,
+              "green": 189,
+              "red": 172
+            },
+            "highContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 100,
+                "green": 85,
+                "red": 70
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 66,
+                "green": 52,
+                "red": 38
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 225,
+                "green": 207,
+                "red": 190
+              }
+            },
+            "higherContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 69,
+                "green": 55,
+                "red": 40
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 103,
+                "green": 88,
+                "red": 72
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 96,
+                "green": 215,
+                "red": 30
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 225,
+                "green": 207,
+                "red": 190
+              }
+            },
+            "minContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 136,
+                "green": 120,
+                "red": 104
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 108,
+                "green": 93,
+                "red": 77
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              }
+            }
+          }
+        }
+      },
+      "visuals": {
+        "avatarImage": {
+          "extractedColors": {
+            "colorRaw": {
+              "hex": "#A05048"
+            }
+          },
+          "sources": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb7f93152e853393d8c7cc71a0",
+              "width": 640
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1787f93152e853393d8c7cc71a0",
+              "width": 160
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051747f93152e853393d8c7cc71a0",
+              "width": 320
+            }
+          ]
+        },
+        "gallery": {
+          "items": []
+        }
+      },
+      "watchFeedEntrypoint": null
+    }
+  },
+  "extensions": {}
+}

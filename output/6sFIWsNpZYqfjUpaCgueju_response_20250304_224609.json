@@ -1,0 +1,5128 @@
+{
+  "data": {
+    "artistUnion": {
+      "__typename": "Artist",
+      "discography": {
+        "albums": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2023 604 Records Inc.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2023 604 Records Inc.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e404a26decd42c4872ada17a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e404a26decd42c4872ada17a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e404a26decd42c4872ada17a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 28,
+                      "month": 7,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "6BlR8cl4LDhSiKAeCR5y9l",
+                    "label": "604 Records",
+                    "name": "The Loveliest Time",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "3GLM7EluQLiapIA5E4xA5Q",
+                      "shareUrl": "https://open.spotify.com/album/6BlR8cl4LDhSiKAeCR5y9l?si=3GLM7EluQLiapIA5E4xA5Q"
+                    },
+                    "tracks": {
+                      "totalCount": 13
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6BlR8cl4LDhSiKAeCR5y9l"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2022 604 Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2022 604 Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02143ab8ce62dfe479a63cd58d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851143ab8ce62dfe479a63cd58d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273143ab8ce62dfe479a63cd58d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 21,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2022
+                    },
+                    "id": "7HOXuhguMDpuYsaFQWbV88",
+                    "label": "604 Records",
+                    "name": "The Loneliest Time",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "0GShesydSHyZhV1lcEFoIg",
+                      "shareUrl": "https://open.spotify.com/album/7HOXuhguMDpuYsaFQWbV88?si=0GShesydSHyZhV1lcEFoIg"
+                    },
+                    "tracks": {
+                      "totalCount": 16
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:7HOXuhguMDpuYsaFQWbV88"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2020 604 Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2020 604 Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025026be53a08d3989d19fd994",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515026be53a08d3989d19fd994",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735026be53a08d3989d19fd994",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 21,
+                      "month": 5,
+                      "precision": "DAY",
+                      "year": 2020
+                    },
+                    "id": "449tCkuH49Wlto9x3r4XfW",
+                    "label": "604 Records",
+                    "name": "Dedicated Side B",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "trBYfoP8RFyNZYNks-FCJQ",
+                      "shareUrl": "https://open.spotify.com/album/449tCkuH49Wlto9x3r4XfW?si=trBYfoP8RFyNZYNks-FCJQ"
+                    },
+                    "tracks": {
+                      "totalCount": 12
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:449tCkuH49Wlto9x3r4XfW"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2019 604 Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2019 604 Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e026b50de5c087ab40383de4c20",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048516b50de5c087ab40383de4c20",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2736b50de5c087ab40383de4c20",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 17,
+                      "month": 5,
+                      "precision": "DAY",
+                      "year": 2019
+                    },
+                    "id": "2KbJh2sdWYeU65dtc7zAX4",
+                    "label": "604 Records",
+                    "name": "Dedicated",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "ykLuVqYZTpu1Kqk_vo6IuQ",
+                      "shareUrl": "https://open.spotify.com/album/2KbJh2sdWYeU65dtc7zAX4?si=ykLuVqYZTpu1Kqk_vo6IuQ"
+                    },
+                    "tracks": {
+                      "totalCount": 15
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2KbJh2sdWYeU65dtc7zAX4"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2016 604 Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2016 604 Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a8c474bf2dfff11d3920dfa6",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a8c474bf2dfff11d3920dfa6",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a8c474bf2dfff11d3920dfa6",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 26,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2016
+                    },
+                    "id": "56b7JK6KRRMChTBUa3WFiy",
+                    "label": "604 Records",
+                    "name": "E\u00b7mo\u00b7tion Side B",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "fElgtAc-TZGP_-O6JyqDAQ",
+                      "shareUrl": "https://open.spotify.com/album/56b7JK6KRRMChTBUa3WFiy?si=fElgtAc-TZGP_-O6JyqDAQ"
+                    },
+                    "tracks": {
+                      "totalCount": 8
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:56b7JK6KRRMChTBUa3WFiy"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2015 604 Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2015 604 Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0268f98a4ae525bfb3ddd8ec96",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485168f98a4ae525bfb3ddd8ec96",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27368f98a4ae525bfb3ddd8ec96",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 21,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2015
+                    },
+                    "id": "4WUQ7JgAXBZb2x5BrgUtzR",
+                    "label": "604 Records",
+                    "name": "E\u00b7mo\u00b7tion (Deluxe)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "J5wxFahjR4uMsTGhGWBnSg",
+                      "shareUrl": "https://open.spotify.com/album/4WUQ7JgAXBZb2x5BrgUtzR?si=J5wxFahjR4uMsTGhGWBnSg"
+                    },
+                    "tracks": {
+                      "totalCount": 15
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4WUQ7JgAXBZb2x5BrgUtzR"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2015 604 Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2015 604 Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e022fbb743cf6f728c2fb3ef45a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048512fbb743cf6f728c2fb3ef45a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2732fbb743cf6f728c2fb3ef45a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 21,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2015
+                    },
+                    "id": "6uGjY98VFtkTxllIwQEm1C",
+                    "label": "604 Records",
+                    "name": "E\u00b7mo\u00b7tion (Deluxe Expanded Edition)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "raeCjk0ZRlGeVvfUEpXsHA",
+                      "shareUrl": "https://open.spotify.com/album/6uGjY98VFtkTxllIwQEm1C?si=raeCjk0ZRlGeVvfUEpXsHA"
+                    },
+                    "tracks": {
+                      "totalCount": 17
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6uGjY98VFtkTxllIwQEm1C"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2012 604 Records Inc.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2012 604 Records Inc.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0275a23755cc01729b28291c96",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485175a23755cc01729b28291c96",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27375a23755cc01729b28291c96",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 18,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2012
+                    },
+                    "id": "37P4BHTOht7qL3HhixE5Yx",
+                    "label": "604 Records Inc.",
+                    "name": "Kiss (Deluxe)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "UE3WlyQZQFGRRToupmcikw",
+                      "shareUrl": "https://open.spotify.com/album/37P4BHTOht7qL3HhixE5Yx?si=UE3WlyQZQFGRRToupmcikw"
+                    },
+                    "tracks": {
+                      "totalCount": 16
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:37P4BHTOht7qL3HhixE5Yx"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2008 604 Records Inc.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2008 604 Records Inc.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d356bf1966701b6f475a9b8b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d356bf1966701b6f475a9b8b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d356bf1966701b6f475a9b8b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 30,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2008
+                    },
+                    "id": "2NLFH74juZdW3TieNmEyWW",
+                    "label": "604 Records Inc.",
+                    "name": "Tug Of War",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "Vvimf_eiTg6zoQGwf7fCAg",
+                      "shareUrl": "https://open.spotify.com/album/2NLFH74juZdW3TieNmEyWW?si=Vvimf_eiTg6zoQGwf7fCAg"
+                    },
+                    "tracks": {
+                      "totalCount": 10
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2NLFH74juZdW3TieNmEyWW"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 9
+        },
+        "compilations": {
+          "items": [],
+          "totalCount": 0
+        },
+        "latest": null,
+        "popularReleasesAlbums": {
+          "items": [
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2012 604 Records Inc.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2012 604 Records Inc.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0275a23755cc01729b28291c96",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485175a23755cc01729b28291c96",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27375a23755cc01729b28291c96",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 18,
+                "month": 9,
+                "precision": "DAY",
+                "year": 2012
+              },
+              "id": "37P4BHTOht7qL3HhixE5Yx",
+              "label": "604 Records Inc.",
+              "name": "Kiss (Deluxe)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "UE3WlyQZQFGRRToupmcikw",
+                "shareUrl": "https://open.spotify.com/album/37P4BHTOht7qL3HhixE5Yx?si=UE3WlyQZQFGRRToupmcikw"
+              },
+              "tracks": {
+                "totalCount": 16
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:37P4BHTOht7qL3HhixE5Yx"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2016 Fuller House and related elements TM and \u00a9 Warner Bros. Entertainment Inc.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2016 This compilation WaterTower Music as licensee for Warner Bros. Entertainment Inc.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02434f802db783b6d177c1cf95",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851434f802db783b6d177c1cf95",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273434f802db783b6d177c1cf95",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 26,
+                "month": 2,
+                "precision": "DAY",
+                "year": 2016
+              },
+              "id": "0Slwo1r4Mvag0YtXe1LGq9",
+              "label": "WaterTower Music",
+              "name": "Everywhere You Look (The Fuller House Theme)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "n2BOTuJASxOjyepSnv6ZBw",
+                "shareUrl": "https://open.spotify.com/album/0Slwo1r4Mvag0YtXe1LGq9?si=n2BOTuJASxOjyepSnv6ZBw"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:0Slwo1r4Mvag0YtXe1LGq9"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2015 604 Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2015 604 Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022fbb743cf6f728c2fb3ef45a",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512fbb743cf6f728c2fb3ef45a",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732fbb743cf6f728c2fb3ef45a",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 21,
+                "month": 8,
+                "precision": "DAY",
+                "year": 2015
+              },
+              "id": "6uGjY98VFtkTxllIwQEm1C",
+              "label": "604 Records",
+              "name": "E\u00b7mo\u00b7tion (Deluxe Expanded Edition)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "raeCjk0ZRlGeVvfUEpXsHA",
+                "shareUrl": "https://open.spotify.com/album/6uGjY98VFtkTxllIwQEm1C?si=raeCjk0ZRlGeVvfUEpXsHA"
+              },
+              "tracks": {
+                "totalCount": 17
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:6uGjY98VFtkTxllIwQEm1C"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2022 604 Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2022 604 Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02143ab8ce62dfe479a63cd58d",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851143ab8ce62dfe479a63cd58d",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273143ab8ce62dfe479a63cd58d",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 21,
+                "month": 10,
+                "precision": "DAY",
+                "year": 2022
+              },
+              "id": "7HOXuhguMDpuYsaFQWbV88",
+              "label": "604 Records",
+              "name": "The Loneliest Time",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "0GShesydSHyZhV1lcEFoIg",
+                "shareUrl": "https://open.spotify.com/album/7HOXuhguMDpuYsaFQWbV88?si=0GShesydSHyZhV1lcEFoIg"
+              },
+              "tracks": {
+                "totalCount": 16
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:7HOXuhguMDpuYsaFQWbV88"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2023 604 Records Inc.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2023 604 Records Inc.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e404a26decd42c4872ada17a",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e404a26decd42c4872ada17a",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e404a26decd42c4872ada17a",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 28,
+                "month": 7,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "6BlR8cl4LDhSiKAeCR5y9l",
+              "label": "604 Records",
+              "name": "The Loveliest Time",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "3GLM7EluQLiapIA5E4xA5Q",
+                "shareUrl": "https://open.spotify.com/album/6BlR8cl4LDhSiKAeCR5y9l?si=3GLM7EluQLiapIA5E4xA5Q"
+              },
+              "tracks": {
+                "totalCount": 13
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:6BlR8cl4LDhSiKAeCR5y9l"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2019 Darkroom/Geffen Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2019 Darkroom/Geffen Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029ab3f2669627395d062cc450",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519ab3f2669627395d062cc450",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739ab3f2669627395d062cc450",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 31,
+                "month": 7,
+                "precision": "DAY",
+                "year": 2019
+              },
+              "id": "4JkXuSuTgVNPh7hBOhPXjz",
+              "label": "Darkroom/Geffen Records",
+              "name": "OMG (with Carly Rae Jepsen)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "5vrHy_3GQ4aTPvgz-eBpdA",
+                "shareUrl": "https://open.spotify.com/album/4JkXuSuTgVNPh7hBOhPXjz?si=5vrHy_3GQ4aTPvgz-eBpdA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:4JkXuSuTgVNPh7hBOhPXjz"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2017 604 Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2017 604 Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02da64db94da6758ef73dd72b8",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851da64db94da6758ef73dd72b8",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273da64db94da6758ef73dd72b8",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 26,
+                "month": 5,
+                "precision": "DAY",
+                "year": 2017
+              },
+              "id": "4v55yS2vSSsL0ODcLL4Srr",
+              "label": "604 Records",
+              "name": "Cut To The Feeling",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "lCL2SneTReC9qGU4bnAcGA",
+                "shareUrl": "https://open.spotify.com/album/4v55yS2vSSsL0ODcLL4Srr?si=lCL2SneTReC9qGU4bnAcGA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:4v55yS2vSSsL0ODcLL4Srr"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2022 Profil de Face",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2022 Profil de Face",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020009ba3bd632e133b5545fb2",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510009ba3bd632e133b5545fb2",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730009ba3bd632e133b5545fb2",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 14,
+                "month": 7,
+                "precision": "DAY",
+                "year": 2022
+              },
+              "id": "5xDEpaaXahmBHthMV414GK",
+              "label": "Profil de Face",
+              "name": "Move Me",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "obytlSllTNyA39ji33PCrA",
+                "shareUrl": "https://open.spotify.com/album/5xDEpaaXahmBHthMV414GK?si=obytlSllTNyA39ji33PCrA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:5xDEpaaXahmBHthMV414GK"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2020 604 Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2020 604 Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025026be53a08d3989d19fd994",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515026be53a08d3989d19fd994",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735026be53a08d3989d19fd994",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 21,
+                "month": 5,
+                "precision": "DAY",
+                "year": 2020
+              },
+              "id": "449tCkuH49Wlto9x3r4XfW",
+              "label": "604 Records",
+              "name": "Dedicated Side B",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "trBYfoP8RFyNZYNks-FCJQ",
+                "shareUrl": "https://open.spotify.com/album/449tCkuH49Wlto9x3r4XfW?si=trBYfoP8RFyNZYNks-FCJQ"
+              },
+              "tracks": {
+                "totalCount": 12
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:449tCkuH49Wlto9x3r4XfW"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2016 604 Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2016 604 Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a8c474bf2dfff11d3920dfa6",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a8c474bf2dfff11d3920dfa6",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a8c474bf2dfff11d3920dfa6",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 26,
+                "month": 8,
+                "precision": "DAY",
+                "year": 2016
+              },
+              "id": "56b7JK6KRRMChTBUa3WFiy",
+              "label": "604 Records",
+              "name": "E\u00b7mo\u00b7tion Side B",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "fElgtAc-TZGP_-O6JyqDAQ",
+                "shareUrl": "https://open.spotify.com/album/56b7JK6KRRMChTBUa3WFiy?si=fElgtAc-TZGP_-O6JyqDAQ"
+              },
+              "tracks": {
+                "totalCount": 8
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:56b7JK6KRRMChTBUa3WFiy"
+            }
+          ],
+          "totalCount": 20
+        },
+        "singles": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2023 604 Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2023 604 Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0275f31e4ce0cbe022f5afcff6",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485175f31e4ce0cbe022f5afcff6",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27375f31e4ce0cbe022f5afcff6",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 25,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "3bSKVkjI291JvapqMyhfsp",
+                    "label": "604 Records",
+                    "name": "Shadow (George Daniel Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "jVr7Aa9nQhq2cwxu2k7wWA",
+                      "shareUrl": "https://open.spotify.com/album/3bSKVkjI291JvapqMyhfsp?si=jVr7Aa9nQhq2cwxu2k7wWA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3bSKVkjI291JvapqMyhfsp"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2023 604 Records Inc.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2023 604 Records Inc.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a3f2abb51e9b8fe3c2696fb0",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a3f2abb51e9b8fe3c2696fb0",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a3f2abb51e9b8fe3c2696fb0",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 23,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "6sFcCZRpob37ZPAPxLTNxC",
+                    "label": "604 Records",
+                    "name": "Shy Boy",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "t4isrwqwS-qHpl1WkstUWA",
+                      "shareUrl": "https://open.spotify.com/album/6sFcCZRpob37ZPAPxLTNxC?si=t4isrwqwS-qHpl1WkstUWA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:6sFcCZRpob37ZPAPxLTNxC"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2022 604 Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2022 604 Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0277f83abfc0cf178c831d7413",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485177f83abfc0cf178c831d7413",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27377f83abfc0cf178c831d7413",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 7,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2022
+                    },
+                    "id": "3cvxqrZ2kNjqBFIAZTYObE",
+                    "label": "604 Records",
+                    "name": "The Loneliest Time",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "G5Fjc0JkQK-eLxU2cfq5_Q",
+                      "shareUrl": "https://open.spotify.com/album/3cvxqrZ2kNjqBFIAZTYObE?si=G5Fjc0JkQK-eLxU2cfq5_Q"
+                    },
+                    "tracks": {
+                      "totalCount": 4
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3cvxqrZ2kNjqBFIAZTYObE"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2022 604 Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2022 604 Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0205ca14c1627bd7f6dba5677d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485105ca14c1627bd7f6dba5677d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27305ca14c1627bd7f6dba5677d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 23,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2022
+                    },
+                    "id": "1eL7OHqoTbcvERfllDu7wU",
+                    "label": "604 Records",
+                    "name": "Talking To Yourself",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "s_QjA1FJSOKWRCW8dcLSUw",
+                      "shareUrl": "https://open.spotify.com/album/1eL7OHqoTbcvERfllDu7wU?si=s_QjA1FJSOKWRCW8dcLSUw"
+                    },
+                    "tracks": {
+                      "totalCount": 3
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1eL7OHqoTbcvERfllDu7wU"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2022 604 Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2022 604 Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b1e5690df9019989a763c183",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b1e5690df9019989a763c183",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b1e5690df9019989a763c183",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 5,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2022
+                    },
+                    "id": "3FbJP2ENAt01PfsOpe6txU",
+                    "label": "604 Records",
+                    "name": "Beach House",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "XuY653Z7RvaweaUTl7-z1g",
+                      "shareUrl": "https://open.spotify.com/album/3FbJP2ENAt01PfsOpe6txU?si=XuY653Z7RvaweaUTl7-z1g"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3FbJP2ENAt01PfsOpe6txU"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2022 Profil de Face",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2022 Profil de Face",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020009ba3bd632e133b5545fb2",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510009ba3bd632e133b5545fb2",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730009ba3bd632e133b5545fb2",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 14,
+                      "month": 7,
+                      "precision": "DAY",
+                      "year": 2022
+                    },
+                    "id": "5xDEpaaXahmBHthMV414GK",
+                    "label": "Profil de Face",
+                    "name": "Move Me",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "obytlSllTNyA39ji33PCrA",
+                      "shareUrl": "https://open.spotify.com/album/5xDEpaaXahmBHthMV414GK?si=obytlSllTNyA39ji33PCrA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5xDEpaaXahmBHthMV414GK"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2022 604 Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2022 604 Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c7dbd3dd06810a1e7272a695",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c7dbd3dd06810a1e7272a695",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c7dbd3dd06810a1e7272a695",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 6,
+                      "month": 5,
+                      "precision": "DAY",
+                      "year": 2022
+                    },
+                    "id": "05dmm1v43JFr338Glre22b",
+                    "label": "604 Records",
+                    "name": "Western Wind",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "k_9z_LYzQdSVTR5O5LgGSA",
+                      "shareUrl": "https://open.spotify.com/album/05dmm1v43JFr338Glre22b?si=k_9z_LYzQdSVTR5O5LgGSA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:05dmm1v43JFr338Glre22b"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2021 604 Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2021 604 Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0245aa03edab2261fc3ec949ac",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485145aa03edab2261fc3ec949ac",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27345aa03edab2261fc3ec949ac",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 19,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2021
+                    },
+                    "id": "67jykDboJ4Bzy7queu91sw",
+                    "label": "604 Records",
+                    "name": "Carly's Christmas Classics",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "uOIs6KTVT3uKXBMQk3m2Zg",
+                      "shareUrl": "https://open.spotify.com/album/67jykDboJ4Bzy7queu91sw?si=uOIs6KTVT3uKXBMQk3m2Zg"
+                    },
+                    "tracks": {
+                      "totalCount": 4
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:67jykDboJ4Bzy7queu91sw"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2020 604 Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2020 604 Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ba6bff4235973166f89da296",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ba6bff4235973166f89da296",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ba6bff4235973166f89da296",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 30,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2020
+                    },
+                    "id": "3CXazH6Cs05FeIsr5g4R5n",
+                    "label": "604 Records",
+                    "name": "It's Not Christmas Till Somebody Cries",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "xO__RBnYTy2jK7M977-Qtg",
+                      "shareUrl": "https://open.spotify.com/album/3CXazH6Cs05FeIsr5g4R5n?si=xO__RBnYTy2jK7M977-Qtg"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3CXazH6Cs05FeIsr5g4R5n"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(C) 2020 mxmtoon under exclusive license to AWAL Recordings America, Inc.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "(P) 2020 mxmtoon under exclusive license to AWAL Recordings America, Inc.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a3be3adfcf34b387d390937d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a3be3adfcf34b387d390937d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a3be3adfcf34b387d390937d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 9,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2020
+                    },
+                    "id": "1pCqdJgTHTaJ85dax43R28",
+                    "label": "mxmtoon",
+                    "name": "ok on your own",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "hjZDHMsuTgy4bugYWoeiOA",
+                      "shareUrl": "https://open.spotify.com/album/1pCqdJgTHTaJ85dax43R28?si=hjZDHMsuTgy4bugYWoeiOA"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1pCqdJgTHTaJ85dax43R28"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 45
+        },
+        "topTracks": {
+          "items": [
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0275a23755cc01729b28291c96"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485175a23755cc01729b28291c96"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27375a23755cc01729b28291c96"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:37P4BHTOht7qL3HhixE5Yx"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Carly Rae Jepsen"
+                      },
+                      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 193853
+                },
+                "id": "5UMgKsx50UqgN7VMNmeDuW",
+                "name": "Call Me Maybe",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1629408706",
+                "uri": "spotify:track:5UMgKsx50UqgN7VMNmeDuW"
+              },
+              "uid": "5b3a93aba0945c694bee"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02cf5459850259268f98b07f7a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851cf5459850259268f98b07f7a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273cf5459850259268f98b07f7a"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:7gTFf2EWBONpjKVjpWbs5p"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Owl City"
+                      },
+                      "uri": "spotify:artist:07QEuhtrNmmZ0zEcqE9SF6"
+                    },
+                    {
+                      "profile": {
+                        "name": "Carly Rae Jepsen"
+                      },
+                      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 4
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 205933
+                },
+                "id": "1kPpge9JDLpcj15qgrPbYX",
+                "name": "Good Time",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "688648546",
+                "uri": "spotify:track:1kPpge9JDLpcj15qgrPbYX"
+              },
+              "uid": "efeb58550dbabfbc2264"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e022fbb743cf6f728c2fb3ef45a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048512fbb743cf6f728c2fb3ef45a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2732fbb743cf6f728c2fb3ef45a"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6uGjY98VFtkTxllIwQEm1C"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Carly Rae Jepsen"
+                      },
+                      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 204415
+                },
+                "id": "5Cv2xkl4C42AhIJS1G6PVD",
+                "name": "I Really Like You",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "525649455",
+                "uri": "spotify:track:5Cv2xkl4C42AhIJS1G6PVD"
+              },
+              "uid": "ec0b8e2cdb862c28afa0"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e022fbb743cf6f728c2fb3ef45a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048512fbb743cf6f728c2fb3ef45a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2732fbb743cf6f728c2fb3ef45a"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6uGjY98VFtkTxllIwQEm1C"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Carly Rae Jepsen"
+                      },
+                      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 251327
+                },
+                "id": "5hvqUsj6aRCNuQdABRbdLi",
+                "name": "Run Away With Me",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "174748633",
+                "uri": "spotify:track:5hvqUsj6aRCNuQdABRbdLi"
+              },
+              "uid": "7b8b2ce4ba4916cb8f6a"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02da64db94da6758ef73dd72b8"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851da64db94da6758ef73dd72b8"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273da64db94da6758ef73dd72b8"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:4v55yS2vSSsL0ODcLL4Srr"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Carly Rae Jepsen"
+                      },
+                      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 207959
+                },
+                "id": "04IwAbcXxYcBHwe3Em4lYQ",
+                "name": "Cut To The Feeling",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "154867371",
+                "uri": "spotify:track:04IwAbcXxYcBHwe3Em4lYQ"
+              },
+              "uid": "4523be445b1aa8ee1a05"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02143ab8ce62dfe479a63cd58d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851143ab8ce62dfe479a63cd58d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273143ab8ce62dfe479a63cd58d"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:7HOXuhguMDpuYsaFQWbV88"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Carly Rae Jepsen"
+                      },
+                      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+                    },
+                    {
+                      "profile": {
+                        "name": "Rufus Wainwright"
+                      },
+                      "uri": "spotify:artist:2PfBzriIMRsCXPDtSy9vg8"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 274506
+                },
+                "id": "7z0AoxkjOJvBoGiFnVKRQu",
+                "name": "The Loneliest Time",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "33566570",
+                "uri": "spotify:track:7z0AoxkjOJvBoGiFnVKRQu"
+              },
+              "uid": "0e2f7c232237449ccdc3"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e022fbb743cf6f728c2fb3ef45a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048512fbb743cf6f728c2fb3ef45a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2732fbb743cf6f728c2fb3ef45a"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6uGjY98VFtkTxllIwQEm1C"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Carly Rae Jepsen"
+                      },
+                      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 199719
+                },
+                "id": "1euprQzQR1lh0XYHdkvRDM",
+                "name": "Your Type",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "43910466",
+                "uri": "spotify:track:1euprQzQR1lh0XYHdkvRDM"
+              },
+              "uid": "199b2d6f96a25b1593c7"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02434f802db783b6d177c1cf95"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851434f802db783b6d177c1cf95"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273434f802db783b6d177c1cf95"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:0Slwo1r4Mvag0YtXe1LGq9"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Carly Rae Jepsen"
+                      },
+                      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 198207
+                },
+                "id": "2igfp8RJrZCJwJa8DYBApH",
+                "name": "Everywhere You Look (The Fuller House Theme)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "24158404",
+                "uri": "spotify:track:2igfp8RJrZCJwJa8DYBApH"
+              },
+              "uid": "780ad0d62e89467ced1c"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02143ab8ce62dfe479a63cd58d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851143ab8ce62dfe479a63cd58d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273143ab8ce62dfe479a63cd58d"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:7HOXuhguMDpuYsaFQWbV88"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Carly Rae Jepsen"
+                      },
+                      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 173200
+                },
+                "id": "00JzymVVL93GzS2LEi5p4K",
+                "name": "Talking To Yourself",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "24518541",
+                "uri": "spotify:track:00JzymVVL93GzS2LEi5p4K"
+              },
+              "uid": "247709c9f14aca8a470b"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e404a26decd42c4872ada17a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851e404a26decd42c4872ada17a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e404a26decd42c4872ada17a"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6BlR8cl4LDhSiKAeCR5y9l"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Carly Rae Jepsen"
+                      },
+                      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 256528
+                },
+                "id": "1ZG3a8kVmKcviDKqXaANIb",
+                "name": "Kollage",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "12104283",
+                "uri": "spotify:track:1ZG3a8kVmKcviDKqXaANIb"
+              },
+              "uid": "c19ecbe461115f5c0e49"
+            }
+          ]
+        }
+      },
+      "goods": {
+        "concerts": {
+          "items": [],
+          "totalCount": 0
+        },
+        "merch": {
+          "items": []
+        }
+      },
+      "headerImage": {
+        "data": {
+          "__typename": "ImageV2",
+          "sources": [
+            {
+              "maxHeight": 640,
+              "maxWidth": 1494,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab6761860000019445f449d276d6c06224bced6e"
+            },
+            {
+              "maxHeight": 1080,
+              "maxWidth": 1920,
+              "url": "https://i2o.scdn.co/image/ab6761860000166745f449d276d6c06224bced6e"
+            },
+            {
+              "maxHeight": 641,
+              "maxWidth": 1495,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67618600009d8045f449d276d6c06224bced6e"
+            },
+            {
+              "maxHeight": 1140,
+              "maxWidth": 2660,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab6761860000eab145f449d276d6c06224bced6e"
+            }
+          ]
+        }
+      },
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "preRelease": null,
+      "profile": {
+        "biography": {
+          "text": "Carly Rae Jepsen\u2019s pristine, prismatic pop has long been the blissful soundtrack for first kisses and swirling romances, but the multi-platinum Grammy, Juno and Polaris Prize nominated Canadian star\u2019s knack for distilling a sea of emotions into brilliant songcraft has wooed critics as deeply as fans. The singer, songwriter, and actress first burst onto the international scene in 2012 with the sly and sublime \u201cCall Me Maybe.\u201d That blockbuster hit from her breakthrough album, Kiss, topped charts in over 47 countries, sold over 20 million singles, and was certified Diamond in the U.S. It also earned her two Grammy nominations for Best Pop Solo Performance and Song of the Year. On her 2015 synth-pop stunner E*MO*TION, Jepsen collaborated with Sia, Blood Orange\u2019s Dev Hynes, and Rostam Batmanglij (Vampire Weekend), expanding her sonic palette with shimmery synths and euphoric dance beats that channel the sugary rush of new flirtations. Noisey declared it the pop album of the year, while the beaming single \u201cI Really Like You\u201d went platinum. Her 2019 follow-up, Dedicated, covered even more musical and emotional ground, as our most hopeful romantic continued to chase her bliss through a breakup. The Atlantic called the album \u201cbrilliant\u201d with its \u201cgodlike bops.\u201d Jepsen returned again in May 2020 with a gift for her fans: Dedicated Side B, a buoyant set of dance-floor candy that affirmed her status as pop\u2019s undefeatable ambassador of love.",
+          "type": "AUTOBIOGRAPHY"
+        },
+        "externalLinks": {
+          "items": [
+            {
+              "name": "FACEBOOK",
+              "url": "https://facebook.com/Carlyraejepsen"
+            },
+            {
+              "name": "INSTAGRAM",
+              "url": "https://instagram.com/carlyraejepsen"
+            },
+            {
+              "name": "TWITTER",
+              "url": "https://twitter.com/carlyraejepsen"
+            },
+            {
+              "name": "WIKIPEDIA",
+              "url": "https://en.wikipedia.org/wiki/Carly_Rae_Jepsen"
+            }
+          ]
+        },
+        "name": "Carly Rae Jepsen",
+        "pinnedItem": {
+          "backgroundImageV2": null,
+          "comment": "",
+          "itemV2": {
+            "__typename": "PlaylistResponseWrapper",
+            "data": {
+              "__typename": "Playlist",
+              "images": {
+                "items": [
+                  {
+                    "sources": [
+                      {
+                        "height": null,
+                        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c6e6d76a25bde527f8a1875c6",
+                        "width": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              "name": "Carly's Complete Collection",
+              "uri": "spotify:playlist:6Hod7TmTCscMoA8Y737FEb"
+            }
+          },
+          "subtitle": "Playlist",
+          "thumbnailImage": {
+            "data": {
+              "sources": [
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c000097ac6e6d76a25bde527f8a1875c6"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c6e6d76a25bde527f8a1875c6"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000dec56e6d76a25bde527f8a1875c6"
+                }
+              ]
+            }
+          },
+          "title": "Carly's Complete Collection",
+          "type": "PLAYLIST",
+          "uri": "spotify:playlist:6Hod7TmTCscMoA8Y737FEb"
+        },
+        "playlistsV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c49f8404f93f036101994a726",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "The So Nice Tour Official Tunes",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Carly Rae Jepsen"
+                  }
+                },
+                "uri": "spotify:playlist:6Gw0DVuEpWO1b6wRRvySTo"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c6e6d76a25bde527f8a1875c6",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Carly's Complete Collection",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Carly Rae Jepsen"
+                  }
+                },
+                "uri": "spotify:playlist:6Hod7TmTCscMoA8Y737FEb"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72ccded10837267e70959524daa",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Carly\u2019s Christmas Classics",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Carly Rae Jepsen"
+                  }
+                },
+                "uri": "spotify:playlist:0yD6dHAAiyR3ZdChd1yoIf"
+              }
+            }
+          ],
+          "totalCount": 3
+        },
+        "verified": true
+      },
+      "relatedContent": {
+        "appearsOn": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Owl City"
+                          },
+                          "uri": "spotify:artist:07QEuhtrNmmZ0zEcqE9SF6"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02cf5459850259268f98b07f7a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851cf5459850259268f98b07f7a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273cf5459850259268f98b07f7a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2012
+                    },
+                    "id": "7gTFf2EWBONpjKVjpWbs5p",
+                    "name": "The Midsummer Station",
+                    "sharingInfo": {
+                      "shareId": "tsUlD6RRRjGXcHkOkoe5qw",
+                      "shareUrl": "https://open.spotify.com/album/7gTFf2EWBONpjKVjpWbs5p?si=tsUlD6RRRjGXcHkOkoe5qw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:7gTFf2EWBONpjKVjpWbs5p"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Gryffin"
+                          },
+                          "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020e5311993a01fb2e7169f6a7",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510e5311993a01fb2e7169f6a7",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730e5311993a01fb2e7169f6a7",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "2IAVHJdaRPFA6MQqXHoG75",
+                    "name": "Gravity",
+                    "sharingInfo": {
+                      "shareId": "ITOvHAvWStSEyxH2ooCKLg",
+                      "shareUrl": "https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75?si=ITOvHAvWStSEyxH2ooCKLg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2IAVHJdaRPFA6MQqXHoG75"
+                  },
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Gryffin"
+                          },
+                          "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e023f864273b0b10785dc63f64a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048513f864273b0b10785dc63f64a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2733f864273b0b10785dc63f64a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "5CaTHgZaRvb2vCK1mVbCR1",
+                    "name": "Gravity",
+                    "sharingInfo": {
+                      "shareId": "KwsrnC9jQH-KJsFI2oXbsg",
+                      "shareUrl": "https://open.spotify.com/album/5CaTHgZaRvb2vCK1mVbCR1?si=KwsrnC9jQH-KJsFI2oXbsg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:5CaTHgZaRvb2vCK1mVbCR1"
+                  }
+                ],
+                "totalCount": 2
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Charli xcx"
+                          },
+                          "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ec1bc2abea061f5f09fa9b64",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ec1bc2abea061f5f09fa9b64",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ec1bc2abea061f5f09fa9b64",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2017
+                    },
+                    "id": "2HIwUmdxEl7SeWa1ndH5wC",
+                    "name": "Pop 2",
+                    "sharingInfo": {
+                      "shareId": "XAiYQyn7Q_-8zFCX6Ll7WQ",
+                      "shareUrl": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC?si=XAiYQyn7Q_-8zFCX6Ll7WQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2HIwUmdxEl7SeWa1ndH5wC"
+                  },
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Charli xcx"
+                          },
+                          "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0247561dd1ca2676e657a150ea",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485147561dd1ca2676e657a150ea",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27347561dd1ca2676e657a150ea",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2017
+                    },
+                    "id": "7Mu8tuC4yPZAcU5EL9d15k",
+                    "name": "Pop 2",
+                    "sharingInfo": {
+                      "shareId": "UPwtP4-CQjCYnbmORE030w",
+                      "shareUrl": "https://open.spotify.com/album/7Mu8tuC4yPZAcU5EL9d15k?si=UPwtP4-CQjCYnbmORE030w"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:7Mu8tuC4yPZAcU5EL9d15k"
+                  }
+                ],
+                "totalCount": 2
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0279a229fdd7fdbaf3e5800ba6",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485179a229fdd7fdbaf3e5800ba6",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27379a229fdd7fdbaf3e5800ba6",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "3qQjG9LVCSUltwzrQdANmX",
+                    "name": "Old But Gold",
+                    "sharingInfo": {
+                      "shareId": "WCuWoIR4QMGH2gRhJG92-A",
+                      "shareUrl": "https://open.spotify.com/album/3qQjG9LVCSUltwzrQdANmX?si=WCuWoIR4QMGH2gRhJG92-A"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3qQjG9LVCSUltwzrQdANmX"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02593ce19e205a819f4b3df4d7",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851593ce19e205a819f4b3df4d7",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273593ce19e205a819f4b3df4d7",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "72lIx0OdNExTWVppt60sCU",
+                    "name": "No Bad Days",
+                    "sharingInfo": {
+                      "shareId": "izA73yotS3eg0VG-cMLHFw",
+                      "shareUrl": "https://open.spotify.com/album/72lIx0OdNExTWVppt60sCU?si=izA73yotS3eg0VG-cMLHFw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:72lIx0OdNExTWVppt60sCU"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "The Knocks"
+                          },
+                          "uri": "spotify:artist:2x7EATekOPhFGRx3syMGEC"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d4dc4be248cc495fb4116b0a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d4dc4be248cc495fb4116b0a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d4dc4be248cc495fb4116b0a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2016
+                    },
+                    "id": "66eHI59X5UEaLrEqrEDKTx",
+                    "name": "55",
+                    "sharingInfo": {
+                      "shareId": "J4zsS4SmSHWp3_-ynFgIBQ",
+                      "shareUrl": "https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx?si=J4zsS4SmSHWp3_-ynFgIBQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:66eHI59X5UEaLrEqrEDKTx"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e026ed09f65e45935a54adca5dd",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048516ed09f65e45935a54adca5dd",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2736ed09f65e45935a54adca5dd",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "51Z21bW6Pc6JRx9Iob7gno",
+                    "name": "Pop Hits 2012-2015",
+                    "sharingInfo": {
+                      "shareId": "Uit2pV0kRqWKG1R7WGbCoA",
+                      "shareUrl": "https://open.spotify.com/album/51Z21bW6Pc6JRx9Iob7gno?si=Uit2pV0kRqWKG1R7WGbCoA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:51Z21bW6Pc6JRx9Iob7gno"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ab7436e2ee3cd66f0c7b9cf6",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ab7436e2ee3cd66f0c7b9cf6",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ab7436e2ee3cd66f0c7b9cf6",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2016
+                    },
+                    "id": "6VeVzV7vR3UGZOJcnozYzR",
+                    "name": "Grease Live! (Music From The Television Event)",
+                    "sharingInfo": {
+                      "shareId": "YarBDS0XTg2_2TTYAUFbWQ",
+                      "shareUrl": "https://open.spotify.com/album/6VeVzV7vR3UGZOJcnozYzR?si=YarBDS0XTg2_2TTYAUFbWQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:6VeVzV7vR3UGZOJcnozYzR"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Bleachers"
+                          },
+                          "uri": "spotify:artist:2eam0iDomRHGBypaDQLwWI"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02f7cdb9faff39270bee1a1fc3",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851f7cdb9faff39270bee1a1fc3",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273f7cdb9faff39270bee1a1fc3",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2017
+                    },
+                    "id": "5hxH5SSwxf6oObJB1KzS7J",
+                    "name": "MTV Unplugged",
+                    "sharingInfo": {
+                      "shareId": "IPdOqrjjSOiKbczyBbRESg",
+                      "shareUrl": "https://open.spotify.com/album/5hxH5SSwxf6oObJB1KzS7J?si=IPdOqrjjSOiKbczyBbRESg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:5hxH5SSwxf6oObJB1KzS7J"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Gryffin"
+                          },
+                          "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0222df61044faa4e456658972f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485122df61044faa4e456658972f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27322df61044faa4e456658972f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "6uGDUodW2NJjHgltltb2HD",
+                    "name": "Gravity (Deluxe)",
+                    "sharingInfo": {
+                      "shareId": "3zBLQSLfSOS-DhFic9aCaQ",
+                      "shareUrl": "https://open.spotify.com/album/6uGDUodW2NJjHgltltb2HD?si=3zBLQSLfSOS-DhFic9aCaQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6uGDUodW2NJjHgltltb2HD"
+                  },
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Gryffin"
+                          },
+                          "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d4f73d24930dc829d7c28cfb",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d4f73d24930dc829d7c28cfb",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d4f73d24930dc829d7c28cfb",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "6mEck6nFsSZO0CCvXD7OAp",
+                    "name": "Gravity (Deluxe)",
+                    "sharingInfo": {
+                      "shareId": "-hOXvVk7RiCa84QDwKdKVQ",
+                      "shareUrl": "https://open.spotify.com/album/6mEck6nFsSZO0CCvXD7OAp?si=-hOXvVk7RiCa84QDwKdKVQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6mEck6nFsSZO0CCvXD7OAp"
+                  }
+                ],
+                "totalCount": 2
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Bleachers"
+                          },
+                          "uri": "spotify:artist:2eam0iDomRHGBypaDQLwWI"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ea25d6a6e94729df7d9b6a3f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ea25d6a6e94729df7d9b6a3f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ea25d6a6e94729df7d9b6a3f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2015
+                    },
+                    "id": "3dDJdCf37ggndgAng53yHC",
+                    "name": "Terrible Thrills, Vol. 2",
+                    "sharingInfo": {
+                      "shareId": "p8wJFSpYRQaT8rE79ALqIQ",
+                      "shareUrl": "https://open.spotify.com/album/3dDJdCf37ggndgAng53yHC?si=p8wJFSpYRQaT8rE79ALqIQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3dDJdCf37ggndgAng53yHC"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02581a9aa8b47e5d32fe19917c",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851581a9aa8b47e5d32fe19917c",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273581a9aa8b47e5d32fe19917c",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "13FZqVUoTT0dWUtoa38mEa",
+                    "name": "604/Twenty",
+                    "sharingInfo": {
+                      "shareId": "T3NuMqx0SZiXNXL7eXP_ow",
+                      "shareUrl": "https://open.spotify.com/album/13FZqVUoTT0dWUtoa38mEa?si=T3NuMqx0SZiXNXL7eXP_ow"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:13FZqVUoTT0dWUtoa38mEa"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02bde248c50aa4f6893959cdc4",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851bde248c50aa4f6893959cdc4",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273bde248c50aa4f6893959cdc4",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "559V3ZrVMqvhdPz014VgGn",
+                    "name": "Pop Christmas Songs",
+                    "sharingInfo": {
+                      "shareId": "HJICnqFlQV6J-NRQf0b58Q",
+                      "shareUrl": "https://open.spotify.com/album/559V3ZrVMqvhdPz014VgGn?si=HJICnqFlQV6J-NRQf0b58Q"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:559V3ZrVMqvhdPz014VgGn"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "mxmtoon"
+                          },
+                          "uri": "spotify:artist:0HthCchcL0kVLHTr113Vk1"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0299ee71ebf25e0116c8fcc1fd",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485199ee71ebf25e0116c8fcc1fd",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27399ee71ebf25e0116c8fcc1fd",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "1GEoF1i1vxlstUnr2jPeFp",
+                    "name": "dusk",
+                    "sharingInfo": {
+                      "shareId": "vebD_YuxRwyZa4_iW4xyTw",
+                      "shareUrl": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp?si=vebD_YuxRwyZa4_iW4xyTw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:1GEoF1i1vxlstUnr2jPeFp"
+                  },
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "mxmtoon"
+                          },
+                          "uri": "spotify:artist:0HthCchcL0kVLHTr113Vk1"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029d8a52cbb2d032d67ed8c9bd",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519d8a52cbb2d032d67ed8c9bd",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739d8a52cbb2d032d67ed8c9bd",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "6VabB6jGDwQzIlfjCo95FF",
+                    "name": "dusk",
+                    "sharingInfo": {
+                      "shareId": "_TF3ax2eRIyvkXDRmBSb8w",
+                      "shareUrl": "https://open.spotify.com/album/6VabB6jGDwQzIlfjCo95FF?si=_TF3ax2eRIyvkXDRmBSb8w"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6VabB6jGDwQzIlfjCo95FF"
+                  }
+                ],
+                "totalCount": 2
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02098c69ca8ca3d16cded03e81",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851098c69ca8ca3d16cded03e81",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273098c69ca8ca3d16cded03e81",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "4KHbrk7K0TOP6weuNURWwd",
+                    "name": "KIDS PARTY 2020",
+                    "sharingInfo": {
+                      "shareId": "CaMawCfjQ8SUicUlmLmQMA",
+                      "shareUrl": "https://open.spotify.com/album/4KHbrk7K0TOP6weuNURWwd?si=CaMawCfjQ8SUicUlmLmQMA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:4KHbrk7K0TOP6weuNURWwd"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c1b77039f128ee120fa05a10",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c1b77039f128ee120fa05a10",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c1b77039f128ee120fa05a10",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "45mRjpKZjUD0OyUlwozbl0",
+                    "name": "Clean Party Mix",
+                    "sharingInfo": {
+                      "shareId": "XQasJx07RLGbja6_UsvzFA",
+                      "shareUrl": "https://open.spotify.com/album/45mRjpKZjUD0OyUlwozbl0?si=XQasJx07RLGbja6_UsvzFA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:45mRjpKZjUD0OyUlwozbl0"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Bullion"
+                          },
+                          "uri": "spotify:artist:6vcPgFOkMWBoY6Ks6eMEWj"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02006b6f7402cc9c1423398e49",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851006b6f7402cc9c1423398e49",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273006b6f7402cc9c1423398e49",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "41fPjriqD2ycjCAE8TfmuT",
+                    "name": "Affection",
+                    "sharingInfo": {
+                      "shareId": "ma8SmePTTGGtPgO8BPgNhw",
+                      "shareUrl": "https://open.spotify.com/album/41fPjriqD2ycjCAE8TfmuT?si=ma8SmePTTGGtPgO8BPgNhw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:41fPjriqD2ycjCAE8TfmuT"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Y2K"
+                          },
+                          "uri": "spotify:artist:6USMTwO0MNDnKte5a5h0xx"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0251bb1c4a96bee828c66ca117",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485151bb1c4a96bee828c66ca117",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27351bb1c4a96bee828c66ca117",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "0QuRkYmyQzQ5Yi9laZgN9r",
+                    "name": "Lalala (Remix - [feat. Enrique Iglesias & Carly Rae Jepsen])",
+                    "sharingInfo": {
+                      "shareId": "tpqpxgVFQTqHp6r4YOOP6g",
+                      "shareUrl": "https://open.spotify.com/album/0QuRkYmyQzQ5Yi9laZgN9r?si=tpqpxgVFQTqHp6r4YOOP6g"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:0QuRkYmyQzQ5Yi9laZgN9r"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "The King's Men, Cambridge"
+                          },
+                          "uri": "spotify:artist:1bHaJCM1VLwPIn88qLq67O"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025a5efb92979a42a56d84fd87",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515a5efb92979a42a56d84fd87",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735a5efb92979a42a56d84fd87",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2014
+                    },
+                    "id": "7asdORWEmOPTrMLICtJUJ5",
+                    "name": "The King's Men: After Hours",
+                    "sharingInfo": {
+                      "shareId": "cSvKWpViQPi11BgFimNSFQ",
+                      "shareUrl": "https://open.spotify.com/album/7asdORWEmOPTrMLICtJUJ5?si=cSvKWpViQPi11BgFimNSFQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:7asdORWEmOPTrMLICtJUJ5"
+                  },
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "The King's Men, Cambridge"
+                          },
+                          "uri": "spotify:artist:1bHaJCM1VLwPIn88qLq67O"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a28749ae618140bd38d04f36",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a28749ae618140bd38d04f36",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a28749ae618140bd38d04f36",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2014
+                    },
+                    "id": "7ghLznOgSNMiLwqGAODHU9",
+                    "name": "The King's Men: After Hours",
+                    "sharingInfo": {
+                      "shareId": "payJXN9LTI-gADxtNlvP9Q",
+                      "shareUrl": "https://open.spotify.com/album/7ghLznOgSNMiLwqGAODHU9?si=payJXN9LTI-gADxtNlvP9Q"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:7ghLznOgSNMiLwqGAODHU9"
+                  }
+                ],
+                "totalCount": 2
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024a1c23ad4b64d78e11e6064f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514a1c23ad4b64d78e11e6064f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734a1c23ad4b64d78e11e6064f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "6ernVz7J1OAqXGW56jPXoG",
+                    "name": "Pool Side Vibe",
+                    "sharingInfo": {
+                      "shareId": "ajdfOU0AQz2b0CiKV1cboA",
+                      "shareUrl": "https://open.spotify.com/album/6ernVz7J1OAqXGW56jPXoG?si=ajdfOU0AQz2b0CiKV1cboA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:6ernVz7J1OAqXGW56jPXoG"
+                  }
+                ],
+                "totalCount": 1
+              }
+            }
+          ],
+          "totalCount": 142
+        },
+        "discoveredOnV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The biggest songs of the 2010s. Cover: Lady Gaga",
+                "id": "37i9dQZF1DX5Ejj0EkURtP",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002d8968192efe2f409766f2ff2",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "All Out 2010s",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX5Ejj0EkURtP"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Livin",
+                "id": "2VdPwVMqEGb6dwQVRlC88L",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://mosaic.scdn.co/640/ab67616d00001e027a6339d6ddfd579f77559b3cab67616d00001e02d20c38f295039520d688a888ab67616d00001e02de9f4c31ba48fc017de8b0a7ab67616d00001e02f2486b438645e97b523e4f90",
+                          "width": 640
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://mosaic.scdn.co/300/ab67616d00001e027a6339d6ddfd579f77559b3cab67616d00001e02d20c38f295039520d688a888ab67616d00001e02de9f4c31ba48fc017de8b0a7ab67616d00001e02f2486b438645e97b523e4f90",
+                          "width": 300
+                        },
+                        {
+                          "height": 60,
+                          "url": "https://mosaic.scdn.co/60/ab67616d00001e027a6339d6ddfd579f77559b3cab67616d00001e02d20c38f295039520d688a888ab67616d00001e02de9f4c31ba48fc017de8b0a7ab67616d00001e02f2486b438645e97b523e4f90",
+                          "width": 60
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "White girl bangers \ud83d\udc83\ud83d\udc85\ud83d\udd7a\ud83d\udca6\ud83e\udea9\ud83d\udc84",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Fake Lenny"
+                  }
+                },
+                "uri": "spotify:playlist:2VdPwVMqEGb6dwQVRlC88L"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Carly Rae Jepsen. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO3OC4Te",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO3OC4Te-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Carly Rae Jepsen",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO3OC4Te"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Songs you can't help but just scream along to. Cover: Myles Smith",
+                "id": "37i9dQZF1DX2KwEtNSejGe",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002bfc6557efc54bb7b262a0569",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "pop songs we can all scream",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX2KwEtNSejGe"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Need to get your energy level up?",
+                "id": "37i9dQZF1DX0vHZ8elq0UK",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002cde33ab7a5e449ebcf6d51f2",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Energy Booster: Pop",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX0vHZ8elq0UK"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "the original &lt;3",
+                "id": "5XqZ2d63EIiiU17DOGfouA",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://mosaic.scdn.co/640/ab67616d00001e025c9890c0456a3719eeecd8aaab67616d00001e02937af329667311f4b2831616ab67616d00001e02f60070dce96a2c1b70cf6ff0ab67616d00001e02f619042d5f6b2149a4f5e0ca",
+                          "width": 640
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://mosaic.scdn.co/300/ab67616d00001e025c9890c0456a3719eeecd8aaab67616d00001e02937af329667311f4b2831616ab67616d00001e02f60070dce96a2c1b70cf6ff0ab67616d00001e02f619042d5f6b2149a4f5e0ca",
+                          "width": 300
+                        },
+                        {
+                          "height": 60,
+                          "url": "https://mosaic.scdn.co/60/ab67616d00001e025c9890c0456a3719eeecd8aaab67616d00001e02937af329667311f4b2831616ab67616d00001e02f60070dce96a2c1b70cf6ff0ab67616d00001e02f619042d5f6b2149a4f5e0ca",
+                          "width": 60
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "2010-2017 throwbacks \ud83d\udc9b",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Steph"
+                  }
+                },
+                "uri": "spotify:playlist:5XqZ2d63EIiiU17DOGfouA"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "@maximoariass",
+                "id": "7ivXaN4XVG1yYsFpD2bdKV",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://mosaic.scdn.co/640/ab67616d00001e021813115ff10c5f5ae028321dab67616d00001e0231548865f7c729290b96c794ab67616d00001e023c3c446f381d750007e6bcc3ab67616d00001e02c53c4a6647fcac7600a19940",
+                          "width": 640
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://mosaic.scdn.co/300/ab67616d00001e021813115ff10c5f5ae028321dab67616d00001e0231548865f7c729290b96c794ab67616d00001e023c3c446f381d750007e6bcc3ab67616d00001e02c53c4a6647fcac7600a19940",
+                          "width": 300
+                        },
+                        {
+                          "height": 60,
+                          "url": "https://mosaic.scdn.co/60/ab67616d00001e021813115ff10c5f5ae028321dab67616d00001e0231548865f7c729290b96c794ab67616d00001e023c3c446f381d750007e6bcc3ab67616d00001e02c53c4a6647fcac7600a19940",
+                          "width": 60
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "white girl music for the boys \ud83d\udde3\ufe0f\ud83e\udd85",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Not4Every1"
+                  }
+                },
+                "uri": "spotify:playlist:7ivXaN4XVG1yYsFpD2bdKV"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Lo mejor en ingl\u00e9s de la \u00faltima d\u00e9cada. Para novedades, escucha <a href=\"spotify:playlist:37i9dQZF1DX6aTaZa0K6VA\">Pop Up</a>.",
+                "id": "37i9dQZF1DX1ngEVM0lKrb",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002bc543b839338fcddd53a8938",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Pop Internacional 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX1ngEVM0lKrb"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "id": "5OwbU0xeKv0mc0gWeqt5M0",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://mosaic.scdn.co/640/ab67616d00001e0283b361c8348b81fae6005af3ab67616d00001e02ba5db46f4b838ef6027e6f96ab67616d00001e02cf5459850259268f98b07f7aab67616d00001e02f46b9d202509a8f7384b90de",
+                          "width": 640
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://mosaic.scdn.co/300/ab67616d00001e0283b361c8348b81fae6005af3ab67616d00001e02ba5db46f4b838ef6027e6f96ab67616d00001e02cf5459850259268f98b07f7aab67616d00001e02f46b9d202509a8f7384b90de",
+                          "width": 300
+                        },
+                        {
+                          "height": 60,
+                          "url": "https://mosaic.scdn.co/60/ab67616d00001e0283b361c8348b81fae6005af3ab67616d00001e02ba5db46f4b838ef6027e6f96ab67616d00001e02cf5459850259268f98b07f7aab67616d00001e02f46b9d202509a8f7384b90de",
+                          "width": 60
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "\u8d85\u6709\u540d\u6d0b\u697d100\u66f2\ud83c\udfb5",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Heyehjdbsjdu"
+                  }
+                },
+                "uri": "spotify:playlist:5OwbU0xeKv0mc0gWeqt5M0"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Splash and sing-along.",
+                "id": "37i9dQZF1DWSqmBTGDYngZ",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002b4fc8034217025210cc630c1",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Songs to Sing in the Shower",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWSqmBTGDYngZ"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The biggest party hits of the 2010s. Cover: Kesha",
+                "id": "37i9dQZF1DWWylYLMvjuRG",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000021cb757ccbe7a4f7e0e67fe4a",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Party Hits 2010s",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWWylYLMvjuRG"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Sing along songs - Car songs - Traveling music - Feel good songs - Happy vibes - Karaoke - 2000s Pop Hits - 2010s Pop Hits - Summer vibes - Route 66 \ud83d\udee3 \ud83c\uddfa\ud83c\uddf8 ",
+                "id": "6DHD12EjGiRV9uSgIcnn4M",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c70f7f870029e63e640135330",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Roadtrip 2000-2025 \ud83c\udf07 Best driving songs \ud83d\ude97",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "skye"
+                  }
+                },
+                "uri": "spotify:playlist:6DHD12EjGiRV9uSgIcnn4M"
+              }
+            }
+          ],
+          "totalCount": 100
+        },
+        "featuringV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Carly Rae Jepsen. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO3OC4Te",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO3OC4Te-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Carly Rae Jepsen",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO3OC4Te"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "With Jessie J, One Direction, Little Mix and more",
+                "id": "37i9dQZF1E4EmGFMzkENF2",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/6sFIWsNpZYqfjUpaCgueju/en",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Carly Rae Jepsen Radio",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1E4EmGFMzkENF2"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Splash and sing-along.",
+                "id": "37i9dQZF1DWSqmBTGDYngZ",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002b4fc8034217025210cc630c1",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Songs to Sing in the Shower",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWSqmBTGDYngZ"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The biggest songs of the 2010s. Cover: Lady Gaga",
+                "id": "37i9dQZF1DX5Ejj0EkURtP",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002d8968192efe2f409766f2ff2",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "All Out 2010s",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX5Ejj0EkURtP"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "A perfect little pop party. ",
+                "id": "37i9dQZF1DWXti3N4Wp5xy",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002dce5bc8321d570243742d421",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Pop Party",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWXti3N4Wp5xy"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The biggest party hits of the 2010s. Cover: Kesha",
+                "id": "37i9dQZF1DWWylYLMvjuRG",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000021cb757ccbe7a4f7e0e67fe4a",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Party Hits 2010s",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWWylYLMvjuRG"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Turn anywhere into a sing-along party. ",
+                "id": "37i9dQZF1DX5I05jXm1F2M",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002bbbd44d596deafc14dcb118d",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Karaoke Hits ",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX5I05jXm1F2M"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Here it is, the playlist for the ultimate throwback bash!",
+                "id": "37i9dQZF1DX7F6T2n2fegs",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f0000000282f22593c527716398774f5a",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Throwback Party",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX7F6T2n2fegs"
+              }
+            }
+          ],
+          "totalCount": 8
+        },
+        "relatedArtists": {
+          "items": [
+            {
+              "id": "6jJ0s89eD6GaHleKKya26X",
+              "profile": {
+                "name": "Katy Perry"
+              },
+              "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb0988562f78810e47a6e3325f",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1780988562f78810e47a6e3325f",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051740988562f78810e47a6e3325f",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2gsggkzM5R49q6jpPvazou",
+              "profile": {
+                "name": "Jessie J"
+              },
+              "uri": "spotify:artist:2gsggkzM5R49q6jpPvazou",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb91f0dd753c09e051675a1ca6",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17891f0dd753c09e051675a1ca6",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517491f0dd753c09e051675a1ca6",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6LqNN22kT3074XbTVUrhzX",
+              "profile": {
+                "name": "Kesha"
+              },
+              "uri": "spotify:artist:6LqNN22kT3074XbTVUrhzX",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb2ac07249400857d8b16dc17a",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1782ac07249400857d8b16dc17a",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051742ac07249400857d8b16dc17a",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6DIS6PRrLS3wbnZsf7vYic",
+              "profile": {
+                "name": "WALK THE MOON"
+              },
+              "uri": "spotify:artist:6DIS6PRrLS3wbnZsf7vYic",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebab9610e36fae856c0fd9b46b",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178ab9610e36fae856c0fd9b46b",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174ab9610e36fae856c0fd9b46b",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6MDME20pz9RveH9rEXvrOM",
+              "profile": {
+                "name": "Clean Bandit"
+              },
+              "uri": "spotify:artist:6MDME20pz9RveH9rEXvrOM",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb70d80b8ab8e193aef64223ec",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17870d80b8ab8e193aef64223ec",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517470d80b8ab8e193aef64223ec",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "07QEuhtrNmmZ0zEcqE9SF6",
+              "profile": {
+                "name": "Owl City"
+              },
+              "uri": "spotify:artist:07QEuhtrNmmZ0zEcqE9SF6",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebce3fbd73ae4f8b3ff54a0a5c",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178ce3fbd73ae4f8b3ff54a0a5c",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174ce3fbd73ae4f8b3ff54a0a5c",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3whuHq0yGx60atvA2RCVRW",
+              "profile": {
+                "name": "Olly Murs"
+              },
+              "uri": "spotify:artist:3whuHq0yGx60atvA2RCVRW",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb054b9ae2e94ed919c05a363b",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178054b9ae2e94ed919c05a363b",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174054b9ae2e94ed919c05a363b",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6JL8zeS1NmiOftqZTRgdTz",
+              "profile": {
+                "name": "Meghan Trainor"
+              },
+              "uri": "spotify:artist:6JL8zeS1NmiOftqZTRgdTz",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb365984489dac7a79eac204e3",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178365984489dac7a79eac204e3",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174365984489dac7a79eac204e3",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6T5tfhQCknKG4UnH90qGnz",
+              "profile": {
+                "name": "DNCE"
+              },
+              "uri": "spotify:artist:6T5tfhQCknKG4UnH90qGnz",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebf516ed43c65fe21e21a7c5bd",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178f516ed43c65fe21e21a7c5bd",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174f516ed43c65fe21e21a7c5bd",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1l8Fu6IkuTP0U5QetQJ5Xt",
+              "profile": {
+                "name": "Fifth Harmony"
+              },
+              "uri": "spotify:artist:1l8Fu6IkuTP0U5QetQJ5Xt",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb5acb3cb0a8b87d3952738b97",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1785acb3cb0a8b87d3952738b97",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051745acb3cb0a8b87d3952738b97",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "04gDigrS5kc9YWfZHwBETP",
+              "profile": {
+                "name": "Maroon 5"
+              },
+              "uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178f8349dfb619a7f842242de77",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174f8349dfb619a7f842242de77",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6S2OmqARrzebs0tKUEyXyp",
+              "profile": {
+                "name": "Demi Lovato"
+              },
+              "uri": "spotify:artist:6S2OmqARrzebs0tKUEyXyp",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebe106fea940fcf250f8dd5bfe",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178e106fea940fcf250f8dd5bfe",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174e106fea940fcf250f8dd5bfe",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5ILrArfIV0tMURcHJN8Q07",
+              "profile": {
+                "name": "Vanessa Carlton"
+              },
+              "uri": "spotify:artist:5ILrArfIV0tMURcHJN8Q07",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb9a9873aca07694682036f5b7",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1789a9873aca07694682036f5b7",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051749a9873aca07694682036f5b7",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0X2BH1fck6amBIoJhDVmmJ",
+              "profile": {
+                "name": "Ellie Goulding"
+              },
+              "uri": "spotify:artist:0X2BH1fck6amBIoJhDVmmJ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178c3cd7dc428871e8985d62b9a",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174c3cd7dc428871e8985d62b9a",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1Xylc3o4UrD53lo9CvFvVg",
+              "profile": {
+                "name": "Zara Larsson"
+              },
+              "uri": "spotify:artist:1Xylc3o4UrD53lo9CvFvVg",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb7619ca2683b434e139040f70",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1787619ca2683b434e139040f70",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051747619ca2683b434e139040f70",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "26dSoYclwsYLMAKD3tpOr4",
+              "profile": {
+                "name": "Britney Spears"
+              },
+              "uri": "spotify:artist:26dSoYclwsYLMAKD3tpOr4",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb3a49b0a3954e460a8a76ed90",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1783a49b0a3954e460a8a76ed90",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051743a49b0a3954e460a8a76ed90",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5Pwc4xIPtQLFEnJriah9YJ",
+              "profile": {
+                "name": "OneRepublic"
+              },
+              "uri": "spotify:artist:5Pwc4xIPtQLFEnJriah9YJ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb57138b98e7ddd5a86ee97a9b",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17857138b98e7ddd5a86ee97a9b",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517457138b98e7ddd5a86ee97a9b",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1VBflYyxBhnDc9uVib98rw",
+              "profile": {
+                "name": "Icona Pop"
+              },
+              "uri": "spotify:artist:1VBflYyxBhnDc9uVib98rw",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebc66438b1a47f714aa8e24357",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178c66438b1a47f714aa8e24357",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174c66438b1a47f714aa8e24357",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2l35CQqtYRh3d8ZIiBep4v",
+              "profile": {
+                "name": "MKTO"
+              },
+              "uri": "spotify:artist:2l35CQqtYRh3d8ZIiBep4v",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebbc861f3d1ba68614d3a301b4",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178bc861f3d1ba68614d3a301b4",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174bc861f3d1ba68614d3a301b4",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3BmGtnKgCSGYIUhmivXKWX",
+              "profile": {
+                "name": "Kelly Clarkson"
+              },
+              "uri": "spotify:artist:3BmGtnKgCSGYIUhmivXKWX",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb20b8c7d395994dc81a85f291",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17820b8c7d395994dc81a85f291",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517420b8c7d395994dc81a85f291",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "totalCount": 40
+        }
+      },
+      "relatedVideos": {
+        "__typename": "RelatedVideoPage",
+        "items": [],
+        "totalCount": 0
+      },
+      "saved": false,
+      "sharingInfo": {
+        "shareId": "mZxLLkGYT422ESASi2KYzQ",
+        "shareUrl": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju?si=mZxLLkGYT422ESASi2KYzQ"
+      },
+      "stats": {
+        "followers": 5048858,
+        "monthlyListeners": 17324911,
+        "topCities": {
+          "items": [
+            {
+              "city": "Jakarta",
+              "country": "ID",
+              "numberOfListeners": 242114,
+              "region": "JK"
+            },
+            {
+              "city": "Sydney",
+              "country": "AU",
+              "numberOfListeners": 208459,
+              "region": "NSW"
+            },
+            {
+              "city": "Melbourne",
+              "country": "AU",
+              "numberOfListeners": 174380,
+              "region": "VIC"
+            },
+            {
+              "city": "London",
+              "country": "GB",
+              "numberOfListeners": 161708,
+              "region": "ENG"
+            },
+            {
+              "city": "Quezon City",
+              "country": "PH",
+              "numberOfListeners": 158809,
+              "region": "00"
+            }
+          ]
+        },
+        "worldRank": 449
+      },
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju",
+      "visualIdentity": {
+        "wideFullBleedImage": {
+          "__typename": "VisualIdentityImage",
+          "extractedColorSet": {
+            "encoreBaseSetTextColor": {
+              "alpha": 255,
+              "blue": 148,
+              "green": 170,
+              "red": 240
+            },
+            "highContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 0,
+                "green": 16,
+                "red": 72
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 42,
+                "green": 60,
+                "red": 120
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 169,
+                "green": 190,
+                "red": 255
+              }
+            },
+            "higherContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 0,
+                "green": 16,
+                "red": 72
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 42,
+                "green": 60,
+                "red": 120
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 96,
+                "green": 215,
+                "red": 30
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 169,
+                "green": 190,
+                "red": 255
+              }
+            },
+            "minContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 0,
+                "green": 16,
+                "red": 72
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 42,
+                "green": 60,
+                "red": 120
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              }
+            }
+          }
+        }
+      },
+      "visuals": {
+        "avatarImage": {
+          "extractedColors": {
+            "colorRaw": {
+              "hex": "#682808"
+            }
+          },
+          "sources": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb8272bf414106646e0e4a89f3",
+              "width": 640
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1788272bf414106646e0e4a89f3",
+              "width": 160
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051748272bf414106646e0e4a89f3",
+              "width": 320
+            }
+          ]
+        },
+        "gallery": {
+          "items": [
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4b6f7e0a9c2d7d272489bffb2",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4214ba476d7260509a307d048",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4adf56918cb83be0663f1b1cd",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4a4361be64b4e879c6a0a1717",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd44a8b78914e980abf10f49d27",
+                  "width": 640
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "watchFeedEntrypoint": null
+    }
+  },
+  "extensions": {}
+}

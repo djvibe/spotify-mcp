@@ -1,0 +1,4543 @@
+{
+  "data": {
+    "artistUnion": {
+      "__typename": "Artist",
+      "discography": {
+        "albums": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2016 Eric Prydz Ltd, under exclusive license to Virgin Records Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2016 Eric Prydz Ltd, under exclusive license to Virgin Records Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0224492f2ba3a1d995e1faf5d8",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485124492f2ba3a1d995e1faf5d8",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27324492f2ba3a1d995e1faf5d8",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 5,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2016
+                    },
+                    "id": "2Kwbn1H4KMGZAe4MS6uDzU",
+                    "label": "Virgin Records Ltd",
+                    "name": "Opus",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "7aCD_XHIRvC3D40e3sInnw",
+                      "shareUrl": "https://open.spotify.com/album/2Kwbn1H4KMGZAe4MS6uDzU?si=7aCD_XHIRvC3D40e3sInnw"
+                    },
+                    "tracks": {
+                      "totalCount": 19
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2Kwbn1H4KMGZAe4MS6uDzU"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2012 Virgin Records Limited",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2012 Virgin Records Limited",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e027c0097b7f0e7dc307f96ab81",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048517c0097b7f0e7dc307f96ab81",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2737c0097b7f0e7dc307f96ab81",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 1,
+                      "month": 1,
+                      "precision": "DAY",
+                      "year": 2012
+                    },
+                    "id": "4DVFYn77TkkSfGf4sPrqfo",
+                    "label": "Virgin",
+                    "name": "Eric Prydz Presents Pryda (Deluxe Version)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "fCYU4TUvQ8OeAZi6YD3mnA",
+                      "shareUrl": "https://open.spotify.com/album/4DVFYn77TkkSfGf4sPrqfo?si=fCYU4TUvQ8OeAZi6YD3mnA"
+                    },
+                    "tracks": {
+                      "totalCount": 37
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4DVFYn77TkkSfGf4sPrqfo"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 2
+        },
+        "compilations": {
+          "items": [],
+          "totalCount": 0
+        },
+        "latest": {
+          "copyright": {
+            "items": [
+              {
+                "text": "\u00a9 2024 The Sleepy Jackson Pty Ltd and Nick Littlemore, under exclusive licence to Universal Music Australia Pty Ltd",
+                "type": "C"
+              },
+              {
+                "text": "\u2117 2024 The Sleepy Jackson Pty Ltd and Nick Littlemore, under exclusive licence to Universal Music Australia Pty Ltd",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02bcd753fbccd81321551c3e2f",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851bcd753fbccd81321551c3e2f",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273bcd753fbccd81321551c3e2f",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 29,
+            "month": 11,
+            "precision": "DAY",
+            "year": 2024
+          },
+          "id": "3mSm2Ib3z7JaA7eTGARUd8",
+          "label": "EMI Recorded Music Australia Pty Ltd",
+          "name": "We Are Mirage (Radio Edit)",
+          "playability": {
+            "playable": true,
+            "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+            "shareId": "ns-ssMZESDiErCoKa3P36Q",
+            "shareUrl": "https://open.spotify.com/album/3mSm2Ib3z7JaA7eTGARUd8?si=ns-ssMZESDiErCoKa3P36Q"
+          },
+          "tracks": {
+            "totalCount": 2
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:3mSm2Ib3z7JaA7eTGARUd8"
+        },
+        "popularReleasesAlbums": {
+          "items": [
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2016 Eric Prydz Ltd, under exclusive license to Virgin Records Ltd",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2016 Eric Prydz Ltd, under exclusive license to Virgin Records Ltd",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0224492f2ba3a1d995e1faf5d8",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485124492f2ba3a1d995e1faf5d8",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27324492f2ba3a1d995e1faf5d8",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 5,
+                "month": 2,
+                "precision": "DAY",
+                "year": 2016
+              },
+              "id": "2Kwbn1H4KMGZAe4MS6uDzU",
+              "label": "Virgin Records Ltd",
+              "name": "Opus",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "7aCD_XHIRvC3D40e3sInnw",
+                "shareUrl": "https://open.spotify.com/album/2Kwbn1H4KMGZAe4MS6uDzU?si=7aCD_XHIRvC3D40e3sInnw"
+              },
+              "tracks": {
+                "totalCount": 19
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:2Kwbn1H4KMGZAe4MS6uDzU"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2008 Data Records|Ministry of Sound Recordings Ltd",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02bf82130ce529153496038461",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851bf82130ce529153496038461",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273bf82130ce529153496038461",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 29,
+                "month": 8,
+                "precision": "DAY",
+                "year": 2008
+              },
+              "id": "7zlMxh1NR0Shklu48L4e7x",
+              "label": "Pryda Presents",
+              "name": "Pjanoo",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "30zsCbh4SR6mrMU8vvFk3w",
+                "shareUrl": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x?si=30zsCbh4SR6mrMU8vvFk3w"
+              },
+              "tracks": {
+                "totalCount": 6
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:7zlMxh1NR0Shklu48L4e7x"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2014 Virgin Records Limited",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2014 Virgin Records Limited",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02012c188de1167b6a71c33a53",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851012c188de1167b6a71c33a53",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273012c188de1167b6a71c33a53",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 1,
+                "month": 1,
+                "precision": "DAY",
+                "year": 2014
+              },
+              "id": "2TSM1k1XtJryf6eQGs4dgi",
+              "label": "Virgin Records Ltd",
+              "name": "Liberate (Remixes)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "NhmQ08CrSa6mzOKdnltucQ",
+                "shareUrl": "https://open.spotify.com/album/2TSM1k1XtJryf6eQGs4dgi?si=NhmQ08CrSa6mzOKdnltucQ"
+              },
+              "tracks": {
+                "totalCount": 3
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:2TSM1k1XtJryf6eQGs4dgi"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2004 Data Records|Ministry of Sound Recordings Ltd",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02553b1caf0c9d58183bacccef",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851553b1caf0c9d58183bacccef",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273553b1caf0c9d58183bacccef",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 13,
+                "month": 9,
+                "precision": "DAY",
+                "year": 2004
+              },
+              "id": "6rLtAT39718G4HXOELGjTs",
+              "label": "Pryda Presents",
+              "name": "Call On Me (Remixes)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "Rsa49cciQB2Ygn8yVcNghw",
+                "shareUrl": "https://open.spotify.com/album/6rLtAT39718G4HXOELGjTs?si=Rsa49cciQB2Ygn8yVcNghw"
+              },
+              "tracks": {
+                "totalCount": 5
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:6rLtAT39718G4HXOELGjTs"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2024 The Sleepy Jackson Pty Ltd and Nick Littlemore, under exclusive licence to Universal Music Australia Pty Ltd",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2024 The Sleepy Jackson Pty Ltd and Nick Littlemore, under exclusive licence to Universal Music Australia Pty Ltd",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02bcd753fbccd81321551c3e2f",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851bcd753fbccd81321551c3e2f",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273bcd753fbccd81321551c3e2f",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 29,
+                "month": 11,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "3mSm2Ib3z7JaA7eTGARUd8",
+              "label": "EMI Recorded Music Australia Pty Ltd",
+              "name": "We Are Mirage (Radio Edit)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "ns-ssMZESDiErCoKa3P36Q",
+                "shareUrl": "https://open.spotify.com/album/3mSm2Ib3z7JaA7eTGARUd8?si=ns-ssMZESDiErCoKa3P36Q"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:3mSm2Ib3z7JaA7eTGARUd8"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2006 Data Records|Ministry of Sound Recordings Ltd",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f0b0cae9d66c677eac8b070a",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f0b0cae9d66c677eac8b070a",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f0b0cae9d66c677eac8b070a",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 1,
+                "month": 1,
+                "precision": "DAY",
+                "year": 2007
+              },
+              "id": "2OOBM43Dg3jHlv48Hf8vzs",
+              "label": "Pryda Presents",
+              "name": "Proper Education - EP",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "4MY-b__LRs67CB7idyyGiA",
+                "shareUrl": "https://open.spotify.com/album/2OOBM43Dg3jHlv48Hf8vzs?si=4MY-b__LRs67CB7idyyGiA"
+              },
+              "tracks": {
+                "totalCount": 4
+              },
+              "type": "EP",
+              "uri": "spotify:album:2OOBM43Dg3jHlv48Hf8vzs"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2015 Eric Prydz Ltd, under exclusive license to Virgin Records Ltd",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2015 Eric Prydz Ltd, under exclusive license to Virgin Records Ltd",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e021b4187a783899120c2c0015a",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048511b4187a783899120c2c0015a",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731b4187a783899120c2c0015a",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 8,
+                "month": 6,
+                "precision": "DAY",
+                "year": 2015
+              },
+              "id": "5vXFBNZudqd99Lhu9Qqyql",
+              "label": "Virgin Records Ltd",
+              "name": "Generate (Radio Edit)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "zPKxhpJTQtyRjQhVb9n45A",
+                "shareUrl": "https://open.spotify.com/album/5vXFBNZudqd99Lhu9Qqyql?si=zPKxhpJTQtyRjQhVb9n45A"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:5vXFBNZudqd99Lhu9Qqyql"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2015 Virgin EMI Records, a division of Universal Music Operations Limited",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2015 Virgin EMI Records, a division of Universal Music Operations Limited",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023604906306a058aae42c7052",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513604906306a058aae42c7052",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733604906306a058aae42c7052",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 17,
+                "month": 2,
+                "precision": "DAY",
+                "year": 2015
+              },
+              "id": "0l4PrdzOh4l88cDGbzznBP",
+              "label": "Virgin Records Ltd",
+              "name": "Tether (Eric Prydz Vs. CHVRCHES) [Radio Edit]",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "qNuUPcOaSMeydbmbhO_zkA",
+                "shareUrl": "https://open.spotify.com/album/0l4PrdzOh4l88cDGbzznBP?si=qNuUPcOaSMeydbmbhO_zkA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:0l4PrdzOh4l88cDGbzznBP"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2014 Virgin Records Limited",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2014 Virgin Records Limited",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02edbc49d6d97af1c331c2a9c0",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851edbc49d6d97af1c331c2a9c0",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273edbc49d6d97af1c331c2a9c0",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 1,
+                "month": 1,
+                "precision": "DAY",
+                "year": 2014
+              },
+              "id": "2oSsWpEK9fWQ400fNDtf47",
+              "label": "Virgin Records Ltd",
+              "name": "Liberate",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "87gzeCTcSvC6VDyhxbR5AA",
+                "shareUrl": "https://open.spotify.com/album/2oSsWpEK9fWQ400fNDtf47?si=87gzeCTcSvC6VDyhxbR5AA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:2oSsWpEK9fWQ400fNDtf47"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2020 Eric Prydz Limited under exclusive license to Ministry of Sound Recordings Limited",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02315b9024c9326543b3526fa5",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851315b9024c9326543b3526fa5",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273315b9024c9326543b3526fa5",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 23,
+                "month": 10,
+                "precision": "DAY",
+                "year": 2020
+              },
+              "id": "4DG7qAkQDjtPzqMUe6zXcA",
+              "label": "Ministry of Sound Recordings",
+              "name": "NOPUS",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "rxUarDNERkmR9hmuhqzlJg",
+                "shareUrl": "https://open.spotify.com/album/4DG7qAkQDjtPzqMUe6zXcA?si=rxUarDNERkmR9hmuhqzlJg"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:4DG7qAkQDjtPzqMUe6zXcA"
+            }
+          ],
+          "totalCount": 20
+        },
+        "singles": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 The Sleepy Jackson Pty Ltd and Nick Littlemore, under exclusive licence to Universal Music Australia Pty Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 The Sleepy Jackson Pty Ltd and Nick Littlemore, under exclusive licence to Universal Music Australia Pty Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02bcd753fbccd81321551c3e2f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851bcd753fbccd81321551c3e2f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273bcd753fbccd81321551c3e2f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 29,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "3mSm2Ib3z7JaA7eTGARUd8",
+                    "label": "EMI Recorded Music Australia Pty Ltd",
+                    "name": "We Are Mirage (Radio Edit)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "ns-ssMZESDiErCoKa3P36Q",
+                      "shareUrl": "https://open.spotify.com/album/3mSm2Ib3z7JaA7eTGARUd8?si=ns-ssMZESDiErCoKa3P36Q"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3mSm2Ib3z7JaA7eTGARUd8"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2022 Afterlife Recordings",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2022 Afterlife Recordings",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0261ab30c9af8c458e13f4b706",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485161ab30c9af8c458e13f4b706",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27361ab30c9af8c458e13f4b706",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 17,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2022
+                    },
+                    "id": "2jITDjGchk0LPGBXRqGiUQ",
+                    "label": "Afterlife",
+                    "name": "Consciousness (Eric Prydz Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "7ecBydyRS1eKkTq0eMQLGg",
+                      "shareUrl": "https://open.spotify.com/album/2jITDjGchk0LPGBXRqGiUQ?si=7ecBydyRS1eKkTq0eMQLGg"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:2jITDjGchk0LPGBXRqGiUQ"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2020 Eric Prydz Limited under exclusive license to Ministry of Sound Recordings Limited",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02315b9024c9326543b3526fa5",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851315b9024c9326543b3526fa5",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273315b9024c9326543b3526fa5",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 23,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2020
+                    },
+                    "id": "4DG7qAkQDjtPzqMUe6zXcA",
+                    "label": "Ministry of Sound Recordings",
+                    "name": "NOPUS",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "rxUarDNERkmR9hmuhqzlJg",
+                      "shareUrl": "https://open.spotify.com/album/4DG7qAkQDjtPzqMUe6zXcA?si=rxUarDNERkmR9hmuhqzlJg"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4DG7qAkQDjtPzqMUe6zXcA"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2015 Eric Prydz Ltd, under exclusive license to Virgin Records Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2015 Eric Prydz Ltd, under exclusive license to Virgin Records Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024cc61e254ec9925df632a3e7",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514cc61e254ec9925df632a3e7",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734cc61e254ec9925df632a3e7",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 20,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2015
+                    },
+                    "id": "6TCaHI9EvJt3CwWyZi63Xp",
+                    "label": "Virgin Records Ltd",
+                    "name": "Generate (Remixes)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "pzRe-JVOSA6JqlbeIgXeaQ",
+                      "shareUrl": "https://open.spotify.com/album/6TCaHI9EvJt3CwWyZi63Xp?si=pzRe-JVOSA6JqlbeIgXeaQ"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:6TCaHI9EvJt3CwWyZi63Xp"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2015 Eric Prydz Ltd, under exclusive license to Virgin Records Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2015 Eric Prydz Ltd, under exclusive license to Virgin Records Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02152fa71c1921692dfc502094",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851152fa71c1921692dfc502094",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273152fa71c1921692dfc502094",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 16,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2015
+                    },
+                    "id": "5T4TrDstGCVdlsnO4UY62g",
+                    "label": "Virgin Records Ltd",
+                    "name": "Opus (Four Tet Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "a2pUvKyXQNWMjjNftvuUqA",
+                      "shareUrl": "https://open.spotify.com/album/5T4TrDstGCVdlsnO4UY62g?si=a2pUvKyXQNWMjjNftvuUqA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5T4TrDstGCVdlsnO4UY62g"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2015 Eric Prydz Ltd, under exclusive license to Virgin Records Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2015 Eric Prydz Ltd, under exclusive license to Virgin Records Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021b4187a783899120c2c0015a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511b4187a783899120c2c0015a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731b4187a783899120c2c0015a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 8,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 2015
+                    },
+                    "id": "5vXFBNZudqd99Lhu9Qqyql",
+                    "label": "Virgin Records Ltd",
+                    "name": "Generate (Radio Edit)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "zPKxhpJTQtyRjQhVb9n45A",
+                      "shareUrl": "https://open.spotify.com/album/5vXFBNZudqd99Lhu9Qqyql?si=zPKxhpJTQtyRjQhVb9n45A"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5vXFBNZudqd99Lhu9Qqyql"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2015 Virgin EMI Records, a division of Universal Music Operations Limited",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2015 Virgin EMI Records, a division of Universal Music Operations Limited",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e023604906306a058aae42c7052",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048513604906306a058aae42c7052",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2733604906306a058aae42c7052",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 17,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2015
+                    },
+                    "id": "0l4PrdzOh4l88cDGbzznBP",
+                    "label": "Virgin Records Ltd",
+                    "name": "Tether (Eric Prydz Vs. CHVRCHES) [Radio Edit]",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "qNuUPcOaSMeydbmbhO_zkA",
+                      "shareUrl": "https://open.spotify.com/album/0l4PrdzOh4l88cDGbzznBP?si=qNuUPcOaSMeydbmbhO_zkA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:0l4PrdzOh4l88cDGbzznBP"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2014 Virgin Records Limited",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2014 Virgin Records Limited",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02012c188de1167b6a71c33a53",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851012c188de1167b6a71c33a53",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273012c188de1167b6a71c33a53",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 1,
+                      "month": 1,
+                      "precision": "DAY",
+                      "year": 2014
+                    },
+                    "id": "2TSM1k1XtJryf6eQGs4dgi",
+                    "label": "Virgin Records Ltd",
+                    "name": "Liberate (Remixes)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "NhmQ08CrSa6mzOKdnltucQ",
+                      "shareUrl": "https://open.spotify.com/album/2TSM1k1XtJryf6eQGs4dgi?si=NhmQ08CrSa6mzOKdnltucQ"
+                    },
+                    "tracks": {
+                      "totalCount": 3
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:2TSM1k1XtJryf6eQGs4dgi"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2014 Virgin Records Limited",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2014 Virgin Records Limited",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02edbc49d6d97af1c331c2a9c0",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851edbc49d6d97af1c331c2a9c0",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273edbc49d6d97af1c331c2a9c0",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 1,
+                      "month": 1,
+                      "precision": "DAY",
+                      "year": 2014
+                    },
+                    "id": "2oSsWpEK9fWQ400fNDtf47",
+                    "label": "Virgin Records Ltd",
+                    "name": "Liberate",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "87gzeCTcSvC6VDyhxbR5AA",
+                      "shareUrl": "https://open.spotify.com/album/2oSsWpEK9fWQ400fNDtf47?si=87gzeCTcSvC6VDyhxbR5AA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:2oSsWpEK9fWQ400fNDtf47"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2011 Pryda Recordings Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2011 Pryda Recordings Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ceefa37a501a2a84fe2eb2db",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ceefa37a501a2a84fe2eb2db",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ceefa37a501a2a84fe2eb2db",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 19,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2011
+                    },
+                    "id": "5vBX3Mqc75oo3l79JfeSd3",
+                    "label": "Pryda Recordings Ltd",
+                    "name": "2Night",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "SS6KSRs0QCuK9mfEDVPRdA",
+                      "shareUrl": "https://open.spotify.com/album/5vBX3Mqc75oo3l79JfeSd3?si=SS6KSRs0QCuK9mfEDVPRdA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5vBX3Mqc75oo3l79JfeSd3"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 19
+        },
+        "topTracks": {
+          "items": [
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d93502bd55966aa4683d3add"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851d93502bd55966aa4683d3add"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d93502bd55966aa4683d3add"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:5mqwlg4T5XrpKj77J6g587"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Eric Prydz"
+                      },
+                      "uri": "spotify:artist:5sm0jQ1mq0dusiLtDJ2b4R"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 169426
+                },
+                "id": "6E0dc82Da4W5QWXR8ktoGT",
+                "name": "Call On Me - Radio Edit",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "523751227",
+                "uri": "spotify:track:6E0dc82Da4W5QWXR8ktoGT"
+              },
+              "uid": "645469c5e17e0527f68a"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e021b8a99de784b96348bbb7c27"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048511b8a99de784b96348bbb7c27"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2731b8a99de784b96348bbb7c27"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:7dSBEEBLcZOx66JVx47Fv6"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Eric Prydz"
+                      },
+                      "uri": "spotify:artist:5sm0jQ1mq0dusiLtDJ2b4R"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 157426
+                },
+                "id": "0EzVcavTFL5YEj0945ifIi",
+                "name": "Pjanoo - Radio Edit",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "180330628",
+                "uri": "spotify:track:0EzVcavTFL5YEj0945ifIi"
+              },
+              "uid": "b15159b257e56a4b6d32"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02012c188de1167b6a71c33a53"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851012c188de1167b6a71c33a53"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273012c188de1167b6a71c33a53"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:2TSM1k1XtJryf6eQGs4dgi"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Eric Prydz"
+                      },
+                      "uri": "spotify:artist:5sm0jQ1mq0dusiLtDJ2b4R"
+                    },
+                    {
+                      "profile": {
+                        "name": "Empire Of The Sun"
+                      },
+                      "uri": "spotify:artist:67hb7towEyKvt5Z8Bx306c"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 379500
+                },
+                "id": "6mTnH6xSYwKohtsO9RFzcc",
+                "name": "We Are Mirage",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "71592088",
+                "uri": "spotify:track:6mTnH6xSYwKohtsO9RFzcc"
+              },
+              "uid": "f64e11dec56811be6aa7"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0224492f2ba3a1d995e1faf5d8"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485124492f2ba3a1d995e1faf5d8"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27324492f2ba3a1d995e1faf5d8"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:2Kwbn1H4KMGZAe4MS6uDzU"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Eric Prydz"
+                      },
+                      "uri": "spotify:artist:5sm0jQ1mq0dusiLtDJ2b4R"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 543453
+                },
+                "id": "3v2oAQomhOcYCPPHafS3KV",
+                "name": "Opus",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "110237679",
+                "uri": "spotify:track:3v2oAQomhOcYCPPHafS3KV"
+              },
+              "uid": "3f0b0eb7b0f5c18dd55c"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02bcd753fbccd81321551c3e2f"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851bcd753fbccd81321551c3e2f"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273bcd753fbccd81321551c3e2f"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:3mSm2Ib3z7JaA7eTGARUd8"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Empire Of The Sun"
+                      },
+                      "uri": "spotify:artist:67hb7towEyKvt5Z8Bx306c"
+                    },
+                    {
+                      "profile": {
+                        "name": "Eric Prydz"
+                      },
+                      "uri": "spotify:artist:5sm0jQ1mq0dusiLtDJ2b4R"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 202742
+                },
+                "id": "64guoV5V5VYkaSAA1vVua9",
+                "name": "We Are Mirage - Radio Edit",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "3127206",
+                "uri": "spotify:track:64guoV5V5VYkaSAA1vVua9"
+              },
+              "uid": "52053f2df2be735964fd"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d93502bd55966aa4683d3add"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851d93502bd55966aa4683d3add"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d93502bd55966aa4683d3add"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:5mqwlg4T5XrpKj77J6g587"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Eric Prydz"
+                      },
+                      "uri": "spotify:artist:5sm0jQ1mq0dusiLtDJ2b4R"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 454186
+                },
+                "id": "4ieGbTX96ZdYxprIR7vBVY",
+                "name": "Call On Me - Eric Prydz vs. Retarded Funk Mix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "34149117",
+                "uri": "spotify:track:4ieGbTX96ZdYxprIR7vBVY"
+              },
+              "uid": "bfcab6a0bd156005d3f7"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d2454ff9b99989ac16faf007"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851d2454ff9b99989ac16faf007"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d2454ff9b99989ac16faf007"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:4jkiarZE3b7c3a5D3L2LZy"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Anyma"
+                      },
+                      "uri": "spotify:artist:4iBwchw0U0GZv5RfVYSMxN"
+                    },
+                    {
+                      "profile": {
+                        "name": "Chris Avantgarde"
+                      },
+                      "uri": "spotify:artist:715OI7hiv58daVlEDXM47U"
+                    },
+                    {
+                      "profile": {
+                        "name": "Eric Prydz"
+                      },
+                      "uri": "spotify:artist:5sm0jQ1mq0dusiLtDJ2b4R"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 2,
+                "duration": {
+                  "totalMilliseconds": 244130
+                },
+                "id": "1pM05FAgX2lLp3NwpMY2vs",
+                "name": "Consciousness - Eric Prydz Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "22204441",
+                "uri": "spotify:track:1pM05FAgX2lLp3NwpMY2vs"
+              },
+              "uid": "c52746a89481c8d9c8cb"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f0b0cae9d66c677eac8b070a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851f0b0cae9d66c677eac8b070a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f0b0cae9d66c677eac8b070a"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:2OOBM43Dg3jHlv48Hf8vzs"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Eric Prydz"
+                      },
+                      "uri": "spotify:artist:5sm0jQ1mq0dusiLtDJ2b4R"
+                    },
+                    {
+                      "profile": {
+                        "name": "Floyd"
+                      },
+                      "uri": "spotify:artist:6D6tMkFvkzIeTILbxsBv97"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 198567
+                },
+                "id": "06Vw2ZOhalTwEw4PhoGRSX",
+                "name": "Proper Education - Radio Edit",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "24406169",
+                "uri": "spotify:track:06Vw2ZOhalTwEw4PhoGRSX"
+              },
+              "uid": "092950114dc632d83422"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e021b4187a783899120c2c0015a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048511b4187a783899120c2c0015a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2731b4187a783899120c2c0015a"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:5vXFBNZudqd99Lhu9Qqyql"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Eric Prydz"
+                      },
+                      "uri": "spotify:artist:5sm0jQ1mq0dusiLtDJ2b4R"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 165076
+                },
+                "id": "5LT8hO0Z9Y1nlCJ7nfuSJi",
+                "name": "Generate - Radio Edit",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "29927312",
+                "uri": "spotify:track:5LT8hO0Z9Y1nlCJ7nfuSJi"
+              },
+              "uid": "a4560b8701927c021cd3"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0224492f2ba3a1d995e1faf5d8"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485124492f2ba3a1d995e1faf5d8"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27324492f2ba3a1d995e1faf5d8"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:2Kwbn1H4KMGZAe4MS6uDzU"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Eric Prydz"
+                      },
+                      "uri": "spotify:artist:5sm0jQ1mq0dusiLtDJ2b4R"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 434666
+                },
+                "id": "4j1hJwuawbvpm2q2orbgj7",
+                "name": "Every Day",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "25896425",
+                "uri": "spotify:track:4j1hJwuawbvpm2q2orbgj7"
+              },
+              "uid": "cc782f2ada160bd1c61f"
+            }
+          ]
+        }
+      },
+      "goods": {
+        "concerts": {
+          "items": [
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Atlanta",
+                  "name": "District Atlanta"
+                },
+                "startDateIsoString": "2025-03-07T22:00-05:00",
+                "title": "Eric Prydz",
+                "uri": "spotify:concert:4iiM8FtMi5xDKCM1HUd2sF"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Denver",
+                  "name": "Mission Ballroom"
+                },
+                "startDateIsoString": "2025-03-14T19:00-06:00",
+                "title": "Eric Prydz",
+                "uri": "spotify:concert:0XqhSp9lgCpAViEyrOajBV"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Austin",
+                  "name": "The Concourse Project"
+                },
+                "startDateIsoString": "2025-03-15T21:00-05:00",
+                "title": "Eric Prydz, Jeremy Olander",
+                "uri": "spotify:concert:0tA6gkTMrvaSvGBhugIABI"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Seattle",
+                  "name": "Showbox SoDo"
+                },
+                "startDateIsoString": "2025-04-05T21:00-07:00",
+                "title": "Eric Prydz, Layla Benitez",
+                "uri": "spotify:concert:3HNODi2wUknm1pQA8juPyz"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Kahuku",
+                  "name": "Turtle Bay Resort"
+                },
+                "startDateIsoString": "2025-05-09T00:00-10:00",
+                "title": "Kygo, Eric Prydz, Nora En Pure, San Holo, Night Tales, SWAYL\u00d3, American Composers Orchestra",
+                "uri": "spotify:concert:0ftFpceWGZTK9CdgswjP2m"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Kahuku",
+                  "name": "Turtle Bay Resort"
+                },
+                "startDateIsoString": "2025-05-10T00:00-10:00",
+                "title": "Kygo, American Composers Orchestra, Eric Prydz, Night Tales, Nora En Pure, San Holo, SWAYL\u00d3",
+                "uri": "spotify:concert:4cEMbKUsB3dh6niL5YaaOs"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Las Vegas",
+                  "name": "Las Vegas Motor Speedway"
+                },
+                "startDateIsoString": "2025-05-16T17:00-07:00",
+                "title": "Armin van Buuren, AHEE, ALLEYCVT, AM\u00c9M\u00c9, ARMNHMR, ATLiens, Adam Ten, Ahmed Spins, Alex Chapman, Alignment, Armand Van Helden, Arodes, Avalon, Basstripper, Basswell, BICEP, BIIA, Billy Gillies, Biscits, Brutalismus 3000, CHYL, Caravel, Carlita, Cera Khin, Chase & Status, ChaseWest, Clara Cuv\u00e9, Cloonee, Code Black, D-Sturb, DJ Gigola, Da Tweekaz, DANNY AVILA, Darren Styles, David Forbes, David Rust, Dennis Cruz, Deorro, Disco Lines, Distinct Motive, Drinkurwater, Eric Prydz, Fcukers, Funk Tribu, Fury, Gesaffelstein, Gorgon City, GUDFELLA, HUGEL, Hannah Laing, Hedex, Hot Since 82, I Hate Models, INFEKT, Interplanetary Criminal, INZO, Jackie Hollander, James Hype, Jessica Audiffred, KAMI, Ky William, Kyle Watson, Lake Hills, Lil Texas, Lady Faith, Lavern, Layz, Level Up, Levity, Masha Mar, MPH, MALUGI, Marlon Hoffstadt, Mau P, Mita Gami, Nala, Rusko, SOTA, Dylan Brady, horsegiirL, it's murph",
+                "uri": "spotify:concert:34ojqoCUh53q3nmEJMV29j"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Houthalen",
+                  "name": "Extrema Outdoor Belgium"
+                },
+                "startDateIsoString": "2025-06-05T16:00+02:00",
+                "title": "6EJOU, 999999999, Aaron Hibell, Afem Syko, Ahmed Spins, Ajna (BE), Amber Broos, Andres Campo, Apollonia, Arodes, Axel Haube, AZYR, Bae Blade, Ben B\u00f6hmer, Benwal, Bora Uzer, Brina Knauss, BY\u00d8RN, Calussa, Chelina Manuhutu, Cher Semain, Chiara Meloni, Clara Cuv\u00e9, Delafino, Dexphase, Diffrent, DJ BORING, DJ Fuckoff, DJ Gigola, DJ HEARTSTRING, DJEFF, Eli Brown, EMJIE, Enrico Sangiuliano, Eric Prydz, Fantasm, flieder, Franky Rizardo, Funk Tribu, Gray Cosmo, Hannah Laing, Herton, HU, HUGEL, Indira Paganotto, Isa Roos, JAMIIE, Jan Blomqvist, Jane Muss, Jonas Van Opstal, Joyhauser, Juliet Fox, Kapibara, KARAH, Karim Soliman, KI/KI, Layla Benitez, LE YORA, Lexx (BE), Lilly Palmer, Lolu Menayed, Luna & Lenthe, Dj Mad Dog, Mahmut Orhan, Marcel Fengler, Marhu, Matildoutz, MATRAKK, Maxim Lany, MCR-T, Meera (NO), Melanie Ribbe, Mika Heggemann, Milo Spykers, Mind Against, Miss Monique, Mondingo, Mosoo, Mr Grammy, MRAK, Nico Morano, Nico Moreno, NOVAH, OGUZ, Paco Osuna, Paige, PARKERSTRANGE, Partiboi69, Peter Luts, Philou Louzolo, Prospa, Prunk, Ralpheus, Ravenous, Romy Janssen, SALOME, Seth Troxler, Shimza, Space 92, Sparrow & Barbossa, Stefan Meser, SWART, SYREETA, The Element MT, THEMBA, Tijn Driessen, Tini Gessler, Vintage Culture, WINSON, Young Marco, Yulia Niko, Zamna Soundsystem, \u00d8TTA",
+                "uri": "spotify:concert:5XIsSsNWiijq2oCWJhcWke"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Barcelona",
+                  "name": "Fira Montju\u00efc (S\u00f3nar by Day) / Fira Gran Via (S\u00f3nar by Night)"
+                },
+                "startDateIsoString": "2025-06-12T15:00+02:00",
+                "title": "Plastikman, Peggy Gou, NATHY PELUSO, BICEP, Arca, Armin van Buuren, Indira Paganotto, Rone, Eric Prydz, Honey Dijon, Four Tet, Barry Can't Swim, Skrillex, Blawan, Jayda G, Overmono, Vintage Culture, Helena Hauff, Polo & Pan, Tarta Relena, Mochakk, Sama\u2019 Abdulhadi, Yerai Cort\u00e9s, Six Sex, DJ HEARTSTRING, Samantha Hudson, Max Cooper, Maria Arnal, MCR-T, Grand River, Jennifer Loveless, Branko, 15 15, Hamdi, Cora Novoa, Interplanetary Criminal, Saint Abdullah, Eomac, Andres Campo, Juliana Huxtable, Ni\u00f1o de Elche, Elkka, ABADIR, Tim Reaper, Dania, Teto Preto, Flore, Shapednoise, Le Motel, NEW YORK, Lord Spikeheart, dj g2g, Paula Tape, Emerald",
+                "uri": "spotify:concert:5Wi1CLyBr1tGsXZ8mlPs9P"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Toulouse",
+                  "name": "Poney Club"
+                },
+                "startDateIsoString": "2025-07-17T16:00+02:00",
+                "title": "Eric Prydz",
+                "uri": "spotify:concert:1S1ahLGzPIYnTSt2VfPPIg"
+              }
+            }
+          ],
+          "totalCount": 16
+        },
+        "merch": {
+          "items": []
+        }
+      },
+      "headerImage": {
+        "data": {
+          "__typename": "ImageV2",
+          "sources": [
+            {
+              "maxHeight": 640,
+              "maxWidth": 1494,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67618600000194a1082b78aa1b2967885e0331"
+            },
+            {
+              "maxHeight": 1080,
+              "maxWidth": 1920,
+              "url": "https://i2o.scdn.co/image/ab67618600001667a1082b78aa1b2967885e0331"
+            },
+            {
+              "maxHeight": 641,
+              "maxWidth": 1495,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67618600009d80a1082b78aa1b2967885e0331"
+            },
+            {
+              "maxHeight": 1140,
+              "maxWidth": 2660,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab6761860000eab1a1082b78aa1b2967885e0331"
+            }
+          ]
+        }
+      },
+      "id": "5sm0jQ1mq0dusiLtDJ2b4R",
+      "preRelease": null,
+      "profile": {
+        "biography": {
+          "text": "For over 20 years, Eric Prydz has been synonymous with immaculately produced and unique sounding electronic music. The Platinum-selling artist is responsible for some of the biggest progressive house tracks, not to mention some of the most technically impressive live shows of any touring artist - HOLO/EPIC\nPrydz has headlined some of the world\u2019s most storied venues,  Madison Square Garden to Brixton Academy &amp; Alexandra Palace, earned multiple Grammy nominations, hosted an ongoing radio show for Beats1 and topped charts with his alter-egos Pryda and Cirez D. It\u2019s his dedication to his craft as a producer and DJ that leaves him in the highly enviable and singular position of appealing to dance music\u2019s underground connoisseurs and main-stage masses alike.\nPryda is Prydz\u2019s most well-known alias, one whose sound is replicated endlessly in dance music. Listen to the discographies of any current electronic music success and you can hear Pryda\u2019s influence\u2014the \u2018Pryda Sound,\u2019 comprised of immaculately layered melodies and harmonies, is now almost a sub-genre unto itself. \nCirez D offers a different perspective, a stark contrast to the rich melodies of Pryda, its stripped-back techno dark, raw, and designed for ominous warehouses and long, late-night sets. It\u2019s a deliberate point of focus for Prydz, who relishes playing those environments, and Cirez D, like his other monikers, offers him the freedom to make and release the records that he wants to play, unconstrained by expectations.",
+          "type": "AUTOBIOGRAPHY"
+        },
+        "externalLinks": {
+          "items": [
+            {
+              "name": "FACEBOOK",
+              "url": "https://facebook.com/ericprydzofficial"
+            },
+            {
+              "name": "INSTAGRAM",
+              "url": "https://instagram.com/ericprydz"
+            },
+            {
+              "name": "TWITTER",
+              "url": "https://twitter.com/ericprydz"
+            }
+          ]
+        },
+        "name": "Eric Prydz",
+        "pinnedItem": null,
+        "playlistsV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84b0f67fee111194fc83745713",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Mouseville\u2122 ",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Eric Prydz"
+                  }
+                },
+                "uri": "spotify:playlist:65w5nEOjlCKY55zCTwu4HP"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ef5608f271d293438fb0d4d1",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "OPUS",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Eric Prydz"
+                  }
+                },
+                "uri": "spotify:playlist:2lI2t34ImdydhkUMCVg6Bh"
+              }
+            }
+          ],
+          "totalCount": 2
+        },
+        "verified": true
+      },
+      "relatedContent": {
+        "appearsOn": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Anyma"
+                          },
+                          "uri": "spotify:artist:4iBwchw0U0GZv5RfVYSMxN"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d2454ff9b99989ac16faf007",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d2454ff9b99989ac16faf007",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d2454ff9b99989ac16faf007",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "4jkiarZE3b7c3a5D3L2LZy",
+                    "name": "Genesys II",
+                    "sharingInfo": {
+                      "shareId": "XeQ_tHjnRR2OUa9WVj1SNQ",
+                      "shareUrl": "https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy?si=XeQ_tHjnRR2OUa9WVj1SNQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4jkiarZE3b7c3a5D3L2LZy"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "The Shapeshifters"
+                          },
+                          "uri": "spotify:artist:60FV7KyxIH9FH1uq7u8inP"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02397213f8b850b24ab8652bd5",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851397213f8b850b24ab8652bd5",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273397213f8b850b24ab8652bd5",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2004
+                    },
+                    "id": "3qmFGhTF9CO4GbmY8yLIgp",
+                    "name": "Lola's Theme",
+                    "sharingInfo": {
+                      "shareId": "JUnwTRmkT8yBSLFDH_vj3w",
+                      "shareUrl": "https://open.spotify.com/album/3qmFGhTF9CO4GbmY8yLIgp?si=JUnwTRmkT8yBSLFDH_vj3w"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3qmFGhTF9CO4GbmY8yLIgp"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02555471348ed37d5d6f546a31",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851555471348ed37d5d6f546a31",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273555471348ed37d5d6f546a31",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "0D7tIY7BLewudL5mdWOro7",
+                    "name": "Ibiza Anthems",
+                    "sharingInfo": {
+                      "shareId": "L7ocW9eWScSO6_CH0tBBWQ",
+                      "shareUrl": "https://open.spotify.com/album/0D7tIY7BLewudL5mdWOro7?si=L7ocW9eWScSO6_CH0tBBWQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:0D7tIY7BLewudL5mdWOro7"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e1e247827dcf295c670b361a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e1e247827dcf295c670b361a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e1e247827dcf295c670b361a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "3uoi0WSv99nejC8O0PYoB2",
+                    "name": "EDM Party",
+                    "sharingInfo": {
+                      "shareId": "4sSfsibNSKCRT44RTuwPdA",
+                      "shareUrl": "https://open.spotify.com/album/3uoi0WSv99nejC8O0PYoB2?si=4sSfsibNSKCRT44RTuwPdA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3uoi0WSv99nejC8O0PYoB2"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "deadmau5"
+                          },
+                          "uri": "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c9d23e6ed07946df8cefff6c",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c9d23e6ed07946df8cefff6c",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c9d23e6ed07946df8cefff6c",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2009
+                    },
+                    "id": "0PManGPRcHlL7fZBoQStK2",
+                    "name": "5 Years of mau5",
+                    "sharingInfo": {
+                      "shareId": "_0HzYpjVTEKSzIW-c2d3Dg",
+                      "shareUrl": "https://open.spotify.com/album/0PManGPRcHlL7fZBoQStK2?si=_0HzYpjVTEKSzIW-c2d3Dg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:0PManGPRcHlL7fZBoQStK2"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e028a7cd38c8da6a1eca31bcfb0",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048518a7cd38c8da6a1eca31bcfb0",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2738a7cd38c8da6a1eca31bcfb0",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "29HYXKZgizMLBuVOdI7oI7",
+                    "name": "Deep House 2020",
+                    "sharingInfo": {
+                      "shareId": "uVeVsJqLSpySHygXaBRWxg",
+                      "shareUrl": "https://open.spotify.com/album/29HYXKZgizMLBuVOdI7oI7?si=uVeVsJqLSpySHygXaBRWxg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:29HYXKZgizMLBuVOdI7oI7"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02744f884112a038b4785d48a7",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851744f884112a038b4785d48a7",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273744f884112a038b4785d48a7",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "0ujp2zHrc4NjeMmbx5vSH6",
+                    "name": "2000s XL",
+                    "sharingInfo": {
+                      "shareId": "NY_ubmOTSxaSUF4I7BnBKg",
+                      "shareUrl": "https://open.spotify.com/album/0ujp2zHrc4NjeMmbx5vSH6?si=NY_ubmOTSxaSUF4I7BnBKg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:0ujp2zHrc4NjeMmbx5vSH6"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ff5f1a2a5f5bbf7ebdf280c5",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ff5f1a2a5f5bbf7ebdf280c5",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ff5f1a2a5f5bbf7ebdf280c5",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "0cramgZMPuEYk4IrPEThmB",
+                    "name": "Houseparty 2020",
+                    "sharingInfo": {
+                      "shareId": "2yjGPf1nRBeqqmOxYV72hA",
+                      "shareUrl": "https://open.spotify.com/album/0cramgZMPuEYk4IrPEThmB?si=2yjGPf1nRBeqqmOxYV72hA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:0cramgZMPuEYk4IrPEThmB"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Axwell"
+                          },
+                          "uri": "spotify:artist:1xNmvlEiICkRlRGqlNFZ43"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ea6dc3c3eb891171ad1efd69",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ea6dc3c3eb891171ad1efd69",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ea6dc3c3eb891171ad1efd69",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2005
+                    },
+                    "id": "4tO3SzjOQc90Maxjv72pPf",
+                    "name": "Feel The Vibe",
+                    "sharingInfo": {
+                      "shareId": "1A2mIJrGSbKNYtDs2uvKtQ",
+                      "shareUrl": "https://open.spotify.com/album/4tO3SzjOQc90Maxjv72pPf?si=1A2mIJrGSbKNYtDs2uvKtQ"
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:4tO3SzjOQc90Maxjv72pPf"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0246a3baa73fd8614eff60063d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485146a3baa73fd8614eff60063d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27346a3baa73fd8614eff60063d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "5c9hGMbmaGvkZcR7EgYgVs",
+                    "name": "Fast Pop EDM House Run",
+                    "sharingInfo": {
+                      "shareId": "NrAWFnWtTCuHPgRNyr5NbA",
+                      "shareUrl": "https://open.spotify.com/album/5c9hGMbmaGvkZcR7EgYgVs?si=NrAWFnWtTCuHPgRNyr5NbA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:5c9hGMbmaGvkZcR7EgYgVs"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02aa12a3e73944074ff4ca5a56",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851aa12a3e73944074ff4ca5a56",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273aa12a3e73944074ff4ca5a56",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "2nwEb1xR1jbA3oZZzOo3Ai",
+                    "name": "Coronation Celebration",
+                    "sharingInfo": {
+                      "shareId": "eY1BwOihSCCqd7lr3DuerA",
+                      "shareUrl": "https://open.spotify.com/album/2nwEb1xR1jbA3oZZzOo3Ai?si=eY1BwOihSCCqd7lr3DuerA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:2nwEb1xR1jbA3oZZzOo3Ai"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02db8fbd9b4acb3a967c3408e7",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851db8fbd9b4acb3a967c3408e7",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273db8fbd9b4acb3a967c3408e7",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2017
+                    },
+                    "id": "6b439Wfa3J7VMZCTNoLgN8",
+                    "name": "EDM Vegas 2017",
+                    "sharingInfo": {
+                      "shareId": "mQ46jXvSQFCHLtaFrGq5Lg",
+                      "shareUrl": "https://open.spotify.com/album/6b439Wfa3J7VMZCTNoLgN8?si=mQ46jXvSQFCHLtaFrGq5Lg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:6b439Wfa3J7VMZCTNoLgN8"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0225d1f72611ce3b962e4f9100",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485125d1f72611ce3b962e4f9100",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27325d1f72611ce3b962e4f9100",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "5N908fN8d6jKcxsFVLxlt3",
+                    "name": "Soir\u00e9e d'\u00e9t\u00e9 : Summer Hits Mix 2022",
+                    "sharingInfo": {
+                      "shareId": "y6I32gjLSNqJB5Z_pj2tlg",
+                      "shareUrl": "https://open.spotify.com/album/5N908fN8d6jKcxsFVLxlt3?si=y6I32gjLSNqJB5Z_pj2tlg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:5N908fN8d6jKcxsFVLxlt3"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e028c5e1a05ff66e917bcf64ad3",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048518c5e1a05ff66e917bcf64ad3",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2738c5e1a05ff66e917bcf64ad3",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "20YQDXKy9Sf7ZwPkB53crh",
+                    "name": "Sommer Grill Party",
+                    "sharingInfo": {
+                      "shareId": "99OXXUpFS5uqszU-YcqlNQ",
+                      "shareUrl": "https://open.spotify.com/album/20YQDXKy9Sf7ZwPkB53crh?si=99OXXUpFS5uqszU-YcqlNQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:20YQDXKy9Sf7ZwPkB53crh"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0275407f27e41aa010b823a43f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485175407f27e41aa010b823a43f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27375407f27e41aa010b823a43f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "15mcffadrVSEPvmfdcxBy1",
+                    "name": "Ultimate Coronation Party",
+                    "sharingInfo": {
+                      "shareId": "R317bq0aQU2yRN2D9m3-Tg",
+                      "shareUrl": "https://open.spotify.com/album/15mcffadrVSEPvmfdcxBy1?si=R317bq0aQU2yRN2D9m3-Tg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:15mcffadrVSEPvmfdcxBy1"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025238719e5c759c672326b003",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515238719e5c759c672326b003",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735238719e5c759c672326b003",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2011
+                    },
+                    "id": "0CtQGkjNCj2LLt8JkBgu3g",
+                    "name": "Ultra Top 10 April",
+                    "sharingInfo": {
+                      "shareId": "uY1j5_y0T42S_5CwdPiKnA",
+                      "shareUrl": "https://open.spotify.com/album/0CtQGkjNCj2LLt8JkBgu3g?si=uY1j5_y0T42S_5CwdPiKnA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:0CtQGkjNCj2LLt8JkBgu3g"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Empire Of The Sun"
+                          },
+                          "uri": "spotify:artist:67hb7towEyKvt5Z8Bx306c"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020302deda7b6a2672d9044170",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510302deda7b6a2672d9044170",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730302deda7b6a2672d9044170",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "7A7qlNIkzcv3vzdhdsxo6y",
+                    "name": "We Are The People (Reimagined)",
+                    "sharingInfo": {
+                      "shareId": "xTcTJHmbTn-2s0-Cgcy5bw",
+                      "shareUrl": "https://open.spotify.com/album/7A7qlNIkzcv3vzdhdsxo6y?si=xTcTJHmbTn-2s0-Cgcy5bw"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7A7qlNIkzcv3vzdhdsxo6y"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0268f07cdf76d98ba887721b03",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485168f07cdf76d98ba887721b03",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27368f07cdf76d98ba887721b03",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "0kbyooiItiykU7w4ScElSp",
+                    "name": "Sommer Pop Hits",
+                    "sharingInfo": {
+                      "shareId": "KYvirS23Qh6xBpi0ENgvWw",
+                      "shareUrl": "https://open.spotify.com/album/0kbyooiItiykU7w4ScElSp?si=KYvirS23Qh6xBpi0ENgvWw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:0kbyooiItiykU7w4ScElSp"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Mark Brown"
+                          },
+                          "uri": "spotify:artist:1DJWqQgWcg650Nh5yTBEGi"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e15f1809845cbd211668252d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e15f1809845cbd211668252d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e15f1809845cbd211668252d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "2W2PPBDgDDSajTuSg2iebO",
+                    "name": "Space Ibiza: 1989 - 2016 (DJ Mix)",
+                    "sharingInfo": {
+                      "shareId": "dTk18_ggSKy1AoNJUTkP0g",
+                      "shareUrl": "https://open.spotify.com/album/2W2PPBDgDDSajTuSg2iebO?si=dTk18_ggSKy1AoNJUTkP0g"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2W2PPBDgDDSajTuSg2iebO"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0219538df81dae6265a6a35943",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485119538df81dae6265a6a35943",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27319538df81dae6265a6a35943",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "5Av9eJLgCTSMUKxdqVJ31O",
+                    "name": "Electr\u00f3nica Vieja Y Poderosa",
+                    "sharingInfo": {
+                      "shareId": "XFmXtTN9SJCFmmGr83U3xg",
+                      "shareUrl": "https://open.spotify.com/album/5Av9eJLgCTSMUKxdqVJ31O?si=XFmXtTN9SJCFmmGr83U3xg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:5Av9eJLgCTSMUKxdqVJ31O"
+                  }
+                ],
+                "totalCount": 1
+              }
+            }
+          ],
+          "totalCount": 115
+        },
+        "discoveredOnV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
+                "id": "37i9dQZF1DX8a1tdzq5tbM",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000022da2d07c587623848d44b52d",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Dance Classics",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX8a1tdzq5tbM"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The biggest dance floor bangers of the 2000s.",
+                "id": "37i9dQZF1DWSj4n2q6ZYVe",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000027d24d8bbad41b4bb9dff417a",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Dance Hits 2000s",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWSj4n2q6ZYVe"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Eric Prydz. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO3d76nu",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO3d76nu-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Eric Prydz",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO3d76nu"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The biggest songs of the 2000s. Cover: Avril Lavigne",
+                "id": "37i9dQZF1DX4o1oenSJRJd",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002ea77a20b3e5c0eafb124ffc4",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "All Out 2000s",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX4o1oenSJRJd"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "\ud83d\udcaa\ud83d\udcaa\ud83d\udcaa",
+                "id": "37i9dQZF1DWYp5sAHdz27Y",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f0000000284ef10a472ad3c01b93f3f60",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Gym 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWYp5sAHdz27Y"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "\ud835\udde1\ud835\uddfc. \ud835\udfed \ud835\udde6\ud835\uddfd\ud835\uddfc\ud835\ude01\ud835\uddf6\ud835\uddf3\ud835\ude06 \ud835\uddda\ud835\ude06\ud835\uddfa \ud835\udde3\ud835\uddf9\ud835\uddee\ud835\ude06\ud835\uddf9\ud835\uddf6\ud835\ude00\ud835\ude01! Techno, Tech House, Drum &amp; Bass, EDM &amp; Dance beats to pump up your Workout! Sport Motivation \u2013 Workout Remix \u2013 Fitness \u2013 Cardio \u2013 Sport Songs \u2013 Best Gym Playlist \u2013 Best Workout Songs \u2013 Training \u2013 Treining \u2013 Treino \u2013 Running \u2013 Body Pump \u2013 Hot Gym Girls \u2013 Gym",
+                "id": "6VvcT6f0xh7ODqkwgbmqLF",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cdd3318ffad70250bda2779a5",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "GYM BEASTMODE 2025 \ud83d\udcaa",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "LOUD X LUCKY"
+                  }
+                },
+                "uri": "spotify:playlist:6VvcT6f0xh7ODqkwgbmqLF"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The ocean, the sun, your friends, the music.",
+                "id": "37i9dQZF1DX4Y4RhrZqHhr",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000023f2429537dcbe10282011246",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Beach Party",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX4Y4RhrZqHhr"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "La playlist des plus grands hits Electro & Dance.",
+                "id": "37i9dQZF1DX1zcQs2sF77z",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002a4e3dd65b5ffee1167ee8bbd",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Dancefloor Classics",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX1zcQs2sF77z"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Empire Of The Sun. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO3BJNUA",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO3BJNUA-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Empire Of The Sun",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO3BJNUA"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Mixing the decades: 1990s, 2000s, 2010s and 2020s.",
+                "id": "37i9dQZF1DWUZMtnnlvJ9p",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000028f6b6a1c1b242422148d09e8",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "The Ultimate Hit Mix",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWUZMtnnlvJ9p"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Not just 80s, but songs from throughout century: welcome back to the good, old times and especially to great music;) Song recommendations via Instagram @julian_zink",
+                "id": "4OumZsx16Gk8kEoFX2kj7J",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72ca8b52dcd7342dbd04ae8ad6c",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "80er und 90er BEST OF",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Julian Zink"
+                  }
+                },
+                "uri": "spotify:playlist:4OumZsx16Gk8kEoFX2kj7J"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Ein Hoch auf die 00er-Jahre!",
+                "id": "37i9dQZF1DWXeOurMWUII5",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002c88f1ddd7e8235d5773ef02a",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "2000er Hits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWXeOurMWUII5"
+              }
+            }
+          ],
+          "totalCount": 100
+        },
+        "featuringV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Eric Prydz. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO3d76nu",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO3d76nu-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Eric Prydz",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO3d76nu"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "With Swedish House Mafia, Fedde Le Grand, Guru Josh Project and more",
+                "id": "37i9dQZF1E4EQUeNu1V9W7",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/5sm0jQ1mq0dusiLtDJ2b4R/en",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Eric Prydz Radio",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1E4EQUeNu1V9W7"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The biggest party hits of the 2000s. Cover: Shakira. ",
+                "id": "37i9dQZF1DX7e8TjkFNKWH",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002abf84d549f87ed110df1b750",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Party Hits 2000s",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX7e8TjkFNKWH"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Mixing the decades: 1990s, 2000s, 2010s and 2020s.",
+                "id": "37i9dQZF1DWUZMtnnlvJ9p",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000028f6b6a1c1b242422148d09e8",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "The Ultimate Hit Mix",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWUZMtnnlvJ9p"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Here it is, the playlist for the ultimate throwback bash!",
+                "id": "37i9dQZF1DX7F6T2n2fegs",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f0000000282f22593c527716398774f5a",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Throwback Party",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX7F6T2n2fegs"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The ocean, the sun, your friends, the music.",
+                "id": "37i9dQZF1DX4Y4RhrZqHhr",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000023f2429537dcbe10282011246",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Beach Party",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX4Y4RhrZqHhr"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
+                "id": "37i9dQZF1DX8a1tdzq5tbM",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000022da2d07c587623848d44b52d",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Dance Classics",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX8a1tdzq5tbM"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Nostalgic <a href=\"spotify:genre:edm_dance\">dance</a> festival favorites from the 2010s.",
+                "id": "37i9dQZF1DX8D2YR1GbW3K",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002360b9dd854158aa5a6a45811",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Headliners",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX8D2YR1GbW3K"
+              }
+            }
+          ],
+          "totalCount": 8
+        },
+        "relatedArtists": {
+          "items": [
+            {
+              "id": "1xNmvlEiICkRlRGqlNFZ43",
+              "profile": {
+                "name": "Axwell"
+              },
+              "uri": "spotify:artist:1xNmvlEiICkRlRGqlNFZ43",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb6dcf7ccb812d6123716499ef",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1786dcf7ccb812d6123716499ef",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051746dcf7ccb812d6123716499ef",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4FqPRilb0Ja0TKG3RS3y4s",
+              "profile": {
+                "name": "Steve Angello"
+              },
+              "uri": "spotify:artist:4FqPRilb0Ja0TKG3RS3y4s",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb2bd2406364f86733efafcf80",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1782bd2406364f86733efafcf80",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051742bd2406364f86733efafcf80",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4Wjf8diP59VmPG7fi4y724",
+              "profile": {
+                "name": "Cedric Gervais"
+              },
+              "uri": "spotify:artist:4Wjf8diP59VmPG7fi4y724",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb577e3855698e0003f8e74e9b",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178577e3855698e0003f8e74e9b",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174577e3855698e0003f8e74e9b",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4Ws2otunReOa6BbwxxpCt6",
+              "profile": {
+                "name": "Benny Benassi"
+              },
+              "uri": "spotify:artist:4Ws2otunReOa6BbwxxpCt6",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebae7d930f8e916482ec30a064",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178ae7d930f8e916482ec30a064",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174ae7d930f8e916482ec30a064",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5fahUm8t5c0GIdeTq0ZaG8",
+              "profile": {
+                "name": "Otto Knows"
+              },
+              "uri": "spotify:artist:5fahUm8t5c0GIdeTq0ZaG8",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb34f11fa225bb47cd91bf0766",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17834f11fa225bb47cd91bf0766",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517434f11fa225bb47cd91bf0766",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1bj5GrcLom5gZFF5t949Xl",
+              "profile": {
+                "name": "Martin Solveig"
+              },
+              "uri": "spotify:artist:1bj5GrcLom5gZFF5t949Xl",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb7520cf8cf5c0395d388ce696",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1787520cf8cf5c0395d388ce696",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051747520cf8cf5c0395d388ce696",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7iLc4hrjOjQPfg1E3cCHg1",
+              "profile": {
+                "name": "Tim Berg"
+              },
+              "uri": "spotify:artist:7iLc4hrjOjQPfg1E3cCHg1",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/fdccb3a594a8e7787031ce8d5027b62ded1e8a99",
+                      "width": 640
+                    },
+                    {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/600a251c3fd822018cfbc7b48fd280ee9abf16da",
+                      "width": 64
+                    },
+                    {
+                      "height": 200,
+                      "url": "https://i.scdn.co/image/8241371470d4a6712dcc0f4306850717c062265f",
+                      "width": 200
+                    },
+                    {
+                      "height": 1000,
+                      "url": "https://i.scdn.co/image/ebae979a746db853d4f8f274719a7ab48f6978d3",
+                      "width": 1000
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0LhHRmSd1EYM5QdNeNnCoQ",
+              "profile": {
+                "name": "Darude"
+              },
+              "uri": "spotify:artist:0LhHRmSd1EYM5QdNeNnCoQ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb2fe2de0779658eeb9665ccb4",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1782fe2de0779658eeb9665ccb4",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051742fe2de0779658eeb9665ccb4",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2YVF0Ou5zIc4mpgtLIlGN0",
+              "profile": {
+                "name": "Robert Miles"
+              },
+              "uri": "spotify:artist:2YVF0Ou5zIc4mpgtLIlGN0",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/80a617303e9fe2af63b199db0da3a48a53e39aac",
+                      "width": 640
+                    },
+                    {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/c9ae30d2391e6bf9f677d63c8e8b953a2017954b",
+                      "width": 64
+                    },
+                    {
+                      "height": 200,
+                      "url": "https://i.scdn.co/image/8294a7925e14efc6e0afd68841d80eb596812bab",
+                      "width": 200
+                    },
+                    {
+                      "height": 1000,
+                      "url": "https://i.scdn.co/image/270333abeb769990ca788d54758ba7eff4488775",
+                      "width": 1000
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7urnl0uH1w3NCoErxw7AUK",
+              "profile": {
+                "name": "Supermode"
+              },
+              "uri": "spotify:artist:7urnl0uH1w3NCoErxw7AUK",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebb5576566c73b0f2bb4e3d84f",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178b5576566c73b0f2bb4e3d84f",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174b5576566c73b0f2bb4e3d84f",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6hyMWrxGBsOx6sWcVj1DqP",
+              "profile": {
+                "name": "Sebastian Ingrosso"
+              },
+              "uri": "spotify:artist:6hyMWrxGBsOx6sWcVj1DqP",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb2e079e23c13aacb2e249d975",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1782e079e23c13aacb2e249d975",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051742e079e23c13aacb2e249d975",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4ME85YvMUi1hdqhbind7gy",
+              "profile": {
+                "name": "Guru Josh Project"
+              },
+              "uri": "spotify:artist:4ME85YvMUi1hdqhbind7gy",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb5f7d3d27302d9570f07cfc88",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1785f7d3d27302d9570f07cfc88",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051745f7d3d27302d9570f07cfc88",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7jZM5w05mGhw6wTB1okhD9",
+              "profile": {
+                "name": "ATB"
+              },
+              "uri": "spotify:artist:7jZM5w05mGhw6wTB1okhD9",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb44d7cffab76f55289e92914d",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17844d7cffab76f55289e92914d",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517444d7cffab76f55289e92914d",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5nki7yRhxgM509M5ADlN1p",
+              "profile": {
+                "name": "Oliver Heldens"
+              },
+              "uri": "spotify:artist:5nki7yRhxgM509M5ADlN1p",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebe0de3617061247aa35ff7865",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178e0de3617061247aa35ff7865",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174e0de3617061247aa35ff7865",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7dc6hUwyuIhrZdh80eaCEE",
+              "profile": {
+                "name": "Fedde Le Grand"
+              },
+              "uri": "spotify:artist:7dc6hUwyuIhrZdh80eaCEE",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb2d1ffc018e0bcdb0a8aec570",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1782d1ffc018e0bcdb0a8aec570",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051742d1ffc018e0bcdb0a8aec570",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "61lyPtntblHJvA7FMMhi7E",
+              "profile": {
+                "name": "Duke Dumont"
+              },
+              "uri": "spotify:artist:61lyPtntblHJvA7FMMhi7E",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb208e2d15d19c97801c0bd5fc",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178208e2d15d19c97801c0bd5fc",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174208e2d15d19c97801c0bd5fc",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7keGfmQR4X5w0two1xKZ7d",
+              "profile": {
+                "name": "Kungs"
+              },
+              "uri": "spotify:artist:7keGfmQR4X5w0two1xKZ7d",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb3b0676d8b5ef3e99ceb0194e",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1783b0676d8b5ef3e99ceb0194e",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051743b0676d8b5ef3e99ceb0194e",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5YFS41yoX0YuFY39fq21oN",
+              "profile": {
+                "name": "Bob Sinclar"
+              },
+              "uri": "spotify:artist:5YFS41yoX0YuFY39fq21oN",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb010611a574d5dfbacd552a2f",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178010611a574d5dfbacd552a2f",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174010611a574d5dfbacd552a2f",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2qSEpijpT3YSXgxcXac1ly",
+              "profile": {
+                "name": "Chris Willis"
+              },
+              "uri": "spotify:artist:2qSEpijpT3YSXgxcXac1ly",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb220cc16a0a4230776900cb5d",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178220cc16a0a4230776900cb5d",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174220cc16a0a4230776900cb5d",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7vb7VLDqpLTlAy1ctTMR5d",
+              "profile": {
+                "name": "Alex Gaudino"
+              },
+              "uri": "spotify:artist:7vb7VLDqpLTlAy1ctTMR5d",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb49be31ab6575c91f488e813a",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17849be31ab6575c91f488e813a",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517449be31ab6575c91f488e813a",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "totalCount": 40
+        }
+      },
+      "relatedVideos": {
+        "__typename": "RelatedVideoPage",
+        "items": [],
+        "totalCount": 0
+      },
+      "saved": false,
+      "sharingInfo": {
+        "shareId": "Ahx1gVGGS5CDVN-EzvtZaw",
+        "shareUrl": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R?si=Ahx1gVGGS5CDVN-EzvtZaw"
+      },
+      "stats": {
+        "followers": 662571,
+        "monthlyListeners": 6218728,
+        "topCities": {
+          "items": [
+            {
+              "city": "Sydney",
+              "country": "AU",
+              "numberOfListeners": 112236,
+              "region": "NSW"
+            },
+            {
+              "city": "Melbourne",
+              "country": "AU",
+              "numberOfListeners": 103977,
+              "region": "VIC"
+            },
+            {
+              "city": "London",
+              "country": "GB",
+              "numberOfListeners": 100619,
+              "region": "ENG"
+            },
+            {
+              "city": "Mexico City",
+              "country": "MX",
+              "numberOfListeners": 82071,
+              "region": "CMX"
+            },
+            {
+              "city": "Brisbane",
+              "country": "AU",
+              "numberOfListeners": 73055,
+              "region": "QLD"
+            }
+          ]
+        },
+        "worldRank": 0
+      },
+      "uri": "spotify:artist:5sm0jQ1mq0dusiLtDJ2b4R",
+      "visualIdentity": {
+        "wideFullBleedImage": {
+          "__typename": "VisualIdentityImage",
+          "extractedColorSet": {
+            "encoreBaseSetTextColor": {
+              "alpha": 255,
+              "blue": 187,
+              "green": 187,
+              "red": 187
+            },
+            "highContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 83,
+                "green": 83,
+                "red": 83
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 51,
+                "green": 51,
+                "red": 51
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 205,
+                "green": 205,
+                "red": 205
+              }
+            },
+            "higherContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 53,
+                "green": 53,
+                "red": 53
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 86,
+                "green": 86,
+                "red": 86
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 96,
+                "green": 215,
+                "red": 30
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 205,
+                "green": 205,
+                "red": 205
+              }
+            },
+            "minContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 83,
+                "green": 83,
+                "red": 83
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 51,
+                "green": 51,
+                "red": 51
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              }
+            }
+          }
+        }
+      },
+      "visuals": {
+        "avatarImage": {
+          "extractedColors": {
+            "colorRaw": {
+              "hex": "#535353"
+            }
+          },
+          "sources": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb4170f1e4c72c0a9fc2eddc1d",
+              "width": 640
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1784170f1e4c72c0a9fc2eddc1d",
+              "width": 160
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051744170f1e4c72c0a9fc2eddc1d",
+              "width": 320
+            }
+          ]
+        },
+        "gallery": {
+          "items": [
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4f738f43364df68dfe7f4bccf",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4a9fbd008cfb58425c75fa5d9",
+                  "width": 640
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "watchFeedEntrypoint": null
+    }
+  },
+  "extensions": {}
+}

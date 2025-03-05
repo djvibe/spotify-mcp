@@ -1,0 +1,5048 @@
+{
+  "data": {
+    "artistUnion": {
+      "__typename": "Artist",
+      "discography": {
+        "albums": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(C) 2023 Mass Appeal / Dharma Worldwide",
+                          "type": "C"
+                        },
+                        {
+                          "text": "(P) 2023 Mass Appeal / Dharma Worldwide",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02187fbd661ad71b06d9e2e75c",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851187fbd661ad71b06d9e2e75c",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273187fbd661ad71b06d9e2e75c",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 3,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "6lmjyMZTJmkJuQrXo79HM1",
+                    "label": "Mass Appeal India",
+                    "name": "KARAM",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "T7HqZj0SSsG7dcpvAAEh9g",
+                      "shareUrl": "https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1?si=T7HqZj0SSsG7dcpvAAEh9g"
+                    },
+                    "tracks": {
+                      "totalCount": 24
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6lmjyMZTJmkJuQrXo79HM1"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "Dharma, \u00a9 2021 SpinninRecords.com",
+                          "type": "C"
+                        },
+                        {
+                          "text": "Dharma, \u2117 2021 SpinninRecords.com",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020a6854a0a9c41d99b79ba5d5",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510a6854a0a9c41d99b79ba5d5",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730a6854a0a9c41d99b79ba5d5",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 19,
+                      "month": 3,
+                      "precision": "DAY",
+                      "year": 2021
+                    },
+                    "id": "0Y6aeC29PCS6MNymIDM74g",
+                    "label": "Dharma",
+                    "name": "Harmonica Andromeda (Deluxe)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "2v_cDAQ9QeuYvfy9rGk_fg",
+                      "shareUrl": "https://open.spotify.com/album/0Y6aeC29PCS6MNymIDM74g?si=2v_cDAQ9QeuYvfy9rGk_fg"
+                    },
+                    "tracks": {
+                      "totalCount": 19
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:0Y6aeC29PCS6MNymIDM74g"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "Dharma, \u00a9 2021 SpinninRecords.com",
+                          "type": "C"
+                        },
+                        {
+                          "text": "Dharma, \u2117 2021 SpinninRecords.com",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c77fd471855d57c796e654ae",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c77fd471855d57c796e654ae",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c77fd471855d57c796e654ae",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 19,
+                      "month": 3,
+                      "precision": "DAY",
+                      "year": 2021
+                    },
+                    "id": "2nhAtXeLgszdlYmg5ynPFH",
+                    "label": "Dharma",
+                    "name": "Harmonica Andromeda",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "u-Zt_htuRreTZMciv5g2WA",
+                      "shareUrl": "https://open.spotify.com/album/2nhAtXeLgszdlYmg5ynPFH?si=u-Zt_htuRreTZMciv5g2WA"
+                    },
+                    "tracks": {
+                      "totalCount": 14
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2nhAtXeLgszdlYmg5ynPFH"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2016 SpinninRecords.com",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2016 SpinninRecords.com",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ee36721e85e7fbef178390cf",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ee36721e85e7fbef178390cf",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ee36721e85e7fbef178390cf",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 13,
+                      "month": 5,
+                      "precision": "DAY",
+                      "year": 2016
+                    },
+                    "id": "3msGe0afD76M99r3qEF3RA",
+                    "label": "Spinnin' Records",
+                    "name": "The Lion Across The Field",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "eTaDqhFyR6yzKb2A8pfRLA",
+                      "shareUrl": "https://open.spotify.com/album/3msGe0afD76M99r3qEF3RA?si=eTaDqhFyR6yzKb2A8pfRLA"
+                    },
+                    "tracks": {
+                      "totalCount": 12
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3msGe0afD76M99r3qEF3RA"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 4
+        },
+        "compilations": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "Dharma, \u00a9 2022 Spinnin' Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "Dharma, \u2117 2022 Spinnin' Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02cb14a38500e20967c1f42054",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851cb14a38500e20967c1f42054",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273cb14a38500e20967c1f42054",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 16,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2022
+                    },
+                    "id": "5cIswGzQB1EYTvioCg6lGf",
+                    "label": "Dharma",
+                    "name": "Dharma Sounds Of Summer Vol. IV",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "tfP0q-uMSk2GKicfppsZXQ",
+                      "shareUrl": "https://open.spotify.com/album/5cIswGzQB1EYTvioCg6lGf?si=tfP0q-uMSk2GKicfppsZXQ"
+                    },
+                    "tracks": {
+                      "totalCount": 16
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:5cIswGzQB1EYTvioCg6lGf"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 1
+        },
+        "latest": {
+          "copyright": {
+            "items": [
+              {
+                "text": "Dharma, \u00a9 2025 Spinnin' Records",
+                "type": "C"
+              },
+              {
+                "text": "Dharma, \u2117 2025 Spinnin' Records",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e020438376f41524a3d9f54d6cf",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048510438376f41524a3d9f54d6cf",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2730438376f41524a3d9f54d6cf",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 28,
+            "month": 2,
+            "precision": "DAY",
+            "year": 2025
+          },
+          "id": "43DE9skvypnCF4t2bLaSOh",
+          "label": "Dharma",
+          "name": "Indigo Child (feat. Michael Bernard Fitzgerald)",
+          "playability": {
+            "playable": true,
+            "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+            "shareId": "vc3e8pCBTmOU8e2AXY6cnQ",
+            "shareUrl": "https://open.spotify.com/album/43DE9skvypnCF4t2bLaSOh?si=vc3e8pCBTmOU8e2AXY6cnQ"
+          },
+          "tracks": {
+            "totalCount": 1
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:43DE9skvypnCF4t2bLaSOh"
+        },
+        "popularReleasesAlbums": {
+          "items": [
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(C) 2023 Mass Appeal / Dharma Worldwide",
+                    "type": "C"
+                  },
+                  {
+                    "text": "(P) 2023 Mass Appeal / Dharma Worldwide",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02187fbd661ad71b06d9e2e75c",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851187fbd661ad71b06d9e2e75c",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273187fbd661ad71b06d9e2e75c",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 3,
+                "month": 11,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "6lmjyMZTJmkJuQrXo79HM1",
+              "label": "Mass Appeal India",
+              "name": "KARAM",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "T7HqZj0SSsG7dcpvAAEh9g",
+                "shareUrl": "https://open.spotify.com/album/6lmjyMZTJmkJuQrXo79HM1?si=T7HqZj0SSsG7dcpvAAEh9g"
+              },
+              "tracks": {
+                "totalCount": 24
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:6lmjyMZTJmkJuQrXo79HM1"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "Dharma, \u00a9 2020 SpinninRecords.com",
+                    "type": "C"
+                  },
+                  {
+                    "text": "Dharma, \u2117 2020 SpinninRecords.com",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02aa7da12269b584a1d978fbb9",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851aa7da12269b584a1d978fbb9",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273aa7da12269b584a1d978fbb9",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 14,
+                "month": 8,
+                "precision": "DAY",
+                "year": 2020
+              },
+              "id": "3iYUmg1PpY33KH7QW0goe1",
+              "label": "Dharma",
+              "name": "Kids (feat. MKLA)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "4AV4oce4Rr60dEEFVCWZ-A",
+                "shareUrl": "https://open.spotify.com/album/3iYUmg1PpY33KH7QW0goe1?si=4AV4oce4Rr60dEEFVCWZ-A"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:3iYUmg1PpY33KH7QW0goe1"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2023 Spinnin' Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2023 Spinnin' Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a79b72d0b6c31b5917fa645d",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a79b72d0b6c31b5917fa645d",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a79b72d0b6c31b5917fa645d",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 11,
+                "month": 8,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "1JjGogI2XIeKZK0UOSJQaY",
+              "label": "Spinnin' Records",
+              "name": "Eternity",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "YosCx1VJQ2WaqTONWRNMfQ",
+                "shareUrl": "https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY?si=YosCx1VJQ2WaqTONWRNMfQ"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1JjGogI2XIeKZK0UOSJQaY"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2015 Musical Freedom Label Ltd, under exclusive license to PM:AM Recordings/Universal Music, a division of Universal International Music B.V.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2015 Musical Freedom Label Ltd, under exclusive license to PM:AM Recordings/Universal Music, a division of Universal International Music B.V.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02370074ce24e61526daf0c25f",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851370074ce24e61526daf0c25f",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273370074ce24e61526daf0c25f",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 3,
+                "month": 4,
+                "precision": "DAY",
+                "year": 2015
+              },
+              "id": "4p3CULd5VeCSikL0PYkoP3",
+              "label": "Universal Music, a division of Universal International Music BV",
+              "name": "Secrets (Radio Edit)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "CZDVIJ9qSGOkCLsFyxjk5w",
+                "shareUrl": "https://open.spotify.com/album/4p3CULd5VeCSikL0PYkoP3?si=CZDVIJ9qSGOkCLsFyxjk5w"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:4p3CULd5VeCSikL0PYkoP3"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "Dharma, \u00a9 2024 Spinnin' Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "Dharma, \u2117 2024 Spinnin' Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02766fd47d176109252c7be901",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851766fd47d176109252c7be901",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273766fd47d176109252c7be901",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 21,
+                "month": 6,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "4j4FvdCqehgLaiNVBdA3jW",
+              "label": "Dharma",
+              "name": "Take Me Home, Country Roads",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "RXkZw7jIRimwh44gC9_8XQ",
+                "shareUrl": "https://open.spotify.com/album/4j4FvdCqehgLaiNVBdA3jW?si=RXkZw7jIRimwh44gC9_8XQ"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:4j4FvdCqehgLaiNVBdA3jW"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2020 SpinninRecords.com",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2020 SpinninRecords.com",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d723992f219a8669682614f5",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d723992f219a8669682614f5",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d723992f219a8669682614f5",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 18,
+                "month": 9,
+                "precision": "DAY",
+                "year": 2020
+              },
+              "id": "4douEsIUMR7BG5pIs0lQW7",
+              "label": "Spinnin' Records",
+              "name": "Scare Me (feat. Karra)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "RK3zdThPQL6Z0WceRRQiMQ",
+                "shareUrl": "https://open.spotify.com/album/4douEsIUMR7BG5pIs0lQW7?si=RK3zdThPQL6Z0WceRRQiMQ"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:4douEsIUMR7BG5pIs0lQW7"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2017 Hardwell & KSHMR",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2017 Hardwell & KSHMR",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02657f264c53a14d63ddb31c60",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851657f264c53a14d63ddb31c60",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273657f264c53a14d63ddb31c60",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 22,
+                "month": 9,
+                "precision": "DAY",
+                "year": 2017
+              },
+              "id": "4G19LdhYXHY60QJepiSVbE",
+              "label": "Hardwell & KSHMR",
+              "name": "Power",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "UkLq9--yTb-OXzBiEk_EXQ",
+                "shareUrl": "https://open.spotify.com/album/4G19LdhYXHY60QJepiSVbE?si=UkLq9--yTb-OXzBiEk_EXQ"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:4G19LdhYXHY60QJepiSVbE"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2019 Dharma / under exclusive license to SpinninRecords.com",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2019 Dharma / under exclusive license to SpinninRecords.com",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024e730643a1b52c6622edfeaa",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514e730643a1b52c6622edfeaa",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734e730643a1b52c6622edfeaa",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 5,
+                "month": 8,
+                "precision": "DAY",
+                "year": 2019
+              },
+              "id": "499pxoME8SyDn5lwogpwrE",
+              "label": "Dharma",
+              "name": "My Best Life (feat. Mike Waters) [Club Mix]",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "Iy6FlQoVQbuDC5JxaileMw",
+                "shareUrl": "https://open.spotify.com/album/499pxoME8SyDn5lwogpwrE?si=Iy6FlQoVQbuDC5JxaileMw"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:499pxoME8SyDn5lwogpwrE"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "Dharma, \u00a9 2025 Spinnin' Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "Dharma, \u2117 2025 Spinnin' Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0244919ba40d60fd2dc979ef0d",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485144919ba40d60fd2dc979ef0d",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27344919ba40d60fd2dc979ef0d",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 17,
+                "month": 1,
+                "precision": "DAY",
+                "year": 2025
+              },
+              "id": "249hhHmNxiQ4pGfLGRXbQt",
+              "label": "Dharma",
+              "name": "Sun Goes Down",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "4B12AnB0QECZZ_fjc0tquQ",
+                "shareUrl": "https://open.spotify.com/album/249hhHmNxiQ4pGfLGRXbQt?si=4B12AnB0QECZZ_fjc0tquQ"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:249hhHmNxiQ4pGfLGRXbQt"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "Dharma, \u00a9 2024 Spinnin' Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "Dharma, \u2117 2024 Spinnin' Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e15e7be74d3bd2ac7a397a40",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e15e7be74d3bd2ac7a397a40",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e15e7be74d3bd2ac7a397a40",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 6,
+                "month": 12,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "13K9ALiVMRRqwCCx1SBZma",
+              "label": "Dharma",
+              "name": "More Than A Feeling",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "f8RlJ2uqS-2tkyEqX3sMpQ",
+                "shareUrl": "https://open.spotify.com/album/13K9ALiVMRRqwCCx1SBZma?si=f8RlJ2uqS-2tkyEqX3sMpQ"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:13K9ALiVMRRqwCCx1SBZma"
+            }
+          ],
+          "totalCount": 20
+        },
+        "singles": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "Dharma, \u00a9 2025 Spinnin' Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "Dharma, \u2117 2025 Spinnin' Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020438376f41524a3d9f54d6cf",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510438376f41524a3d9f54d6cf",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730438376f41524a3d9f54d6cf",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 28,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "43DE9skvypnCF4t2bLaSOh",
+                    "label": "Dharma",
+                    "name": "Indigo Child (feat. Michael Bernard Fitzgerald)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "vc3e8pCBTmOU8e2AXY6cnQ",
+                      "shareUrl": "https://open.spotify.com/album/43DE9skvypnCF4t2bLaSOh?si=vc3e8pCBTmOU8e2AXY6cnQ"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:43DE9skvypnCF4t2bLaSOh"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "Dharma, \u00a9 2025 Spinnin' Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "Dharma, \u2117 2025 Spinnin' Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d86acf657e80c4fb2d5b21f0",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d86acf657e80c4fb2d5b21f0",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d86acf657e80c4fb2d5b21f0",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 7,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "0PUR6EyFylp9ScdueGEBuk",
+                    "label": "Dharma",
+                    "name": "7 Days a Freak",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "QmKP2gl6Sp2pHhXdj_sgtw",
+                      "shareUrl": "https://open.spotify.com/album/0PUR6EyFylp9ScdueGEBuk?si=QmKP2gl6Sp2pHhXdj_sgtw"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:0PUR6EyFylp9ScdueGEBuk"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "Dharma, \u00a9 2025 Spinnin' Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "Dharma, \u2117 2025 Spinnin' Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0244919ba40d60fd2dc979ef0d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485144919ba40d60fd2dc979ef0d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27344919ba40d60fd2dc979ef0d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 17,
+                      "month": 1,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "249hhHmNxiQ4pGfLGRXbQt",
+                    "label": "Dharma",
+                    "name": "Sun Goes Down",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "4B12AnB0QECZZ_fjc0tquQ",
+                      "shareUrl": "https://open.spotify.com/album/249hhHmNxiQ4pGfLGRXbQt?si=4B12AnB0QECZZ_fjc0tquQ"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:249hhHmNxiQ4pGfLGRXbQt"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "Dharma, \u00a9 2024 Spinnin' Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "Dharma, \u2117 2024 Spinnin' Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e15e7be74d3bd2ac7a397a40",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e15e7be74d3bd2ac7a397a40",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e15e7be74d3bd2ac7a397a40",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 6,
+                      "month": 12,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "13K9ALiVMRRqwCCx1SBZma",
+                    "label": "Dharma",
+                    "name": "More Than A Feeling",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "f8RlJ2uqS-2tkyEqX3sMpQ",
+                      "shareUrl": "https://open.spotify.com/album/13K9ALiVMRRqwCCx1SBZma?si=f8RlJ2uqS-2tkyEqX3sMpQ"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:13K9ALiVMRRqwCCx1SBZma"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "Dharma, \u00a9 2024 Spinnin' Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "Dharma, \u2117 2024 Spinnin' Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02304a26a2669522d3c01905ca",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851304a26a2669522d3c01905ca",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273304a26a2669522d3c01905ca",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 22,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "4esL2rkKn37eYxKxdg07c0",
+                    "label": "Dharma",
+                    "name": "Taambdi Chaamdi (KSHMR Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "yF_SBhcvRRWjzHSiCndCbQ",
+                      "shareUrl": "https://open.spotify.com/album/4esL2rkKn37eYxKxdg07c0?si=yF_SBhcvRRWjzHSiCndCbQ"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4esL2rkKn37eYxKxdg07c0"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 Spinnin' Records, Dharma",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 Spinnin' Records, Dharma",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e850b9339848dde8189e6681",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e850b9339848dde8189e6681",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e850b9339848dde8189e6681",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 31,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "2mlNgi2YyH7VU4oUeXlc25",
+                    "label": "Dharma",
+                    "name": "Khoye Yahaan (Official Sunburn Goa 2024 Anthem)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "8IUL8zRLQrKhkcsCRDAeXw",
+                      "shareUrl": "https://open.spotify.com/album/2mlNgi2YyH7VU4oUeXlc25?si=8IUL8zRLQrKhkcsCRDAeXw"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:2mlNgi2YyH7VU4oUeXlc25"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "Dharma, \u00a9 2024 Spinnin' Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "Dharma, \u2117 2024 Spinnin' Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ad91234de5cb7a4679b7c5f5",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ad91234de5cb7a4679b7c5f5",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ad91234de5cb7a4679b7c5f5",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 18,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "421QWBCNHDoQTqDk41JYfj",
+                    "label": "Dharma",
+                    "name": "Kolkata (Techno Version)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "H1VdrLS9S0O7IrtFMH2RbQ",
+                      "shareUrl": "https://open.spotify.com/album/421QWBCNHDoQTqDk41JYfj?si=H1VdrLS9S0O7IrtFMH2RbQ"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:421QWBCNHDoQTqDk41JYfj"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "Dharma, \u00a9 2024 Spinnin' Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "Dharma, \u2117 2024 Spinnin' Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02bcf090976c24d17a28db4deb",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851bcf090976c24d17a28db4deb",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273bcf090976c24d17a28db4deb",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 27,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "293qHAJCL1zaqYDLQpPC3d",
+                    "label": "Dharma",
+                    "name": "My Best Life (feat. Mike Waters) [Psy Mix]",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "TMkIhNheQeaweBSx8A2mCA",
+                      "shareUrl": "https://open.spotify.com/album/293qHAJCL1zaqYDLQpPC3d?si=TMkIhNheQeaweBSx8A2mCA"
+                    },
+                    "tracks": {
+                      "totalCount": 3
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:293qHAJCL1zaqYDLQpPC3d"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 Warner Music India",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 Warner Music India",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e023c5ab1a4f2b0f1cc16d2c99c",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048513c5ab1a4f2b0f1cc16d2c99c",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2733c5ab1a4f2b0f1cc16d2c99c",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 5,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "1lKabEz08F0w7UOmMsu8Wm",
+                    "label": "Warner Music India",
+                    "name": "BADA",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "L-qJncA6RX2fWSj2BOY-lA",
+                      "shareUrl": "https://open.spotify.com/album/1lKabEz08F0w7UOmMsu8Wm?si=L-qJncA6RX2fWSj2BOY-lA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1lKabEz08F0w7UOmMsu8Wm"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "Dharma, \u00a9 2024 Spinnin' Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "Dharma, \u2117 2024 Spinnin' Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b3b4f8227db8ac7741db6028",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b3b4f8227db8ac7741db6028",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b3b4f8227db8ac7741db6028",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 16,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "09WB6ev1KyKXszq0kCvK9q",
+                    "label": "Dharma",
+                    "name": "Out of Control",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "udn0iOX0SpGSxN80Qt1N6Q",
+                      "shareUrl": "https://open.spotify.com/album/09WB6ev1KyKXszq0kCvK9q?si=udn0iOX0SpGSxN80Qt1N6Q"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:09WB6ev1KyKXszq0kCvK9q"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 133
+        },
+        "topTracks": {
+          "items": [
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02de5f51296e162e8ec5d56899"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851de5f51296e162e8ec5d56899"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273de5f51296e162e8ec5d56899"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:57bABnvvPfNhBQRI70dqlU"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Ti\u00ebsto"
+                      },
+                      "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+                    },
+                    {
+                      "profile": {
+                        "name": "KSHMR"
+                      },
+                      "uri": "spotify:artist:2wX6xSig4Rig5kZU6ePlWe"
+                    },
+                    {
+                      "profile": {
+                        "name": "VASSY"
+                      },
+                      "uri": "spotify:artist:7HqEmV7FeCi16bQyHMpIrF"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 250946
+                },
+                "id": "0NIC4unbe5KZOp1d9T7OaF",
+                "name": "Secrets",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "133900926",
+                "uri": "spotify:track:0NIC4unbe5KZOp1d9T7OaF"
+              },
+              "uid": "3a95b60a52b8abf33afc"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02aa7da12269b584a1d978fbb9"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851aa7da12269b584a1d978fbb9"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273aa7da12269b584a1d978fbb9"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:3iYUmg1PpY33KH7QW0goe1"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "KSHMR"
+                      },
+                      "uri": "spotify:artist:2wX6xSig4Rig5kZU6ePlWe"
+                    },
+                    {
+                      "profile": {
+                        "name": "Stefy De Cicco"
+                      },
+                      "uri": "spotify:artist:5v3JgLiZtNnw6ablRjjNKK"
+                    },
+                    {
+                      "profile": {
+                        "name": "MKLA"
+                      },
+                      "uri": "spotify:artist:57Vnemieu10x71jR2UWc4o"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 184687
+                },
+                "id": "3rgTS3933lMWoPiN6CW4qY",
+                "name": "Kids (feat. MKLA)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "105866216",
+                "uri": "spotify:track:3rgTS3933lMWoPiN6CW4qY"
+              },
+              "uid": "cf8f24fa441e3c222afa"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02187fbd661ad71b06d9e2e75c"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851187fbd661ad71b06d9e2e75c"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273187fbd661ad71b06d9e2e75c"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6lmjyMZTJmkJuQrXo79HM1"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "KSHMR"
+                      },
+                      "uri": "spotify:artist:2wX6xSig4Rig5kZU6ePlWe"
+                    },
+                    {
+                      "profile": {
+                        "name": "Dabzee"
+                      },
+                      "uri": "spotify:artist:2JJKoRrK7Eec7jlcjFB7sc"
+                    },
+                    {
+                      "profile": {
+                        "name": "Vedan"
+                      },
+                      "uri": "spotify:artist:1Clwe5e4xyRasANUVlpcCf"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 141473
+                },
+                "id": "6oScY8qe1DGd6PlrCJ7e44",
+                "name": "La Vida",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "20074697",
+                "uri": "spotify:track:6oScY8qe1DGd6PlrCJ7e44"
+              },
+              "uid": "40970201fd0105d111e9"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02370074ce24e61526daf0c25f"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851370074ce24e61526daf0c25f"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273370074ce24e61526daf0c25f"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:4p3CULd5VeCSikL0PYkoP3"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Ti\u00ebsto"
+                      },
+                      "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+                    },
+                    {
+                      "profile": {
+                        "name": "KSHMR"
+                      },
+                      "uri": "spotify:artist:2wX6xSig4Rig5kZU6ePlWe"
+                    },
+                    {
+                      "profile": {
+                        "name": "VASSY"
+                      },
+                      "uri": "spotify:artist:7HqEmV7FeCi16bQyHMpIrF"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 216967
+                },
+                "id": "69zxj1EFDfAouZu9JDmQld",
+                "name": "Secrets - Radio Edit",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "202333948",
+                "uri": "spotify:track:69zxj1EFDfAouZu9JDmQld"
+              },
+              "uid": "d13252b732cc8281bbf2"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a79b72d0b6c31b5917fa645d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851a79b72d0b6c31b5917fa645d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a79b72d0b6c31b5917fa645d"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:1JjGogI2XIeKZK0UOSJQaY"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Timmy Trumpet"
+                      },
+                      "uri": "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+                    },
+                    {
+                      "profile": {
+                        "name": "KSHMR"
+                      },
+                      "uri": "spotify:artist:2wX6xSig4Rig5kZU6ePlWe"
+                    },
+                    {
+                      "profile": {
+                        "name": "Bassjackers"
+                      },
+                      "uri": "spotify:artist:6xQvQwZQQuq9R3TdPNbcR8"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 135428
+                },
+                "id": "3aNxfCcd9EohIxKmcQv1zn",
+                "name": "Eternity",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "26443445",
+                "uri": "spotify:track:3aNxfCcd9EohIxKmcQv1zn"
+              },
+              "uid": "bf44678bc1d621b4adc1"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d723992f219a8669682614f5"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851d723992f219a8669682614f5"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d723992f219a8669682614f5"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:4douEsIUMR7BG5pIs0lQW7"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "LUM!X"
+                      },
+                      "uri": "spotify:artist:0TKFPt9w0AAEnhB9bd0pLy"
+                    },
+                    {
+                      "profile": {
+                        "name": "KSHMR"
+                      },
+                      "uri": "spotify:artist:2wX6xSig4Rig5kZU6ePlWe"
+                    },
+                    {
+                      "profile": {
+                        "name": "Gabry Ponte"
+                      },
+                      "uri": "spotify:artist:5ENS85nZShljwNgg4wFD7D"
+                    },
+                    {
+                      "profile": {
+                        "name": "Karra"
+                      },
+                      "uri": "spotify:artist:24CzPFC4y3bM4AkUnZfuAU"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 142222
+                },
+                "id": "6hKi0TR2wj6L9kyTLgfgFz",
+                "name": "Scare Me (feat. Karra)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "55009056",
+                "uri": "spotify:track:6hKi0TR2wj6L9kyTLgfgFz"
+              },
+              "uid": "a05b6a94dbe0a1dfbdcb"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02766fd47d176109252c7be901"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851766fd47d176109252c7be901"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273766fd47d176109252c7be901"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:4j4FvdCqehgLaiNVBdA3jW"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "KSHMR"
+                      },
+                      "uri": "spotify:artist:2wX6xSig4Rig5kZU6ePlWe"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 177600
+                },
+                "id": "3yyWrz4CsVzkWPuxtZflov",
+                "name": "Take Me Home, Country Roads",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "3548606",
+                "uri": "spotify:track:3yyWrz4CsVzkWPuxtZflov"
+              },
+              "uid": "c6cf4c0f27a9ee0a111e"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02657f264c53a14d63ddb31c60"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851657f264c53a14d63ddb31c60"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273657f264c53a14d63ddb31c60"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:4G19LdhYXHY60QJepiSVbE"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Hardwell"
+                      },
+                      "uri": "spotify:artist:6BrvowZBreEkXzJQMpL174"
+                    },
+                    {
+                      "profile": {
+                        "name": "KSHMR"
+                      },
+                      "uri": "spotify:artist:2wX6xSig4Rig5kZU6ePlWe"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 148837
+                },
+                "id": "4CVOUJki8YUWol3jhLphgs",
+                "name": "Power",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "119204688",
+                "uri": "spotify:track:4CVOUJki8YUWol3jhLphgs"
+              },
+              "uid": "8277d349900bb8a49808"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e024e730643a1b52c6622edfeaa"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048514e730643a1b52c6622edfeaa"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734e730643a1b52c6622edfeaa"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:499pxoME8SyDn5lwogpwrE"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "KSHMR"
+                      },
+                      "uri": "spotify:artist:2wX6xSig4Rig5kZU6ePlWe"
+                    },
+                    {
+                      "profile": {
+                        "name": "Mike Waters"
+                      },
+                      "uri": "spotify:artist:35rZNMlMkBs7ghHmGKt0xq"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 198533
+                },
+                "id": "78XfOXpUShe7mFwhjBEd94",
+                "name": "My Best Life (feat. Mike Waters) - Club Mix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "58872740",
+                "uri": "spotify:track:78XfOXpUShe7mFwhjBEd94"
+              },
+              "uid": "f2b25ae3f22ea32f5dbc"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02bbfdc79f379d079e6bec829b"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851bbfdc79f379d079e6bec829b"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273bbfdc79f379d079e6bec829b"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:50sCMvIW4D834oh0bRUciQ"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "R3HAB"
+                      },
+                      "uri": "spotify:artist:6cEuCEZu7PAE9ZSzLLc2oQ"
+                    },
+                    {
+                      "profile": {
+                        "name": "KSHMR"
+                      },
+                      "uri": "spotify:artist:2wX6xSig4Rig5kZU6ePlWe"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 210000
+                },
+                "id": "3v4MeM594dIvXU493D16Lp",
+                "name": "Karate",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "58377639",
+                "uri": "spotify:track:3v4MeM594dIvXU493D16Lp"
+              },
+              "uid": "114be1b675eacec4663e"
+            }
+          ]
+        }
+      },
+      "goods": {
+        "concerts": {
+          "items": [
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "San Francisco",
+                  "name": "The Midway"
+                },
+                "startDateIsoString": "2025-03-21T21:00-07:00",
+                "title": "KSHMR, Dzeko",
+                "uri": "spotify:concert:4vv5FXErxwlZKCD1CoSkvg"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Abbotsford",
+                  "name": "Tradex"
+                },
+                "startDateIsoString": "2025-03-22T17:00-07:00",
+                "title": "KSHMR",
+                "uri": "spotify:concert:6JDx9HQRgUtE8ZpHyY59Di"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Philadelphia",
+                  "name": "NOTO"
+                },
+                "startDateIsoString": "2025-04-04T22:00-04:00",
+                "title": "KSHMR",
+                "uri": "spotify:concert:5o4WhVwYWNPmVPM6STOFA4"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Toronto",
+                  "name": "REBEL"
+                },
+                "startDateIsoString": "2025-04-05T22:00-04:00",
+                "title": "KSHMR",
+                "uri": "spotify:concert:1iUZPMybsLDmK84LXceCfm"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Montreal",
+                  "name": "New City Gas"
+                },
+                "startDateIsoString": "2025-04-11T22:00-04:00",
+                "title": "KSHMR",
+                "uri": "spotify:concert:1b37upiNyPi1iSQNvID0Nb"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Washington",
+                  "name": "Echostage"
+                },
+                "startDateIsoString": "2025-04-12T21:00-04:00",
+                "title": "KSHMR",
+                "uri": "spotify:concert:4OqQrbRSgcS8GVuNx72byy"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Chicago",
+                  "name": "TAO Chicago"
+                },
+                "startDateIsoString": "2025-05-02T23:00-05:00",
+                "title": "KSHMR",
+                "uri": "spotify:concert:0Y9uC8L5gFIW7cbVo3GheL"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Dallas",
+                  "name": "SILO"
+                },
+                "startDateIsoString": "2025-05-09T21:00-05:00",
+                "title": "KSHMR",
+                "uri": "spotify:concert:1iceqlTTPu3WO3QFopXGsf"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Los Angeles",
+                  "name": "Avalon Hollywood"
+                },
+                "startDateIsoString": "2025-05-30T22:00-07:00",
+                "title": "KSHMR",
+                "uri": "spotify:concert:7cMWKqVI66oMoh9Ftfnunt"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Los Angeles",
+                  "name": "Exchange LA"
+                },
+                "startDateIsoString": "2025-05-31T22:00-07:00",
+                "title": "KSHMR",
+                "uri": "spotify:concert:5AyuJ7jJAyJxMMVHDejEG6"
+              }
+            }
+          ],
+          "totalCount": 11
+        },
+        "merch": {
+          "items": []
+        }
+      },
+      "headerImage": {
+        "data": {
+          "__typename": "ImageV2",
+          "sources": [
+            {
+              "maxHeight": 640,
+              "maxWidth": 1494,
+              "url": "https://image-cdn-fa.spotifycdn.com/image/ab67618600000194c6f483c4d99302e3ea36bc62"
+            },
+            {
+              "maxHeight": 1080,
+              "maxWidth": 1920,
+              "url": "https://i2o.scdn.co/image/ab67618600001667c6f483c4d99302e3ea36bc62"
+            },
+            {
+              "maxHeight": 641,
+              "maxWidth": 1495,
+              "url": "https://image-cdn-fa.spotifycdn.com/image/ab67618600009d80c6f483c4d99302e3ea36bc62"
+            },
+            {
+              "maxHeight": 1140,
+              "maxWidth": 2660,
+              "url": "https://image-cdn-fa.spotifycdn.com/image/ab6761860000eab1c6f483c4d99302e3ea36bc62"
+            }
+          ]
+        }
+      },
+      "id": "2wX6xSig4Rig5kZU6ePlWe",
+      "preRelease": null,
+      "profile": {
+        "biography": {
+          "text": "Niles Hollowell-Dhar, known by his stage name KSHMR, produces big room electro-house that is heavily influenced by his Indian heritage. The California-based producer first found success as part of the pop-rap duo <a href=\"spotify:artist:7C64wNX3howEFZjAYRKsfP\">the Cataracs</a>, who produced hits for <a href=\"spotify:artist:698hF4vcwHwPy8ltmXermq\">Far East Movement</a>, <a href=\"spotify:artist:7Ip2u3e5Nv6fFb5xyIHxEE\">Dev</a>, <a href=\"spotify:artist:7hJcb9fa4alzcOq3EaNPoG\">Snoop Dogg</a>, and <a href=\"spotify:artist:1ZKqrja0WvbSssYNFO3lzs\">New Boyz</a> during the early 2010s. Freeing himself from the expectations of the pop world, he anonymously debuted his EDM alias KSHMR in 2014, publicly confirming his identity the following year. He has released dozens of singles, including collaborations with <a href=\"spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z\">Ti\u00ebsto</a>, <a href=\"spotify:artist:6BrvowZBreEkXzJQMpL174\">Hardwell</a>, and <a href=\"spotify:artist:6cEuCEZu7PAE9ZSzLLc2oQ\">R3hab</a>, in addition to EPs such as 2015's Paradesi, 2016's interlude-heavy The Lion Across the Field, 2017's Materia, and 2021's full-length Harmonica Andromeda. \r\n\nHollowell-Dhar, the son of an Indian father and an American mother, was born in Berkeley, California, in 1988. He attended Berkeley High School, where he met aspiring rapper David Benjamin Singer-Vine. Hollowell-Dhar wrote a diss track against Singer-Vine, but they ended up becoming close friends, and they formed <a href=\"spotify:artist:7C64wNX3howEFZjAYRKsfP\">the Cataracs</a> in 2003. Starting with 2006's Technohop, Vol. 1, they released a few digital albums and EPs, as well as the 2007 single \"Blueberry Afghani,\" a collaboration with hyphy group <a href=\"spotify:artist:5M6GE2n46o0qBIyGXtzdQz\">the Pack</a> (featuring a young <a href=\"spotify:artist:4bbjivSh1oG4NOc7uYHfw5\">Lil B</a>). After moving to Los Angeles, they began collaborating with singer <a href=\"spotify:artist:7Ip2u3e5Nv6fFb5xyIHxEE\">Dev</a>. <a href=\"spotify:artist:7C64wNX3howEFZjAYRKsfP\">The Cataracs</a> signed to <a href=\"spotify:search:label%3A%22Universal+Records%22\">Universal Records</a> in 2010, and they wrote and produced <a href=\"spotify:artist:698hF4vcwHwPy8ltmXermq\">Far East Movement</a>'s chart-topping hit \"Like a G6,\" which sampled \"Booty Bounce,\" a song they produced for <a href=\"spotify:artist:7Ip2u3e5Nv6fFb5xyIHxEE\">Dev</a>. <a href=\"spotify:artist:7C64wNX3howEFZjAYRKsfP\">The Cataracs</a>' other productions included <a href=\"spotify:artist:7hJcb9fa4alzcOq3EaNPoG\">Snoop Dogg</a>'s single \"Wet,\" <a href=\"spotify:artist:1ZKqrja0WvbSssYNFO3lzs\">New Boyz</a>'s hit \"Backseat,\" and the entirety of <a href=\"spotify:artist:7Ip2u3e5Nv6fFb5xyIHxEE\">Dev</a>'s 2011 full-length The Night the Sun Came Up. <a href=\"spotify:artist:7C64wNX3howEFZjAYRKsfP\">The Cataracs</a>' Gordo Taqueria EP was released in 2012, featuring \"All You,\" a collaboration with <a href=\"spotify:artist:6f4XkbvYlXMH0QgVRzW0sM\">Wacka Flocka Flame</a> and <a href=\"spotify:artist:6TQj5BFPooTa08A7pk8AQ1\">Kaskade</a>.\r\n\nSinger-Vine decided to leave <a href=\"spotify:artist:7C64wNX3howEFZjAYRKsfP\">the Cataracs</a> in 2012, and Hollowell-Dhar continued using the name. He teamed up with <a href=\"spotify:artist:1bj5GrcLom5gZFF5t949Xl\">Martin Solveig</a> and <a href=\"spotify:artist:4qBgvVog0wzW75IQ48mU7v\">Kyle</a> on the 2013 single \"Hey Now,\" which charted in several countries. He also produced songs for <a href=\"spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx\">Selena Gomez</a>, <a href=\"spotify:artist:3Isy6kedDrgPYoTS1dazA9\">Sean Paul</a>, and <a href=\"spotify:artist:0ZrpamOxcZybMHGg1AYtHP\">Robin Thicke</a>. He decided to end <a href=\"spotify:artist:7C64wNX3howEFZjAYRKsfP\">the Cataracs</a> in 2014, and began anonymously producing EDM under the name KSHMR. Debuting in February with the single \"Megalodon,\" KSHMR released a steady stream of tracks that hit the charts of dance music retailer Beatport. Following collaborations with <a href=\"spotify:artist:53YSn9tHwGJ6bq5P0gGoYo\">Firebeatz</a> and <a href=\"spotify:artist:7uas0F5EhsZg6KDJ7yy7rW\">DallasK</a>, \"Karate\" (with <a href=\"spotify:artist:6cEuCEZu7PAE9ZSzLLc2oQ\">R3hab</a>) charted in Belgium and France. KSHMR revealed his identity at the Ultra Music Festival in 2015, where he was introduced by <a href=\"spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z\">Ti\u00ebsto</a>. The two collaborated on the single \"Secrets\" (with <a href=\"spotify:artist:7HqEmV7FeCi16bQyHMpIrF\">Vassy</a>), which was the biggest KSHMR single yet. He released the Paradesi EP, which was strongly based on Indian culture, as were additional singles like \"Jammu\" and \"Bazaar.\" By the end of the year, he had charted at number 23 on DJ Mag's annual Top 100 DJs poll.\r\n\nAn EP titled The Lion Across the Field was released in May 2016, and KSHMR performed at the main stage of the Tomorrowland music festival shortly after. His singles during the year included \"Invisible Children\" (with <a href=\"spotify:artist:48xCatjXaoohtyOHrHTijG\">Tigerlily</a>), \"Voices\" (with <a href=\"spotify:artist:1u7OVFmWah4wQhOPIbUb8U\">Will Sparks</a>), and \"Extreme\" (with <a href=\"spotify:artist:6xQvQwZQQuq9R3TdPNbcR8\">Bassjackers</a>). He then moved up to number 12 on the annual DJ Mag poll, a position he held the following year. KSHMR's 2017 performance at the Ultra Music Festival, with <a href=\"spotify:artist:0CbeG1224FS58EUx4tPevZ\">Timmy Trumpet</a>, was his first to be performed entirely with live musicians. A further <a href=\"spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z\">Ti\u00ebsto</a> collaboration, \"Harder,\" appeared that year, and subsequent 2017 singles included \"The Serpent\" (with <a href=\"spotify:artist:2yT7X3Gg2S51DHz67FAYL6\">Snails</a>) and \"Underwater,\" which featured Bollywood singer <a href=\"spotify:artist:1dVygo6tRFXC8CSWURQJq2\">Sonu Nigam</a>. He also ventured into psy-trance with the single \"Shiva,\" a collaboration with <a href=\"spotify:artist:6S3KljEiIOWoLMUyZrkQUc\">Marnik</a> and <a href=\"spotify:artist:0eOemNtxSZ7lBeb3hvqOe5\">the Golden Army</a>. In 2018, KSHMR teamed up with singer <a href=\"spotify:artist:1q4zUzqEWKe8YvpI9OxKqL\">Sidnie Tipton</a> for the acoustic pop-oriented single \"House of Cards.\" \"Doonka,\" a free track featuring <a href=\"spotify:artist:7tGP2lCt2Xkoc3BCN13NWU\">Mr.Black</a>, was influenced by trap. This was followed by \"Carry Me Home,\" a progressive house track featuring vocalist <a href=\"spotify:artist:0eBOZ74PcpQb3SisNPgaRQ\">Jake Reese</a>. 2021 saw the release of his first full-length effort, Harmonica Andromeda, which took inspiration from countries and cultures worldwide. ~ Paul Simpson, Rovi",
+          "type": "BIOGRAPHY"
+        },
+        "externalLinks": {
+          "items": [
+            {
+              "name": "FACEBOOK",
+              "url": "https://facebook.com/KSHMRmusic"
+            },
+            {
+              "name": "INSTAGRAM",
+              "url": "https://instagram.com/kshmr"
+            },
+            {
+              "name": "TWITTER",
+              "url": "https://twitter.com/KSHMRmusic"
+            },
+            {
+              "name": "WIKIPEDIA",
+              "url": "https://en.wikipedia.org/wiki/Kshmr"
+            }
+          ]
+        },
+        "name": "KSHMR",
+        "pinnedItem": {
+          "backgroundImageV2": null,
+          "comment": "",
+          "itemV2": {
+            "__typename": "AlbumResponseWrapper",
+            "data": {
+              "__typename": "Album",
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020438376f41524a3d9f54d6cf",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510438376f41524a3d9f54d6cf",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730438376f41524a3d9f54d6cf",
+                    "width": 640
+                  }
+                ]
+              },
+              "name": "Indigo Child (feat. Michael Bernard Fitzgerald)",
+              "type": "SINGLE",
+              "uri": "spotify:album:43DE9skvypnCF4t2bLaSOh"
+            }
+          },
+          "subtitle": "Single \u2022 New Release",
+          "thumbnailImage": {
+            "data": {
+              "sources": [
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000075a00438376f41524a3d9f54d6cf"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000090d50438376f41524a3d9f54d6cf"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000ab870438376f41524a3d9f54d6cf"
+                }
+              ]
+            }
+          },
+          "title": "Indigo Child (feat. Michael Bernard Fitzgerald)",
+          "type": "ALBUM",
+          "uri": "spotify:album:43DE9skvypnCF4t2bLaSOh"
+        },
+        "playlistsV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The best euphoric and energetic EDM for a peak time boost. Featuring hits from KSHMR, David Guetta, Morten, Mariana BO, R3HAB, Dillon Francis, MEDUZA &amp; more!",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da849ff5f0d6153af24dbf4f932d",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "PEAK ENERGY | Energetic EDM Playlist 2025 | For Workouts, Running & Gym",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Dharma Worldwide"
+                  }
+                },
+                "uri": "spotify:playlist:5ottDgGT4ns77bKbY46MYX"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "All tracks from my Indian hip-hop album KARAM.",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84cbdcd1d2b3333c678e892421",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "KARAM Official Playlist | KSHMR x Indian Hip Hop",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "KSHMR"
+                  }
+                },
+                "uri": "spotify:playlist:19OGaybgLCMUuUA4rEQ72A"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "All of the new electronic dance music that has been inspiring me recently! ",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cf3a0ec82317d9e2ab7a37e4b",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "KSHMR's Dharma Radio | Ethnic Electronic Dance Music",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "KSHMR"
+                  }
+                },
+                "uri": "spotify:playlist:3gH0PoKC5oBmLtM1z3mtyH"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Deep and ethnic electronic beats from across the globe, filled with world instruments and organic sounds. Featuring KSHMR, DJ Snake, Black Coffee, Shimza, Pade, Mahmut Orhan, Xinobi, Sofi Tukker, Diplo &amp; more.",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84522f98e8a961f4d043c65b1d",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "ETHNIC DEEP  - Top Ethnic House Playlist 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Dharma Worldwide"
+                  }
+                },
+                "uri": "spotify:playlist:7cdoMVDdFQafB1bryHLgvb"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "All of our official releases, updated as they come out! Follow Dharma on <a href=\"https://www.instagram.com/dharmaworldwide/\"> Instagram</a>, <a href=\"https://www.twitter.com/dharmaworldwide/\"> Twitter</a>, <a href=\"https://www.youtube.com/dharmaworldwide/\"> YouTube</a>",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84284bd738b0a658420a7088aa",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Dharma Worldwide Official Releases",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Dharma Worldwide"
+                  }
+                },
+                "uri": "spotify:playlist:1zJ9JocuFtqx3hK6QT0sbT"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The best electronic dance music tracks of the moment! Hit songs from KSHMR, David Guetta, Tiesto, Hardwell, Mau P, SIDEPIECE, James Hype, Timmy Trumpet &amp; many more...",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da840bd408688866d4c6a42545c2",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "DANCE HITS 2025 | Best Electronic Dance Music",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Dharma Worldwide"
+                  }
+                },
+                "uri": "spotify:playlist:7GUzmprkQHOXydUWRpeFu6"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "All of the dance tracks I've ever released, in one playlist.",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84316facbf980fa5d5752f92a3",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "The Official KSHMR Catalog",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "KSHMR"
+                  }
+                },
+                "uri": "spotify:playlist:2sqB4IEQd5lpTCI1U3fxPJ"
+              }
+            }
+          ],
+          "totalCount": 7
+        },
+        "verified": true
+      },
+      "relatedContent": {
+        "appearsOn": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02db642ae0706a21f46191ab78",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851db642ae0706a21f46191ab78",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273db642ae0706a21f46191ab78",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "1Se33DZWNZ1OkrqbOf1K3u",
+                    "name": "Good Newwz",
+                    "sharingInfo": {
+                      "shareId": "MCZfwOohRROpGtcP3bKe7A",
+                      "shareUrl": "https://open.spotify.com/album/1Se33DZWNZ1OkrqbOf1K3u?si=MCZfwOohRROpGtcP3bKe7A"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:1Se33DZWNZ1OkrqbOf1K3u"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Carnage"
+                          },
+                          "uri": "spotify:artist:7CCjtD0hCK005Bvg2WG1a7"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ff95d6da36363251247978a4",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ff95d6da36363251247978a4",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ff95d6da36363251247978a4",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2015
+                    },
+                    "id": "6AFct76pAIPVHMuOHA80YE",
+                    "name": "Papi Gordo",
+                    "sharingInfo": {
+                      "shareId": "jgt-4usgQreMWrvf99-Yzg",
+                      "shareUrl": "https://open.spotify.com/album/6AFct76pAIPVHMuOHA80YE?si=jgt-4usgQreMWrvf99-Yzg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6AFct76pAIPVHMuOHA80YE"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "KAAZE"
+                          },
+                          "uri": "spotify:artist:6WGE3kO8ULME2ErBcOksSR"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02078ee277a5e6f5358f4e9540",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851078ee277a5e6f5358f4e9540",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273078ee277a5e6f5358f4e9540",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "1h96AuTUlfhnHpkufZC605",
+                    "name": "DREAMCHILD",
+                    "sharingInfo": {
+                      "shareId": "4WG-sDbzR3OTkhZ0eWy16w",
+                      "shareUrl": "https://open.spotify.com/album/1h96AuTUlfhnHpkufZC605?si=4WG-sDbzR3OTkhZ0eWy16w"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:1h96AuTUlfhnHpkufZC605"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Ti\u00ebsto"
+                          },
+                          "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02f23c09313a6649bd8aae049a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851f23c09313a6649bd8aae049a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273f23c09313a6649bd8aae049a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2017
+                    },
+                    "id": "3yyMpOkLtbcbVJFzEESLN0",
+                    "name": "CLUBLIFE, VOL. 5: CHINA",
+                    "sharingInfo": {
+                      "shareId": "T-B1mVvtRdeCxmFByxB0Ew",
+                      "shareUrl": "https://open.spotify.com/album/3yyMpOkLtbcbVJFzEESLN0?si=T-B1mVvtRdeCxmFByxB0Ew"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3yyMpOkLtbcbVJFzEESLN0"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Karma"
+                          },
+                          "uri": "spotify:artist:2RS1R0tueoL8EJXTSBAt2F"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02319d46a180eedbc343a40da8",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851319d46a180eedbc343a40da8",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273319d46a180eedbc343a40da8",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "6adVQtQUqBzdWx49n03C4G",
+                    "name": "How Much a Rhyme Costs?",
+                    "sharingInfo": {
+                      "shareId": "1Q2r4ZuaSCGpPLpV-_JRUw",
+                      "shareUrl": "https://open.spotify.com/album/6adVQtQUqBzdWx49n03C4G?si=1Q2r4ZuaSCGpPLpV-_JRUw"
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:6adVQtQUqBzdWx49n03C4G"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Dimitri Vegas & Like Mike"
+                          },
+                          "uri": "spotify:artist:73jBynjsVtofjRpdpRAJGk"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029e6f9df8f3aff152cfb048d1",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519e6f9df8f3aff152cfb048d1",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739e6f9df8f3aff152cfb048d1",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "4jFfRA2wuJtTbVeVR3tsx9",
+                    "name": "Tomorrowland 2018 EP",
+                    "sharingInfo": {
+                      "shareId": "CIEqxRCcTwGwHK0ZtMmxmA",
+                      "shareUrl": "https://open.spotify.com/album/4jFfRA2wuJtTbVeVR3tsx9?si=CIEqxRCcTwGwHK0ZtMmxmA"
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:4jFfRA2wuJtTbVeVR3tsx9"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020daaa2c26b0db473198cee2b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510daaa2c26b0db473198cee2b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730daaa2c26b0db473198cee2b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "7D1GxLf2HmzT6ngnI9ls6S",
+                    "name": "Best Gaming Tracks",
+                    "sharingInfo": {
+                      "shareId": "9pIKZ5CjRAa7qRy2QpAFgg",
+                      "shareUrl": "https://open.spotify.com/album/7D1GxLf2HmzT6ngnI9ls6S?si=9pIKZ5CjRAa7qRy2QpAFgg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:7D1GxLf2HmzT6ngnI9ls6S"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Hardwell"
+                          },
+                          "uri": "spotify:artist:6BrvowZBreEkXzJQMpL174"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020050ab54bd0edc5b54e31029",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510050ab54bd0edc5b54e31029",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730050ab54bd0edc5b54e31029",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "7Hb86VeAw8Zh324i8AuarI",
+                    "name": "Hardwell presents Revealed Vol. 10",
+                    "sharingInfo": {
+                      "shareId": "4ndjsDueQOqwXs-o8dwfLQ",
+                      "shareUrl": "https://open.spotify.com/album/7Hb86VeAw8Zh324i8AuarI?si=4ndjsDueQOqwXs-o8dwfLQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:7Hb86VeAw8Zh324i8AuarI"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Don Diablo"
+                          },
+                          "uri": "spotify:artist:1l2ekx5skC4gJH8djERwh1"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0281f784ad48aef753f0457933",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485181f784ad48aef753f0457933",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27381f784ad48aef753f0457933",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "5bOGQyXUjy5VcCTbPI5fYz",
+                    "name": "Reconstructions",
+                    "sharingInfo": {
+                      "shareId": "FvqLDEpjRQip92XgWSw2TA",
+                      "shareUrl": "https://open.spotify.com/album/5bOGQyXUjy5VcCTbPI5fYz?si=FvqLDEpjRQip92XgWSw2TA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:5bOGQyXUjy5VcCTbPI5fYz"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Hardwell"
+                          },
+                          "uri": "spotify:artist:6BrvowZBreEkXzJQMpL174"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a601a640da078605b5e2d2a9",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a601a640da078605b5e2d2a9",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a601a640da078605b5e2d2a9",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2017
+                    },
+                    "id": "010NEFNnKh78CmFYwPMm6m",
+                    "name": "Hardwell presents Revealed Volume 8",
+                    "sharingInfo": {
+                      "shareId": "jdo8f4cETtCSpAeCGKx4kw",
+                      "shareUrl": "https://open.spotify.com/album/010NEFNnKh78CmFYwPMm6m?si=jdo8f4cETtCSpAeCGKx4kw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:010NEFNnKh78CmFYwPMm6m"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e023d3560297f360b6561cd6c2e",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048513d3560297f360b6561cd6c2e",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2733d3560297f360b6561cd6c2e",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "1VnamrkUxervTbz2JpVNGu",
+                    "name": "Spinnin' Sessions Shanghai 2020",
+                    "sharingInfo": {
+                      "shareId": "t9RCdpmrTWSgtPeJFHErAA",
+                      "shareUrl": "https://open.spotify.com/album/1VnamrkUxervTbz2JpVNGu?si=t9RCdpmrTWSgtPeJFHErAA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:1VnamrkUxervTbz2JpVNGu"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "U2"
+                          },
+                          "uri": "spotify:artist:51Blml2LZPmy7TTiAg47vQ"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021650217d245f9e69fc32ce18",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511650217d245f9e69fc32ce18",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731650217d245f9e69fc32ce18",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "7N2UQW7AWRh40cWqlB7JvL",
+                    "name": "Ahimsa",
+                    "sharingInfo": {
+                      "shareId": "B0WzzfO0QO-cqcb-KvHogA",
+                      "shareUrl": "https://open.spotify.com/album/7N2UQW7AWRh40cWqlB7JvL?si=B0WzzfO0QO-cqcb-KvHogA"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7N2UQW7AWRh40cWqlB7JvL"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e022c290d6dc3afeab531de8e34",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048512c290d6dc3afeab531de8e34",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2732c290d6dc3afeab531de8e34",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2015
+                    },
+                    "id": "2Eefs5ZTu3CQ0rl1Zede7l",
+                    "name": "Tomorrowland - The Secret Kingdom Of Melodia",
+                    "sharingInfo": {
+                      "shareId": "pg87s8-RQoamq0NJYzxtEQ",
+                      "shareUrl": "https://open.spotify.com/album/2Eefs5ZTu3CQ0rl1Zede7l?si=pg87s8-RQoamq0NJYzxtEQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:2Eefs5ZTu3CQ0rl1Zede7l"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Ti\u00ebsto"
+                          },
+                          "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c56fd0c327e53f4ee6c96799",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c56fd0c327e53f4ee6c96799",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c56fd0c327e53f4ee6c96799",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2015
+                    },
+                    "id": "2XuubqlDwvySO4Xn7acM68",
+                    "name": "Club Life, Vol. 4 - New York City",
+                    "sharingInfo": {
+                      "shareId": "QnsUNAwjQ0CE_Ip5b4XUjg",
+                      "shareUrl": "https://open.spotify.com/album/2XuubqlDwvySO4Xn7acM68?si=QnsUNAwjQ0CE_Ip5b4XUjg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2XuubqlDwvySO4Xn7acM68"
+                  },
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Ti\u00ebsto"
+                          },
+                          "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02de5f51296e162e8ec5d56899",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851de5f51296e162e8ec5d56899",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273de5f51296e162e8ec5d56899",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2015
+                    },
+                    "id": "57bABnvvPfNhBQRI70dqlU",
+                    "name": "Club Life, Vol. 4 - New York City",
+                    "sharingInfo": {
+                      "shareId": "A3Lh4LNLSyWHPaEyKaU68Q",
+                      "shareUrl": "https://open.spotify.com/album/57bABnvvPfNhBQRI70dqlU?si=A3Lh4LNLSyWHPaEyKaU68Q"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:57bABnvvPfNhBQRI70dqlU"
+                  }
+                ],
+                "totalCount": 2
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0217840c847b2a91b01e77b6ea",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485117840c847b2a91b01e77b6ea",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27317840c847b2a91b01e77b6ea",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "4DQUvcVaPlZHdDI9vqWBtP",
+                    "name": "workout bangers",
+                    "sharingInfo": {
+                      "shareId": "QGNS5cZtQKKRCVirLIc4Vg",
+                      "shareUrl": "https://open.spotify.com/album/4DQUvcVaPlZHdDI9vqWBtP?si=QGNS5cZtQKKRCVirLIc4Vg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:4DQUvcVaPlZHdDI9vqWBtP"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Alok"
+                          },
+                          "uri": "spotify:artist:0NGAZxHanS9e0iNHpR8f2W"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02cd077c30d05f24a88fda9a58",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851cd077c30d05f24a88fda9a58",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273cd077c30d05f24a88fda9a58",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "7keB6Min15oq3l7AUmHDX1",
+                    "name": "ALL WE HAVE IS N:OW",
+                    "sharingInfo": {
+                      "shareId": "A3DQPgFFRv2-VV7wFfgjEA",
+                      "shareUrl": "https://open.spotify.com/album/7keB6Min15oq3l7AUmHDX1?si=A3DQPgFFRv2-VV7wFfgjEA"
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:7keB6Min15oq3l7AUmHDX1"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c41d4529dd046a24dfaf31f2",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c41d4529dd046a24dfaf31f2",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c41d4529dd046a24dfaf31f2",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "5cahvKkX7zc0ewnIO4rFKm",
+                    "name": "Cooking At Home - Dance Edition",
+                    "sharingInfo": {
+                      "shareId": "cX2OLJVHSM-Do39xlexskQ",
+                      "shareUrl": "https://open.spotify.com/album/5cahvKkX7zc0ewnIO4rFKm?si=cX2OLJVHSM-Do39xlexskQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:5cahvKkX7zc0ewnIO4rFKm"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02f2dc1cbb121b223618b1225d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851f2dc1cbb121b223618b1225d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273f2dc1cbb121b223618b1225d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "5H6r5fMc4xTIUaSEmxr5mu",
+                    "name": "Best Of Dance 2019 (Presented by Spinnin' Records)",
+                    "sharingInfo": {
+                      "shareId": "s8H_7BJ4Q2CRvkKSDdSxiw",
+                      "shareUrl": "https://open.spotify.com/album/5H6r5fMc4xTIUaSEmxr5mu?si=s8H_7BJ4Q2CRvkKSDdSxiw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:5H6r5fMc4xTIUaSEmxr5mu"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b57a9052db49332015d7e3a0",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b57a9052db49332015d7e3a0",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b57a9052db49332015d7e3a0",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "2pSjQ6rhqqUnW9evBq0tLy",
+                    "name": "Halloween Dance Hits",
+                    "sharingInfo": {
+                      "shareId": "ez9j2GDpQXy6yKjMs_3RIA",
+                      "shareUrl": "https://open.spotify.com/album/2pSjQ6rhqqUnW9evBq0tLy?si=ez9j2GDpQXy6yKjMs_3RIA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:2pSjQ6rhqqUnW9evBq0tLy"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "LUM!X"
+                          },
+                          "uri": "spotify:artist:0TKFPt9w0AAEnhB9bd0pLy"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02eb9947967c9c182b7a59040e",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851eb9947967c9c182b7a59040e",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273eb9947967c9c182b7a59040e",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "0mCZ56iVnJ33wPxfRBPGcO",
+                    "name": "Scare Me (feat. KSHMR & Karra) [Chico Rose Remix]",
+                    "sharingInfo": {
+                      "shareId": "ejWVUUCwQwSDhjlJ0LIPTQ",
+                      "shareUrl": "https://open.spotify.com/album/0mCZ56iVnJ33wPxfRBPGcO?si=ejWVUUCwQwSDhjlJ0LIPTQ"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:0mCZ56iVnJ33wPxfRBPGcO"
+                  }
+                ],
+                "totalCount": 1
+              }
+            }
+          ],
+          "totalCount": 50
+        },
+        "discoveredOnV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Home is where the main stage is \ud83d\udc97 with Martin Garrix",
+                "id": "37i9dQZF1DX1kCIzMYtzum",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000024cf1707f40fc4e4eeded35e9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "EDM 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX1kCIzMYtzum"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is KSHMR. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO1rXMLC",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO1rXMLC-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is KSHMR",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO1rXMLC"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Kisses in the Clouds Out Now | Kondal Out Now | Kuthanthram Out Now \ud83d\udc47\ud83c\udffb\ud83d\udd25",
+                "id": "1iV1odpc8bQNNxtJwyk4Ot",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da848525e51a202ca80860690a28",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "All Songs of Vedan \ud83d\udd25",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Dabz.stories"
+                  }
+                },
+                "uri": "spotify:playlist:1iV1odpc8bQNNxtJwyk4Ot"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "it's never too early for summer dance hits \ud83d\ude0e\u2600\ufe0f",
+                "id": "37i9dQZF1DWZ7eJRBxKzdO",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002c69d0b9a845acfa88f9794ca",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Summer Dance Hits 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWZ7eJRBxKzdO"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Electr\u00f3nica 2025 - Best Tracks of Tomorrowland - Tomorrowland Soundtrack - EDM 2025 - Techno Mix - Dance Anthems - Party Mix - Festival Music - Tomorrowland Winter - Tomorrowland Brasil - EDM Playlist - Eletr\u00f4nicas As Melhores \ud83c\udfaa",
+                "id": "33PyRULhtc4SRrUE1wbbmp",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c60f35b2f2202708688cc14cc",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Tomorrowland 2025 Playlist \ud83d\udc99 EDM HITS",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "The Circus \ud83c\udfaa"
+                  }
+                },
+                "uri": "spotify:playlist:33PyRULhtc4SRrUE1wbbmp"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "HOLYWINGS DJ 2024 \ud83d\udd25",
+                "id": "0vP0Gn0MzJTEx3Y9tJMoUX",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c778898a8402ff8ccbb535c76",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "HOLYWINGS DJ 2024 \ud83d\udd25",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Playlst Recordings"
+                  }
+                },
+                "uri": "spotify:playlist:0vP0Gn0MzJTEx3Y9tJMoUX"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
+                "id": "37i9dQZF1DWSf2RDTDayIx",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002518096c62a9e453db38093db",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Happy Beats",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWSf2RDTDayIx"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Tap it back or go for a spin with these uptempo tracks!",
+                "id": "37i9dQZF1DX32NsLKyzScr",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002ecbc3f66c5912d783dee45b7",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Power Hour",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX32NsLKyzScr"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Melhores Eletronicas Brasil por Alok. As mais tocadas 2024.",
+                "id": "6ubTtoDTzzYMt9ju8L7uas",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c3f135513e8d75e5c60b0ae30",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Alok 2024 \u26a1 Melhores M\u00fasicas Eletronicas",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Hope 95"
+                  }
+                },
+                "uri": "spotify:playlist:6ubTtoDTzzYMt9ju8L7uas"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> to the rhythm and move your feet!",
+                "id": "37i9dQZF1DXaXB8fQg7xif",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002d2c23cff8e4056e5c891216d",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Dance Party",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXaXB8fQg7xif"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
+                "id": "37i9dQZF1DWSRc3WJklgBs",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f0000000254dc6f4372eeed574bbcc6b0",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Heart Beats",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWSRc3WJklgBs"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Best Club Hits.",
+                "id": "27dNAgn3Ucl7yfmKzTmH6x",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84959f36b847e54fbddbed31f3",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Club Music 2024 (Top 100)",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "DailyMixFR"
+                  }
+                },
+                "uri": "spotify:playlist:27dNAgn3Ucl7yfmKzTmH6x"
+              }
+            }
+          ],
+          "totalCount": 100
+        },
+        "featuringV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is KSHMR. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO1rXMLC",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO1rXMLC-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is KSHMR",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO1rXMLC"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "With VINAI, Tujamo, R3HAB and more",
+                "id": "37i9dQZF1E4Bcz7D3gASwW",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/2wX6xSig4Rig5kZU6ePlWe/en",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "KSHMR Radio",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1E4Bcz7D3gASwW"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Home is where the main stage is \ud83d\udc97 with Martin Garrix",
+                "id": "37i9dQZF1DX1kCIzMYtzum",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000024cf1707f40fc4e4eeded35e9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "EDM 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX1kCIzMYtzum"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
+                "id": "37i9dQZF1DWSf2RDTDayIx",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002518096c62a9e453db38093db",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Happy Beats",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWSf2RDTDayIx"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Ride the bassline. Cover: HNTR",
+                "id": "37i9dQZF1DWZCdOD1jAvLL",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002f1a0774f70194eed7dad5a35",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Bangers",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWZCdOD1jAvLL"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Tap it back or go for a spin with these uptempo tracks!",
+                "id": "37i9dQZF1DX32NsLKyzScr",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002ecbc3f66c5912d783dee45b7",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Power Hour",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX32NsLKyzScr"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Jackie Hollander",
+                "id": "37i9dQZF1DXa41CMuUARjl",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002d7eb1eb5d3261f6adc2eb62b",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "All New Dance",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXa41CMuUARjl"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "New takes on old classics!",
+                "id": "37i9dQZF1DX1OxnjWYRVU0",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002caa71a54b0b1fbf0a8d2be03",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Dance Covers",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX1OxnjWYRVU0"
+              }
+            }
+          ],
+          "totalCount": 8
+        },
+        "relatedArtists": {
+          "items": [
+            {
+              "id": "3IpvVrP3VLhruTmnququq7",
+              "profile": {
+                "name": "Mike Williams"
+              },
+              "uri": "spotify:artist:3IpvVrP3VLhruTmnququq7",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb4024f925954066d1df73137a",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1784024f925954066d1df73137a",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051744024f925954066d1df73137a",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6BrvowZBreEkXzJQMpL174",
+              "profile": {
+                "name": "Hardwell"
+              },
+              "uri": "spotify:artist:6BrvowZBreEkXzJQMpL174",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb65136609a4980a953d64f552",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17865136609a4980a953d64f552",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517465136609a4980a953d64f552",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2vVNxGBvKRQMWwI5c8KmYh",
+              "profile": {
+                "name": "Tujamo"
+              },
+              "uri": "spotify:artist:2vVNxGBvKRQMWwI5c8KmYh",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb4ff3493ab05afb520e3a4380",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1784ff3493ab05afb520e3a4380",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051744ff3493ab05afb520e3a4380",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4xgFgBZ7CRtgtHcziClOwQ",
+              "profile": {
+                "name": "MOGUAI"
+              },
+              "uri": "spotify:artist:4xgFgBZ7CRtgtHcziClOwQ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb47295edb62c8e31263bdc9b0",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17847295edb62c8e31263bdc9b0",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517447295edb62c8e31263bdc9b0",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5X4LWwbUFNzPkEas04uU82",
+              "profile": {
+                "name": "DVBBS"
+              },
+              "uri": "spotify:artist:5X4LWwbUFNzPkEas04uU82",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb7774c26597015306f66cd35b",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1787774c26597015306f66cd35b",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051747774c26597015306f66cd35b",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1vo8zHmO1KzkuU9Xxh6J7W",
+              "profile": {
+                "name": "MOTi"
+              },
+              "uri": "spotify:artist:1vo8zHmO1KzkuU9Xxh6J7W",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb16ee79ad2d026a6392211066",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17816ee79ad2d026a6392211066",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517416ee79ad2d026a6392211066",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4mrBetqy378Jf1y6NLszlx",
+              "profile": {
+                "name": "VINAI"
+              },
+              "uri": "spotify:artist:4mrBetqy378Jf1y6NLszlx",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb45febdf735530369e5e753ec",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17845febdf735530369e5e753ec",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517445febdf735530369e5e753ec",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "37awA8DFCAnCCL7aqYbDnD",
+              "profile": {
+                "name": "Blasterjaxx"
+              },
+              "uri": "spotify:artist:37awA8DFCAnCCL7aqYbDnD",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebe94cb6c33b1cfa5c538fe819",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178e94cb6c33b1cfa5c538fe819",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174e94cb6c33b1cfa5c538fe819",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1V3VTM7VspiQjcmRhC010n",
+              "profile": {
+                "name": "Quintino"
+              },
+              "uri": "spotify:artist:1V3VTM7VspiQjcmRhC010n",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb4659d63ac8932f7205bb5583",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1784659d63ac8932f7205bb5583",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051744659d63ac8932f7205bb5583",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6WGE3kO8ULME2ErBcOksSR",
+              "profile": {
+                "name": "KAAZE"
+              },
+              "uri": "spotify:artist:6WGE3kO8ULME2ErBcOksSR",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb43c151cfe9bbf751c9d03942",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17843c151cfe9bbf751c9d03942",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517443c151cfe9bbf751c9d03942",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "77AiFEVeAVj2ORpC85QVJs",
+              "profile": {
+                "name": "Steve Aoki"
+              },
+              "uri": "spotify:artist:77AiFEVeAVj2ORpC85QVJs",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebcf85b39d94c486218a687248",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178cf85b39d94c486218a687248",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174cf85b39d94c486218a687248",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0CbeG1224FS58EUx4tPevZ",
+              "profile": {
+                "name": "Timmy Trumpet"
+              },
+              "uri": "spotify:artist:0CbeG1224FS58EUx4tPevZ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb82ac9eee4c8a5f57412b4821",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17882ac9eee4c8a5f57412b4821",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517482ac9eee4c8a5f57412b4821",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "49CE2ffZ6Z3zeYSDauSKck",
+              "profile": {
+                "name": "Tungevaag"
+              },
+              "uri": "spotify:artist:49CE2ffZ6Z3zeYSDauSKck",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb234623bc1c596eb2f3d94180",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178234623bc1c596eb2f3d94180",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174234623bc1c596eb2f3d94180",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+              "profile": {
+                "name": "R3HAB"
+              },
+              "uri": "spotify:artist:6cEuCEZu7PAE9ZSzLLc2oQ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb20dfb8f52ef4926a22e552c8",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17820dfb8f52ef4926a22e552c8",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517420dfb8f52ef4926a22e552c8",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1l2ekx5skC4gJH8djERwh1",
+              "profile": {
+                "name": "Don Diablo"
+              },
+              "uri": "spotify:artist:1l2ekx5skC4gJH8djERwh1",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebf0f2a0a6e0df42417a20bb8e",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178f0f2a0a6e0df42417a20bb8e",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174f0f2a0a6e0df42417a20bb8e",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "53YSn9tHwGJ6bq5P0gGoYo",
+              "profile": {
+                "name": "Firebeatz"
+              },
+              "uri": "spotify:artist:53YSn9tHwGJ6bq5P0gGoYo",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb535193eae048dbd308cdd078",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178535193eae048dbd308cdd078",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174535193eae048dbd308cdd078",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7e1BNCygl2Gf7CX8LrByPv",
+              "profile": {
+                "name": "Ummet Ozcan"
+              },
+              "uri": "spotify:artist:7e1BNCygl2Gf7CX8LrByPv",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb093d801d8e6e4b2440ce7109",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178093d801d8e6e4b2440ce7109",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174093d801d8e6e4b2440ce7109",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4mHAu7NX2UNsnGXjviBD9e",
+              "profile": {
+                "name": "Brooks"
+              },
+              "uri": "spotify:artist:4mHAu7NX2UNsnGXjviBD9e",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb5d38303cbb04cf3544867bdf",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1785d38303cbb04cf3544867bdf",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051745d38303cbb04cf3544867bdf",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0RViEWnZO2VhmY4oI0PhF9",
+              "profile": {
+                "name": "Mesto"
+              },
+              "uri": "spotify:artist:0RViEWnZO2VhmY4oI0PhF9",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb5242516ea56920b215340fa7",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1785242516ea56920b215340fa7",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051745242516ea56920b215340fa7",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "10hGPIDZi33LRaYRIq3Bh4",
+              "profile": {
+                "name": "Dimitri Vangelis & Wyman"
+              },
+              "uri": "spotify:artist:10hGPIDZi33LRaYRIq3Bh4",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/7e07e224de7dcc5a2f6ac25d560e04b39883de88",
+                      "width": 640
+                    },
+                    {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/c77a2f30e8e7dd10e36db993f1426f1904187327",
+                      "width": 64
+                    },
+                    {
+                      "height": 200,
+                      "url": "https://i.scdn.co/image/7c5f5028dab58e4b92efdc242ac3b69623308378",
+                      "width": 200
+                    },
+                    {
+                      "height": 1000,
+                      "url": "https://i.scdn.co/image/d3e1ce67d48fa05431bdd2b0f14ffc294960f0bf",
+                      "width": 1000
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "totalCount": 40
+        }
+      },
+      "relatedVideos": {
+        "__typename": "RelatedVideoPage",
+        "items": [],
+        "totalCount": 0
+      },
+      "saved": false,
+      "sharingInfo": {
+        "shareId": "yvm6yeVaQlCUqtHK3ogd4w",
+        "shareUrl": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe?si=yvm6yeVaQlCUqtHK3ogd4w"
+      },
+      "stats": {
+        "followers": 1775879,
+        "monthlyListeners": 4875856,
+        "topCities": {
+          "items": [
+            {
+              "city": "Kochi",
+              "country": "IN",
+              "numberOfListeners": 183080,
+              "region": "KL"
+            },
+            {
+              "city": "Mumbai",
+              "country": "IN",
+              "numberOfListeners": 66173,
+              "region": "MH"
+            },
+            {
+              "city": "Bengaluru",
+              "country": "IN",
+              "numberOfListeners": 64283,
+              "region": "KA"
+            },
+            {
+              "city": "Mexico City",
+              "country": "MX",
+              "numberOfListeners": 63478,
+              "region": "CMX"
+            },
+            {
+              "city": "Pune",
+              "country": "IN",
+              "numberOfListeners": 54730,
+              "region": "MH"
+            }
+          ]
+        },
+        "worldRank": 0
+      },
+      "uri": "spotify:artist:2wX6xSig4Rig5kZU6ePlWe",
+      "visualIdentity": {
+        "wideFullBleedImage": {
+          "__typename": "VisualIdentityImage",
+          "extractedColorSet": {
+            "encoreBaseSetTextColor": {
+              "alpha": 255,
+              "blue": 255,
+              "green": 190,
+              "red": 139
+            },
+            "highContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 168,
+                "green": 72,
+                "red": 0
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 123,
+                "green": 28,
+                "red": 0
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 209,
+                "red": 170
+              }
+            },
+            "higherContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 134,
+                "green": 39,
+                "red": 0
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 175,
+                "green": 79,
+                "red": 34
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 96,
+                "green": 215,
+                "red": 30
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 209,
+                "red": 170
+              }
+            },
+            "minContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 168,
+                "green": 72,
+                "red": 0
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 123,
+                "green": 28,
+                "red": 0
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              }
+            }
+          }
+        }
+      },
+      "visuals": {
+        "avatarImage": {
+          "extractedColors": {
+            "colorRaw": {
+              "hex": "#C03020"
+            }
+          },
+          "sources": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebd1db941d6e307ab229651fae",
+              "width": 640
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178d1db941d6e307ab229651fae",
+              "width": 160
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174d1db941d6e307ab229651fae",
+              "width": 320
+            }
+          ]
+        },
+        "gallery": {
+          "items": [
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4db108b10091cbf1c96d185dc",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd47091251c9231b912255cddb3",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd44ab0d9fadfd610ca3034db57",
+                  "width": 640
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "watchFeedEntrypoint": null
+    }
+  },
+  "extensions": {}
+}

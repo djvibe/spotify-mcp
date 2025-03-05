@@ -1,0 +1,4602 @@
+{
+  "data": {
+    "artistUnion": {
+      "__typename": "Artist",
+      "discography": {
+        "albums": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2022 Solotoko",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2022 Solotoko",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0291c759beb881bc0457dfed9a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485191c759beb881bc0457dfed9a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27391c759beb881bc0457dfed9a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 7,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2022
+                    },
+                    "id": "4XGZu2GMoCpvUPUyXUodAq",
+                    "label": "Solotoko",
+                    "name": "Without U",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "fhJHnB2qTkeRz7YLNjbd2g",
+                      "shareUrl": "https://open.spotify.com/album/4XGZu2GMoCpvUPUyXUodAq?si=fhJHnB2qTkeRz7YLNjbd2g"
+                    },
+                    "tracks": {
+                      "totalCount": 14
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4XGZu2GMoCpvUPUyXUodAq"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 1
+        },
+        "compilations": {
+          "items": [],
+          "totalCount": 0
+        },
+        "latest": {
+          "copyright": {
+            "items": [
+              {
+                "text": "2025 WRONG.",
+                "type": "C"
+              },
+              {
+                "text": "2025 WRONG.",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0230620bb7ef37c23be7e5ff87",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485130620bb7ef37c23be7e5ff87",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27330620bb7ef37c23be7e5ff87",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 28,
+            "month": 2,
+            "precision": "DAY",
+            "year": 2025
+          },
+          "id": "3mW9Tg9kNAs5Uh98QQ2Yvx",
+          "label": "WRONG.",
+          "name": "Freak (Deeper Purpose & Buogo Remix)",
+          "playability": {
+            "playable": true,
+            "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+            "shareId": "tpFTrhjTQHyb--4xMLE1FQ",
+            "shareUrl": "https://open.spotify.com/album/3mW9Tg9kNAs5Uh98QQ2Yvx?si=tpFTrhjTQHyb--4xMLE1FQ"
+          },
+          "tracks": {
+            "totalCount": 3
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:3mW9Tg9kNAs5Uh98QQ2Yvx"
+        },
+        "popularReleasesAlbums": {
+          "items": [
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2024 WRONG.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2024 WRONG.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02390f9e478936003960df4b95",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851390f9e478936003960df4b95",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273390f9e478936003960df4b95",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 6,
+                "month": 12,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "1bPzfiNL4MaiHWD9bxknaO",
+              "label": "WRONG.",
+              "name": "Freak",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "NOdKOmcyQTGQ68kMYXKbJA",
+                "shareUrl": "https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO?si=NOdKOmcyQTGQ68kMYXKbJA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1bPzfiNL4MaiHWD9bxknaO"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2020 Selected. exclusively licensed by FARR International Ltd.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2020 FARR International Ltd.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f1253227ffa296260fa17bff",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f1253227ffa296260fa17bff",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f1253227ffa296260fa17bff",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 9,
+                "month": 10,
+                "precision": "DAY",
+                "year": 2020
+              },
+              "id": "4PFH5f3PxwuweuCE8gofIF",
+              "label": "Selected.",
+              "name": "Heal Me",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "fZcjTT_LQDGK10hc_tJulQ",
+                "shareUrl": "https://open.spotify.com/album/4PFH5f3PxwuweuCE8gofIF?si=fZcjTT_LQDGK10hc_tJulQ"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:4PFH5f3PxwuweuCE8gofIF"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2023 Insomniac Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2023 Insomniac Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02bb258b5acc8ff5bcea7e4f8c",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851bb258b5acc8ff5bcea7e4f8c",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273bb258b5acc8ff5bcea7e4f8c",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 28,
+                "month": 4,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "2LeGGDt1Nn31jdCThW1SKW",
+              "label": "Insomniac Records",
+              "name": "Don't Stop",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "wITZVAc3RaGBuSFnQ51Lfw",
+                "shareUrl": "https://open.spotify.com/album/2LeGGDt1Nn31jdCThW1SKW?si=wITZVAc3RaGBuSFnQ51Lfw"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:2LeGGDt1Nn31jdCThW1SKW"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2022 Solotoko",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2022 Solotoko",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0291c759beb881bc0457dfed9a",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485191c759beb881bc0457dfed9a",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27391c759beb881bc0457dfed9a",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 7,
+                "month": 10,
+                "precision": "DAY",
+                "year": 2022
+              },
+              "id": "4XGZu2GMoCpvUPUyXUodAq",
+              "label": "Solotoko",
+              "name": "Without U",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "fhJHnB2qTkeRz7YLNjbd2g",
+                "shareUrl": "https://open.spotify.com/album/4XGZu2GMoCpvUPUyXUodAq?si=fhJHnB2qTkeRz7YLNjbd2g"
+              },
+              "tracks": {
+                "totalCount": 14
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:4XGZu2GMoCpvUPUyXUodAq"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2024 Insomniac Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2024 Insomniac Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e021c873bb8afacb380d16c8fce",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048511c873bb8afacb380d16c8fce",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731c873bb8afacb380d16c8fce",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 1,
+                "month": 11,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "6hNHbMObDJxst0mbXLI6PR",
+              "label": "Insomniac Records",
+              "name": "Jungle",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "lYmzn5LCQwmGJRNCeHBlBQ",
+                "shareUrl": "https://open.spotify.com/album/6hNHbMObDJxst0mbXLI6PR?si=lYmzn5LCQwmGJRNCeHBlBQ"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:6hNHbMObDJxst0mbXLI6PR"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2023 Insomniac Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2023 Insomniac Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0253a0633ac8eea69652c37650",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485153a0633ac8eea69652c37650",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27353a0633ac8eea69652c37650",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 15,
+                "month": 9,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "2Wt63cwVvjqezpEdQcmlkI",
+              "label": "Insomniac Records",
+              "name": "365",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "x2HEP0hYSdK_Q74uMa4vMQ",
+                "shareUrl": "https://open.spotify.com/album/2Wt63cwVvjqezpEdQcmlkI?si=x2HEP0hYSdK_Q74uMa4vMQ"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:2Wt63cwVvjqezpEdQcmlkI"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2025 WRONG.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2025 WRONG.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024f3d95ec136fc8b23e5bcd60",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514f3d95ec136fc8b23e5bcd60",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734f3d95ec136fc8b23e5bcd60",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 7,
+                "month": 2,
+                "precision": "DAY",
+                "year": 2025
+              },
+              "id": "42FGoEHVrhMCRN4aZKGKUN",
+              "label": "WRONG.",
+              "name": "Freak [GREG (BR) Remix]",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "BSvQ2xw0S1amxu2O89Dzlg",
+                "shareUrl": "https://open.spotify.com/album/42FGoEHVrhMCRN4aZKGKUN?si=BSvQ2xw0S1amxu2O89Dzlg"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:42FGoEHVrhMCRN4aZKGKUN"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2022 Solotoko",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2022 Solotoko",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b543836040246f5f5ed93fd7",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b543836040246f5f5ed93fd7",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b543836040246f5f5ed93fd7",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 4,
+                "month": 3,
+                "precision": "DAY",
+                "year": 2022
+              },
+              "id": "46f0tRgvuc70TDx8P4dMId",
+              "label": "Solotoko",
+              "name": "About You",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "wPzbvJldRiKhCKDfHjB1kA",
+                "shareUrl": "https://open.spotify.com/album/46f0tRgvuc70TDx8P4dMId?si=wPzbvJldRiKhCKDfHjB1kA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:46f0tRgvuc70TDx8P4dMId"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2022 Insomniac Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2022 Insomniac Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0232a056381c62ef9292cae4e8",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485132a056381c62ef9292cae4e8",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27332a056381c62ef9292cae4e8",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 28,
+                "month": 1,
+                "precision": "DAY",
+                "year": 2022
+              },
+              "id": "3fl99omc9CaAzeq1CKckcO",
+              "label": "Insomniac Records",
+              "name": "Locco",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "4z15snkzSvOAdMQEMmjxwA",
+                "shareUrl": "https://open.spotify.com/album/3fl99omc9CaAzeq1CKckcO?si=4z15snkzSvOAdMQEMmjxwA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:3fl99omc9CaAzeq1CKckcO"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2024 Insomniac Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2024 Insomniac Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0276c0d82e3b5a4647e7b10d87",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485176c0d82e3b5a4647e7b10d87",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27376c0d82e3b5a4647e7b10d87",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 22,
+                "month": 3,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "6EigqdKdQ2B8bxnJrIGLN9",
+              "label": "Insomniac Records",
+              "name": "I Am The One",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "O2PtrFqeQOmKm-PIMkqzSg",
+                "shareUrl": "https://open.spotify.com/album/6EigqdKdQ2B8bxnJrIGLN9?si=O2PtrFqeQOmKm-PIMkqzSg"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:6EigqdKdQ2B8bxnJrIGLN9"
+            }
+          ],
+          "totalCount": 20
+        },
+        "singles": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2025 WRONG.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2025 WRONG.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0230620bb7ef37c23be7e5ff87",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485130620bb7ef37c23be7e5ff87",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27330620bb7ef37c23be7e5ff87",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 28,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "3mW9Tg9kNAs5Uh98QQ2Yvx",
+                    "label": "WRONG.",
+                    "name": "Freak (Deeper Purpose & Buogo Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "tpFTrhjTQHyb--4xMLE1FQ",
+                      "shareUrl": "https://open.spotify.com/album/3mW9Tg9kNAs5Uh98QQ2Yvx?si=tpFTrhjTQHyb--4xMLE1FQ"
+                    },
+                    "tracks": {
+                      "totalCount": 3
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3mW9Tg9kNAs5Uh98QQ2Yvx"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2025 WRONG.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2025 WRONG.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024f3d95ec136fc8b23e5bcd60",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514f3d95ec136fc8b23e5bcd60",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734f3d95ec136fc8b23e5bcd60",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 7,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "42FGoEHVrhMCRN4aZKGKUN",
+                    "label": "WRONG.",
+                    "name": "Freak [GREG (BR) Remix]",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "BSvQ2xw0S1amxu2O89Dzlg",
+                      "shareUrl": "https://open.spotify.com/album/42FGoEHVrhMCRN4aZKGKUN?si=BSvQ2xw0S1amxu2O89Dzlg"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:42FGoEHVrhMCRN4aZKGKUN"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 WRONG.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 WRONG.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02390f9e478936003960df4b95",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851390f9e478936003960df4b95",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273390f9e478936003960df4b95",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 6,
+                      "month": 12,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "1bPzfiNL4MaiHWD9bxknaO",
+                    "label": "WRONG.",
+                    "name": "Freak",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "NOdKOmcyQTGQ68kMYXKbJA",
+                      "shareUrl": "https://open.spotify.com/album/1bPzfiNL4MaiHWD9bxknaO?si=NOdKOmcyQTGQ68kMYXKbJA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1bPzfiNL4MaiHWD9bxknaO"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Insomniac Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Insomniac Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021c873bb8afacb380d16c8fce",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511c873bb8afacb380d16c8fce",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731c873bb8afacb380d16c8fce",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 1,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "6hNHbMObDJxst0mbXLI6PR",
+                    "label": "Insomniac Records",
+                    "name": "Jungle",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "lYmzn5LCQwmGJRNCeHBlBQ",
+                      "shareUrl": "https://open.spotify.com/album/6hNHbMObDJxst0mbXLI6PR?si=lYmzn5LCQwmGJRNCeHBlBQ"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:6hNHbMObDJxst0mbXLI6PR"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 WRONG.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 WRONG.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e023da8ac4b584ef05ccfcd6dc1",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048513da8ac4b584ef05ccfcd6dc1",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2733da8ac4b584ef05ccfcd6dc1",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 11,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "5UTK104Mg5ov1lBWFIirRh",
+                    "label": "WRONG.",
+                    "name": "In The Place",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "tNsfdmzfRXOOOj3YanyqQg",
+                      "shareUrl": "https://open.spotify.com/album/5UTK104Mg5ov1lBWFIirRh?si=tNsfdmzfRXOOOj3YanyqQg"
+                    },
+                    "tracks": {
+                      "totalCount": 5
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:5UTK104Mg5ov1lBWFIirRh"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 WRONG.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 WRONG.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0229cf1c782f23d5cc294e7214",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485129cf1c782f23d5cc294e7214",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27329cf1c782f23d5cc294e7214",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 20,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "3RLlP4ytZHIydqb4D3CBs7",
+                    "label": "WRONG.",
+                    "name": "Voodoo",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "5EKkOxymRVW6iHmqBKS0yg",
+                      "shareUrl": "https://open.spotify.com/album/3RLlP4ytZHIydqb4D3CBs7?si=5EKkOxymRVW6iHmqBKS0yg"
+                    },
+                    "tracks": {
+                      "totalCount": 4
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3RLlP4ytZHIydqb4D3CBs7"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 WRONG.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 WRONG.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b46baa138ba88cb216655a6a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b46baa138ba88cb216655a6a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b46baa138ba88cb216655a6a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 30,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "1vgBUWkcKXZilezNBE6PnG",
+                    "label": "WRONG.",
+                    "name": "Bang",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "Q2VPdFU2S5W3465T_bXnEQ",
+                      "shareUrl": "https://open.spotify.com/album/1vgBUWkcKXZilezNBE6PnG?si=Q2VPdFU2S5W3465T_bXnEQ"
+                    },
+                    "tracks": {
+                      "totalCount": 3
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1vgBUWkcKXZilezNBE6PnG"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 WRONG.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 WRONG.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024b0e4c3dee3bdb53a828301b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514b0e4c3dee3bdb53a828301b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734b0e4c3dee3bdb53a828301b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 9,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "7uvfTF4M6SslT5AqJ7GVun",
+                    "label": "WRONG.",
+                    "name": "Mantra",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "Sk0362j7TgOBN2geZ-FQaQ",
+                      "shareUrl": "https://open.spotify.com/album/7uvfTF4M6SslT5AqJ7GVun?si=Sk0362j7TgOBN2geZ-FQaQ"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7uvfTF4M6SslT5AqJ7GVun"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 WRONG.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 WRONG.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d49d409aa93fa3c4c749fdf2",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d49d409aa93fa3c4c749fdf2",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d49d409aa93fa3c4c749fdf2",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 19,
+                      "month": 7,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "5EZHNZgGDojUeHvKGgUyvK",
+                    "label": "WRONG.",
+                    "name": "Ballo",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "pYWF11A5RxSIRbDZb_YSTQ",
+                      "shareUrl": "https://open.spotify.com/album/5EZHNZgGDojUeHvKGgUyvK?si=pYWF11A5RxSIRbDZb_YSTQ"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5EZHNZgGDojUeHvKGgUyvK"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Armada Music B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Armada Music B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024ec45c3e8dc4a049eadc7837",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514ec45c3e8dc4a049eadc7837",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734ec45c3e8dc4a049eadc7837",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 7,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "0ofQ7zMiVF7aYLdI6Zt8fB",
+                    "label": "Armada Music",
+                    "name": "Dominator",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "G5ktNospQgiEksBz9ihJOw",
+                      "shareUrl": "https://open.spotify.com/album/0ofQ7zMiVF7aYLdI6Zt8fB?si=G5ktNospQgiEksBz9ihJOw"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:0ofQ7zMiVF7aYLdI6Zt8fB"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 68
+        },
+        "topTracks": {
+          "items": [
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f1253227ffa296260fa17bff"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851f1253227ffa296260fa17bff"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f1253227ffa296260fa17bff"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:4PFH5f3PxwuweuCE8gofIF"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "FARR"
+                      },
+                      "uri": "spotify:artist:0eHwH1Ze2lRt6KOGw1T3rq"
+                    },
+                    {
+                      "profile": {
+                        "name": "Biscits"
+                      },
+                      "uri": "spotify:artist:052B9SONfhoScw7dgYWw5o"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 177142
+                },
+                "id": "1ld3ibWlGwo4oBFPb6pmKk",
+                "name": "Heal Me - Biscits Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "74293321",
+                "uri": "spotify:track:1ld3ibWlGwo4oBFPb6pmKk"
+              },
+              "uid": "36d80261b8fe9b9fd009"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02390f9e478936003960df4b95"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851390f9e478936003960df4b95"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273390f9e478936003960df4b95"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:1bPzfiNL4MaiHWD9bxknaO"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Biscits"
+                      },
+                      "uri": "spotify:artist:052B9SONfhoScw7dgYWw5o"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 201093
+                },
+                "id": "5XXriU0XC0HPH60GIJYpIA",
+                "name": "Freak",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "2262723",
+                "uri": "spotify:track:5XXriU0XC0HPH60GIJYpIA"
+              },
+              "uid": "4c527d4460eeebd4ae95"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02bb258b5acc8ff5bcea7e4f8c"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851bb258b5acc8ff5bcea7e4f8c"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273bb258b5acc8ff5bcea7e4f8c"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:2LeGGDt1Nn31jdCThW1SKW"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Biscits"
+                      },
+                      "uri": "spotify:artist:052B9SONfhoScw7dgYWw5o"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 170196
+                },
+                "id": "73Aj6vBOimEVHMMm67YmcU",
+                "name": "Don't Stop",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "27884408",
+                "uri": "spotify:track:73Aj6vBOimEVHMMm67YmcU"
+              },
+              "uid": "2a624ad108bb8784de02"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0253a0633ac8eea69652c37650"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485153a0633ac8eea69652c37650"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27353a0633ac8eea69652c37650"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:2Wt63cwVvjqezpEdQcmlkI"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Biscits"
+                      },
+                      "uri": "spotify:artist:052B9SONfhoScw7dgYWw5o"
+                    },
+                    {
+                      "profile": {
+                        "name": "Camden Cox"
+                      },
+                      "uri": "spotify:artist:5mNpMP01Co4vXZ3U0fWP3C"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 192755
+                },
+                "id": "5roFM0I1K6um2yIYL6kGq2",
+                "name": "365",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "6212726",
+                "uri": "spotify:track:5roFM0I1K6um2yIYL6kGq2"
+              },
+              "uid": "136518da9917dbf38277"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e021c873bb8afacb380d16c8fce"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048511c873bb8afacb380d16c8fce"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2731c873bb8afacb380d16c8fce"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6hNHbMObDJxst0mbXLI6PR"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Biscits"
+                      },
+                      "uri": "spotify:artist:052B9SONfhoScw7dgYWw5o"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 174659
+                },
+                "id": "7wyAHcp9fxfTKZhHNoABRp",
+                "name": "Jungle",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1171827",
+                "uri": "spotify:track:7wyAHcp9fxfTKZhHNoABRp"
+              },
+              "uid": "6317b89ea863ca23779e"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b543836040246f5f5ed93fd7"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851b543836040246f5f5ed93fd7"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b543836040246f5f5ed93fd7"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:46f0tRgvuc70TDx8P4dMId"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Sonny Fodera"
+                      },
+                      "uri": "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+                    },
+                    {
+                      "profile": {
+                        "name": "Biscits"
+                      },
+                      "uri": "spotify:artist:052B9SONfhoScw7dgYWw5o"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 218500
+                },
+                "id": "4IoWprg6W4DxHjxm1Pi4KT",
+                "name": "About You",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "11611438",
+                "uri": "spotify:track:4IoWprg6W4DxHjxm1Pi4KT"
+              },
+              "uid": "e09e501ccfb478fabfcc"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0291c759beb881bc0457dfed9a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485191c759beb881bc0457dfed9a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27391c759beb881bc0457dfed9a"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:4XGZu2GMoCpvUPUyXUodAq"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Biscits"
+                      },
+                      "uri": "spotify:artist:052B9SONfhoScw7dgYWw5o"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 207000
+                },
+                "id": "2LRoF3RLdaerhvl6Yl4Ap9",
+                "name": "Your Body",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "26845028",
+                "uri": "spotify:track:2LRoF3RLdaerhvl6Yl4Ap9"
+              },
+              "uid": "9cd8e580d09b5e2ccca5"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0232a056381c62ef9292cae4e8"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485132a056381c62ef9292cae4e8"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27332a056381c62ef9292cae4e8"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:3fl99omc9CaAzeq1CKckcO"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Biscits"
+                      },
+                      "uri": "spotify:artist:052B9SONfhoScw7dgYWw5o"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 183875
+                },
+                "id": "2axewNoOiyGrtELfrTHv9r",
+                "name": "Locco",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "12325613",
+                "uri": "spotify:track:2axewNoOiyGrtELfrTHv9r"
+              },
+              "uid": "8ee752432d909c8e77e5"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f6c432be2e9b83bcf6fc86b1"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851f6c432be2e9b83bcf6fc86b1"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f6c432be2e9b83bcf6fc86b1"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6RbxDwwko6KgL2HCO9A3bR"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Biscits"
+                      },
+                      "uri": "spotify:artist:052B9SONfhoScw7dgYWw5o"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 211448
+                },
+                "id": "3UW1WvaTGaHYAPXL8XCWeN",
+                "name": "Sundown",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "29390606",
+                "uri": "spotify:track:3UW1WvaTGaHYAPXL8XCWeN"
+              },
+              "uid": "42ed579cc568d1c2e5ab"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e024f3d95ec136fc8b23e5bcd60"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048514f3d95ec136fc8b23e5bcd60"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734f3d95ec136fc8b23e5bcd60"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:42FGoEHVrhMCRN4aZKGKUN"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Biscits"
+                      },
+                      "uri": "spotify:artist:052B9SONfhoScw7dgYWw5o"
+                    },
+                    {
+                      "profile": {
+                        "name": "GREG (BR)"
+                      },
+                      "uri": "spotify:artist:7K7I6veLj1PPzsrzVP6B79"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 165942
+                },
+                "id": "0HtQwyWR5sCO45FfeMmCqo",
+                "name": "Freak - GREG (BR) Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "224259",
+                "uri": "spotify:track:0HtQwyWR5sCO45FfeMmCqo"
+              },
+              "uid": "92164ef8cafd3745cf9a"
+            }
+          ]
+        }
+      },
+      "goods": {
+        "concerts": {
+          "items": [
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Costa Mesa",
+                  "name": "Time Nightclub"
+                },
+                "startDateIsoString": "2025-03-21T22:00-07:00",
+                "title": "Biscits",
+                "uri": "spotify:concert:2LKDkAXen5YRRRDr7YnsvU"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Seattle",
+                  "name": "Q Nightclub"
+                },
+                "startDateIsoString": "2025-03-22T22:00-07:00",
+                "title": "Biscits",
+                "uri": "spotify:concert:0qMqW9GEdoCzD69P1Nm8iX"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Victoria",
+                  "name": "Upstairs Cabaret"
+                },
+                "startDateIsoString": "2025-04-18T22:00-07:00",
+                "title": "Biscits",
+                "uri": "spotify:concert:3DUsFtSgmxqy0OfPIrQwTs"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Vancouver",
+                  "name": "Celebrities"
+                },
+                "startDateIsoString": "2025-04-19T22:00-07:00",
+                "title": "Biscits",
+                "uri": "spotify:concert:0EeXqLDlWJBxMn7OG0qtrc"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Calgary",
+                  "name": "Commonwealth Bar"
+                },
+                "startDateIsoString": "2025-04-20T21:00-06:00",
+                "title": "Biscits",
+                "uri": "spotify:concert:2U7SDJ6VMAYj6ZxOsbc22D"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "London",
+                  "name": "E1"
+                },
+                "startDateIsoString": "2025-05-02T23:00+01:00",
+                "title": "Biscits, Sasha GiGi, Tony Romera",
+                "uri": "spotify:concert:2a7waay6yVT7zJfzxk9NmB"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Esch-Belval Esch-sur-Alzette",
+                  "name": "Place de l\u2019Acad\u00e9mie"
+                },
+                "startDateIsoString": "2025-05-09T13:00+02:00",
+                "title": "John Newman, Topic, NERVO, Matt Sassari, Biscits, Jaxomy, Toby Romeo, Luciid",
+                "uri": "spotify:concert:2eEgCvQxhAzwZUTfYjcUIm"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Las Vegas",
+                  "name": "Las Vegas Motor Speedway"
+                },
+                "startDateIsoString": "2025-05-16T17:00-07:00",
+                "title": "Armin van Buuren, AHEE, ALLEYCVT, AM\u00c9M\u00c9, ARMNHMR, ATLiens, Adam Ten, Ahmed Spins, Alex Chapman, Alignment, Armand Van Helden, Arodes, Avalon, Basstripper, Basswell, BICEP, BIIA, Billy Gillies, Biscits, Brutalismus 3000, CHYL, Caravel, Carlita, Cera Khin, Chase & Status, ChaseWest, Clara Cuv\u00e9, Cloonee, Code Black, D-Sturb, DJ Gigola, Da Tweekaz, DANNY AVILA, Darren Styles, David Forbes, David Rust, Dennis Cruz, Deorro, Disco Lines, Distinct Motive, Drinkurwater, Eric Prydz, Fcukers, Funk Tribu, Fury, Gesaffelstein, Gorgon City, GUDFELLA, HUGEL, Hannah Laing, Hedex, Hot Since 82, I Hate Models, INFEKT, Interplanetary Criminal, INZO, Jackie Hollander, James Hype, Jessica Audiffred, KAMI, Ky William, Kyle Watson, Lake Hills, Lil Texas, Lady Faith, Lavern, Layz, Level Up, Levity, Masha Mar, MPH, MALUGI, Marlon Hoffstadt, Mau P, Mita Gami, Nala, Rusko, SOTA, Dylan Brady, horsegiirL, it's murph",
+                "uri": "spotify:concert:34ojqoCUh53q3nmEJMV29j"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Chicago",
+                  "name": "Huntington Bank Pavilion at Northerly Island"
+                },
+                "startDateIsoString": "2025-06-07T17:00-05:00",
+                "title": "SLANDER, Yellow Claw, Bou, Le Youth, MK, AHEE, ARMNHMR, BIIANCO, Bassrush, Basstripper, Biscits, Cassian, Coco & Breezy, D.O.D, DANNY AVILA, Gene Farris, Godlands, Green Velvet, Hedex, Jackie Hollander, James Hype, Jessica Audiffred, Level Up, MOONLGHT, MPH, Matroda, MEDUZA, Mersiv, Netsky, Nikita, the Wicked, Odd Mob, OMNOM, Ravenscoon, San Pacho, SIDEPIECE, SampliFire, Subtronics, Tom & Collins, TroyBoi, Virtual Riot, Walker & Royce, Wilkinson, $wooli, YDG, Zen Selekta, Martin Ikin, \u00c6ON:MODE",
+                "uri": "spotify:concert:6UUkvtXw0040ZP8JOPwfQp"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Portland",
+                  "name": "45 East"
+                },
+                "startDateIsoString": "2025-06-20T22:00-07:00",
+                "title": "Biscits",
+                "uri": "spotify:concert:3gbW8rQbG1rjHNXlxc2in2"
+              }
+            }
+          ],
+          "totalCount": 10
+        },
+        "merch": {
+          "items": []
+        }
+      },
+      "headerImage": {
+        "data": {
+          "__typename": "ImageV2",
+          "sources": [
+            {
+              "maxHeight": 640,
+              "maxWidth": 1494,
+              "url": "https://image-cdn-fa.spotifycdn.com/image/ab6761860000019487eeac3f0394912a991838ce"
+            },
+            {
+              "maxHeight": 1080,
+              "maxWidth": 1920,
+              "url": "https://i2o.scdn.co/image/ab6761860000166787eeac3f0394912a991838ce"
+            },
+            {
+              "maxHeight": 641,
+              "maxWidth": 1495,
+              "url": "https://image-cdn-fa.spotifycdn.com/image/ab67618600009d8087eeac3f0394912a991838ce"
+            },
+            {
+              "maxHeight": 1140,
+              "maxWidth": 2660,
+              "url": "https://image-cdn-fa.spotifycdn.com/image/ab6761860000eab187eeac3f0394912a991838ce"
+            }
+          ]
+        }
+      },
+      "id": "052B9SONfhoScw7dgYWw5o",
+      "preRelease": null,
+      "profile": {
+        "biography": {
+          "text": "Hailing from Southampton, UK, BISCITS (Luke Jones) has had a seminal impact on the global Tech House scene over the last few years. Likened to some of the genre\u2019s leading names, including Diplo, Dom Dolla, Fisher and WADE, BISCITS\u2019 reputation for full-bodied peak-time cuts has seen him attain an impressive global appeal in a relatively short space of time. \n\nBISCITS also prides himself on regular support of his music from Pete Tong &amp; Danny Howard on BBC Radio 1, Sirius XM, triple J, Slam Radio, Radio FG and many more. It\u2019s fair to say that the BISCITS sound remains entrenched at the precipice of modern dance music. \n\nOutside of the studio, BISCITS maintains a busy international touring schedule. A certified globetrotter, his performance passport is littered with stamps from North America, South America, the UK, Europe and Australia. Some of his most notable clubland highlights include performing alongside Gorgon City, Fisher, Chris Lake, Cloonee, Sidepiece and WADE across the likes of Reading &amp; Leeds Festival, EDC Vegas, Tomorrowland and his own Headline tour in 2023.\n\nYou\u2019ll be hard-pushed to find an artist with a higher commitment to his work in and out of the studio who receives more regular plaudits from peers and fans worldwide. BISCITS continues to make strides as one of the industry\u2019s most promising and fastest-growing talents, with much left to give.",
+          "type": "AUTOBIOGRAPHY"
+        },
+        "externalLinks": {
+          "items": [
+            {
+              "name": "FACEBOOK",
+              "url": "https://facebook.com/biscits/"
+            },
+            {
+              "name": "INSTAGRAM",
+              "url": "https://instagram.com/itsbiscits/"
+            },
+            {
+              "name": "TWITTER",
+              "url": "https://twitter.com/BiscitsMusic"
+            }
+          ]
+        },
+        "name": "Biscits",
+        "pinnedItem": {
+          "backgroundImageV2": null,
+          "comment": "FREAK IS OUT NOW! \ud83c\udf6a\ud83c\udf6a\ud83c\udf6a",
+          "itemV2": {
+            "__typename": "AlbumResponseWrapper",
+            "data": {
+              "__typename": "Album",
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02390f9e478936003960df4b95",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851390f9e478936003960df4b95",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273390f9e478936003960df4b95",
+                    "width": 640
+                  }
+                ]
+              },
+              "name": "Freak",
+              "type": "SINGLE",
+              "uri": "spotify:album:1bPzfiNL4MaiHWD9bxknaO"
+            }
+          },
+          "subtitle": "Single",
+          "thumbnailImage": {
+            "data": {
+              "sources": [
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000075a0390f9e478936003960df4b95"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000090d5390f9e478936003960df4b95"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000ab87390f9e478936003960df4b95"
+                }
+              ]
+            }
+          },
+          "title": "Freak",
+          "type": "ALBUM",
+          "uri": "spotify:album:1bPzfiNL4MaiHWD9bxknaO"
+        },
+        "playlistsV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Biscits vibe House&#x2F;Tech - Deep Enough, Unique Enough.",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84badfee6debe849751bfeb8b0",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "THE BISCIT TIN",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Luke Jones"
+                  }
+                },
+                "uri": "spotify:playlist:0AodVlqYlRX1wDL0AWt7u0"
+              }
+            }
+          ],
+          "totalCount": 1
+        },
+        "verified": true
+      },
+      "relatedContent": {
+        "appearsOn": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Sonny Fodera"
+                          },
+                          "uri": "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e026854b12d337fff8a9c891eac",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048516854b12d337fff8a9c891eac",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2736854b12d337fff8a9c891eac",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "0p2QNuTbJb6HXc7WMSszd4",
+                    "name": "Rise",
+                    "sharingInfo": {
+                      "shareId": "Ud9XJvamTMysuAOtqx3wpA",
+                      "shareUrl": "https://open.spotify.com/album/0p2QNuTbJb6HXc7WMSszd4?si=Ud9XJvamTMysuAOtqx3wpA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:0p2QNuTbJb6HXc7WMSszd4"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0254d100c9fc76f5916804378a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485154d100c9fc76f5916804378a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27354d100c9fc76f5916804378a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "38ezuNxMBVB0FsiF29Wo3P",
+                    "name": "Armada Music Year Mix 2024",
+                    "sharingInfo": {
+                      "shareId": "Z7DldMlTQMSRk19KKye-7Q",
+                      "shareUrl": "https://open.spotify.com/album/38ezuNxMBVB0FsiF29Wo3P?si=Z7DldMlTQMSRk19KKye-7Q"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:38ezuNxMBVB0FsiF29Wo3P"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Insomniac Records"
+                          },
+                          "uri": "spotify:artist:51xR0dvqUomzb5eY6dvT4M"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d94c793306d5f39e2e82c1b9",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d94c793306d5f39e2e82c1b9",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d94c793306d5f39e2e82c1b9",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "6YYCeo97KpTlZXMwAtFH6t",
+                    "name": "Best of Insomniac Records: 2024",
+                    "sharingInfo": {
+                      "shareId": "p4zPTPnKTW-mJu-I6YtZHg",
+                      "shareUrl": "https://open.spotify.com/album/6YYCeo97KpTlZXMwAtFH6t?si=p4zPTPnKTW-mJu-I6YtZHg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:6YYCeo97KpTlZXMwAtFH6t"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Moby"
+                          },
+                          "uri": "spotify:artist:3OsRAKCvk37zwYcnzRf5XF"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a5f52555ef640d4bcad350d1",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a5f52555ef640d4bcad350d1",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a5f52555ef640d4bcad350d1",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "1ebgTtKt8c9dMZADohgv7v",
+                    "name": "Reprise - Remixes",
+                    "sharingInfo": {
+                      "shareId": "6kMVKJwKQSeuryWeaHMwkw",
+                      "shareUrl": "https://open.spotify.com/album/1ebgTtKt8c9dMZADohgv7v?si=6kMVKJwKQSeuryWeaHMwkw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:1ebgTtKt8c9dMZADohgv7v"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "OFFAIAH"
+                          },
+                          "uri": "spotify:artist:2E1NFr5AeEGUJkLUUsWCAO"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0260cd819b7701958d907dbc74",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485160cd819b7701958d907dbc74",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27360cd819b7701958d907dbc74",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "1uHzlMAyLadVdQkTv4KuFo",
+                    "name": "Armada Subjekt Sessions - ADE 2024 (Mixed by OFFAIAH)",
+                    "sharingInfo": {
+                      "shareId": "b0l6HVEMQ2S9FFjFGuRCtw",
+                      "shareUrl": "https://open.spotify.com/album/1uHzlMAyLadVdQkTv4KuFo?si=b0l6HVEMQ2S9FFjFGuRCtw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:1uHzlMAyLadVdQkTv4KuFo"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Todd Edwards"
+                          },
+                          "uri": "spotify:artist:6MFopqejpmTUUZlcRmGzgg"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021c9f0ea725584d288c4075d5",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511c9f0ea725584d288c4075d5",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731c9f0ea725584d288c4075d5",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "0YzIlo3vLGuT9siZ8McRXW",
+                    "name": "Defected presents House Masters - Todd Edwards Deluxe Edition",
+                    "sharingInfo": {
+                      "shareId": "_ccIrfj1Q7-C2R8bl0x6JA",
+                      "shareUrl": "https://open.spotify.com/album/0YzIlo3vLGuT9siZ8McRXW?si=_ccIrfj1Q7-C2R8bl0x6JA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:0YzIlo3vLGuT9siZ8McRXW"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Insomniac Music Group"
+                          },
+                          "uri": "spotify:artist:5OikDRVEPtkPGRlhpwynSo"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02000606d3a5c7da73c3887268",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851000606d3a5c7da73c3887268",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273000606d3a5c7da73c3887268",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "5Zm9Tai3GPnWUljcNoHxh5",
+                    "name": "EDC Las Vegas 2023",
+                    "sharingInfo": {
+                      "shareId": "2d-d-zDgSKaUCt-Qtw86DQ",
+                      "shareUrl": "https://open.spotify.com/album/5Zm9Tai3GPnWUljcNoHxh5?si=2d-d-zDgSKaUCt-Qtw86DQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:5Zm9Tai3GPnWUljcNoHxh5"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Duke Dumont"
+                          },
+                          "uri": "spotify:artist:61lyPtntblHJvA7FMMhi7E"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024cd91a657b4c8cf7386185d6",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514cd91a657b4c8cf7386185d6",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734cd91a657b4c8cf7386185d6",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "6iRSyTL3aHXwGNArkUAZCv",
+                    "name": "Red Light Green Light (For Club Play Only, Pt. 6 / Remixes)",
+                    "sharingInfo": {
+                      "shareId": "2dl6POz9QiGzHgXduCAoiw",
+                      "shareUrl": "https://open.spotify.com/album/6iRSyTL3aHXwGNArkUAZCv?si=2dl6POz9QiGzHgXduCAoiw"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:6iRSyTL3aHXwGNArkUAZCv"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Todd Edwards"
+                          },
+                          "uri": "spotify:artist:6MFopqejpmTUUZlcRmGzgg"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a0e27006d81e3e0d9bb05a8b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a0e27006d81e3e0d9bb05a8b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a0e27006d81e3e0d9bb05a8b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "0k8t893QK7cQOvoT8PV92X",
+                    "name": "Perfect Love (Biscits Remix)",
+                    "sharingInfo": {
+                      "shareId": "6RSBK3uNRhiS9fw3qE768Q",
+                      "shareUrl": "https://open.spotify.com/album/0k8t893QK7cQOvoT8PV92X?si=6RSBK3uNRhiS9fw3qE768Q"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:0k8t893QK7cQOvoT8PV92X"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Insomniac Records"
+                          },
+                          "uri": "spotify:artist:51xR0dvqUomzb5eY6dvT4M"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02418798c13ffab24d4ab81460",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851418798c13ffab24d4ab81460",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273418798c13ffab24d4ab81460",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "70ZyWrGgoffODlaUheuFx2",
+                    "name": "Best of Insomniac Records: 2023",
+                    "sharingInfo": {
+                      "shareId": "RfeHO_t7Tumsv3ueBliujg",
+                      "shareUrl": "https://open.spotify.com/album/70ZyWrGgoffODlaUheuFx2?si=RfeHO_t7Tumsv3ueBliujg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:70ZyWrGgoffODlaUheuFx2"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Insomniac Music Group"
+                          },
+                          "uri": "spotify:artist:5OikDRVEPtkPGRlhpwynSo"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e022ea30c0429cda7a42474800f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048512ea30c0429cda7a42474800f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2732ea30c0429cda7a42474800f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "1oHDIQRRGoZrAyOsn8fD3G",
+                    "name": "EDC Las Vegas 2021",
+                    "sharingInfo": {
+                      "shareId": "vZx5CyNjTnqp6cpe4jp6Ug",
+                      "shareUrl": "https://open.spotify.com/album/1oHDIQRRGoZrAyOsn8fD3G?si=vZx5CyNjTnqp6cpe4jp6Ug"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:1oHDIQRRGoZrAyOsn8fD3G"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Marvin Humes"
+                          },
+                          "uri": "spotify:artist:5S4Aw94BUuvnKBKOUmsUBn"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0212675e9f57fabbfb900a2322",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485112675e9f57fabbfb900a2322",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27312675e9f57fabbfb900a2322",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "0hA6oTDAmn1oIIUQRsqlmb",
+                    "name": "Ibiza 2019 (DJ Mix)",
+                    "sharingInfo": {
+                      "shareId": "w_GXKxL3Tbq-MTpwE_6mPg",
+                      "shareUrl": "https://open.spotify.com/album/0hA6oTDAmn1oIIUQRsqlmb?si=w_GXKxL3Tbq-MTpwE_6mPg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:0hA6oTDAmn1oIIUQRsqlmb"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Insomniac Music Group"
+                          },
+                          "uri": "spotify:artist:5OikDRVEPtkPGRlhpwynSo"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024fa359f1f454c6cba7766fbe",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514fa359f1f454c6cba7766fbe",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734fa359f1f454c6cba7766fbe",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "4O0HuNOusEArb6mC9cFUqU",
+                    "name": "EDC Las Vegas 2022",
+                    "sharingInfo": {
+                      "shareId": "FbzMw4g7QIaIPvC6U3-X7Q",
+                      "shareUrl": "https://open.spotify.com/album/4O0HuNOusEArb6mC9cFUqU?si=FbzMw4g7QIaIPvC6U3-X7Q"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4O0HuNOusEArb6mC9cFUqU"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "SIDEPIECE"
+                          },
+                          "uri": "spotify:artist:5czbzNZZfWpyFgZyfT3Mkk"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a522ff344f0dbcda04157991",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a522ff344f0dbcda04157991",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a522ff344f0dbcda04157991",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "6mpkwR2NdJOhLITuZPzNWo",
+                    "name": "Acrobatic (Remixes)",
+                    "sharingInfo": {
+                      "shareId": "pMXoHc4eTHyRwQXm7O5c3w",
+                      "shareUrl": "https://open.spotify.com/album/6mpkwR2NdJOhLITuZPzNWo?si=pMXoHc4eTHyRwQXm7O5c3w"
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:6mpkwR2NdJOhLITuZPzNWo"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Mark Knight"
+                          },
+                          "uri": "spotify:artist:3h11MHQeCrcsUgRRijI1zL"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c692dce3b79d7658957a5b16",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c692dce3b79d7658957a5b16",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c692dce3b79d7658957a5b16",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "5WDs4nxj5t7ftMTc9tcvgt",
+                    "name": "Toolroom Ibiza 2019 (Mixed)",
+                    "sharingInfo": {
+                      "shareId": "TlnDJjkWQJGyHfw6mGtqSw",
+                      "shareUrl": "https://open.spotify.com/album/5WDs4nxj5t7ftMTc9tcvgt?si=TlnDJjkWQJGyHfw6mGtqSw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:5WDs4nxj5t7ftMTc9tcvgt"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "CHANEY"
+                          },
+                          "uri": "spotify:artist:2dUjApyXX9UqIsFGzoHyhX"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0245bf2890b765d037fa16184e",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485145bf2890b765d037fa16184e",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27345bf2890b765d037fa16184e",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "4gwpbittBhghGJf4TJFP5N",
+                    "name": "Toolroom House Party Vol. 7 (DJ Mix)",
+                    "sharingInfo": {
+                      "shareId": "mh422-TSRuGDkG51Ty3vww",
+                      "shareUrl": "https://open.spotify.com/album/4gwpbittBhghGJf4TJFP5N?si=mh422-TSRuGDkG51Ty3vww"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:4gwpbittBhghGJf4TJFP5N"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Insomniac Music Group"
+                          },
+                          "uri": "spotify:artist:5OikDRVEPtkPGRlhpwynSo"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c43632e7ff7d9ed592637287",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c43632e7ff7d9ed592637287",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c43632e7ff7d9ed592637287",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "3tz1GLgKDQUEZaw9KYeaGb",
+                    "name": "EDC Orlando 2022",
+                    "sharingInfo": {
+                      "shareId": "viM9O8QjSZOKnRffyeTk4g",
+                      "shareUrl": "https://open.spotify.com/album/3tz1GLgKDQUEZaw9KYeaGb?si=viM9O8QjSZOKnRffyeTk4g"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3tz1GLgKDQUEZaw9KYeaGb"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Sonny Fodera"
+                          },
+                          "uri": "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020df1625846812851e6fa119a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510df1625846812851e6fa119a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730df1625846812851e6fa119a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "7rLbeN0nj94DhzXQHq289a",
+                    "name": "Moving Blind (Remixes)",
+                    "sharingInfo": {
+                      "shareId": "3w357GtfTOmPJTPqohprsA",
+                      "shareUrl": "https://open.spotify.com/album/7rLbeN0nj94DhzXQHq289a?si=3w357GtfTOmPJTPqohprsA"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7rLbeN0nj94DhzXQHq289a"
+                  },
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Sonny Fodera"
+                          },
+                          "uri": "spotify:artist:39B7ChWwrWDs7zXlsu3MoP"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c941abe580a64f551a2cd3c8",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c941abe580a64f551a2cd3c8",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c941abe580a64f551a2cd3c8",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "1NVZBX1Xg4Bl0fV68ZBZE6",
+                    "name": "Moving Blind (Remixes)",
+                    "sharingInfo": {
+                      "shareId": "ydPQcYORQXCDd5pL9x7j7Q",
+                      "shareUrl": "https://open.spotify.com/album/1NVZBX1Xg4Bl0fV68ZBZE6?si=ydPQcYORQXCDd5pL9x7j7Q"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1NVZBX1Xg4Bl0fV68ZBZE6"
+                  }
+                ],
+                "totalCount": 2
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Insomniac Music Group"
+                          },
+                          "uri": "spotify:artist:5OikDRVEPtkPGRlhpwynSo"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e022f30fff3f4a5f5723726f02f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048512f30fff3f4a5f5723726f02f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2732f30fff3f4a5f5723726f02f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "3FjjyfYkyYoTD6o9JBk4YM",
+                    "name": "EDC Mexico 2022",
+                    "sharingInfo": {
+                      "shareId": "WanC96F8R-qdNpIh24VEhg",
+                      "shareUrl": "https://open.spotify.com/album/3FjjyfYkyYoTD6o9JBk4YM?si=WanC96F8R-qdNpIh24VEhg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3FjjyfYkyYoTD6o9JBk4YM"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Insomniac Records"
+                          },
+                          "uri": "spotify:artist:51xR0dvqUomzb5eY6dvT4M"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0240e3f6d45ed5008f331322ae",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485140e3f6d45ed5008f331322ae",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27340e3f6d45ed5008f331322ae",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "0ujCR1ee5ili5fZYjVUZSD",
+                    "name": "Best of Insomniac Records: 2022",
+                    "sharingInfo": {
+                      "shareId": "x3J3RE3jQueIF_zu6utRhQ",
+                      "shareUrl": "https://open.spotify.com/album/0ujCR1ee5ili5fZYjVUZSD?si=x3J3RE3jQueIF_zu6utRhQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:0ujCR1ee5ili5fZYjVUZSD"
+                  }
+                ],
+                "totalCount": 1
+              }
+            }
+          ],
+          "totalCount": 49
+        },
+        "discoveredOnV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Discover the best House Music to vibe or dance to.\u2502<a href=\"https://www.instagram.com/weareuncommonrecords/\">Instagram</a>",
+                "id": "7bu7BZEusLNJSaAuUUZBKn",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8445022ff58370157cbb0b02a6",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "HOUSE MUSIC 2025 (Top 100)",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "UNCOMMON"
+                  }
+                },
+                "uri": "spotify:playlist:7bu7BZEusLNJSaAuUUZBKn"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "House music lives here. United under one roof, featuring Westend.",
+                "id": "37i9dQZF1DXa8NOEUWPn9W",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000027453f9ecfb3a16da65cd7ba6",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Housewerk",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXa8NOEUWPn9W"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "id": "4rxnMVYa0wZsmWNM9fI7RU",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da848c3b3fd1a2555869fb64faf0",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "HOUSE MUSIC",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "aryo"
+                  }
+                },
+                "uri": "spotify:playlist:4rxnMVYa0wZsmWNM9fI7RU"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The sound of tech house 2025. A weekly updated playlist with all relevant tech house releases! ",
+                "id": "7nppx7uLgcmkZHg70HNfOk",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84da9c063c727e165278575b26",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Tech House 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Future House Music"
+                  }
+                },
+                "uri": "spotify:playlist:7nppx7uLgcmkZHg70HNfOk"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Let's dance! \u2502<a href=\"https://www.instagram.com/weareuncommonrecords/\">Instagram</a>",
+                "id": "3z9BoYFsLaWal4jdXrOMkZ",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72cc827b5069c4586ec80b37466",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "IBIZA PARTY 2025 \ud83c\udf34\u2600\ufe0f",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "UNCOMMON"
+                  }
+                },
+                "uri": "spotify:playlist:3z9BoYFsLaWal4jdXrOMkZ"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Get ready for Ibiza season 2024. See you on the dancefloor.",
+                "id": "37i9dQZF1DXaCACvgOVs5K",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002ec816a80a5306e63cb9c99c3",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Ibiza 2024",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXaCACvgOVs5K"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Tech house technicians, featuring Mau P \ud83d\udc8a 50% techno, 50% house",
+                "id": "37i9dQZF1DWVY4eLfA3XFQ",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002eba45b7af52a779569e2d0ae",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Tech House Operator",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWVY4eLfA3XFQ"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The biggest house bangers popping off in the UK, let's go! Jamie Jones, Green Velvet",
+                "id": "37i9dQZF1DWSrVdvTl1tVY",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000024bc005a4034d2f2ca61c93fc",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "UK House Music",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWSrVdvTl1tVY"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> to the rhythm and move your feet!",
+                "id": "37i9dQZF1DXaXB8fQg7xif",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002d2c23cff8e4056e5c891216d",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Dance Party",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXaXB8fQg7xif"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Tap it back or go for a spin with these uptempo tracks!",
+                "id": "37i9dQZF1DX32NsLKyzScr",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002ecbc3f66c5912d783dee45b7",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Power Hour",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX32NsLKyzScr"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Sonny Fodera. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO1PdGXs",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO1PdGXs-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Sonny Fodera",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO1PdGXs"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The Best Techno House",
+                "id": "6jCgabXrYUjqdaF0ozKkTj",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84fe855a1e909c4ccd042a7efa",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Techno House 2025 \ud83d\udd25",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "TXTR"
+                  }
+                },
+                "uri": "spotify:playlist:6jCgabXrYUjqdaF0ozKkTj"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Eletr\u00f4nicas 2025 as Melhores - Eletr\u00f4nicas 2025 Mais Tocadas - Eletr\u00f4nicas Antigas - Eletr\u00f4nicas Frita\u00e7\u00e3o - Eletr\u00f4nicas Brasileiras - Eletr\u00f4nicas Pancada - Mix Eletr\u00f4nico - M\u00f9sicas Eletr\u00f4nicas - Pancad\u00e3o Eletr\u00f4nico - Eletr\u00f4nicas Remix - Top Eletr\u00f4nicas - Elet\u00f4nicas Academia",
+                "id": "2VA1NivaAUcYnga31PBBoP",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8478503bc95b7e9f99304b0e9f",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "ELETR\u00d4NICAS  2025 \ud83d\udd25 - ATUALIZADA",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Ana Clara"
+                  }
+                },
+                "uri": "spotify:playlist:2VA1NivaAUcYnga31PBBoP"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            }
+          ],
+          "totalCount": 100
+        },
+        "featuringV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Biscits. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evNZYyFPO",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evNZYyFPO-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Biscits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evNZYyFPO"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "With SIDEPIECE, Riordan, Deeper Purpose and more",
+                "id": "37i9dQZF1E4pQbmZNJxiqc",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/052B9SONfhoScw7dgYWw5o/en",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Biscits Radio",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1E4pQbmZNJxiqc"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Ride the bassline. Cover: HNTR",
+                "id": "37i9dQZF1DWZCdOD1jAvLL",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002f1a0774f70194eed7dad5a35",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Bangers",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWZCdOD1jAvLL"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "House music lives here. United under one roof, featuring Westend.",
+                "id": "37i9dQZF1DXa8NOEUWPn9W",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000027453f9ecfb3a16da65cd7ba6",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Housewerk",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXa8NOEUWPn9W"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Tap it back or go for a spin with these uptempo tracks!",
+                "id": "37i9dQZF1DX32NsLKyzScr",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002ecbc3f66c5912d783dee45b7",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Power Hour",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX32NsLKyzScr"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Get ready for Ibiza season 2024. See you on the dancefloor.",
+                "id": "37i9dQZF1DXaCACvgOVs5K",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002ec816a80a5306e63cb9c99c3",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Ibiza 2024",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXaCACvgOVs5K"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Tech house technicians, featuring Mau P \ud83d\udc8a 50% techno, 50% house",
+                "id": "37i9dQZF1DWVY4eLfA3XFQ",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002eba45b7af52a779569e2d0ae",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Tech House Operator",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWVY4eLfA3XFQ"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
+                "id": "37i9dQZF1DXcAPgsGLgd43",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000029854d8565efb37581559b5f3",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Latin House",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXcAPgsGLgd43"
+              }
+            }
+          ],
+          "totalCount": 8
+        },
+        "relatedArtists": {
+          "items": [
+            {
+              "id": "7DhdJhd6DrxeJlUajwttd1",
+              "profile": {
+                "name": "Martin Ikin"
+              },
+              "uri": "spotify:artist:7DhdJhd6DrxeJlUajwttd1",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb5941d2cc3b9378dfad8da071",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1785941d2cc3b9378dfad8da071",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051745941d2cc3b9378dfad8da071",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1PzAgFVk9v8cxn9flrqrv5",
+              "profile": {
+                "name": "Joshwa"
+              },
+              "uri": "spotify:artist:1PzAgFVk9v8cxn9flrqrv5",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebed67d0acf66648d46137dbc6",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178ed67d0acf66648d46137dbc6",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174ed67d0acf66648d46137dbc6",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "45lcbTsX07JWzmTIjcdyBz",
+              "profile": {
+                "name": "Matroda"
+              },
+              "uri": "spotify:artist:45lcbTsX07JWzmTIjcdyBz",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb67496827f683bf6ded6c8f1e",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17867496827f683bf6ded6c8f1e",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517467496827f683bf6ded6c8f1e",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4epc3Bd0DOBA0kDywkRAsu",
+              "profile": {
+                "name": "Westend"
+              },
+              "uri": "spotify:artist:4epc3Bd0DOBA0kDywkRAsu",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebbaab640174de293e426eb340",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178baab640174de293e426eb340",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174baab640174de293e426eb340",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7MdlXmq2HViAJWo9cf30sR",
+              "profile": {
+                "name": "Cloonee"
+              },
+              "uri": "spotify:artist:7MdlXmq2HViAJWo9cf30sR",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebdcb1edbd747cf285bbb19205",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178dcb1edbd747cf285bbb19205",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174dcb1edbd747cf285bbb19205",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2ucdZN7GyBGxIKHIzksnXc",
+              "profile": {
+                "name": "ESSEL"
+              },
+              "uri": "spotify:artist:2ucdZN7GyBGxIKHIzksnXc",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebd059be72413f35ef0d574e1c",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178d059be72413f35ef0d574e1c",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174d059be72413f35ef0d574e1c",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3VRyybsQu0MDG0F2LBxnv7",
+              "profile": {
+                "name": "Noizu"
+              },
+              "uri": "spotify:artist:3VRyybsQu0MDG0F2LBxnv7",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebfba584a24d405fa7d4524968",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178fba584a24d405fa7d4524968",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174fba584a24d405fa7d4524968",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3PYRXP25JcbqhvNaJYcnWy",
+              "profile": {
+                "name": "OMNOM"
+              },
+              "uri": "spotify:artist:3PYRXP25JcbqhvNaJYcnWy",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb1a57bd9a7858f8f9b84fc59d",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1781a57bd9a7858f8f9b84fc59d",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051741a57bd9a7858f8f9b84fc59d",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4L0It80jhQQKMTU2r02nkL",
+              "profile": {
+                "name": "No/Me"
+              },
+              "uri": "spotify:artist:4L0It80jhQQKMTU2r02nkL",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebb965adc296882fd624e5cc7f",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178b965adc296882fd624e5cc7f",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174b965adc296882fd624e5cc7f",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0YVquC9RaJLYFNmlJFzkTV",
+              "profile": {
+                "name": "AYYBO"
+              },
+              "uri": "spotify:artist:0YVquC9RaJLYFNmlJFzkTV",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eba075930ef6aedf1cde4e22cc",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178a075930ef6aedf1cde4e22cc",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174a075930ef6aedf1cde4e22cc",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "68rU1sdZ0HjxjEC5YnSmao",
+              "profile": {
+                "name": "Riordan"
+              },
+              "uri": "spotify:artist:68rU1sdZ0HjxjEC5YnSmao",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb8031aa561129b6d12f20e6d1",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1788031aa561129b6d12f20e6d1",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051748031aa561129b6d12f20e6d1",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2GVtgxcx7jg5xVCZsIHSGN",
+              "profile": {
+                "name": "Dombresky"
+              },
+              "uri": "spotify:artist:2GVtgxcx7jg5xVCZsIHSGN",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb42c9aca5d99bc2737e17046e",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17842c9aca5d99bc2737e17046e",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517442c9aca5d99bc2737e17046e",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5jBerZvTAajwYvdxt3UhgU",
+              "profile": {
+                "name": "San Pacho"
+              },
+              "uri": "spotify:artist:5jBerZvTAajwYvdxt3UhgU",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb25a99e6d2d7e26d7b71d33a8",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17825a99e6d2d7e26d7b71d33a8",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517425a99e6d2d7e26d7b71d33a8",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2E1NFr5AeEGUJkLUUsWCAO",
+              "profile": {
+                "name": "OFFAIAH"
+              },
+              "uri": "spotify:artist:2E1NFr5AeEGUJkLUUsWCAO",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebd38a1c3706f5a859962491c0",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178d38a1c3706f5a859962491c0",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174d38a1c3706f5a859962491c0",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "10Bo1ofGMWr6hFD7OM7W7r",
+              "profile": {
+                "name": "Deeper Purpose"
+              },
+              "uri": "spotify:artist:10Bo1ofGMWr6hFD7OM7W7r",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebd6657023fc8c71fefc0f421b",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178d6657023fc8c71fefc0f421b",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174d6657023fc8c71fefc0f421b",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3ABaec4jjl95VqmG1iD4k2",
+              "profile": {
+                "name": "Green Velvet"
+              },
+              "uri": "spotify:artist:3ABaec4jjl95VqmG1iD4k2",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebc4538f995f4e9a6e153dcb71",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178c4538f995f4e9a6e153dcb71",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174c4538f995f4e9a6e153dcb71",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1lAwVq9MxNJkB0dEY6xNoV",
+              "profile": {
+                "name": "Walker & Royce"
+              },
+              "uri": "spotify:artist:1lAwVq9MxNJkB0dEY6xNoV",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb1a9c71136c2407ccc53cb41c",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1781a9c71136c2407ccc53cb41c",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051741a9c71136c2407ccc53cb41c",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4qLwtWhlhyAoQ4S9mSrDW9",
+              "profile": {
+                "name": "Odd Mob"
+              },
+              "uri": "spotify:artist:4qLwtWhlhyAoQ4S9mSrDW9",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb6b2234fbdc9b647b208d1714",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1786b2234fbdc9b647b208d1714",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051746b2234fbdc9b647b208d1714",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5g93IJMEpfC68NUaeVjr4h",
+              "profile": {
+                "name": "Tita Lau"
+              },
+              "uri": "spotify:artist:5g93IJMEpfC68NUaeVjr4h",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebe04cb5aed8fa418325868438",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178e04cb5aed8fa418325868438",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174e04cb5aed8fa418325868438",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7LJSAfWhO7jhjnewy6pKyZ",
+              "profile": {
+                "name": "Kyle Watson"
+              },
+              "uri": "spotify:artist:7LJSAfWhO7jhjnewy6pKyZ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb4291a9c426c5bbd73a8f7358",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1784291a9c426c5bbd73a8f7358",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051744291a9c426c5bbd73a8f7358",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "totalCount": 40
+        }
+      },
+      "relatedVideos": {
+        "__typename": "RelatedVideoPage",
+        "items": [],
+        "totalCount": 0
+      },
+      "saved": false,
+      "sharingInfo": {
+        "shareId": "oE3zk_bWQuW_hl4bAQlseQ",
+        "shareUrl": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o?si=oE3zk_bWQuW_hl4bAQlseQ"
+      },
+      "stats": {
+        "followers": 85362,
+        "monthlyListeners": 2104865,
+        "topCities": {
+          "items": [
+            {
+              "city": "Sydney",
+              "country": "AU",
+              "numberOfListeners": 34981,
+              "region": "NSW"
+            },
+            {
+              "city": "London",
+              "country": "GB",
+              "numberOfListeners": 33502,
+              "region": "ENG"
+            },
+            {
+              "city": "Amsterdam",
+              "country": "NL",
+              "numberOfListeners": 30572,
+              "region": "NH"
+            },
+            {
+              "city": "Melbourne",
+              "country": "AU",
+              "numberOfListeners": 28563,
+              "region": "VIC"
+            },
+            {
+              "city": "Los Angeles",
+              "country": "US",
+              "numberOfListeners": 28465,
+              "region": "CA"
+            }
+          ]
+        },
+        "worldRank": 0
+      },
+      "uri": "spotify:artist:052B9SONfhoScw7dgYWw5o",
+      "visualIdentity": {
+        "wideFullBleedImage": {
+          "__typename": "VisualIdentityImage",
+          "extractedColorSet": {
+            "encoreBaseSetTextColor": {
+              "alpha": 255,
+              "blue": 141,
+              "green": 163,
+              "red": 255
+            },
+            "highContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 0,
+                "green": 25,
+                "red": 156
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 0,
+                "green": 0,
+                "red": 97
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 173,
+                "green": 190,
+                "red": 255
+              }
+            },
+            "higherContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 0,
+                "green": 0,
+                "red": 101
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 41,
+                "green": 52,
+                "red": 147
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 96,
+                "green": 215,
+                "red": 30
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 173,
+                "green": 190,
+                "red": 255
+              }
+            },
+            "minContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 40,
+                "green": 64,
+                "red": 192
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 0,
+                "green": 24,
+                "red": 155
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              }
+            }
+          }
+        }
+      },
+      "visuals": {
+        "avatarImage": {
+          "extractedColors": {
+            "colorRaw": {
+              "hex": "#535353"
+            }
+          },
+          "sources": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb246eece463475395d81ec94e",
+              "width": 640
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178246eece463475395d81ec94e",
+              "width": 160
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174246eece463475395d81ec94e",
+              "width": 320
+            }
+          ]
+        },
+        "gallery": {
+          "items": [
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd426582d2e66018f08f7698e4a",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4fb6d950b9cc9873a0c90e1cd",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4fca26df298fe413c7fc17a02",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4ccc7f1f5fb28876bebc13bd6",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4ac2e515977f03322d4a06668",
+                  "width": 640
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "watchFeedEntrypoint": null
+    }
+  },
+  "extensions": {}
+}

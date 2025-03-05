@@ -1,0 +1,4510 @@
+{
+  "data": {
+    "artistUnion": {
+      "__typename": "Artist",
+      "discography": {
+        "albums": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2019 SpinninRecords.com",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2019 SpinninRecords.com",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020ae4993dfdc3413a564bfab2",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510ae4993dfdc3413a564bfab2",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730ae4993dfdc3413a564bfab2",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 22,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2019
+                    },
+                    "id": "6MnnkXC0DBgjc9mFxJ585V",
+                    "label": "Spinnin' Records",
+                    "name": "The Biggest",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "iOLbdHR7QM-8wOw6OMukUg",
+                      "shareUrl": "https://open.spotify.com/album/6MnnkXC0DBgjc9mFxJ585V?si=iOLbdHR7QM-8wOw6OMukUg"
+                    },
+                    "tracks": {
+                      "totalCount": 14
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6MnnkXC0DBgjc9mFxJ585V"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 1
+        },
+        "compilations": {
+          "items": [],
+          "totalCount": 0
+        },
+        "latest": {
+          "copyright": {
+            "items": [
+              {
+                "text": "(C) 2025 Smash The House",
+                "type": "C"
+              },
+              {
+                "text": "(P) 2025 Smash The House",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e021b32460528d11edad9d10aa5",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048511b32460528d11edad9d10aa5",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2731b32460528d11edad9d10aa5",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 24,
+            "month": 1,
+            "precision": "DAY",
+            "year": 2025
+          },
+          "id": "6CIk1vnYMX2N2cRD5f5Gdl",
+          "label": "Smash The House",
+          "name": "All Around The World (La La La La La) [Audiotricz Remix]",
+          "playability": {
+            "playable": true,
+            "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+            "shareId": "uqWaVJFkScKkHEh68Ca3BA",
+            "shareUrl": "https://open.spotify.com/album/6CIk1vnYMX2N2cRD5f5Gdl?si=uqWaVJFkScKkHEh68Ca3BA"
+          },
+          "tracks": {
+            "totalCount": 2
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:6CIk1vnYMX2N2cRD5f5Gdl"
+        },
+        "popularReleasesAlbums": {
+          "items": [
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2023 Spinnin' Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2023 Spinnin' Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a5b042974d2530e820d10e6a",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a5b042974d2530e820d10e6a",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a5b042974d2530e820d10e6a",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 24,
+                "month": 3,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "7f9y6wyXMLW9NfHHkMtccm",
+              "label": "Spinnin' Records",
+              "name": "Wrong or Right (The Riddle)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "ZO3vE5RdQgq-ItxVeNEGmQ",
+                "shareUrl": "https://open.spotify.com/album/7f9y6wyXMLW9NfHHkMtccm?si=ZO3vE5RdQgq-ItxVeNEGmQ"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:7f9y6wyXMLW9NfHHkMtccm"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(C) 2024 Smash The House",
+                    "type": "C"
+                  },
+                  {
+                    "text": "(P) 2024 Smash The House",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02cbe127d8a00292bb046d02da",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851cbe127d8a00292bb046d02da",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273cbe127d8a00292bb046d02da",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 12,
+                "month": 1,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "0Y8Eqjhf8X11esnBPRXpp7",
+              "label": "Smash The House",
+              "name": "All Around The World (La La La La La)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "GT4gXxfhQjiYhwO9PskKlA",
+                "shareUrl": "https://open.spotify.com/album/0Y8Eqjhf8X11esnBPRXpp7?si=GT4gXxfhQjiYhwO9PskKlA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:0Y8Eqjhf8X11esnBPRXpp7"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(C) 2024 Smash The House",
+                    "type": "C"
+                  },
+                  {
+                    "text": "(P) 2024 Smash The House",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02213b5fbeba52f519d5eca99b",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851213b5fbeba52f519d5eca99b",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273213b5fbeba52f519d5eca99b",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 11,
+                "month": 10,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "1swbJgCSWTjkp4ueCljP0Z",
+              "label": "Smash The House",
+              "name": "Bla Bla Bla",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "6Aa_nuY-QWe0WHO6a3kwZg",
+                "shareUrl": "https://open.spotify.com/album/1swbJgCSWTjkp4ueCljP0Z?si=6Aa_nuY-QWe0WHO6a3kwZg"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1swbJgCSWTjkp4ueCljP0Z"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(C) 2024 Smash The House",
+                    "type": "C"
+                  },
+                  {
+                    "text": "(P) 2024 Smash The House",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e5dae4319ebea75633e26f1a",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e5dae4319ebea75633e26f1a",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e5dae4319ebea75633e26f1a",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 1,
+                "month": 11,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "3qCJzQQ7aRlZrpwwrdZVIj",
+              "label": "Smash The House",
+              "name": "Wake The F Up",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "OIAoWsNlS4OrJNdXa63vgg",
+                "shareUrl": "https://open.spotify.com/album/3qCJzQQ7aRlZrpwwrdZVIj?si=OIAoWsNlS4OrJNdXa63vgg"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:3qCJzQQ7aRlZrpwwrdZVIj"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2023 Spinnin' Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2023 Spinnin' Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a79b72d0b6c31b5917fa645d",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a79b72d0b6c31b5917fa645d",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a79b72d0b6c31b5917fa645d",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 11,
+                "month": 8,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "1JjGogI2XIeKZK0UOSJQaY",
+              "label": "Spinnin' Records",
+              "name": "Eternity",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "TVRCHGwWTiaojQ2RzhzKuA",
+                "shareUrl": "https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY?si=TVRCHGwWTiaojQ2RzhzKuA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1JjGogI2XIeKZK0UOSJQaY"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(C) 2024 Smash The House",
+                    "type": "C"
+                  },
+                  {
+                    "text": "(P) 2024 Smash The House",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e025a9e1a1f4ddcaa95d7107485",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048515a9e1a1f4ddcaa95d7107485",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2735a9e1a1f4ddcaa95d7107485",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 6,
+                "month": 12,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "0PHJCZoDz7ik1bzrOnTEWi",
+              "label": "Smash The House",
+              "name": "Cornfield Chase",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "MLN7eN-STWCgq_798Xs4ig",
+                "shareUrl": "https://open.spotify.com/album/0PHJCZoDz7ik1bzrOnTEWi?si=MLN7eN-STWCgq_798Xs4ig"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:0PHJCZoDz7ik1bzrOnTEWi"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(C) 2024 Smash The House",
+                    "type": "C"
+                  },
+                  {
+                    "text": "(P) 2024 Smash The House",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0297bec086a9ae399367203e6e",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485197bec086a9ae399367203e6e",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27397bec086a9ae399367203e6e",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 27,
+                "month": 9,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "2IeGqOw0muKoFkdot0qiZm",
+              "label": "Smash The House",
+              "name": "Set Me Free",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "IU-m2JHUQva2eVqzFWP3wg",
+                "shareUrl": "https://open.spotify.com/album/2IeGqOw0muKoFkdot0qiZm?si=IU-m2JHUQva2eVqzFWP3wg"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:2IeGqOw0muKoFkdot0qiZm"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2023 Musical Freedom Label Ltd.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2023 Musical Freedom Label Ltd.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022acccfa1057549c8b4bea583",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512acccfa1057549c8b4bea583",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732acccfa1057549c8b4bea583",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 28,
+                "month": 4,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "04xMU08QUyeBA5Etl4kjQM",
+              "label": "Musical Freedom",
+              "name": "Traffic",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "yoAzEpN4QeWcwRJh3HVnHA",
+                "shareUrl": "https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM?si=yoAzEpN4QeWcwRJh3HVnHA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:04xMU08QUyeBA5Etl4kjQM"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2024 Spinnin' Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2024 Spinnin' Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02dd63d10b54e2ddff7163c3e5",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851dd63d10b54e2ddff7163c3e5",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273dd63d10b54e2ddff7163c3e5",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 15,
+                "month": 11,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "1IXrITahfXmq47OvyQcDiV",
+              "label": "Spinnin' Records",
+              "name": "Boadicea",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "rhq3yckrR7GyPE2inzo21w",
+                "shareUrl": "https://open.spotify.com/album/1IXrITahfXmq47OvyQcDiV?si=rhq3yckrR7GyPE2inzo21w"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1IXrITahfXmq47OvyQcDiV"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(C) 2024 Smash The House",
+                    "type": "C"
+                  },
+                  {
+                    "text": "(P) 2024 Smash The House",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0236d5b609440d48fec3cbe1fc",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485136d5b609440d48fec3cbe1fc",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27336d5b609440d48fec3cbe1fc",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 8,
+                "month": 11,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "4zQeB8HrFfehyUQehbH72K",
+              "label": "Smash The House",
+              "name": "Stereo Murder",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "PsaUkhl5SOKUbDeoNeWBIA",
+                "shareUrl": "https://open.spotify.com/album/4zQeB8HrFfehyUQehbH72K?si=PsaUkhl5SOKUbDeoNeWBIA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:4zQeB8HrFfehyUQehbH72K"
+            }
+          ],
+          "totalCount": 20
+        },
+        "singles": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(C) 2025 Smash The House",
+                          "type": "C"
+                        },
+                        {
+                          "text": "(P) 2025 Smash The House",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021b32460528d11edad9d10aa5",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511b32460528d11edad9d10aa5",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731b32460528d11edad9d10aa5",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 24,
+                      "month": 1,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "6CIk1vnYMX2N2cRD5f5Gdl",
+                    "label": "Smash The House",
+                    "name": "All Around The World (La La La La La) [Audiotricz Remix]",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "uqWaVJFkScKkHEh68Ca3BA",
+                      "shareUrl": "https://open.spotify.com/album/6CIk1vnYMX2N2cRD5f5Gdl?si=uqWaVJFkScKkHEh68Ca3BA"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:6CIk1vnYMX2N2cRD5f5Gdl"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(C) 2024 Smash The House",
+                          "type": "C"
+                        },
+                        {
+                          "text": "(P) 2024 Smash The House",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025a9e1a1f4ddcaa95d7107485",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515a9e1a1f4ddcaa95d7107485",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735a9e1a1f4ddcaa95d7107485",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 6,
+                      "month": 12,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "0PHJCZoDz7ik1bzrOnTEWi",
+                    "label": "Smash The House",
+                    "name": "Cornfield Chase",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "MLN7eN-STWCgq_798Xs4ig",
+                      "shareUrl": "https://open.spotify.com/album/0PHJCZoDz7ik1bzrOnTEWi?si=MLN7eN-STWCgq_798Xs4ig"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:0PHJCZoDz7ik1bzrOnTEWi"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(C) 2024 Smash The House",
+                          "type": "C"
+                        },
+                        {
+                          "text": "(P) 2024 Smash The House",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e557454533aefcc8557fa3f0",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e557454533aefcc8557fa3f0",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e557454533aefcc8557fa3f0",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 29,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "71K0drA5Xe6tNOmEilxoLk",
+                    "label": "Smash The House",
+                    "name": "Last Christmas",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "xzT80KP4S_C73_XBcJ5urQ",
+                      "shareUrl": "https://open.spotify.com/album/71K0drA5Xe6tNOmEilxoLk?si=xzT80KP4S_C73_XBcJ5urQ"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:71K0drA5Xe6tNOmEilxoLk"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 Spinnin' Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 Spinnin' Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02dd63d10b54e2ddff7163c3e5",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851dd63d10b54e2ddff7163c3e5",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273dd63d10b54e2ddff7163c3e5",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 15,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "1IXrITahfXmq47OvyQcDiV",
+                    "label": "Spinnin' Records",
+                    "name": "Boadicea",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "rhq3yckrR7GyPE2inzo21w",
+                      "shareUrl": "https://open.spotify.com/album/1IXrITahfXmq47OvyQcDiV?si=rhq3yckrR7GyPE2inzo21w"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1IXrITahfXmq47OvyQcDiV"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(C) 2024 Smash The House",
+                          "type": "C"
+                        },
+                        {
+                          "text": "(P) 2024 Smash The House",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0236d5b609440d48fec3cbe1fc",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485136d5b609440d48fec3cbe1fc",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27336d5b609440d48fec3cbe1fc",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 8,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "4zQeB8HrFfehyUQehbH72K",
+                    "label": "Smash The House",
+                    "name": "Stereo Murder",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "PsaUkhl5SOKUbDeoNeWBIA",
+                      "shareUrl": "https://open.spotify.com/album/4zQeB8HrFfehyUQehbH72K?si=PsaUkhl5SOKUbDeoNeWBIA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4zQeB8HrFfehyUQehbH72K"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(C) 2024 Smash The House",
+                          "type": "C"
+                        },
+                        {
+                          "text": "(P) 2024 Smash The House",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e5dae4319ebea75633e26f1a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e5dae4319ebea75633e26f1a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e5dae4319ebea75633e26f1a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 1,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "3qCJzQQ7aRlZrpwwrdZVIj",
+                    "label": "Smash The House",
+                    "name": "Wake The F Up",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "OIAoWsNlS4OrJNdXa63vgg",
+                      "shareUrl": "https://open.spotify.com/album/3qCJzQQ7aRlZrpwwrdZVIj?si=OIAoWsNlS4OrJNdXa63vgg"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3qCJzQQ7aRlZrpwwrdZVIj"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(C) 2024 Smash The House",
+                          "type": "C"
+                        },
+                        {
+                          "text": "(P) 2024 Smash The House",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02213b5fbeba52f519d5eca99b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851213b5fbeba52f519d5eca99b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273213b5fbeba52f519d5eca99b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 11,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "1swbJgCSWTjkp4ueCljP0Z",
+                    "label": "Smash The House",
+                    "name": "Bla Bla Bla",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "6Aa_nuY-QWe0WHO6a3kwZg",
+                      "shareUrl": "https://open.spotify.com/album/1swbJgCSWTjkp4ueCljP0Z?si=6Aa_nuY-QWe0WHO6a3kwZg"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1swbJgCSWTjkp4ueCljP0Z"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(C) 2024 Smash The House",
+                          "type": "C"
+                        },
+                        {
+                          "text": "(P) 2024 Smash The House",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0297bec086a9ae399367203e6e",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485197bec086a9ae399367203e6e",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27397bec086a9ae399367203e6e",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 27,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "2IeGqOw0muKoFkdot0qiZm",
+                    "label": "Smash The House",
+                    "name": "Set Me Free",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "IU-m2JHUQva2eVqzFWP3wg",
+                      "shareUrl": "https://open.spotify.com/album/2IeGqOw0muKoFkdot0qiZm?si=IU-m2JHUQva2eVqzFWP3wg"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:2IeGqOw0muKoFkdot0qiZm"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(C) 2024 Smash The House",
+                          "type": "C"
+                        },
+                        {
+                          "text": "(P) 2024 Smash The House",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02615e9d6d06abbebce9faa10b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851615e9d6d06abbebce9faa10b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273615e9d6d06abbebce9faa10b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 30,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "0OfodlDksoq7jlMqwxS8Dk",
+                    "label": "Smash The House",
+                    "name": "Alibi",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "BJHIxVxxQGmRubDGK6pGUw",
+                      "shareUrl": "https://open.spotify.com/album/0OfodlDksoq7jlMqwxS8Dk?si=BJHIxVxxQGmRubDGK6pGUw"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:0OfodlDksoq7jlMqwxS8Dk"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(C) 2024 Smash The House",
+                          "type": "C"
+                        },
+                        {
+                          "text": "(P) 2024 Smash The House",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02fc2143a139ba0beb72a1f5d5",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851fc2143a139ba0beb72a1f5d5",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273fc2143a139ba0beb72a1f5d5",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 26,
+                      "month": 7,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "3GOvsaX9iG8WU8gTccXRK6",
+                    "label": "Smash The House",
+                    "name": "Axel F",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "pKXr5p1EQBOjgYQq1LOoLQ",
+                      "shareUrl": "https://open.spotify.com/album/3GOvsaX9iG8WU8gTccXRK6?si=pKXr5p1EQBOjgYQq1LOoLQ"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3GOvsaX9iG8WU8gTccXRK6"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 165
+        },
+        "topTracks": {
+          "items": [
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a5b042974d2530e820d10e6a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851a5b042974d2530e820d10e6a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a5b042974d2530e820d10e6a"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:7f9y6wyXMLW9NfHHkMtccm"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Bassjackers"
+                      },
+                      "uri": "spotify:artist:6xQvQwZQQuq9R3TdPNbcR8"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 154620
+                },
+                "id": "78VSoe3vn4gR4pYSTBiAXA",
+                "name": "Wrong or Right (The Riddle)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "35347950",
+                "uri": "spotify:track:78VSoe3vn4gR4pYSTBiAXA"
+              },
+              "uid": "7d0a2e9a52e9d1efe5a7"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02cbe127d8a00292bb046d02da"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851cbe127d8a00292bb046d02da"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273cbe127d8a00292bb046d02da"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:0Y8Eqjhf8X11esnBPRXpp7"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Bassjackers"
+                      },
+                      "uri": "spotify:artist:6xQvQwZQQuq9R3TdPNbcR8"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 137142
+                },
+                "id": "6m4wKDh7iIqfgKRbrIPbz9",
+                "name": "All Around The World (La La La La La)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "11535608",
+                "uri": "spotify:track:6m4wKDh7iIqfgKRbrIPbz9"
+              },
+              "uid": "bc79966e5e5c2cea2c09"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e5dae4319ebea75633e26f1a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851e5dae4319ebea75633e26f1a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e5dae4319ebea75633e26f1a"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:3qCJzQQ7aRlZrpwwrdZVIj"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Bassjackers"
+                      },
+                      "uri": "spotify:artist:6xQvQwZQQuq9R3TdPNbcR8"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "EXPLICIT"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 140800
+                },
+                "id": "36eWeCqpNGHTiZfTSbScIY",
+                "name": "Wake The F Up",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "3040166",
+                "uri": "spotify:track:36eWeCqpNGHTiZfTSbScIY"
+              },
+              "uid": "1b01fddaf3e4511d16b7"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02213b5fbeba52f519d5eca99b"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851213b5fbeba52f519d5eca99b"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273213b5fbeba52f519d5eca99b"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:1swbJgCSWTjkp4ueCljP0Z"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Bassjackers"
+                      },
+                      "uri": "spotify:artist:6xQvQwZQQuq9R3TdPNbcR8"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 125600
+                },
+                "id": "1T2bK1Woz5LCjdW5JyYRpf",
+                "name": "Bla Bla Bla",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "2353758",
+                "uri": "spotify:track:1T2bK1Woz5LCjdW5JyYRpf"
+              },
+              "uid": "330f5019170c2dafe090"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a79b72d0b6c31b5917fa645d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851a79b72d0b6c31b5917fa645d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a79b72d0b6c31b5917fa645d"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:1JjGogI2XIeKZK0UOSJQaY"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Timmy Trumpet"
+                      },
+                      "uri": "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+                    },
+                    {
+                      "profile": {
+                        "name": "KSHMR"
+                      },
+                      "uri": "spotify:artist:2wX6xSig4Rig5kZU6ePlWe"
+                    },
+                    {
+                      "profile": {
+                        "name": "Bassjackers"
+                      },
+                      "uri": "spotify:artist:6xQvQwZQQuq9R3TdPNbcR8"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 135428
+                },
+                "id": "3aNxfCcd9EohIxKmcQv1zn",
+                "name": "Eternity",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "26443445",
+                "uri": "spotify:track:3aNxfCcd9EohIxKmcQv1zn"
+              },
+              "uid": "bf44678bc1d621b4adc1"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e029a74c5256599bd6d09856c99"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048519a74c5256599bd6d09856c99"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2739a74c5256599bd6d09856c99"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:7DnPC3dlNFBRgoqMPYGswZ"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Ran-D"
+                      },
+                      "uri": "spotify:artist:7IeovKzVkfcG9mIJGNzTcT"
+                    },
+                    {
+                      "profile": {
+                        "name": "Bassjackers"
+                      },
+                      "uri": "spotify:artist:6xQvQwZQQuq9R3TdPNbcR8"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 211191
+                },
+                "id": "7qfZTBNZQqvg0hMamrAQB1",
+                "name": "Zombie - Bassjackers Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "23990993",
+                "uri": "spotify:track:7qfZTBNZQqvg0hMamrAQB1"
+              },
+              "uid": "fccf484109def3f4f13f"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e025a9e1a1f4ddcaa95d7107485"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048515a9e1a1f4ddcaa95d7107485"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2735a9e1a1f4ddcaa95d7107485"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:0PHJCZoDz7ik1bzrOnTEWi"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Bassjackers"
+                      },
+                      "uri": "spotify:artist:6xQvQwZQQuq9R3TdPNbcR8"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 174857
+                },
+                "id": "2RqVeoxgtf7KdpDSz7hn45",
+                "name": "Cornfield Chase",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1274425",
+                "uri": "spotify:track:2RqVeoxgtf7KdpDSz7hn45"
+              },
+              "uid": "e1d0c2e3c22e909f367e"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02fc2143a139ba0beb72a1f5d5"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851fc2143a139ba0beb72a1f5d5"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273fc2143a139ba0beb72a1f5d5"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:3GOvsaX9iG8WU8gTccXRK6"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Dimitri Vegas & Like Mike"
+                      },
+                      "uri": "spotify:artist:73jBynjsVtofjRpdpRAJGk"
+                    },
+                    {
+                      "profile": {
+                        "name": "Bassjackers"
+                      },
+                      "uri": "spotify:artist:6xQvQwZQQuq9R3TdPNbcR8"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 148000
+                },
+                "id": "69NJgj9iXZbpd5mpFCNLIz",
+                "name": "Axel F",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "4922390",
+                "uri": "spotify:track:69NJgj9iXZbpd5mpFCNLIz"
+              },
+              "uid": "ad53dd856216ee52e3da"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e022acccfa1057549c8b4bea583"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048512acccfa1057549c8b4bea583"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2732acccfa1057549c8b4bea583"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:04xMU08QUyeBA5Etl4kjQM"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Bassjackers"
+                      },
+                      "uri": "spotify:artist:6xQvQwZQQuq9R3TdPNbcR8"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 141333
+                },
+                "id": "1W9V27FifuPo99HvgYc0jz",
+                "name": "Traffic",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "11467599",
+                "uri": "spotify:track:1W9V27FifuPo99HvgYc0jz"
+              },
+              "uid": "3ed7edce970734a82f39"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0297bec086a9ae399367203e6e"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485197bec086a9ae399367203e6e"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27397bec086a9ae399367203e6e"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:2IeGqOw0muKoFkdot0qiZm"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Bassjackers"
+                      },
+                      "uri": "spotify:artist:6xQvQwZQQuq9R3TdPNbcR8"
+                    },
+                    {
+                      "profile": {
+                        "name": "Wasback"
+                      },
+                      "uri": "spotify:artist:3rmYE7edorDWoKVPGk9iLZ"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 162755
+                },
+                "id": "063TkfAMChBhF3gFLESksd",
+                "name": "Set Me Free",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1547353",
+                "uri": "spotify:track:063TkfAMChBhF3gFLESksd"
+              },
+              "uid": "172458e74334968ac2e5"
+            }
+          ]
+        }
+      },
+      "goods": {
+        "concerts": {
+          "items": [
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Huez",
+                  "name": "Alpe d'Huez"
+                },
+                "startDateIsoString": "2025-03-19T20:15+01:00",
+                "title": "Bassjackers",
+                "uri": "spotify:concert:7yJU42RKc7fnHtho10202R"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Los Angeles",
+                  "name": "Academy Nightclub"
+                },
+                "startDateIsoString": "2025-04-12T22:00-07:00",
+                "title": "Bassjackers",
+                "uri": "spotify:concert:1Dmt1osXdCYh2Gl3ZTgYpl"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Edmonton",
+                  "name": "Union Hall"
+                },
+                "startDateIsoString": "2025-04-17T21:00-06:00",
+                "title": "Bassjackers",
+                "uri": "spotify:concert:18dA3QXJypvpGWOPF26Az6"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Calgary",
+                  "name": "The Back Alley Nightclub"
+                },
+                "startDateIsoString": "2025-04-18T21:00-06:00",
+                "title": "Bassjackers",
+                "uri": "spotify:concert:2zd4LEwYYraL93Hrn5YuVL"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Winnipeg",
+                  "name": "Exchange Event Centre"
+                },
+                "startDateIsoString": "2025-04-19T00:00-05:00",
+                "title": "Bassjackers",
+                "uri": "spotify:concert:35peqF9NOnvfOJ4BOOgoTM"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Winnipeg",
+                  "name": "Exchange Event Centre"
+                },
+                "startDateIsoString": "2025-04-19T21:00-05:00",
+                "title": "Bassjackers",
+                "uri": "spotify:concert:5sjAfudLwtCkyeAuboVDvv"
+              }
+            }
+          ],
+          "totalCount": 6
+        },
+        "merch": {
+          "items": []
+        }
+      },
+      "headerImage": {
+        "data": {
+          "__typename": "ImageV2",
+          "sources": [
+            {
+              "maxHeight": 640,
+              "maxWidth": 1494,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67618600000194ba6fd033e30ec41ac8e5ce7a"
+            },
+            {
+              "maxHeight": 1080,
+              "maxWidth": 1920,
+              "url": "https://i2o.scdn.co/image/ab67618600001667ba6fd033e30ec41ac8e5ce7a"
+            },
+            {
+              "maxHeight": 641,
+              "maxWidth": 1495,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67618600009d80ba6fd033e30ec41ac8e5ce7a"
+            },
+            {
+              "maxHeight": 1140,
+              "maxWidth": 2660,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab6761860000eab1ba6fd033e30ec41ac8e5ce7a"
+            }
+          ]
+        }
+      },
+      "id": "6xQvQwZQQuq9R3TdPNbcR8",
+      "preRelease": null,
+      "profile": {
+        "biography": {
+          "text": "DJ, Marlon Flohr, and producer, Ralph van Hilst, who together form Bassjackers, are perfectly in sync as a duo. Their opposing personalities \u2013 Marlon being the wild one rocking each and every stage they play and Ralph the more cool and collective preferring to shine behind the scene on the producer seat, are a perfect combination for this unique one dj-one producer collaboration.\n\nThe duo exploded onto the scene and in 2011 their dancefloor bomb \u201cMush Mush\u201d was picked up by Ti\u00ebsto and released on his label Musical Freedom. The track dominated the Beatport top 10 chart for over two months and was one of the biggest festival tracks of the year. This was a sign of things to come.\n\nSince then, Bassjackers have reached massive new heights in their career with numerous chart-topping bangers and hit collaborations with the likes of Martin Garrix, Afrojack, KSHMR, Dimitri Vegas &amp;amp; Like Mike, R3hab, and Showtek, to name a few, as well as remixes for A-list artists including Rihanna, Enrique Iglesias, Moby, and Ne-Yo. At the top of their game, Bassjackers continue to tear up stages worldwide and wow crowds along the way.",
+          "type": "AUTOBIOGRAPHY"
+        },
+        "externalLinks": {
+          "items": [
+            {
+              "name": "INSTAGRAM",
+              "url": "https://instagram.com/bassjackers"
+            },
+            {
+              "name": "WIKIPEDIA",
+              "url": "https://en.wikipedia.org/wiki/Bassjackers"
+            }
+          ]
+        },
+        "name": "Bassjackers",
+        "pinnedItem": {
+          "backgroundImageV2": {
+            "data": {
+              "__typename": "ImageV2",
+              "sources": [
+                {
+                  "url": "https://image-cdn-fa.spotifycdn.com/image/ab67617000005910edadc0d3b24a4b6ac5a5e486"
+                }
+              ]
+            }
+          },
+          "comment": "ONE MILLION STREAMS!!! <3",
+          "itemV2": {
+            "__typename": "AlbumResponseWrapper",
+            "data": {
+              "__typename": "Album",
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e5dae4319ebea75633e26f1a",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e5dae4319ebea75633e26f1a",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e5dae4319ebea75633e26f1a",
+                    "width": 640
+                  }
+                ]
+              },
+              "name": "Wake The F Up",
+              "type": "SINGLE",
+              "uri": "spotify:album:3qCJzQQ7aRlZrpwwrdZVIj"
+            }
+          },
+          "subtitle": "Single",
+          "thumbnailImage": {
+            "data": {
+              "sources": [
+                {
+                  "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d000075a0e5dae4319ebea75633e26f1a"
+                },
+                {
+                  "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d000090d5e5dae4319ebea75633e26f1a"
+                },
+                {
+                  "url": "https://image-cdn-fa.spotifycdn.com/image/ab67616d0000ab87e5dae4319ebea75633e26f1a"
+                }
+              ]
+            }
+          },
+          "title": "Wake The F Up",
+          "type": "ALBUM",
+          "uri": "spotify:album:3qCJzQQ7aRlZrpwwrdZVIj"
+        },
+        "playlistsV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Get ready to dance and let go with this high-energy playlist featuring the best bangers. Mainstage anthems &amp; fist-pumping tunes that keep you moving from start to finish. Perfect for getting pumped for a night out or for powering through a workout. ",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84e0892f57279f53f1a965c14d",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Les Pays Bass Radio by Bassjackers",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "bassjackers"
+                  }
+                },
+                "uri": "spotify:playlist:2IgPmPclXqK6Sx1mGKvikn"
+              }
+            }
+          ],
+          "totalCount": 1
+        },
+        "verified": true
+      },
+      "relatedContent": {
+        "appearsOn": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Steve Aoki"
+                          },
+                          "uri": "spotify:artist:77AiFEVeAVj2ORpC85QVJs"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0231a1bc5e40ae5633132be871",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485131a1bc5e40ae5633132be871",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27331a1bc5e40ae5633132be871",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "7IzDIMRk24CJxqUADOSbZ4",
+                    "name": "Neon Future IV",
+                    "sharingInfo": {
+                      "shareId": "CDZq1GcnTVe9g844mkf4Uw",
+                      "shareUrl": "https://open.spotify.com/album/7IzDIMRk24CJxqUADOSbZ4?si=CDZq1GcnTVe9g844mkf4Uw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:7IzDIMRk24CJxqUADOSbZ4"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "NATTI NATASHA"
+                          },
+                          "uri": "spotify:artist:1GDbiv3spRmZ1XdM1jQbT7"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024fe8d09a867f2c359232139d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514fe8d09a867f2c359232139d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734fe8d09a867f2c359232139d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "2ZjmvVKeVy3CgaT2BvsyvM",
+                    "name": "NATTIVIDAD",
+                    "sharingInfo": {
+                      "shareId": "o2XpapszTO2IPjzIkqUxow",
+                      "shareUrl": "https://open.spotify.com/album/2ZjmvVKeVy3CgaT2BvsyvM?si=o2XpapszTO2IPjzIkqUxow"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2ZjmvVKeVy3CgaT2BvsyvM"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025f627261c7d9814ab0b88da3",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515f627261c7d9814ab0b88da3",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735f627261c7d9814ab0b88da3",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "0GHvkwP9xA5vg658fJppdZ",
+                    "name": "Home Alone (On the Night Before Christmas)",
+                    "sharingInfo": {
+                      "shareId": "JjO7gaRuSdO-6ihkrWanKA",
+                      "shareUrl": "https://open.spotify.com/album/0GHvkwP9xA5vg658fJppdZ?si=JjO7gaRuSdO-6ihkrWanKA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:0GHvkwP9xA5vg658fJppdZ"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Dimitri Vegas"
+                          },
+                          "uri": "spotify:artist:2HkAI0YrEcgoR8QdaURqhO"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e022d77e65835978c4e6587a970",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048512d77e65835978c4e6587a970",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2732d77e65835978c4e6587a970",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "3rezHr9oHODeCApPiqRiN6",
+                    "name": "Vinyl Only (Live at Tomorrowland)",
+                    "sharingInfo": {
+                      "shareId": "Un2tx8CRQ-OkreynsGJpBg",
+                      "shareUrl": "https://open.spotify.com/album/3rezHr9oHODeCApPiqRiN6?si=Un2tx8CRQ-OkreynsGJpBg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3rezHr9oHODeCApPiqRiN6"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Armin van Buuren"
+                          },
+                          "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0201f03a9b631a0c110b4b98e1",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485101f03a9b631a0c110b4b98e1",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27301f03a9b631a0c110b4b98e1",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "2JMGLki9XYrFTCJEBM6VoG",
+                    "name": "Blah Blah Blah (Remixes)",
+                    "sharingInfo": {
+                      "shareId": "lRn31tFYTA6uiuXxLDJ5MQ",
+                      "shareUrl": "https://open.spotify.com/album/2JMGLki9XYrFTCJEBM6VoG?si=lRn31tFYTA6uiuXxLDJ5MQ"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:2JMGLki9XYrFTCJEBM6VoG"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0263a776f4b6141b6174202b78",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485163a776f4b6141b6174202b78",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27363a776f4b6141b6174202b78",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "6RKwh1MPxsUNALmCeLTVwj",
+                    "name": "The Crystal Winter",
+                    "sharingInfo": {
+                      "shareId": "SSb3tJN8Q46KhA2_koHqQA",
+                      "shareUrl": "https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj?si=SSb3tJN8Q46KhA2_koHqQA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:6RKwh1MPxsUNALmCeLTVwj"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Revealed Recordings"
+                          },
+                          "uri": "spotify:artist:6aaMlV5Qz8DK66IWgwoUH8"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02eb52f828a64ddcdce2a7939f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851eb52f828a64ddcdce2a7939f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273eb52f828a64ddcdce2a7939f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "3MVlNH4ICP1QgIZ8nc60kJ",
+                    "name": "Revealed Yearmix 2024",
+                    "sharingInfo": {
+                      "shareId": "9pHaQlOvTtG89iZwpMzlFw",
+                      "shareUrl": "https://open.spotify.com/album/3MVlNH4ICP1QgIZ8nc60kJ?si=9pHaQlOvTtG89iZwpMzlFw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3MVlNH4ICP1QgIZ8nc60kJ"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Dimitri Vegas & Like Mike"
+                          },
+                          "uri": "spotify:artist:73jBynjsVtofjRpdpRAJGk"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e023220aaaf4604cd0f5e4856d9",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048513220aaaf4604cd0f5e4856d9",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2733220aaaf4604cd0f5e4856d9",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "4BHPugJ7ICjfAHosfafxPQ",
+                    "name": "Tomorrowland 2019 EP",
+                    "sharingInfo": {
+                      "shareId": "rGIgv5VmRlio2PpJwDOlXw",
+                      "shareUrl": "https://open.spotify.com/album/4BHPugJ7ICjfAHosfafxPQ?si=rGIgv5VmRlio2PpJwDOlXw"
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:4BHPugJ7ICjfAHosfafxPQ"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Steve Aoki"
+                          },
+                          "uri": "spotify:artist:77AiFEVeAVj2ORpC85QVJs"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02cf79bd5c6085d1dc3acd7d86",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851cf79bd5c6085d1dc3acd7d86",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273cf79bd5c6085d1dc3acd7d86",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "49HNGYy1UK8mHp5HgqYOhI",
+                    "name": "Paragon",
+                    "sharingInfo": {
+                      "shareId": "gKXdw0YvRL2kgQEmDn0ovg",
+                      "shareUrl": "https://open.spotify.com/album/49HNGYy1UK8mHp5HgqYOhI?si=gKXdw0YvRL2kgQEmDn0ovg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:49HNGYy1UK8mHp5HgqYOhI"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "ILLENIUM"
+                          },
+                          "uri": "spotify:artist:45eNHdiiabvmbp4erw26rg"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e28ff78823118c9017da1c5e",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e28ff78823118c9017da1c5e",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e28ff78823118c9017da1c5e",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "1Yk31OUIHxpPlZVq4MNF4w",
+                    "name": "Fallen Embers (Remixes)",
+                    "sharingInfo": {
+                      "shareId": "Lu-ia508R4S866yGUS2KYg",
+                      "shareUrl": "https://open.spotify.com/album/1Yk31OUIHxpPlZVq4MNF4w?si=Lu-ia508R4S866yGUS2KYg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:1Yk31OUIHxpPlZVq4MNF4w"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Showtek"
+                          },
+                          "uri": "spotify:artist:3gk0OYeLFWYupGFRHqLSR7"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029f792116e65496c0fbd21745",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519f792116e65496c0fbd21745",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739f792116e65496c0fbd21745",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "1Fq6i9cUYSYZgP0pGzeWrB",
+                    "name": "360 Yellow (Deluxe Version)",
+                    "sharingInfo": {
+                      "shareId": "jmCG1_aoT6Wsqui49wUq2w",
+                      "shareUrl": "https://open.spotify.com/album/1Fq6i9cUYSYZgP0pGzeWrB?si=jmCG1_aoT6Wsqui49wUq2w"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:1Fq6i9cUYSYZgP0pGzeWrB"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Dimitri Vegas & Like Mike"
+                          },
+                          "uri": "spotify:artist:73jBynjsVtofjRpdpRAJGk"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02441ea92d5c752b59b2ae61f8",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851441ea92d5c752b59b2ae61f8",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273441ea92d5c752b59b2ae61f8",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "4516sswM4dsA5aYO0tPYFk",
+                    "name": "Garden of Madness 2020 EP",
+                    "sharingInfo": {
+                      "shareId": "e8NkcYjaS4KcYBGntIVSGQ",
+                      "shareUrl": "https://open.spotify.com/album/4516sswM4dsA5aYO0tPYFk?si=e8NkcYjaS4KcYBGntIVSGQ"
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:4516sswM4dsA5aYO0tPYFk"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Dimitri Vegas & Like Mike"
+                          },
+                          "uri": "spotify:artist:73jBynjsVtofjRpdpRAJGk"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029e6f9df8f3aff152cfb048d1",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519e6f9df8f3aff152cfb048d1",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739e6f9df8f3aff152cfb048d1",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "4jFfRA2wuJtTbVeVR3tsx9",
+                    "name": "Tomorrowland 2018 EP",
+                    "sharingInfo": {
+                      "shareId": "49dkqGP2TPCfHZvYqDbmrQ",
+                      "shareUrl": "https://open.spotify.com/album/4jFfRA2wuJtTbVeVR3tsx9?si=49dkqGP2TPCfHZvYqDbmrQ"
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:4jFfRA2wuJtTbVeVR3tsx9"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Calvin Harris"
+                          },
+                          "uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02aacd45715a2bd526c87d1849",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851aacd45715a2bd526c87d1849",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273aacd45715a2bd526c87d1849",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "1dA4WEViR1fXqlM2eAUQab",
+                    "name": "Miracle (with Ellie Goulding) [Remixes]",
+                    "sharingInfo": {
+                      "shareId": "8bB8RYFQQjSOop2KGefXTg",
+                      "shareUrl": "https://open.spotify.com/album/1dA4WEViR1fXqlM2eAUQab?si=8bB8RYFQQjSOop2KGefXTg"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1dA4WEViR1fXqlM2eAUQab"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Steve Aoki"
+                          },
+                          "uri": "spotify:artist:77AiFEVeAVj2ORpC85QVJs"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0266a8b7fad0c5f05599e533b8",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485166a8b7fad0c5f05599e533b8",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27366a8b7fad0c5f05599e533b8",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "73RBjRZjJms5q8X0BHnP9g",
+                    "name": "HiROQUEST 2: Double Helix Remixed",
+                    "sharingInfo": {
+                      "shareId": "mvO8p37gRJGlXT0RfKIbug",
+                      "shareUrl": "https://open.spotify.com/album/73RBjRZjJms5q8X0BHnP9g?si=mvO8p37gRJGlXT0RfKIbug"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:73RBjRZjJms5q8X0BHnP9g"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021ed9e66a16867a0e28e908a1",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511ed9e66a16867a0e28e908a1",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731ed9e66a16867a0e28e908a1",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "154K5houWcuFT0xqGKEMC1",
+                    "name": "Instagram (The Remixes)",
+                    "sharingInfo": {
+                      "shareId": "vvSR-mOMTMyqBGvBW-rG1Q",
+                      "shareUrl": "https://open.spotify.com/album/154K5houWcuFT0xqGKEMC1?si=vvSR-mOMTMyqBGvBW-rG1Q"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:154K5houWcuFT0xqGKEMC1"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Cheat Codes"
+                          },
+                          "uri": "spotify:artist:7DMveApC7UnC2NPfPvlHSU"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a3fe895c0601c142e395354b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a3fe895c0601c142e395354b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a3fe895c0601c142e395354b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2017
+                    },
+                    "id": "0jp0tdI8jzTzJ7jhcHdRNA",
+                    "name": "No Promises (feat. Demi Lovato) Remixes",
+                    "sharingInfo": {
+                      "shareId": "YqjHxdBtTQ-UEmRW1lT5EQ",
+                      "shareUrl": "https://open.spotify.com/album/0jp0tdI8jzTzJ7jhcHdRNA?si=YqjHxdBtTQ-UEmRW1lT5EQ"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:0jp0tdI8jzTzJ7jhcHdRNA"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Steve Aoki"
+                          },
+                          "uri": "spotify:artist:77AiFEVeAVj2ORpC85QVJs"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0278ed67a1053b3ead9b89a2dd",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485178ed67a1053b3ead9b89a2dd",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27378ed67a1053b3ead9b89a2dd",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "3gZolcYVh9Gm1cM5t335mj",
+                    "name": "HiROQUEST: Genesis Remixed",
+                    "sharingInfo": {
+                      "shareId": "HxTKPx2nRv2RBCp6QxQD2A",
+                      "shareUrl": "https://open.spotify.com/album/3gZolcYVh9Gm1cM5t335mj?si=HxTKPx2nRv2RBCp6QxQD2A"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3gZolcYVh9Gm1cM5t335mj"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Hardwell"
+                          },
+                          "uri": "spotify:artist:6BrvowZBreEkXzJQMpL174"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e028e03cba693b4cdeaeff4d875",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048518e03cba693b4cdeaeff4d875",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2738e03cba693b4cdeaeff4d875",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2014
+                    },
+                    "id": "3Mz1GHamokyiv71ov1F9DZ",
+                    "name": "Hardwell Presents Revealed Vol. 5",
+                    "sharingInfo": {
+                      "shareId": "_pdSy_Z4TaiVKblerPadXA",
+                      "shareUrl": "https://open.spotify.com/album/3Mz1GHamokyiv71ov1F9DZ?si=_pdSy_Z4TaiVKblerPadXA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3Mz1GHamokyiv71ov1F9DZ"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02928c26d061ef1b60da6cf46b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851928c26d061ef1b60da6cf46b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273928c26d061ef1b60da6cf46b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "0XKqUXkhoD7ybgw7FVshUJ",
+                    "name": "Home Alone (On the Night Before Christmas) [Deluxe Version]",
+                    "sharingInfo": {
+                      "shareId": "jLYmhQ7lSvagrCLrdJrlTA",
+                      "shareUrl": "https://open.spotify.com/album/0XKqUXkhoD7ybgw7FVshUJ?si=jLYmhQ7lSvagrCLrdJrlTA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:0XKqUXkhoD7ybgw7FVshUJ"
+                  }
+                ],
+                "totalCount": 1
+              }
+            }
+          ],
+          "totalCount": 116
+        },
+        "discoveredOnV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Home is where the main stage is \ud83d\udc97 with Martin Garrix",
+                "id": "37i9dQZF1DX1kCIzMYtzum",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000024cf1707f40fc4e4eeded35e9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "EDM 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX1kCIzMYtzum"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The list with your favorite Tomorrowland 2025 festival anthems handpicked by Dimitri Vegas &amp; Like Mike!",
+                "id": "5ZgnTlYPLATJiTg9yTgppb",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841efdd9385069ad4bd6263ebf",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Tomorrowland Official Playlist",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Dimitri Vegas & Like Mike"
+                  }
+                },
+                "uri": "spotify:playlist:5ZgnTlYPLATJiTg9yTgppb"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Big rooms and big sounds. Cover: D'Angello & Francis",
+                "id": "37i9dQZF1DX3d2wagqzwmM",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002f246d706d3f0e4839e3c28bf",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Big Room Dance",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX3d2wagqzwmM"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The biggest Dance hits and the ones to come. Cover: Chrystal",
+                "id": "37i9dQZF1DX7ZUug1ANKRP",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002722597005faad3e7538bc846",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Main Stage",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX7ZUug1ANKRP"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "it's never too early for summer dance hits \ud83d\ude0e\u2600\ufe0f",
+                "id": "37i9dQZF1DWZ7eJRBxKzdO",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002c69d0b9a845acfa88f9794ca",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Summer Dance Hits 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWZ7eJRBxKzdO"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Toda la m\u00fasica que necesitas para darlo todo en el gimnasio. Los \u00e9xitos m\u00e1s en\u00e9rgicos y potentes.",
+                "id": "5Epnfl9GcJOnCqISHDp8QC",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84acee24ac7ab03b1aff207df3",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "GYM - TEMAZOS MOTIVACION 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Playlist Minders"
+                  }
+                },
+                "uri": "spotify:playlist:5Epnfl9GcJOnCqISHDp8QC"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "\ud835\udde1\ud835\uddfc. \ud835\udfed \ud835\udde6\ud835\uddfd\ud835\uddfc\ud835\ude01\ud835\uddf6\ud835\uddf3\ud835\ude06 \ud835\uddda\ud835\ude06\ud835\uddfa \ud835\udde3\ud835\uddf9\ud835\uddee\ud835\ude06\ud835\uddf9\ud835\uddf6\ud835\ude00\ud835\ude01! Techno, Tech House, Drum &amp; Bass, EDM &amp; Dance beats to pump up your Workout! Sport Motivation \u2013 Workout Remix \u2013 Fitness \u2013 Cardio \u2013 Sport Songs \u2013 Best Gym Playlist \u2013 Best Workout Songs \u2013 Training \u2013 Treining \u2013 Treino \u2013 Running \u2013 Body Pump \u2013 Hot Gym Girls \u2013 Gym",
+                "id": "6VvcT6f0xh7ODqkwgbmqLF",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cdd3318ffad70250bda2779a5",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "GYM BEASTMODE 2025 \ud83d\udcaa",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "LOUD X LUCKY"
+                  }
+                },
+                "uri": "spotify:playlist:6VvcT6f0xh7ODqkwgbmqLF"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Dance remixes of popular songs!",
+                "id": "37i9dQZF1DX8EyMj5jl6Tz",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002f4b8a3723732a17c473d759f",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Remix Party 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX8EyMj5jl6Tz"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Running, Hot Iron, Cycling, Workout, Cardio, Rowing, Fitness, Jogging, Fitness Studio, Gym, Muscle, Dumbbell, Beast Mode, Zumba, Hula Hoop, Treino, Warm Up, Get Fit, Power Walk, Training, Exercise, Motivation, Deporte , Spor Dallar\u0131, Urheilu, Treining, Gymnastics, Boxing, Sexy Body, Bodyattack.",
+                "id": "5cfBRKU3wnQifn8Ruyfc7g",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841fb19dd6d2989dd7a8807faf",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "SPORT MIX 2025  \ud83c\udfcb\ufe0f\ud83e\udd3e\u200d\u2640\ufe0f\ud83d\udeb4\ud83c\udfc3\ud83e\udd47\ud83c\udfc6SPORT HITS & REMIXES - BEST GYM ENERGY MOTIVATION  MUSIC\u26bd\ufe0fMY OFFICIAL TOP 100",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Planet Punk Music"
+                  }
+                },
+                "uri": "spotify:playlist:5cfBRKU3wnQifn8Ruyfc7g"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
+                "id": "37i9dQZF1DWSf2RDTDayIx",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002518096c62a9e453db38093db",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Happy Beats",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWSf2RDTDayIx"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "High energy Techno to boost your workout.",
+                "id": "37i9dQZF1DX36TRAnIL92N",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f0000000260d5f249b605abe1c449de2d",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Techno Workout",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX36TRAnIL92N"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Let's go! \ud83d\udcaa\u200a",
+                "id": "37i9dQZF1DX5FlZmJ3JWL1",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000023d6552337fa4c4014132b575",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Fit Beats ",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX5FlZmJ3JWL1"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Bassjackers. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO3RJ7dS",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO3RJ7dS-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Bassjackers",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO3RJ7dS"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            }
+          ],
+          "totalCount": 100
+        },
+        "featuringV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Bassjackers. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO3RJ7dS",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO3RJ7dS-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Bassjackers",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO3RJ7dS"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "With Mike Candys, AVAO, W&W and more",
+                "id": "37i9dQZF1E4pf9mPgEMyaV",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/6xQvQwZQQuq9R3TdPNbcR8/en",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Bassjackers Radio",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1E4pf9mPgEMyaV"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Home is where the main stage is \ud83d\udc97 with Martin Garrix",
+                "id": "37i9dQZF1DX1kCIzMYtzum",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000024cf1707f40fc4e4eeded35e9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "EDM 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX1kCIzMYtzum"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
+                "id": "37i9dQZF1DWSf2RDTDayIx",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002518096c62a9e453db38093db",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Happy Beats",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWSf2RDTDayIx"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Ride the bassline. Cover: HNTR",
+                "id": "37i9dQZF1DWZCdOD1jAvLL",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002f1a0774f70194eed7dad5a35",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Bangers",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWZCdOD1jAvLL"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
+                "id": "37i9dQZF1DWSRc3WJklgBs",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f0000000254dc6f4372eeed574bbcc6b0",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Heart Beats",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWSRc3WJklgBs"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
+                "id": "37i9dQZF1DWTiY3QffFUdg",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002adb422be0766b5053b82be90",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "techno party",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWTiY3QffFUdg"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "High energy Techno to boost your workout.",
+                "id": "37i9dQZF1DX36TRAnIL92N",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f0000000260d5f249b605abe1c449de2d",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Techno Workout",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX36TRAnIL92N"
+              }
+            }
+          ],
+          "totalCount": 8
+        },
+        "relatedArtists": {
+          "items": [
+            {
+              "id": "37awA8DFCAnCCL7aqYbDnD",
+              "profile": {
+                "name": "Blasterjaxx"
+              },
+              "uri": "spotify:artist:37awA8DFCAnCCL7aqYbDnD",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebe94cb6c33b1cfa5c538fe819",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178e94cb6c33b1cfa5c538fe819",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174e94cb6c33b1cfa5c538fe819",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6WGE3kO8ULME2ErBcOksSR",
+              "profile": {
+                "name": "KAAZE"
+              },
+              "uri": "spotify:artist:6WGE3kO8ULME2ErBcOksSR",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb43c151cfe9bbf751c9d03942",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17843c151cfe9bbf751c9d03942",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517443c151cfe9bbf751c9d03942",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "04Ze9i5w3NXno5DdMNpJZC",
+              "profile": {
+                "name": "Olly James"
+              },
+              "uri": "spotify:artist:04Ze9i5w3NXno5DdMNpJZC",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebdff1150021ce3e6a935a6f24",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178dff1150021ce3e6a935a6f24",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174dff1150021ce3e6a935a6f24",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6BrvowZBreEkXzJQMpL174",
+              "profile": {
+                "name": "Hardwell"
+              },
+              "uri": "spotify:artist:6BrvowZBreEkXzJQMpL174",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb65136609a4980a953d64f552",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17865136609a4980a953d64f552",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517465136609a4980a953d64f552",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0zKD9ej0a7KR2evA0Hu0KG",
+              "profile": {
+                "name": "Neitan"
+              },
+              "uri": "spotify:artist:0zKD9ej0a7KR2evA0Hu0KG",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebae9807c212fee79de3e1c733",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178ae9807c212fee79de3e1c733",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174ae9807c212fee79de3e1c733",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1dhLLX9IY5DD8uElJwjZFX",
+              "profile": {
+                "name": "DJ Kuba"
+              },
+              "uri": "spotify:artist:1dhLLX9IY5DD8uElJwjZFX",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb29f6fd07595a1e3ad7244996",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17829f6fd07595a1e3ad7244996",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517429f6fd07595a1e3ad7244996",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "24Sxfn1uAoJmuR9N72drt9",
+              "profile": {
+                "name": "Mike Candys"
+              },
+              "uri": "spotify:artist:24Sxfn1uAoJmuR9N72drt9",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebda2381c0ca16ec81b2e291b7",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178da2381c0ca16ec81b2e291b7",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174da2381c0ca16ec81b2e291b7",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5QWt56OIzFSPRpD7VeRkbc",
+              "profile": {
+                "name": "AXMO"
+              },
+              "uri": "spotify:artist:5QWt56OIzFSPRpD7VeRkbc",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebf3a6d7b4446160378fe8de01",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178f3a6d7b4446160378fe8de01",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174f3a6d7b4446160378fe8de01",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "13NpuESz6tlK819yBs0PuS",
+              "profile": {
+                "name": "Azteck"
+              },
+              "uri": "spotify:artist:13NpuESz6tlK819yBs0PuS",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb5912e485859527887f8c28fa",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1785912e485859527887f8c28fa",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051745912e485859527887f8c28fa",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2rTo8KIkBTFjQS7VvaKYQ4",
+              "profile": {
+                "name": "W&W"
+              },
+              "uri": "spotify:artist:2rTo8KIkBTFjQS7VvaKYQ4",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebcd0b11921c212ccaa2c74e77",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178cd0b11921c212ccaa2c74e77",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174cd0b11921c212ccaa2c74e77",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0CbeG1224FS58EUx4tPevZ",
+              "profile": {
+                "name": "Timmy Trumpet"
+              },
+              "uri": "spotify:artist:0CbeG1224FS58EUx4tPevZ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb82ac9eee4c8a5f57412b4821",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17882ac9eee4c8a5f57412b4821",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517482ac9eee4c8a5f57412b4821",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5CVwY7MrkxGF1aM4f1u6Xk",
+              "profile": {
+                "name": "Robert Falcon"
+              },
+              "uri": "spotify:artist:5CVwY7MrkxGF1aM4f1u6Xk",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebc09b9412e0486c56e2746661",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178c09b9412e0486c56e2746661",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174c09b9412e0486c56e2746661",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "13qjHQyFpjR48hBIbPrwMx",
+              "profile": {
+                "name": "DJSM"
+              },
+              "uri": "spotify:artist:13qjHQyFpjR48hBIbPrwMx",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb19f07340ce9dda592e620411",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17819f07340ce9dda592e620411",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517419f07340ce9dda592e620411",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5yczwlOmRZG3wUEtvLiGBg",
+              "profile": {
+                "name": "Braaheim"
+              },
+              "uri": "spotify:artist:5yczwlOmRZG3wUEtvLiGBg",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb8f58774f4dd5f1881c80849f",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1788f58774f4dd5f1881c80849f",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051748f58774f4dd5f1881c80849f",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2DYDFBqoaBP2i9XrTGpOgF",
+              "profile": {
+                "name": "Naeleck"
+              },
+              "uri": "spotify:artist:2DYDFBqoaBP2i9XrTGpOgF",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebb6b8aff1c533e9873b17e312",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178b6b8aff1c533e9873b17e312",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174b6b8aff1c533e9873b17e312",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2zC8RU0p5FvJeCPPLVBR8K",
+              "profile": {
+                "name": "Rudeejay"
+              },
+              "uri": "spotify:artist:2zC8RU0p5FvJeCPPLVBR8K",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb3571e67a4e0b67d30a6479c7",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1783571e67a4e0b67d30a6479c7",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051743571e67a4e0b67d30a6479c7",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4ugGMtXC28CVR5hlYJy9wV",
+              "profile": {
+                "name": "Luciana"
+              },
+              "uri": "spotify:artist:4ugGMtXC28CVR5hlYJy9wV",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb088ffe532a445632b920f52a",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178088ffe532a445632b920f52a",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174088ffe532a445632b920f52a",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0l6LU5NRvLTVeRDJZznwLX",
+              "profile": {
+                "name": "Ava Silver"
+              },
+              "uri": "spotify:artist:0l6LU5NRvLTVeRDJZznwLX",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb395c43210b9ef9813e5e1b46",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178395c43210b9ef9813e5e1b46",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174395c43210b9ef9813e5e1b46",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0e3qT2AqBNTqmo0d5OMzd6",
+              "profile": {
+                "name": "Mairee"
+              },
+              "uri": "spotify:artist:0e3qT2AqBNTqmo0d5OMzd6",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebbca8e0965d8a11e8ccb6e9f4",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178bca8e0965d8a11e8ccb6e9f4",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174bca8e0965d8a11e8ccb6e9f4",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3rmYE7edorDWoKVPGk9iLZ",
+              "profile": {
+                "name": "Wasback"
+              },
+              "uri": "spotify:artist:3rmYE7edorDWoKVPGk9iLZ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb36a934ccb3e4b28af0304635",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17836a934ccb3e4b28af0304635",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517436a934ccb3e4b28af0304635",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "totalCount": 40
+        }
+      },
+      "relatedVideos": {
+        "__typename": "RelatedVideoPage",
+        "items": [],
+        "totalCount": 0
+      },
+      "saved": false,
+      "sharingInfo": {
+        "shareId": "7I7p69LXSP-F63YUvfPxwA",
+        "shareUrl": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8?si=7I7p69LXSP-F63YUvfPxwA"
+      },
+      "stats": {
+        "followers": 761034,
+        "monthlyListeners": 2933784,
+        "topCities": {
+          "items": [
+            {
+              "city": "Hamburg",
+              "country": "DE",
+              "numberOfListeners": 62074,
+              "region": "HH"
+            },
+            {
+              "city": "Amsterdam",
+              "country": "NL",
+              "numberOfListeners": 47791,
+              "region": "NH"
+            },
+            {
+              "city": "Munich",
+              "country": "DE",
+              "numberOfListeners": 43212,
+              "region": "BY"
+            },
+            {
+              "city": "Berlin",
+              "country": "DE",
+              "numberOfListeners": 41438,
+              "region": "BE"
+            },
+            {
+              "city": "Brussels",
+              "country": "BE",
+              "numberOfListeners": 41141,
+              "region": "BRU"
+            }
+          ]
+        },
+        "worldRank": 0
+      },
+      "uri": "spotify:artist:6xQvQwZQQuq9R3TdPNbcR8",
+      "visualIdentity": {
+        "wideFullBleedImage": {
+          "__typename": "VisualIdentityImage",
+          "extractedColorSet": {
+            "encoreBaseSetTextColor": {
+              "alpha": 255,
+              "blue": 182,
+              "green": 207,
+              "red": 61
+            },
+            "highContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 77,
+                "green": 93,
+                "red": 0
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 44,
+                "green": 57,
+                "red": 0
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 200,
+                "green": 226,
+                "red": 94
+              }
+            },
+            "higherContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 46,
+                "green": 60,
+                "red": 0
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 79,
+                "green": 95,
+                "red": 43
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 96,
+                "green": 215,
+                "red": 30
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 200,
+                "green": 226,
+                "red": 94
+              }
+            },
+            "minContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 147,
+                "green": 171,
+                "red": 0
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 121,
+                "green": 144,
+                "red": 0
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              }
+            }
+          }
+        }
+      },
+      "visuals": {
+        "avatarImage": {
+          "extractedColors": {
+            "colorRaw": {
+              "hex": "#E0A000"
+            }
+          },
+          "sources": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb06d7ff8a53e228bb7131bb34",
+              "width": 640
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f17806d7ff8a53e228bb7131bb34",
+              "width": 160
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab6761610000517406d7ff8a53e228bb7131bb34",
+              "width": 320
+            }
+          ]
+        },
+        "gallery": {
+          "items": [
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4836013f62a6e2563e31b3c71",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4dd305647e34bb20a284f9dcd",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd467329a17bbf16c65e2441825",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4cf76e32c7daecb0771d2834a",
+                  "width": 640
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "watchFeedEntrypoint": null
+    }
+  },
+  "extensions": {}
+}

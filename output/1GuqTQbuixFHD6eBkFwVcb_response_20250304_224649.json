@@ -1,0 +1,4434 @@
+{
+  "data": {
+    "artistUnion": {
+      "__typename": "Artist",
+      "discography": {
+        "albums": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2020 Sammy Virji",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2020 Sammy Virji",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02da9716ed2632a8486ffa9132",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851da9716ed2632a8486ffa9132",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273da9716ed2632a8486ffa9132",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 8,
+                      "month": 5,
+                      "precision": "DAY",
+                      "year": 2020
+                    },
+                    "id": "01Jt1V19gcHf61oveo8RZV",
+                    "label": "Sammy Virji",
+                    "name": "Spice Up My Life",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "1tbaw1XXTmeszPogu1D4CA",
+                      "shareUrl": "https://open.spotify.com/album/01Jt1V19gcHf61oveo8RZV?si=1tbaw1XXTmeszPogu1D4CA"
+                    },
+                    "tracks": {
+                      "totalCount": 13
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:01Jt1V19gcHf61oveo8RZV"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 1
+        },
+        "compilations": {
+          "items": [],
+          "totalCount": 0
+        },
+        "latest": {
+          "copyright": {
+            "items": [
+              {
+                "text": "\u00a9 2025 Sammy Virji, under exclusive licence to Universal Music Operations Limited",
+                "type": "C"
+              },
+              {
+                "text": "\u2117 2025 Sammy Virji, under exclusive licence to Universal Music Operations Limited",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02f4125c8340abd3bfffbe9edf",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851f4125c8340abd3bfffbe9edf",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f4125c8340abd3bfffbe9edf",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 14,
+            "month": 2,
+            "precision": "DAY",
+            "year": 2025
+          },
+          "id": "2qcjJEhyv2SCJOphfOIGZ3",
+          "label": "Capitol Records UK",
+          "name": "I Guess We\u2019re Not The Same",
+          "playability": {
+            "playable": true,
+            "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+            "shareId": "9Au4tRjrS16XATcdq-ymog",
+            "shareUrl": "https://open.spotify.com/album/2qcjJEhyv2SCJOphfOIGZ3?si=9Au4tRjrS16XATcdq-ymog"
+          },
+          "tracks": {
+            "totalCount": 1
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:2qcjJEhyv2SCJOphfOIGZ3"
+        },
+        "popularReleasesAlbums": {
+          "items": [
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2023 Sammy Virji, under exclusive licence to Universal Music Operations Limited",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2023 Sammy Virji, under exclusive licence to Universal Music Operations Limited",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d5b8fa0ff5dee9da54847694",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d5b8fa0ff5dee9da54847694",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d5b8fa0ff5dee9da54847694",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 3,
+                "month": 11,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "628CN0UzuPsstc678cQ5Sn",
+              "label": "Positiva",
+              "name": "If U Need It",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "jnJxwhVRRiGwZFdfFpO3zw",
+                "shareUrl": "https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn?si=jnJxwhVRRiGwZFdfFpO3zw"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:628CN0UzuPsstc678cQ5Sn"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2024 Black Book Records, LLC, under exclusive license to UMG Recordings, Inc.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2024 Black Book Records, LLC, under exclusive license to UMG Recordings, Inc.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f3b42c0ca1c479b251e1b393",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f3b42c0ca1c479b251e1b393",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f3b42c0ca1c479b251e1b393",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 26,
+                "month": 4,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "7ddG8bsJLWEgVNONjhnT8z",
+              "label": "Black Book Records/Astralwerks",
+              "name": "Summertime Blues (feat. Nathan Nicholson)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "U1qMx9bXTN--fCocWRVOGw",
+                "shareUrl": "https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z?si=U1qMx9bXTN--fCocWRVOGw"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:7ddG8bsJLWEgVNONjhnT8z"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2025 Sammy Virji, under exclusive licence to Universal Music Operations Limited",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2025 Sammy Virji, under exclusive licence to Universal Music Operations Limited",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f4125c8340abd3bfffbe9edf",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f4125c8340abd3bfffbe9edf",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f4125c8340abd3bfffbe9edf",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 14,
+                "month": 2,
+                "precision": "DAY",
+                "year": 2025
+              },
+              "id": "2qcjJEhyv2SCJOphfOIGZ3",
+              "label": "Capitol Records UK",
+              "name": "I Guess We\u2019re Not The Same",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "9Au4tRjrS16XATcdq-ymog",
+                "shareUrl": "https://open.spotify.com/album/2qcjJEhyv2SCJOphfOIGZ3?si=9Au4tRjrS16XATcdq-ymog"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:2qcjJEhyv2SCJOphfOIGZ3"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2024 Sammy Virji, under exclusive licence to Universal Music Operations Limited",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2024 Sammy Virji, under exclusive licence to Universal Music Operations Limited",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0262278363545fa2de7446156e",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485162278363545fa2de7446156e",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27362278363545fa2de7446156e",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 15,
+                "month": 11,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "2BtrCfwSWpUByzO4leFHJB",
+              "label": "Capitol Records UK",
+              "name": "Damager",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "P3ZPw7ofS4SoqtQFGFaYsw",
+                "shareUrl": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB?si=P3ZPw7ofS4SoqtQFGFaYsw"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:2BtrCfwSWpUByzO4leFHJB"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2018 Sammy Virji",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2018 Sammy Virji",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e021cc9594eb4e8e4cc6aabe090",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048511cc9594eb4e8e4cc6aabe090",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731cc9594eb4e8e4cc6aabe090",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 12,
+                "month": 12,
+                "precision": "DAY",
+                "year": 2018
+              },
+              "id": "6v9a58ojj3EBjHg4gfDNZY",
+              "label": "Sammy Virji",
+              "name": "Find My Way Home",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "M2EqyHnlQ3K09WrNBNvxrA",
+                "shareUrl": "https://open.spotify.com/album/6v9a58ojj3EBjHg4gfDNZY?si=M2EqyHnlQ3K09WrNBNvxrA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:6v9a58ojj3EBjHg4gfDNZY"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2023 Sammy Virji, under exclusive licence to Universal Music Operations Limited",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2023 Sammy Virji, under exclusive licence to Universal Music Operations Limited",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023edbd638d73631f434fe755a",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513edbd638d73631f434fe755a",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733edbd638d73631f434fe755a",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 30,
+                "month": 6,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "4BitmFpa4h4GaGNvtnsQw3",
+              "label": "Positiva",
+              "name": "Shella Verse",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "rM2nZfS8Q7moCrSTF6jTFw",
+                "shareUrl": "https://open.spotify.com/album/4BitmFpa4h4GaGNvtnsQw3?si=rM2nZfS8Q7moCrSTF6jTFw"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:4BitmFpa4h4GaGNvtnsQw3"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2023 Unknown T, under exclusive licence to Universal Music Operations Limited",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2023 Unknown T, under exclusive licence to Universal Music Operations Limited",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0245c1bba61509d3d4a7f6eb05",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485145c1bba61509d3d4a7f6eb05",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27345c1bba61509d3d4a7f6eb05",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 20,
+                "month": 10,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "2EpS6fVyBu0gxLlOYdytSN",
+              "label": "Universal-Island Records Ltd.",
+              "name": "Goodums (Sammy Virji Remix)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "p3nYbdJgRTajb3ADfhh9Rw",
+                "shareUrl": "https://open.spotify.com/album/2EpS6fVyBu0gxLlOYdytSN?si=p3nYbdJgRTajb3ADfhh9Rw"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:2EpS6fVyBu0gxLlOYdytSN"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2022 piri & tommy, under exclusive licence to Universal Music Operations Limited",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2022 piri & tommy, under exclusive licence to Universal Music Operations Limited",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c393db47d040a405ddfa9e46",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c393db47d040a405ddfa9e46",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c393db47d040a405ddfa9e46",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 23,
+                "month": 9,
+                "precision": "DAY",
+                "year": 2022
+              },
+              "id": "1D9kwF1HPB6hMu8SXwbZgU",
+              "label": "Polydor Records",
+              "name": "on & on (Sammy Virji Remix)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "WLSPtgsmSu64Z8kvvCdnQQ",
+                "shareUrl": "https://open.spotify.com/album/1D9kwF1HPB6hMu8SXwbZgU?si=WLSPtgsmSu64Z8kvvCdnQQ"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1D9kwF1HPB6hMu8SXwbZgU"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2023 Technicolour",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2023 Technicolour",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02271b4573d5f06c883282993d",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851271b4573d5f06c883282993d",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273271b4573d5f06c883282993d",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 31,
+                "month": 3,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "1NR1qk73skJHCcxkXUTRCh",
+              "label": "Technicolour",
+              "name": "Peach",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "eArPk_8KTxWYFE6FpYXPbg",
+                "shareUrl": "https://open.spotify.com/album/1NR1qk73skJHCcxkXUTRCh?si=eArPk_8KTxWYFE6FpYXPbg"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1NR1qk73skJHCcxkXUTRCh"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2024 Joy Anonymous, under exclusive license to Universal Music Operations Limited",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2024 Joy Anonymous, under exclusive license to Universal Music Operations Limited",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b6cdf84c5d0150806d7a338e",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b6cdf84c5d0150806d7a338e",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b6cdf84c5d0150806d7a338e",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 17,
+                "month": 9,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "1pTMDMH44oAjkBArRruE3g",
+              "label": "Universal-Island Records Ltd.",
+              "name": "JOY (By My Side)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "f4D8VX0JTtybMJmHObr02Q",
+                "shareUrl": "https://open.spotify.com/album/1pTMDMH44oAjkBArRruE3g?si=f4D8VX0JTtybMJmHObr02Q"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1pTMDMH44oAjkBArRruE3g"
+            }
+          ],
+          "totalCount": 20
+        },
+        "singles": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2025 Sammy Virji, under exclusive licence to Universal Music Operations Limited",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2025 Sammy Virji, under exclusive licence to Universal Music Operations Limited",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02f4125c8340abd3bfffbe9edf",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851f4125c8340abd3bfffbe9edf",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273f4125c8340abd3bfffbe9edf",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 14,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "2qcjJEhyv2SCJOphfOIGZ3",
+                    "label": "Capitol Records UK",
+                    "name": "I Guess We\u2019re Not The Same",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "9Au4tRjrS16XATcdq-ymog",
+                      "shareUrl": "https://open.spotify.com/album/2qcjJEhyv2SCJOphfOIGZ3?si=9Au4tRjrS16XATcdq-ymog"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:2qcjJEhyv2SCJOphfOIGZ3"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 Sammy Virji, under exclusive licence to Universal Music Operations Limited",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 Sammy Virji, under exclusive licence to Universal Music Operations Limited",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0262278363545fa2de7446156e",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485162278363545fa2de7446156e",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27362278363545fa2de7446156e",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 15,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "2BtrCfwSWpUByzO4leFHJB",
+                    "label": "Capitol Records UK",
+                    "name": "Damager",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "P3ZPw7ofS4SoqtQFGFaYsw",
+                      "shareUrl": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB?si=P3ZPw7ofS4SoqtQFGFaYsw"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:2BtrCfwSWpUByzO4leFHJB"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 Joy Anonymous, under exclusive license to Universal Music Operations Limited",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 Joy Anonymous, under exclusive license to Universal Music Operations Limited",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b6cdf84c5d0150806d7a338e",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b6cdf84c5d0150806d7a338e",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b6cdf84c5d0150806d7a338e",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 17,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "1pTMDMH44oAjkBArRruE3g",
+                    "label": "Universal-Island Records Ltd.",
+                    "name": "JOY (By My Side)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "f4D8VX0JTtybMJmHObr02Q",
+                      "shareUrl": "https://open.spotify.com/album/1pTMDMH44oAjkBArRruE3g?si=f4D8VX0JTtybMJmHObr02Q"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1pTMDMH44oAjkBArRruE3g"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Sammy Virji",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Sammy Virji",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0246d4e7d7e7d99b6581b79e5f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485146d4e7d7e7d99b6581b79e5f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27346d4e7d7e7d99b6581b79e5f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 6,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "7tSOUKrLrPRjmNWoGhNjJm",
+                    "label": "Sammy Virji Releases",
+                    "name": "Bogeyman",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "fHv4eL0wS9Ona7_8adTu6A",
+                      "shareUrl": "https://open.spotify.com/album/7tSOUKrLrPRjmNWoGhNjJm?si=fHv4eL0wS9Ona7_8adTu6A"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7tSOUKrLrPRjmNWoGhNjJm"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 Sammy Virji, under exclusive licence to Universal Music Operations Limited",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 Sammy Virji, under exclusive licence to Universal Music Operations Limited",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e027b86771ff60ef1d3afcce8b0",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048517b86771ff60ef1d3afcce8b0",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2737b86771ff60ef1d3afcce8b0",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 9,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "47DHbEtk74c6O5cvvJcAnC",
+                    "label": "Capitol Records UK / Polydor Label Group",
+                    "name": "If U Need It (Instrumental)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "NQEBBIA9QQWU5J6Qec-FZg",
+                      "shareUrl": "https://open.spotify.com/album/47DHbEtk74c6O5cvvJcAnC?si=NQEBBIA9QQWU5J6Qec-FZg"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:47DHbEtk74c6O5cvvJcAnC"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 Black Book Records, LLC, under exclusive license to UMG Recordings, Inc.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 Black Book Records, LLC, under exclusive license to UMG Recordings, Inc.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02f3b42c0ca1c479b251e1b393",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851f3b42c0ca1c479b251e1b393",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273f3b42c0ca1c479b251e1b393",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 26,
+                      "month": 4,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "7ddG8bsJLWEgVNONjhnT8z",
+                    "label": "Black Book Records/Astralwerks",
+                    "name": "Summertime Blues (feat. Nathan Nicholson)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "U1qMx9bXTN--fCocWRVOGw",
+                      "shareUrl": "https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z?si=U1qMx9bXTN--fCocWRVOGw"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7ddG8bsJLWEgVNONjhnT8z"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 Deadbeats",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 Deadbeats",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ada9df01a72b1cb9d1f55149",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ada9df01a72b1cb9d1f55149",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ada9df01a72b1cb9d1f55149",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 9,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "2xgQT3uMk4sAalIAEsVG8n",
+                    "label": "Deadbeats",
+                    "name": "Counting (Sammy Virji Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "V5HYibTIQxCwahqBEZGq6w",
+                      "shareUrl": "https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n?si=V5HYibTIQxCwahqBEZGq6w"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:2xgQT3uMk4sAalIAEsVG8n"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 Sammy Virji, under exclusive licence to Universal Music Operations Limited",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 Sammy Virji, under exclusive licence to Universal Music Operations Limited",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0271d653cda3f7abbcd754c2ed",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485171d653cda3f7abbcd754c2ed",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27371d653cda3f7abbcd754c2ed",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 19,
+                      "month": 1,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "4UPgkPHybekr5XezWaG8fE",
+                    "label": "Positiva",
+                    "name": "Moonlight",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "d4oQCu2TR0aPXeDAElEUxA",
+                      "shareUrl": "https://open.spotify.com/album/4UPgkPHybekr5XezWaG8fE?si=d4oQCu2TR0aPXeDAElEUxA"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4UPgkPHybekr5XezWaG8fE"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(C) 2023 Funfair Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "(P) 2023 Funfair Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02895c1b2bc3161fdbf2c44ef4",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851895c1b2bc3161fdbf2c44ef4",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273895c1b2bc3161fdbf2c44ef4",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 1,
+                      "month": 12,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "02oLtxGI6xxN68iVnnDR6W",
+                    "label": "Funfair Records",
+                    "name": "Hot In Here",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "OVHf4m8UR1SRHgg0fSEVEQ",
+                      "shareUrl": "https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W?si=OVHf4m8UR1SRHgg0fSEVEQ"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:02oLtxGI6xxN68iVnnDR6W"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2023 Sammy Virji, under exclusive licence to Universal Music Operations Limited",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2023 Sammy Virji, under exclusive licence to Universal Music Operations Limited",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d5b8fa0ff5dee9da54847694",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d5b8fa0ff5dee9da54847694",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d5b8fa0ff5dee9da54847694",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 3,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "628CN0UzuPsstc678cQ5Sn",
+                    "label": "Positiva",
+                    "name": "If U Need It",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "jnJxwhVRRiGwZFdfFpO3zw",
+                      "shareUrl": "https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn?si=jnJxwhVRRiGwZFdfFpO3zw"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:628CN0UzuPsstc678cQ5Sn"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 45
+        },
+        "topTracks": {
+          "items": [
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d5b8fa0ff5dee9da54847694"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851d5b8fa0ff5dee9da54847694"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d5b8fa0ff5dee9da54847694"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:628CN0UzuPsstc678cQ5Sn"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Sammy Virji"
+                      },
+                      "uri": "spotify:artist:1GuqTQbuixFHD6eBkFwVcb"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 179999
+                },
+                "id": "5CaUUACiQFEf4zR5WoeIrp",
+                "name": "If U Need It",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "65962503",
+                "uri": "spotify:track:5CaUUACiQFEf4zR5WoeIrp"
+              },
+              "uid": "08abdcee2825732e107e"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f3b42c0ca1c479b251e1b393"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851f3b42c0ca1c479b251e1b393"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f3b42c0ca1c479b251e1b393"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:7ddG8bsJLWEgVNONjhnT8z"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Chris Lake"
+                      },
+                      "uri": "spotify:artist:5Igpc9iLZ3YGtKeYfSrrOE"
+                    },
+                    {
+                      "profile": {
+                        "name": "Sammy Virji"
+                      },
+                      "uri": "spotify:artist:1GuqTQbuixFHD6eBkFwVcb"
+                    },
+                    {
+                      "profile": {
+                        "name": "Nathan Nicholson"
+                      },
+                      "uri": "spotify:artist:4q8SjmBr5X7DUmVvrnNrsd"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 251201
+                },
+                "id": "6q36Cqt2d3O5jqrQR9uXCp",
+                "name": "Summertime Blues (feat. Nathan Nicholson)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "26639719",
+                "uri": "spotify:track:6q36Cqt2d3O5jqrQR9uXCp"
+              },
+              "uid": "90d32a9198a81ba150de"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f4125c8340abd3bfffbe9edf"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851f4125c8340abd3bfffbe9edf"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f4125c8340abd3bfffbe9edf"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:2qcjJEhyv2SCJOphfOIGZ3"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Sammy Virji"
+                      },
+                      "uri": "spotify:artist:1GuqTQbuixFHD6eBkFwVcb"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 211575
+                },
+                "id": "36nYS9AwMR06ph6imdjn7J",
+                "name": "I Guess We're Not The Same",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1962066",
+                "uri": "spotify:track:36nYS9AwMR06ph6imdjn7J"
+              },
+              "uid": "0a9089f7e97d93a5d44e"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0262278363545fa2de7446156e"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485162278363545fa2de7446156e"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27362278363545fa2de7446156e"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:2BtrCfwSWpUByzO4leFHJB"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Sammy Virji"
+                      },
+                      "uri": "spotify:artist:1GuqTQbuixFHD6eBkFwVcb"
+                    },
+                    {
+                      "profile": {
+                        "name": "Interplanetary Criminal"
+                      },
+                      "uri": "spotify:artist:6uJ51uV5rYzu1MJkC4CceI"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 224591
+                },
+                "id": "7lNxQksP0anFNGEq8zsjMS",
+                "name": "Damager",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "6051345",
+                "uri": "spotify:track:7lNxQksP0anFNGEq8zsjMS"
+              },
+              "uid": "964c2d3d3f0915698ecd"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e021cc9594eb4e8e4cc6aabe090"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048511cc9594eb4e8e4cc6aabe090"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2731cc9594eb4e8e4cc6aabe090"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6v9a58ojj3EBjHg4gfDNZY"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Sammy Virji"
+                      },
+                      "uri": "spotify:artist:1GuqTQbuixFHD6eBkFwVcb"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 258858
+                },
+                "id": "1yIi7qRdybE4yY1V0YdOKG",
+                "name": "Find My Way Home",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "30793715",
+                "uri": "spotify:track:1yIi7qRdybE4yY1V0YdOKG"
+              },
+              "uid": "4ad7b4a7142bbbc34ecb"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e023edbd638d73631f434fe755a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048513edbd638d73631f434fe755a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2733edbd638d73631f434fe755a"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:4BitmFpa4h4GaGNvtnsQw3"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Sammy Virji"
+                      },
+                      "uri": "spotify:artist:1GuqTQbuixFHD6eBkFwVcb"
+                    },
+                    {
+                      "profile": {
+                        "name": "Flowdan"
+                      },
+                      "uri": "spotify:artist:07CimrZi5vs9iEao47TNQ4"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "EXPLICIT"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 163934
+                },
+                "id": "2aoWvGMW6W40WelevwsOUx",
+                "name": "Shella Verse",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "17339499",
+                "uri": "spotify:track:2aoWvGMW6W40WelevwsOUx"
+              },
+              "uid": "71b6c7a488bdce75e71a"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0245c1bba61509d3d4a7f6eb05"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485145c1bba61509d3d4a7f6eb05"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27345c1bba61509d3d4a7f6eb05"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:2EpS6fVyBu0gxLlOYdytSN"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Unknown T"
+                      },
+                      "uri": "spotify:artist:3iAhNz3e31lBuXYOsqGsf3"
+                    },
+                    {
+                      "profile": {
+                        "name": "Sammy Virji"
+                      },
+                      "uri": "spotify:artist:1GuqTQbuixFHD6eBkFwVcb"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "EXPLICIT"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 184364
+                },
+                "id": "0SLedTMdKihqLsR6CGPAfD",
+                "name": "Goodums - Sammy Virji Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "12615469",
+                "uri": "spotify:track:0SLedTMdKihqLsR6CGPAfD"
+              },
+              "uid": "7186240c8be3a18a7d12"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02c393db47d040a405ddfa9e46"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851c393db47d040a405ddfa9e46"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273c393db47d040a405ddfa9e46"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:1D9kwF1HPB6hMu8SXwbZgU"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "piri & tommy"
+                      },
+                      "uri": "spotify:artist:2U6J9Q89i1TNhesKreFD65"
+                    },
+                    {
+                      "profile": {
+                        "name": "Sammy Virji"
+                      },
+                      "uri": "spotify:artist:1GuqTQbuixFHD6eBkFwVcb"
+                    },
+                    {
+                      "profile": {
+                        "name": "Tommy Villiers"
+                      },
+                      "uri": "spotify:artist:4M4KGWKy7pSQ5HaJNCutBN"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 131958
+                },
+                "id": "6w7eHZFNdOpg2teEBCqjy2",
+                "name": "on & on - Sammy Virji Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "10655148",
+                "uri": "spotify:track:6w7eHZFNdOpg2teEBCqjy2"
+              },
+              "uid": "6010bd374bc519589854"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02271b4573d5f06c883282993d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851271b4573d5f06c883282993d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273271b4573d5f06c883282993d"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:1NR1qk73skJHCcxkXUTRCh"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "salute"
+                      },
+                      "uri": "spotify:artist:1np8xozf7ATJZDi9JX8Dx5"
+                    },
+                    {
+                      "profile": {
+                        "name": "Sammy Virji"
+                      },
+                      "uri": "spotify:artist:1GuqTQbuixFHD6eBkFwVcb"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 345310
+                },
+                "id": "5cGZN0P1QnSfhCFBCHtp2N",
+                "name": "Peach",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "9420378",
+                "uri": "spotify:track:5cGZN0P1QnSfhCFBCHtp2N"
+              },
+              "uid": "5109eb80e6f2262c84be"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b6cdf84c5d0150806d7a338e"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851b6cdf84c5d0150806d7a338e"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b6cdf84c5d0150806d7a338e"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:1pTMDMH44oAjkBArRruE3g"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Joy Anonymous"
+                      },
+                      "uri": "spotify:artist:3pK4EcflBpG1Kpmjk5LK2R"
+                    },
+                    {
+                      "profile": {
+                        "name": "Sammy Virji"
+                      },
+                      "uri": "spotify:artist:1GuqTQbuixFHD6eBkFwVcb"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 222675
+                },
+                "id": "61SkRhKUIDaUG3CiP0XQU3",
+                "name": "JOY (By My Side)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "2030223",
+                "uri": "spotify:track:61SkRhKUIDaUG3CiP0XQU3"
+              },
+              "uid": "3d32a344f0cc96dd8a25"
+            }
+          ]
+        }
+      },
+      "goods": {
+        "concerts": {
+          "items": [
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Copenhagen",
+                  "name": "Pumpehuset"
+                },
+                "startDateIsoString": "2025-03-06T21:00+01:00",
+                "title": "Sammy Virji",
+                "uri": "spotify:concert:2oSGpheI5wFiNBhDiq9P0O"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Berlin",
+                  "name": "Prince Charles"
+                },
+                "startDateIsoString": "2025-03-08T23:00+01:00",
+                "title": "Sammy Virji",
+                "uri": "spotify:concert:0DaUpcjJIwo3eVy46DCj9k"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Seattle",
+                  "name": "The Showbox"
+                },
+                "startDateIsoString": "2025-04-03T21:00-07:00",
+                "title": "Sammy Virji",
+                "uri": "spotify:concert:2i3YWMmX3yQw8Oi2Z9WFra"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Seattle",
+                  "name": "The Showbox"
+                },
+                "startDateIsoString": "2025-04-04T21:00-07:00",
+                "title": "Sammy Virji",
+                "uri": "spotify:concert:6gRUQEBA3ImJDfnyWaUJI7"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Vail",
+                  "name": "Ford Field"
+                },
+                "startDateIsoString": "2025-04-05T17:30-06:00",
+                "title": "Sammy Virji",
+                "uri": "spotify:concert:0aNu248Ay9MeCAM8BAdpXK"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Las Vegas",
+                  "name": "LIV Las Vegas"
+                },
+                "startDateIsoString": "2025-04-18T22:30-07:00",
+                "title": "Sammy Virji",
+                "uri": "spotify:concert:4nZo2sqMPKYbfrZPUUWvKi"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Rotterdam",
+                  "name": "Onderzeebootloods"
+                },
+                "startDateIsoString": "2025-05-02T16:00+02:00",
+                "title": "Fatboy Slim, Ryan Elliott, Four Tet, David Vunk, Benny Rodrigues, Blawan, Samuel Deep, Call Super, Mella Dee, Purple Disco Machine, Dan Shake, Chris Stussy, Peach, Sally C, SHERELLE, Sammy Virji, Chlo\u00e9 Robinson, BAKEY, Cincity, Hagop Tchaparian, salute",
+                "uri": "spotify:concert:0bAaZu3mtAjzKh9wDXrtUu"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Pernis",
+                  "name": "Rotterdamsche Droogdok Maatschappij (RDM)"
+                },
+                "startDateIsoString": "2025-05-02T20:00+02:00",
+                "title": "Sammy Virji",
+                "uri": "spotify:concert:38F6notgkZRtvkH8EWkdJ8"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Rotterdam",
+                  "name": "De Onderzeebootloods"
+                },
+                "startDateIsoString": "2025-05-03T20:00+02:00",
+                "title": "Four Tet, Sammy Virji, salute, Blawan, SHERELLE, BAKEY, Hagop Tchaparian",
+                "uri": "spotify:concert:0gZdrMV3Kfc7BEPFjOB6gh"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Dallas",
+                  "name": "SILO"
+                },
+                "startDateIsoString": "2025-05-16T21:00-05:00",
+                "title": "Sammy Virji",
+                "uri": "spotify:concert:5BGEovlr22MAi2HNpNNq7E"
+              }
+            }
+          ],
+          "totalCount": 27
+        },
+        "merch": {
+          "items": []
+        }
+      },
+      "headerImage": {
+        "data": {
+          "__typename": "ImageV2",
+          "sources": [
+            {
+              "maxHeight": 640,
+              "maxWidth": 1494,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67618600000194a573aa17ceaf50fea33f8a8a"
+            },
+            {
+              "maxHeight": 1080,
+              "maxWidth": 1920,
+              "url": "https://i2o.scdn.co/image/ab67618600001667a573aa17ceaf50fea33f8a8a"
+            },
+            {
+              "maxHeight": 641,
+              "maxWidth": 1495,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67618600009d80a573aa17ceaf50fea33f8a8a"
+            },
+            {
+              "maxHeight": 1140,
+              "maxWidth": 2660,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab6761860000eab1a573aa17ceaf50fea33f8a8a"
+            }
+          ]
+        }
+      },
+      "id": "1GuqTQbuixFHD6eBkFwVcb",
+      "preRelease": null,
+      "profile": {
+        "biography": {
+          "text": null,
+          "type": "BIOGRAPHY"
+        },
+        "externalLinks": {
+          "items": [
+            {
+              "name": "INSTAGRAM",
+              "url": "https://instagram.com/sammyvirji/"
+            }
+          ]
+        },
+        "name": "Sammy Virji",
+        "pinnedItem": null,
+        "playlistsV2": {
+          "items": [],
+          "totalCount": 0
+        },
+        "verified": true
+      },
+      "relatedContent": {
+        "appearsOn": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Hamdi"
+                          },
+                          "uri": "spotify:artist:7vvicoei9BbKpZix8qSeLg"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0296ad9a4fd5f177eb09988c72",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485196ad9a4fd5f177eb09988c72",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27396ad9a4fd5f177eb09988c72",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "6w5ZuB2dNarYW86DZ1LhWM",
+                    "name": "Counting Remixes",
+                    "sharingInfo": {
+                      "shareId": "RbtSfomHRqCMTFN2h6NFIg",
+                      "shareUrl": "https://open.spotify.com/album/6w5ZuB2dNarYW86DZ1LhWM?si=RbtSfomHRqCMTFN2h6NFIg"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:6w5ZuB2dNarYW86DZ1LhWM"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Conducta"
+                          },
+                          "uri": "spotify:artist:1lMcg4Y7nW5hHgIVsN9Shn"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02443097f140426b9397d5b63b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851443097f140426b9397d5b63b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273443097f140426b9397d5b63b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "6vJ5kjSmxUvdxBhQS2Cigl",
+                    "name": "The Kiwi Sound (DJ Mix)",
+                    "sharingInfo": {
+                      "shareId": "PmGKo57yQZmALU5czKzQSg",
+                      "shareUrl": "https://open.spotify.com/album/6vJ5kjSmxUvdxBhQS2Cigl?si=PmGKo57yQZmALU5czKzQSg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6vJ5kjSmxUvdxBhQS2Cigl"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02970139cb90eecd458d21cdb3",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851970139cb90eecd458d21cdb3",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273970139cb90eecd458d21cdb3",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2025
+                    },
+                    "id": "3LQZLfZP8qBxyhrShkBGAi",
+                    "name": "EDM Party 2025",
+                    "sharingInfo": {
+                      "shareId": "v90FkfKPR8qR26hV7F_8ow",
+                      "shareUrl": "https://open.spotify.com/album/3LQZLfZP8qBxyhrShkBGAi?si=v90FkfKPR8qR26hV7F_8ow"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3LQZLfZP8qBxyhrShkBGAi"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02adb1b0245037ca8728004131",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851adb1b0245037ca8728004131",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273adb1b0245037ca8728004131",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "2xCALy7IGQrUjcvshGRpp8",
+                    "name": "Pure Bassline Anthems - Mixed by DJ Q & Jamie Duggan",
+                    "sharingInfo": {
+                      "shareId": "vftoj20JR6ilepscOF87Nw",
+                      "shareUrl": "https://open.spotify.com/album/2xCALy7IGQrUjcvshGRpp8?si=vftoj20JR6ilepscOF87Nw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:2xCALy7IGQrUjcvshGRpp8"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02dac52c51f44cd65eadbbb6fa",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851dac52c51f44cd65eadbbb6fa",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273dac52c51f44cd65eadbbb6fa",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "5G7JzPgCBTkHrQQh2tPGDG",
+                    "name": "Ripe 'n' Ready (A Kiwi Rekords Sampler)",
+                    "sharingInfo": {
+                      "shareId": "Ca-Qe0LqRWyRV3X-rAw1Jw",
+                      "shareUrl": "https://open.spotify.com/album/5G7JzPgCBTkHrQQh2tPGDG?si=Ca-Qe0LqRWyRV3X-rAw1Jw"
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:5G7JzPgCBTkHrQQh2tPGDG"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Joy Anonymous"
+                          },
+                          "uri": "spotify:artist:3pK4EcflBpG1Kpmjk5LK2R"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c62d35f111d0138b0f69db2e",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c62d35f111d0138b0f69db2e",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c62d35f111d0138b0f69db2e",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "4IozdS021KNnLFZse14reT",
+                    "name": "Joyous People (South East Corner)",
+                    "sharingInfo": {
+                      "shareId": "iTydIiYDRJawc2Mf91itdw",
+                      "shareUrl": "https://open.spotify.com/album/4IozdS021KNnLFZse14reT?si=iTydIiYDRJawc2Mf91itdw"
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:4IozdS021KNnLFZse14reT"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "salute"
+                          },
+                          "uri": "spotify:artist:1np8xozf7ATJZDi9JX8Dx5"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029dca4e89da488f29d87dfce0",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519dca4e89da488f29d87dfce0",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739dca4e89da488f29d87dfce0",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "7r2DO2kRoV44v9hdfgAQKr",
+                    "name": "Shield",
+                    "sharingInfo": {
+                      "shareId": "07YMLeIOSkq1JdmO6ckMeg",
+                      "shareUrl": "https://open.spotify.com/album/7r2DO2kRoV44v9hdfgAQKr?si=07YMLeIOSkq1JdmO6ckMeg"
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:7r2DO2kRoV44v9hdfgAQKr"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "AC Slater"
+                          },
+                          "uri": "spotify:artist:6EqFMCnVGBRNmwPlk2f3Uc"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02addebb2e4862626bc97f4ffc",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851addebb2e4862626bc97f4ffc",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273addebb2e4862626bc97f4ffc",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "6iGlAZpwZURMd8FTk7QbPh",
+                    "name": "Hi8 Remixed",
+                    "sharingInfo": {
+                      "shareId": "q22kLALoRi26022DcigNvQ",
+                      "shareUrl": "https://open.spotify.com/album/6iGlAZpwZURMd8FTk7QbPh?si=q22kLALoRi26022DcigNvQ"
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:6iGlAZpwZURMd8FTk7QbPh"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02fc5ee869ebc2d1b610cae70a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851fc5ee869ebc2d1b610cae70a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273fc5ee869ebc2d1b610cae70a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "79NqhtipO3hY4gEuxrzw56",
+                    "name": "House \u00c9t\u00e9 2024",
+                    "sharingInfo": {
+                      "shareId": "_iRzQOUWRe6JNmxUkjQAjA",
+                      "shareUrl": "https://open.spotify.com/album/79NqhtipO3hY4gEuxrzw56?si=_iRzQOUWRe6JNmxUkjQAjA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:79NqhtipO3hY4gEuxrzw56"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Moksi"
+                          },
+                          "uri": "spotify:artist:5jm3x1qIibWdKSEMw2G011"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d169acd23ef2729d40c9e6ae",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d169acd23ef2729d40c9e6ae",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d169acd23ef2729d40c9e6ae",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "2rnz4VYrK2LAi17iAoH4hi",
+                    "name": "The Return of House Music (Remix Pack 1)",
+                    "sharingInfo": {
+                      "shareId": "IAFQucYRTraaxLPBG78oLg",
+                      "shareUrl": "https://open.spotify.com/album/2rnz4VYrK2LAi17iAoH4hi?si=IAFQucYRTraaxLPBG78oLg"
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:2rnz4VYrK2LAi17iAoH4hi"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Aluna"
+                          },
+                          "uri": "spotify:artist:5ITI6SEoUZMIXXkzCfr4oE"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021ef29dbb5674dba7a71c56a4",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511ef29dbb5674dba7a71c56a4",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731ef29dbb5674dba7a71c56a4",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "2E98VQYa7nlKyPufEmHENP",
+                    "name": "Renaissance (Kiwi Remixes)",
+                    "sharingInfo": {
+                      "shareId": "CUJsm7tES06aIOIlkQdnGQ",
+                      "shareUrl": "https://open.spotify.com/album/2E98VQYa7nlKyPufEmHENP?si=CUJsm7tES06aIOIlkQdnGQ"
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:2E98VQYa7nlKyPufEmHENP"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0257ff7b720b4dfeaa9698c894",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485157ff7b720b4dfeaa9698c894",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27357ff7b720b4dfeaa9698c894",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "0qKHBcqA6p4LhFoZ7F5xPg",
+                    "name": "Supply Drop, Vol. 1",
+                    "sharingInfo": {
+                      "shareId": "fmYQdarQTBmHjnA5lcE9nw",
+                      "shareUrl": "https://open.spotify.com/album/0qKHBcqA6p4LhFoZ7F5xPg?si=fmYQdarQTBmHjnA5lcE9nw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:0qKHBcqA6p4LhFoZ7F5xPg"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "NOISY"
+                          },
+                          "uri": "spotify:artist:5bt1iZVk3VV1LxRL4wzZ9F"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024e9bbdc0ee9a2b2e18628336",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514e9bbdc0ee9a2b2e18628336",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734e9bbdc0ee9a2b2e18628336",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "2Le6cq7l8xVgh04U5EQXYq",
+                    "name": "Remixes",
+                    "sharingInfo": {
+                      "shareId": "GC13uDejR4yjlMceBvYnEg",
+                      "shareUrl": "https://open.spotify.com/album/2Le6cq7l8xVgh04U5EQXYq?si=GC13uDejR4yjlMceBvYnEg"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:2Le6cq7l8xVgh04U5EQXYq"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e022446ea9886175be9a523e9e9",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048512446ea9886175be9a523e9e9",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2732446ea9886175be9a523e9e9",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2017
+                    },
+                    "id": "3i0xiEkEQ2n77aUwYKFJDn",
+                    "name": "Chip Shop, Vol. 2",
+                    "sharingInfo": {
+                      "shareId": "GOMnXUKjQW61hj5QNOYZIw",
+                      "shareUrl": "https://open.spotify.com/album/3i0xiEkEQ2n77aUwYKFJDn?si=GOMnXUKjQW61hj5QNOYZIw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3i0xiEkEQ2n77aUwYKFJDn"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02203eaee8d4d2fe07ca028dee",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851203eaee8d4d2fe07ca028dee",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273203eaee8d4d2fe07ca028dee",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "3otWxgX7LsN1b8RtJ9j1QU",
+                    "name": "Off Me Nut Allstars, Vol. 3",
+                    "sharingInfo": {
+                      "shareId": "vyURmurdSSCTeG6xl1ADqg",
+                      "shareUrl": "https://open.spotify.com/album/3otWxgX7LsN1b8RtJ9j1QU?si=vyURmurdSSCTeG6xl1ADqg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3otWxgX7LsN1b8RtJ9j1QU"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Oppidan"
+                          },
+                          "uri": "spotify:artist:338p7qzZTDJSHJzSjIZMFK"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e022e8a93cf070b944379c4ca7a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048512e8a93cf070b944379c4ca7a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2732e8a93cf070b944379c4ca7a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "07LjREtJKlWWbYK5xmbzoA",
+                    "name": "Shapes (Oh Will) [Oppidan Remix]",
+                    "sharingInfo": {
+                      "shareId": "ejZj28cdQL-npSuDBYEy2A",
+                      "shareUrl": "https://open.spotify.com/album/07LjREtJKlWWbYK5xmbzoA?si=ejZj28cdQL-npSuDBYEy2A"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:07LjREtJKlWWbYK5xmbzoA"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02448ba008bb204de14c0de56f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851448ba008bb204de14c0de56f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273448ba008bb204de14c0de56f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "3yi87M3LUVi5TEuAxNQzl9",
+                    "name": "Chip Butty Records: Free EP Vol. 6",
+                    "sharingInfo": {
+                      "shareId": "yRgqc1iVSwKN7cFDqa-ljQ",
+                      "shareUrl": "https://open.spotify.com/album/3yi87M3LUVi5TEuAxNQzl9?si=yRgqc1iVSwKN7cFDqa-ljQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3yi87M3LUVi5TEuAxNQzl9"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "p-rallel"
+                          },
+                          "uri": "spotify:artist:0YSI1Vwzd1u7wO7p3md4qD"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e022c8737aca943c32404a1db05",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048512c8737aca943c32404a1db05",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2732c8737aca943c32404a1db05",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "01MAKVfGYCrFvHuvYUNdfd",
+                    "name": "Believe (feat. Fredwave & Jeshi) [Sammy Virji Remix]",
+                    "sharingInfo": {
+                      "shareId": "ASbfvko5QQyfpaPHJ4BSwQ",
+                      "shareUrl": "https://open.spotify.com/album/01MAKVfGYCrFvHuvYUNdfd?si=ASbfvko5QQyfpaPHJ4BSwQ"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:01MAKVfGYCrFvHuvYUNdfd"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e026aa9563de5e12c6167a9dd89",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048516aa9563de5e12c6167a9dd89",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2736aa9563de5e12c6167a9dd89",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "2GYUP1n81oaGOhgGLNGNIi",
+                    "name": "1FBSS002 (Bass)",
+                    "sharingInfo": {
+                      "shareId": "4jeEjwDVQCybd1Rddir17A",
+                      "shareUrl": "https://open.spotify.com/album/2GYUP1n81oaGOhgGLNGNIi?si=4jeEjwDVQCybd1Rddir17A"
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:2GYUP1n81oaGOhgGLNGNIi"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e026600a389c6d273e12c4db07a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048516600a389c6d273e12c4db07a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2736600a389c6d273e12c4db07a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "1m2wp4kEgGV3JzGdoMuI61",
+                    "name": "This Is Southpoint 2021",
+                    "sharingInfo": {
+                      "shareId": "ANEU9EX-T0yaelBVMLCF-w",
+                      "shareUrl": "https://open.spotify.com/album/1m2wp4kEgGV3JzGdoMuI61?si=ANEU9EX-T0yaelBVMLCF-w"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:1m2wp4kEgGV3JzGdoMuI61"
+                  }
+                ],
+                "totalCount": 1
+              }
+            }
+          ],
+          "totalCount": 33
+        },
+        "discoveredOnV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Discover the best House Music to vibe or dance to.\u2502<a href=\"https://www.instagram.com/weareuncommonrecords/\">Instagram</a>",
+                "id": "7bu7BZEusLNJSaAuUUZBKn",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8445022ff58370157cbb0b02a6",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "HOUSE MUSIC 2025 (Top 100)",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "UNCOMMON"
+                  }
+                },
+                "uri": "spotify:playlist:7bu7BZEusLNJSaAuUUZBKn"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "All the <a href=\"spotify:genre:edm_dance\">big ones</a> with Dom Dolla",
+                "id": "37i9dQZF1DX0BcQWzuB7ZO",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000020823934df67cad1413624f1a",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Dance Hits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX0BcQWzuB7ZO"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Sammy Virji. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO0WosE0",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO0WosE0-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Sammy Virji",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO0WosE0"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The best Deep House &amp; Electronic Dance Music for 2025. Updated weekly. | <a href=\"https://www.instagram.com/selectedofficial\">Instagram</a>",
+                "id": "6vDGVr652ztNWKZuHvsFvx",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8461fd8a3093d4c81cf12aef74",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Deep House 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "selected."
+                  }
+                },
+                "uri": "spotify:playlist:6vDGVr652ztNWKZuHvsFvx"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The UK's biggest dance playlist! Cover: Jazzy, KILIMANJARO\n",
+                "id": "37i9dQZF1DX5uokaTN4FTR",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002efa1834102d72c9494760d21",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Massive Dance Hits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX5uokaTN4FTR"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Ninajirachi",
+                "id": "37i9dQZF1DXdgz8ZB7c2CP",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000029d3e6f75f666ab94099b2835",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "creamy",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXdgz8ZB7c2CP"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The world's biggest dance & electronic hits. Cover: Miss Monique",
+                "id": "37i9dQZF1DX4dyzvuaRJ0n",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000028fa06c80c9026416cbb105d1",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "mint",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "it's never too early for summer dance hits \ud83d\ude0e\u2600\ufe0f",
+                "id": "37i9dQZF1DWZ7eJRBxKzdO",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002c69d0b9a845acfa88f9794ca",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Summer Dance Hits 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWZ7eJRBxKzdO"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "New music from LISA, Benson Boone, Tate McRae, Gigi Perez, and more!",
+                "id": "37i9dQZF1DX4JAvHpjipBk",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000021f59175bf334f6c4f7f9e39c",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "New Music Friday",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX4JAvHpjipBk"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Dip your feet in the pool and enjoy this perfect summer house mix \u2600\ufe0f\u200a",
+                "id": "37i9dQZF1DX05r4Oy3Ln97",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002932540ed5ec4a5b603e717f7",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Summer House 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX05r4Oy3Ln97"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "\ud83d\udcaa\ud83d\udcaa\ud83d\udcaa",
+                "id": "37i9dQZF1DWYp5sAHdz27Y",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f0000000284ef10a472ad3c01b93f3f60",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Gym 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWYp5sAHdz27Y"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "IC & Virji <3",
+                "id": "37i9dQZF1DWSYVW0BVc4a3",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002b1a5abaf30a8b2838070fa78",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Open Air",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWSYVW0BVc4a3"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            }
+          ],
+          "totalCount": 100
+        },
+        "featuringV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Sammy Virji. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO0WosE0",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO0WosE0-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Sammy Virji",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO0WosE0"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "With SOSA, salute, Diffrent and more",
+                "id": "37i9dQZF1E4zfTnM2MV77T",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/1GuqTQbuixFHD6eBkFwVcb/en",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Sammy Virji Radio",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1E4zfTnM2MV77T"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
+                "id": "37i9dQZF1DWSf2RDTDayIx",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002518096c62a9e453db38093db",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Happy Beats",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWSf2RDTDayIx"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Ride the bassline. Cover: HNTR",
+                "id": "37i9dQZF1DWZCdOD1jAvLL",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002f1a0774f70194eed7dad5a35",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Bangers",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWZCdOD1jAvLL"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "All the <a href=\"spotify:genre:edm_dance\">big ones</a> with Dom Dolla",
+                "id": "37i9dQZF1DX0BcQWzuB7ZO",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000020823934df67cad1413624f1a",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Dance Hits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX0BcQWzuB7ZO"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Ninajirachi",
+                "id": "37i9dQZF1DXdgz8ZB7c2CP",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000029d3e6f75f666ab94099b2835",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "creamy",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXdgz8ZB7c2CP"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The best of today's dance hits. Cover: Miss Monique",
+                "id": "37i9dQZF1DXdIpacQDPDV5",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000021e3374b6ca3cc969ee2f861d",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "mint Canada",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXdIpacQDPDV5"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The world's biggest dance & electronic hits. Cover: Miss Monique",
+                "id": "37i9dQZF1DX4dyzvuaRJ0n",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000028fa06c80c9026416cbb105d1",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "mint",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n"
+              }
+            }
+          ],
+          "totalCount": 8
+        },
+        "relatedArtists": {
+          "items": [
+            {
+              "id": "1kETB3sIaKJ2uuC9xb6eCI",
+              "profile": {
+                "name": "Tomike"
+              },
+              "uri": "spotify:artist:1kETB3sIaKJ2uuC9xb6eCI",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb1ae98eb06e01ae235dae943c",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1781ae98eb06e01ae235dae943c",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051741ae98eb06e01ae235dae943c",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7mycnkT3eOskxxGbN9skkV",
+              "profile": {
+                "name": "Diffrent"
+              },
+              "uri": "spotify:artist:7mycnkT3eOskxxGbN9skkV",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebd8f359f5e88dff8b6fe54551",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178d8f359f5e88dff8b6fe54551",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174d8f359f5e88dff8b6fe54551",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3JlN0MeWVJq0vjvsvWCRZ5",
+              "profile": {
+                "name": "SOSA"
+              },
+              "uri": "spotify:artist:3JlN0MeWVJq0vjvsvWCRZ5",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb312507996ac02b9fdcfbc07a",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178312507996ac02b9fdcfbc07a",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174312507996ac02b9fdcfbc07a",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "29MTNlaVntQaQiDyj8KGwx",
+              "profile": {
+                "name": "Obsk\u00fcr"
+              },
+              "uri": "spotify:artist:29MTNlaVntQaQiDyj8KGwx",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb0c15e619caf1b4d61ee8e96d",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1780c15e619caf1b4d61ee8e96d",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051740c15e619caf1b4d61ee8e96d",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6uJ51uV5rYzu1MJkC4CceI",
+              "profile": {
+                "name": "Interplanetary Criminal"
+              },
+              "uri": "spotify:artist:6uJ51uV5rYzu1MJkC4CceI",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebaff1d657df363b64467718e3",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178aff1d657df363b64467718e3",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174aff1d657df363b64467718e3",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3an9rnsXKPCAMlZgH4A0n4",
+              "profile": {
+                "name": "KETTAMA"
+              },
+              "uri": "spotify:artist:3an9rnsXKPCAMlZgH4A0n4",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb88ebf63ae047419f0a9cf6bd",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17888ebf63ae047419f0a9cf6bd",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517488ebf63ae047419f0a9cf6bd",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2YEnrpAWWaNRFumgde1lLH",
+              "profile": {
+                "name": "Oden & Fatzo"
+              },
+              "uri": "spotify:artist:2YEnrpAWWaNRFumgde1lLH",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebcdc8b150d2eca06df33b1e3a",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178cdc8b150d2eca06df33b1e3a",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174cdc8b150d2eca06df33b1e3a",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6qbmEw8JjPrPV4HknWp0O1",
+              "profile": {
+                "name": "Kilo Ali"
+              },
+              "uri": "spotify:artist:6qbmEw8JjPrPV4HknWp0O1",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab67616d0000b273a5fe0374573361aeea72afa2",
+                      "width": 640
+                    },
+                    {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/ab67616d00004851fa04fcc6dec5d9f1f7dd5b36",
+                      "width": 64
+                    },
+                    {
+                      "height": 300,
+                      "url": "https://i.scdn.co/image/ab67616d00001e02fa04fcc6dec5d9f1f7dd5b36",
+                      "width": 300
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6xaiGRpXAB9JdoSy3gzw4H",
+              "profile": {
+                "name": "IN PARALLEL"
+              },
+              "uri": "spotify:artist:6xaiGRpXAB9JdoSy3gzw4H",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb13ccccb6adb49dba27d54308",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17813ccccb6adb49dba27d54308",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517413ccccb6adb49dba27d54308",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6QsxKDNLJbtYqxb2wRmsu1",
+              "profile": {
+                "name": "Borai & Denham Audio"
+              },
+              "uri": "spotify:artist:6QsxKDNLJbtYqxb2wRmsu1",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb3487e2bb29e5bbdc005adf5a",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1783487e2bb29e5bbdc005adf5a",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051743487e2bb29e5bbdc005adf5a",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4DWuml4Jf6K81b5rAPwMb6",
+              "profile": {
+                "name": "Clementine Douglas"
+              },
+              "uri": "spotify:artist:4DWuml4Jf6K81b5rAPwMb6",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebd50fdf970a0630ca2a94288b",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178d50fdf970a0630ca2a94288b",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174d50fdf970a0630ca2a94288b",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1k0BkkbwTGZGBqrNWwuucL",
+              "profile": {
+                "name": "LOSTBOYJAY"
+              },
+              "uri": "spotify:artist:1k0BkkbwTGZGBqrNWwuucL",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb11dee9b0a571d5e42d531651",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17811dee9b0a571d5e42d531651",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517411dee9b0a571d5e42d531651",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "205i7E8fNVfojowcQSfK9m",
+              "profile": {
+                "name": "Dom Dolla"
+              },
+              "uri": "spotify:artist:205i7E8fNVfojowcQSfK9m",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb9290e172cbcacc0521b02b11",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1789290e172cbcacc0521b02b11",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051749290e172cbcacc0521b02b11",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0Cs47vvRsPgEfliBU9KDiB",
+              "profile": {
+                "name": "D.O.D"
+              },
+              "uri": "spotify:artist:0Cs47vvRsPgEfliBU9KDiB",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb6505e365a036d0863138333f",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1786505e365a036d0863138333f",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051746505e365a036d0863138333f",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4U5QErgn94wZGw1rJz01BO",
+              "profile": {
+                "name": "Charlotte Plank"
+              },
+              "uri": "spotify:artist:4U5QErgn94wZGw1rJz01BO",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eba0ef48fad96f7193ef8de44b",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178a0ef48fad96f7193ef8de44b",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174a0ef48fad96f7193ef8de44b",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7MdlXmq2HViAJWo9cf30sR",
+              "profile": {
+                "name": "Cloonee"
+              },
+              "uri": "spotify:artist:7MdlXmq2HViAJWo9cf30sR",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebdcb1edbd747cf285bbb19205",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178dcb1edbd747cf285bbb19205",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174dcb1edbd747cf285bbb19205",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "07CimrZi5vs9iEao47TNQ4",
+              "profile": {
+                "name": "Flowdan"
+              },
+              "uri": "spotify:artist:07CimrZi5vs9iEao47TNQ4",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb7a9a29bdf06006aa3686c323",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1787a9a29bdf06006aa3686c323",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051747a9a29bdf06006aa3686c323",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "19SX00qkAvpVQroAka9GI0",
+              "profile": {
+                "name": "Effy"
+              },
+              "uri": "spotify:artist:19SX00qkAvpVQroAka9GI0",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb49b77ed950ae92a1a5dc66ad",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17849b77ed950ae92a1a5dc66ad",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517449b77ed950ae92a1a5dc66ad",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+              "profile": {
+                "name": "Chris Lake"
+              },
+              "uri": "spotify:artist:5Igpc9iLZ3YGtKeYfSrrOE",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb3c4c752f83e79a2f4f84341b",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1783c4c752f83e79a2f4f84341b",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051743c4c752f83e79a2f4f84341b",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "59iOp415oyqGlBHyAhu4z3",
+              "profile": {
+                "name": "Kah-Lo"
+              },
+              "uri": "spotify:artist:59iOp415oyqGlBHyAhu4z3",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb1e1ad3ed2aedf30acccb4f29",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1781e1ad3ed2aedf30acccb4f29",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051741e1ad3ed2aedf30acccb4f29",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "totalCount": 40
+        }
+      },
+      "relatedVideos": {
+        "__typename": "RelatedVideoPage",
+        "items": [],
+        "totalCount": 0
+      },
+      "saved": false,
+      "sharingInfo": {
+        "shareId": "WF_77THcS6if-ZcM3eGK_A",
+        "shareUrl": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb?si=WF_77THcS6if-ZcM3eGK_A"
+      },
+      "stats": {
+        "followers": 164705,
+        "monthlyListeners": 3780275,
+        "topCities": {
+          "items": [
+            {
+              "city": "London",
+              "country": "GB",
+              "numberOfListeners": 198174,
+              "region": "ENG"
+            },
+            {
+              "city": "Sydney",
+              "country": "AU",
+              "numberOfListeners": 129039,
+              "region": "NSW"
+            },
+            {
+              "city": "Melbourne",
+              "country": "AU",
+              "numberOfListeners": 111185,
+              "region": "VIC"
+            },
+            {
+              "city": "Birmingham",
+              "country": "GB",
+              "numberOfListeners": 86384,
+              "region": "ENG"
+            },
+            {
+              "city": "Brisbane",
+              "country": "AU",
+              "numberOfListeners": 78575,
+              "region": "QLD"
+            }
+          ]
+        },
+        "worldRank": 0
+      },
+      "uri": "spotify:artist:1GuqTQbuixFHD6eBkFwVcb",
+      "visualIdentity": {
+        "wideFullBleedImage": {
+          "__typename": "VisualIdentityImage",
+          "extractedColorSet": {
+            "encoreBaseSetTextColor": {
+              "alpha": 255,
+              "blue": 255,
+              "green": 187,
+              "red": 151
+            },
+            "highContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 175,
+                "green": 74,
+                "red": 38
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 134,
+                "green": 34,
+                "red": 9
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 207,
+                "red": 178
+              }
+            },
+            "higherContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 137,
+                "green": 37,
+                "red": 11
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 178,
+                "green": 77,
+                "red": 41
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 96,
+                "green": 215,
+                "red": 30
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 207,
+                "red": 178
+              }
+            },
+            "minContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 208,
+                "green": 104,
+                "red": 64
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 175,
+                "green": 73,
+                "red": 38
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              }
+            }
+          }
+        }
+      },
+      "visuals": {
+        "avatarImage": {
+          "extractedColors": {
+            "colorRaw": {
+              "hex": "#904840"
+            }
+          },
+          "sources": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb43c436dd4582521e601f8099",
+              "width": 640
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f17843c436dd4582521e601f8099",
+              "width": 160
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab6761610000517443c436dd4582521e601f8099",
+              "width": 320
+            }
+          ]
+        },
+        "gallery": {
+          "items": []
+        }
+      },
+      "watchFeedEntrypoint": null
+    }
+  },
+  "extensions": {}
+}

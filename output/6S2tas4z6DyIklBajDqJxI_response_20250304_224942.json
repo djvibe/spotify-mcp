@@ -1,0 +1,5217 @@
+{
+  "data": {
+    "artistUnion": {
+      "__typename": "Artist",
+      "discography": {
+        "albums": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 Mushroom Touring Inc.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 Infected Mushroom Publishing/Kobalt Music Services America Inc.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0212ddb69a52f413a8d93328b9",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485112ddb69a52f413a8d93328b9",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27312ddb69a52f413a8d93328b9",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 9,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "6vaf73L0MCYREQllo4BsnX",
+                    "label": "Mushroom Touring Inc.",
+                    "name": "REBORN",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "nda8GclyTmaysr0VvpLh1w",
+                      "shareUrl": "https://open.spotify.com/album/6vaf73L0MCYREQllo4BsnX?si=nda8GclyTmaysr0VvpLh1w"
+                    },
+                    "tracks": {
+                      "totalCount": 9
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6vaf73L0MCYREQllo4BsnX"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2022 Monstercat",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2022 Monstercat",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029d470fe530009a07c7acc919",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519d470fe530009a07c7acc919",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739d470fe530009a07c7acc919",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 16,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2022
+                    },
+                    "id": "6YEjK95sgoXQn1yGbYjHsp",
+                    "label": "Monstercat",
+                    "name": "IM25",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "oBONrWV1R0y9XFQnH3t6CQ",
+                      "shareUrl": "https://open.spotify.com/album/6YEjK95sgoXQn1yGbYjHsp?si=oBONrWV1R0y9XFQnH3t6CQ"
+                    },
+                    "tracks": {
+                      "totalCount": 11
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6YEjK95sgoXQn1yGbYjHsp"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2020 Monstercat",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2020 Monstercat",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a1148567f1d1a5511ac428c7",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a1148567f1d1a5511ac428c7",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a1148567f1d1a5511ac428c7",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 23,
+                      "month": 3,
+                      "precision": "DAY",
+                      "year": 2020
+                    },
+                    "id": "0qC9Antm7utFRq3B04K0l4",
+                    "label": "Monstercat",
+                    "name": "More than Just a Name",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "-wOxmgJwSMKzp0XLYfhYQQ",
+                      "shareUrl": "https://open.spotify.com/album/0qC9Antm7utFRq3B04K0l4?si=-wOxmgJwSMKzp0XLYfhYQQ"
+                    },
+                    "tracks": {
+                      "totalCount": 8
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:0qC9Antm7utFRq3B04K0l4"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2018 Monstercat",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2018 Monstercat",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02f4862b4fa494ef26fd8f199e",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851f4862b4fa494ef26fd8f199e",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273f4862b4fa494ef26fd8f199e",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 12,
+                      "month": 12,
+                      "precision": "DAY",
+                      "year": 2018
+                    },
+                    "id": "5VVuvHfpofdhT6ExslEk2B",
+                    "label": "Monstercat",
+                    "name": "Head of NASA and the 2 Amish Boys",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "1E40M3kURDGmpnfPsMiPcA",
+                      "shareUrl": "https://open.spotify.com/album/5VVuvHfpofdhT6ExslEk2B?si=1E40M3kURDGmpnfPsMiPcA"
+                    },
+                    "tracks": {
+                      "totalCount": 7
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:5VVuvHfpofdhT6ExslEk2B"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2018 Mushroom Touring Inc",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2018 Mushroom Touring Inc",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0258e9b4967eb2f7a642cf1e93",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485158e9b4967eb2f7a642cf1e93",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27358e9b4967eb2f7a642cf1e93",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 9,
+                      "month": 3,
+                      "precision": "DAY",
+                      "year": 2018
+                    },
+                    "id": "6zgknge3mkCAeBmc5LHZra",
+                    "label": "Mushroom Touring Inc.",
+                    "name": "IM21, Pt.1",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "V80gRWE5SHKpFz_H18JZyA",
+                      "shareUrl": "https://open.spotify.com/album/6zgknge3mkCAeBmc5LHZra?si=V80gRWE5SHKpFz_H18JZyA"
+                    },
+                    "tracks": {
+                      "totalCount": 5
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6zgknge3mkCAeBmc5LHZra"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2017 Mushroom Touring Inc",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2017 Mushroom Touring Inc",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02f4e27b41e3f58fdf43cd5bf2",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851f4e27b41e3f58fdf43cd5bf2",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273f4e27b41e3f58fdf43cd5bf2",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 27,
+                      "month": 1,
+                      "precision": "DAY",
+                      "year": 2017
+                    },
+                    "id": "74qXAHTfeFk9wW3Yn72vUI",
+                    "label": "Mushroom Touring Inc.",
+                    "name": "Return to the Sauce",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "tetmD3qUQsiDf_D_edd74Q",
+                      "shareUrl": "https://open.spotify.com/album/74qXAHTfeFk9wW3Yn72vUI?si=tetmD3qUQsiDf_D_edd74Q"
+                    },
+                    "tracks": {
+                      "totalCount": 10
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:74qXAHTfeFk9wW3Yn72vUI"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2015 Mushroom Touring Inc",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2015 Mushroom Touring Inc",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02516682beed010f51f6e3c7a6",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851516682beed010f51f6e3c7a6",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273516682beed010f51f6e3c7a6",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 11,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2015
+                    },
+                    "id": "3zuIJHFTbdKIZ9mYp6bk2U",
+                    "label": "Mushroom Touring Inc.",
+                    "name": "Converting Vegetarians II",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "TOjKr7arSKy0xycOH9UwrQ",
+                      "shareUrl": "https://open.spotify.com/album/3zuIJHFTbdKIZ9mYp6bk2U?si=TOjKr7arSKy0xycOH9UwrQ"
+                    },
+                    "tracks": {
+                      "totalCount": 15
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3zuIJHFTbdKIZ9mYp6bk2U"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2015 Mushroom Touring Inc",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2015 Mushroom Touring Inc",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0205cda2f220e0b0dd20318f43",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485105cda2f220e0b0dd20318f43",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27305cda2f220e0b0dd20318f43",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 6,
+                      "month": 1,
+                      "precision": "DAY",
+                      "year": 2015
+                    },
+                    "id": "5qa2hnifqS2yMr8Y0A3Pec",
+                    "label": "Mushroom Touring Inc.",
+                    "name": "Friends on Mushrooms (Deluxe Edition)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "zfw0P9EBTMqPS5xhsespsg",
+                      "shareUrl": "https://open.spotify.com/album/5qa2hnifqS2yMr8Y0A3Pec?si=zfw0P9EBTMqPS5xhsespsg"
+                    },
+                    "tracks": {
+                      "totalCount": 17
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:5qa2hnifqS2yMr8Y0A3Pec"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2013 Mushroom Touring Inc",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2013 Mushroom Touring Inc",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02326f91c6283eb1a96301f1b8",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851326f91c6283eb1a96301f1b8",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273326f91c6283eb1a96301f1b8",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 16,
+                      "month": 7,
+                      "precision": "DAY",
+                      "year": 2013
+                    },
+                    "id": "2U9ZJ43IciBTaVXZlafH8t",
+                    "label": "Mushroom Touring Inc.",
+                    "name": "Friends on Mushrooms, Vol. 2",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "_bGdh0NcQ6CGGOu5WBHNjA",
+                      "shareUrl": "https://open.spotify.com/album/2U9ZJ43IciBTaVXZlafH8t?si=_bGdh0NcQ6CGGOu5WBHNjA"
+                    },
+                    "tracks": {
+                      "totalCount": 5
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2U9ZJ43IciBTaVXZlafH8t"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2012 Mushroom Touring Inc",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2012 Mushroom Touring Inc",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020523ae70aa921302a4ec57c0",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510523ae70aa921302a4ec57c0",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730523ae70aa921302a4ec57c0",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 8,
+                      "month": 5,
+                      "precision": "DAY",
+                      "year": 2012
+                    },
+                    "id": "304UcDkq7VARcFzYKau4Qw",
+                    "label": "Mushroom Touring Inc.",
+                    "name": "Army of Mushrooms",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "kM_vUPMGR_C8GjcyDqj4xw",
+                      "shareUrl": "https://open.spotify.com/album/304UcDkq7VARcFzYKau4Qw?si=kM_vUPMGR_C8GjcyDqj4xw"
+                    },
+                    "tracks": {
+                      "totalCount": 13
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:304UcDkq7VARcFzYKau4Qw"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 21
+        },
+        "compilations": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2023 Dreamstate",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2023 Dreamstate",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0297a189c8c087e6a5562f4194",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485197a189c8c087e6a5562f4194",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27397a189c8c087e6a5562f4194",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 17,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "258iWR1k3RjpIbawISTH4l",
+                    "label": "Dreamstate",
+                    "name": "Part of the Dream",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "Z2xrhYtwTX2Rk4YGc_-KgQ",
+                      "shareUrl": "https://open.spotify.com/album/258iWR1k3RjpIbawISTH4l?si=Z2xrhYtwTX2Rk4YGc_-KgQ"
+                    },
+                    "tracks": {
+                      "totalCount": 11
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:258iWR1k3RjpIbawISTH4l"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 1
+        },
+        "latest": {
+          "copyright": {
+            "items": [
+              {
+                "text": "2024 Monstercat",
+                "type": "C"
+              },
+              {
+                "text": "2024 Monstercat",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02d4217a7f4aed02b3510f3548",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851d4217a7f4aed02b3510f3548",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273d4217a7f4aed02b3510f3548",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 6,
+            "month": 12,
+            "precision": "DAY",
+            "year": 2024
+          },
+          "id": "3w08iS8VSt0YarhcDW0lNq",
+          "label": "Monstercat",
+          "name": "Breathe Underwater",
+          "playability": {
+            "playable": true,
+            "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+            "shareId": "cEei_DepQHe_4EWCO5yoxQ",
+            "shareUrl": "https://open.spotify.com/album/3w08iS8VSt0YarhcDW0lNq?si=cEei_DepQHe_4EWCO5yoxQ"
+          },
+          "tracks": {
+            "totalCount": 3
+          },
+          "type": "EP",
+          "uri": "spotify:album:3w08iS8VSt0YarhcDW0lNq"
+        },
+        "popularReleasesAlbums": {
+          "items": [
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2009 Mushroom Touring Inc",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2009 Mushroom Touring Inc",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0265d4a4f3b70ab882a23b3800",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485165d4a4f3b70ab882a23b3800",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27365d4a4f3b70ab882a23b3800",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 6,
+                "month": 9,
+                "precision": "DAY",
+                "year": 2009
+              },
+              "id": "3n0DG81kvTI2Ph0aUghJ3p",
+              "label": "Mushroom Touring Inc.",
+              "name": "Legend of the Black Shawarma",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "Bl4u83KGR-af9zT7dowJGQ",
+                "shareUrl": "https://open.spotify.com/album/3n0DG81kvTI2Ph0aUghJ3p?si=Bl4u83KGR-af9zT7dowJGQ"
+              },
+              "tracks": {
+                "totalCount": 12
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:3n0DG81kvTI2Ph0aUghJ3p"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2018 Monstercat",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2018 Monstercat",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f4862b4fa494ef26fd8f199e",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f4862b4fa494ef26fd8f199e",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f4862b4fa494ef26fd8f199e",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 12,
+                "month": 12,
+                "precision": "DAY",
+                "year": 2018
+              },
+              "id": "5VVuvHfpofdhT6ExslEk2B",
+              "label": "Monstercat",
+              "name": "Head of NASA and the 2 Amish Boys",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "1E40M3kURDGmpnfPsMiPcA",
+                "shareUrl": "https://open.spotify.com/album/5VVuvHfpofdhT6ExslEk2B?si=1E40M3kURDGmpnfPsMiPcA"
+              },
+              "tracks": {
+                "totalCount": 7
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:5VVuvHfpofdhT6ExslEk2B"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2012 Mushroom Touring Inc",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2012 Mushroom Touring Inc",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020523ae70aa921302a4ec57c0",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510523ae70aa921302a4ec57c0",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730523ae70aa921302a4ec57c0",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 8,
+                "month": 5,
+                "precision": "DAY",
+                "year": 2012
+              },
+              "id": "304UcDkq7VARcFzYKau4Qw",
+              "label": "Mushroom Touring Inc.",
+              "name": "Army of Mushrooms",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "kM_vUPMGR_C8GjcyDqj4xw",
+                "shareUrl": "https://open.spotify.com/album/304UcDkq7VARcFzYKau4Qw?si=kM_vUPMGR_C8GjcyDqj4xw"
+              },
+              "tracks": {
+                "totalCount": 13
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:304UcDkq7VARcFzYKau4Qw"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2022 Monstercat",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2022 Monstercat",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029d470fe530009a07c7acc919",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519d470fe530009a07c7acc919",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739d470fe530009a07c7acc919",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 16,
+                "month": 9,
+                "precision": "DAY",
+                "year": 2022
+              },
+              "id": "6YEjK95sgoXQn1yGbYjHsp",
+              "label": "Monstercat",
+              "name": "IM25",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "oBONrWV1R0y9XFQnH3t6CQ",
+                "shareUrl": "https://open.spotify.com/album/6YEjK95sgoXQn1yGbYjHsp?si=oBONrWV1R0y9XFQnH3t6CQ"
+              },
+              "tracks": {
+                "totalCount": 11
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:6YEjK95sgoXQn1yGbYjHsp"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2015 Mushroom Touring Inc",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2015 Mushroom Touring Inc",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0205cda2f220e0b0dd20318f43",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485105cda2f220e0b0dd20318f43",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27305cda2f220e0b0dd20318f43",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 6,
+                "month": 1,
+                "precision": "DAY",
+                "year": 2015
+              },
+              "id": "5qa2hnifqS2yMr8Y0A3Pec",
+              "label": "Mushroom Touring Inc.",
+              "name": "Friends on Mushrooms (Deluxe Edition)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "zfw0P9EBTMqPS5xhsespsg",
+                "shareUrl": "https://open.spotify.com/album/5qa2hnifqS2yMr8Y0A3Pec?si=zfw0P9EBTMqPS5xhsespsg"
+              },
+              "tracks": {
+                "totalCount": 17
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:5qa2hnifqS2yMr8Y0A3Pec"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2020 Monstercat",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2020 Monstercat",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a1148567f1d1a5511ac428c7",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a1148567f1d1a5511ac428c7",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a1148567f1d1a5511ac428c7",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 23,
+                "month": 3,
+                "precision": "DAY",
+                "year": 2020
+              },
+              "id": "0qC9Antm7utFRq3B04K0l4",
+              "label": "Monstercat",
+              "name": "More than Just a Name",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "-wOxmgJwSMKzp0XLYfhYQQ",
+                "shareUrl": "https://open.spotify.com/album/0qC9Antm7utFRq3B04K0l4?si=-wOxmgJwSMKzp0XLYfhYQQ"
+              },
+              "tracks": {
+                "totalCount": 8
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:0qC9Antm7utFRq3B04K0l4"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2017 Mushroom Touring Inc",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2017 Mushroom Touring Inc",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f4e27b41e3f58fdf43cd5bf2",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f4e27b41e3f58fdf43cd5bf2",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f4e27b41e3f58fdf43cd5bf2",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 27,
+                "month": 1,
+                "precision": "DAY",
+                "year": 2017
+              },
+              "id": "74qXAHTfeFk9wW3Yn72vUI",
+              "label": "Mushroom Touring Inc.",
+              "name": "Return to the Sauce",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "tetmD3qUQsiDf_D_edd74Q",
+                "shareUrl": "https://open.spotify.com/album/74qXAHTfeFk9wW3Yn72vUI?si=tetmD3qUQsiDf_D_edd74Q"
+              },
+              "tracks": {
+                "totalCount": 10
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:74qXAHTfeFk9wW3Yn72vUI"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2004 BNE Ltd",
+                    "type": "C"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022147a29992a6156225bf9c74",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512147a29992a6156225bf9c74",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732147a29992a6156225bf9c74",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 14,
+                "month": 7,
+                "precision": "DAY",
+                "year": 2004
+              },
+              "id": "3KK4WXqbiP7MKuAfQhbhjf",
+              "label": "PMI Digital",
+              "name": "I'm The Supervisor",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "t3e-cPTGS0W-McyLk0R1Nw",
+                "shareUrl": "https://open.spotify.com/album/3KK4WXqbiP7MKuAfQhbhjf?si=t3e-cPTGS0W-McyLk0R1Nw"
+              },
+              "tracks": {
+                "totalCount": 10
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:3KK4WXqbiP7MKuAfQhbhjf"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2024 Monstercat",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2024 Monstercat",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d4217a7f4aed02b3510f3548",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d4217a7f4aed02b3510f3548",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d4217a7f4aed02b3510f3548",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 6,
+                "month": 12,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "3w08iS8VSt0YarhcDW0lNq",
+              "label": "Monstercat",
+              "name": "Breathe Underwater",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "cEei_DepQHe_4EWCO5yoxQ",
+                "shareUrl": "https://open.spotify.com/album/3w08iS8VSt0YarhcDW0lNq?si=cEei_DepQHe_4EWCO5yoxQ"
+              },
+              "tracks": {
+                "totalCount": 3
+              },
+              "type": "EP",
+              "uri": "spotify:album:3w08iS8VSt0YarhcDW0lNq"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2024 Mushroom Touring Inc.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2024 Infected Mushroom Publishing/Kobalt Music Services America Inc.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0212ddb69a52f413a8d93328b9",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485112ddb69a52f413a8d93328b9",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27312ddb69a52f413a8d93328b9",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 9,
+                "month": 2,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "6vaf73L0MCYREQllo4BsnX",
+              "label": "Mushroom Touring Inc.",
+              "name": "REBORN",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "nda8GclyTmaysr0VvpLh1w",
+                "shareUrl": "https://open.spotify.com/album/6vaf73L0MCYREQllo4BsnX?si=nda8GclyTmaysr0VvpLh1w"
+              },
+              "tracks": {
+                "totalCount": 9
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:6vaf73L0MCYREQllo4BsnX"
+            }
+          ],
+          "totalCount": 20
+        },
+        "singles": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Monstercat",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Monstercat",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d4217a7f4aed02b3510f3548",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d4217a7f4aed02b3510f3548",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d4217a7f4aed02b3510f3548",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 6,
+                      "month": 12,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "3w08iS8VSt0YarhcDW0lNq",
+                    "label": "Monstercat",
+                    "name": "Breathe Underwater",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "cEei_DepQHe_4EWCO5yoxQ",
+                      "shareUrl": "https://open.spotify.com/album/3w08iS8VSt0YarhcDW0lNq?si=cEei_DepQHe_4EWCO5yoxQ"
+                    },
+                    "tracks": {
+                      "totalCount": 3
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:3w08iS8VSt0YarhcDW0lNq"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Monstercat",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Monstercat",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0264365df1679063e7cca15bd0",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485164365df1679063e7cca15bd0",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27364365df1679063e7cca15bd0",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 21,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "4E9AWmsV9POjfg28Mz393X",
+                    "label": "Monstercat",
+                    "name": "Breathe Underwater",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "nDTORXOHS0OyY2de6vrI8A",
+                      "shareUrl": "https://open.spotify.com/album/4E9AWmsV9POjfg28Mz393X?si=nDTORXOHS0OyY2de6vrI8A"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4E9AWmsV9POjfg28Mz393X"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Zero One Music",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Zero One Music",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02651698a71a25884583b1f0b7",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851651698a71a25884583b1f0b7",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273651698a71a25884583b1f0b7",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 13,
+                      "month": 5,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "71IpNNz1rNXaCXin56xI8O",
+                    "label": "Zero One Music",
+                    "name": "Arabian Knights on Mescaline",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "HHA400mgQ8WCIxby_4n4fw",
+                      "shareUrl": "https://open.spotify.com/album/71IpNNz1rNXaCXin56xI8O?si=HHA400mgQ8WCIxby_4n4fw"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:71IpNNz1rNXaCXin56xI8O"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Monstercat",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Monstercat",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e028871fdcc83f88a42b92a8039",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048518871fdcc83f88a42b92a8039",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2738871fdcc83f88a42b92a8039",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 26,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "38eQYM81j2GjCi9SvUX7tP",
+                    "label": "Monstercat",
+                    "name": "Rawthentic",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "fRPWhSIvRCWzaQgxFhpG9Q",
+                      "shareUrl": "https://open.spotify.com/album/38eQYM81j2GjCi9SvUX7tP?si=fRPWhSIvRCWzaQgxFhpG9Q"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:38eQYM81j2GjCi9SvUX7tP"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 Mushroom Touring Inc.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 Infected Mushroom Publishing/Kobalt Music Services America Inc",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e568a453b09020907bdf5bda",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e568a453b09020907bdf5bda",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e568a453b09020907bdf5bda",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 22,
+                      "month": 12,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "4vKOePGDSYkKs4yfun5ewK",
+                    "label": "Mushroom Touring Inc.",
+                    "name": "Dream Theater REBORN",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "WumDi_qCSrK6BW1VIB8NPg",
+                      "shareUrl": "https://open.spotify.com/album/4vKOePGDSYkKs4yfun5ewK?si=WumDi_qCSrK6BW1VIB8NPg"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4vKOePGDSYkKs4yfun5ewK"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 Mushroom Touring Inc.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 Infected Mushroom Publishing/Kobalt Music Services America Inc",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02cf2cdff4570d7c2da39a7296",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851cf2cdff4570d7c2da39a7296",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273cf2cdff4570d7c2da39a7296",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 29,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "4xG8VslLdGz5Xa38Pxo63O",
+                    "label": "Mushroom Touring Inc.",
+                    "name": "Release Me REBORN",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "YEFTkL_hTc2jTXc2UOR8vw",
+                      "shareUrl": "https://open.spotify.com/album/4xG8VslLdGz5Xa38Pxo63O?si=YEFTkL_hTc2jTXc2UOR8vw"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4xG8VslLdGz5Xa38Pxo63O"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2023 Dreamstate",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2023 Dreamstate",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d8254759be0bd32e46e89eb5",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d8254759be0bd32e46e89eb5",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d8254759be0bd32e46e89eb5",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 17,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "772BbdTeZVMfftDw9wrwCH",
+                    "label": "Dreamstate",
+                    "name": "I Wish (Skazi Edit)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "OhHGkoezRym_15NchwytKw",
+                      "shareUrl": "https://open.spotify.com/album/772BbdTeZVMfftDw9wrwCH?si=OhHGkoezRym_15NchwytKw"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:772BbdTeZVMfftDw9wrwCH"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2023 P.A.I LTD / Mushroom Touring inc",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2023 P.A.I LTD / Mushroom Touring inc",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02f5ec71fcc766322db754262b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851f5ec71fcc766322db754262b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273f5ec71fcc766322db754262b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 26,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "7gCZApUPjkkS1mdOLMTTbQ",
+                    "label": "P.A.I LTD / Mushroom Touring inc",
+                    "name": "\u05ea\u05e8\u05e7\u05d5\u05d3 \u05dc\u05e0\u05e6\u05d7",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "QEPwoh6ZRk2KV2ceJgDM4w",
+                      "shareUrl": "https://open.spotify.com/album/7gCZApUPjkkS1mdOLMTTbQ?si=QEPwoh6ZRk2KV2ceJgDM4w"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7gCZApUPjkkS1mdOLMTTbQ"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2023 Aura Vortex",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2023 Aura Vortex",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e028a9863a4d3dec91d4a6ac016",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048518a9863a4d3dec91d4a6ac016",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2738a9863a4d3dec91d4a6ac016",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 26,
+                      "month": 7,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "5Am4DWeVIOSXaL10sraew9",
+                    "label": "Aura Vortex",
+                    "name": "I Wish (Aura Vortex Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "rOAqVUFSSby0SZK-t55L-Q",
+                      "shareUrl": "https://open.spotify.com/album/5Am4DWeVIOSXaL10sraew9?si=rOAqVUFSSby0SZK-t55L-Q"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5Am4DWeVIOSXaL10sraew9"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2023 SubCarbon",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2023 SubCarbon",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02acbf51d7464f4e428fbe2b2b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851acbf51d7464f4e428fbe2b2b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273acbf51d7464f4e428fbe2b2b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 28,
+                      "month": 4,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "43FBP8MZ0ekzPaQHudh06W",
+                    "label": "SubCarbon",
+                    "name": "Kill to Feel",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "-eOQCtyoSniIa11fRhSOGQ",
+                      "shareUrl": "https://open.spotify.com/album/43FBP8MZ0ekzPaQHudh06W?si=-eOQCtyoSniIa11fRhSOGQ"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:43FBP8MZ0ekzPaQHudh06W"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 89
+        },
+        "topTracks": {
+          "items": [
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e023d131b366db2f7f3556812ad"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048513d131b366db2f7f3556812ad"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2733d131b366db2f7f3556812ad"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:50SGucGvMan1kbLqyuaEr6"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Infected Mushroom"
+                      },
+                      "uri": "spotify:artist:6S2tas4z6DyIklBajDqJxI"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 440266
+                },
+                "id": "22DnBQIIXFPJNRGuNjWlSg",
+                "name": "Becoming Insane",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "47925450",
+                "uri": "spotify:track:22DnBQIIXFPJNRGuNjWlSg"
+              },
+              "uid": "bff62d2d94bf400dd1a6"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e027b10f3440877c01841cb987f"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048517b10f3440877c01841cb987f"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2737b10f3440877c01841cb987f"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:3W2rs8vCNzvB5BmAoCjART"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Infected Mushroom"
+                      },
+                      "uri": "spotify:artist:6S2tas4z6DyIklBajDqJxI"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 464026
+                },
+                "id": "1IAtShkPcFnvYQPp6Rfv3Q",
+                "name": "Change The Formality",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "11492717",
+                "uri": "spotify:track:1IAtShkPcFnvYQPp6Rfv3Q"
+              },
+              "uid": "3faec2cec21d3b9d5dc1"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e020523ae70aa921302a4ec57c0"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048510523ae70aa921302a4ec57c0"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2730523ae70aa921302a4ec57c0"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:304UcDkq7VARcFzYKau4Qw"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Infected Mushroom"
+                      },
+                      "uri": "spotify:artist:6S2tas4z6DyIklBajDqJxI"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 394482
+                },
+                "id": "4Q4V4NP8bvvJFBGFO3I9pM",
+                "name": "The Pretender",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "17715060",
+                "uri": "spotify:track:4Q4V4NP8bvvJFBGFO3I9pM"
+              },
+              "uid": "1d17cdff6cf3e09889e8"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f4862b4fa494ef26fd8f199e"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851f4862b4fa494ef26fd8f199e"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f4862b4fa494ef26fd8f199e"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:5VVuvHfpofdhT6ExslEk2B"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Infected Mushroom"
+                      },
+                      "uri": "spotify:artist:6S2tas4z6DyIklBajDqJxI"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 398896
+                },
+                "id": "6VHBZt8T7ZdlUt3MkOZqPy",
+                "name": "Guitarmass",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "13993503",
+                "uri": "spotify:track:6VHBZt8T7ZdlUt3MkOZqPy"
+              },
+              "uid": "7988f8a4496fe964ace4"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e029605911d6a029c2d34010d3e"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048519605911d6a029c2d34010d3e"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2739605911d6a029c2d34010d3e"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:558bORweVenMzjaC0gpcJn"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Infected Mushroom"
+                      },
+                      "uri": "spotify:artist:6S2tas4z6DyIklBajDqJxI"
+                    },
+                    {
+                      "profile": {
+                        "name": "Bad Computer"
+                      },
+                      "uri": "spotify:artist:7uGeDBa1LJ7T1X4fpl8mwk"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 189230
+                },
+                "id": "6zfyJTgFvo54oLVJjS3jNa",
+                "name": "Walking on the Moon - Bad Computer Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "11610841",
+                "uri": "spotify:track:6zfyJTgFvo54oLVJjS3jNa"
+              },
+              "uid": "edf69b1b222497d153fe"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0265d4a4f3b70ab882a23b3800"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485165d4a4f3b70ab882a23b3800"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27365d4a4f3b70ab882a23b3800"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:3n0DG81kvTI2Ph0aUghJ3p"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Infected Mushroom"
+                      },
+                      "uri": "spotify:artist:6S2tas4z6DyIklBajDqJxI"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 423720
+                },
+                "id": "0S6npsazTIPiXfhlyg9yNx",
+                "name": "Saeed",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "13453648",
+                "uri": "spotify:track:0S6npsazTIPiXfhlyg9yNx"
+              },
+              "uid": "e4803c4fe802cc1bd307"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e023d131b366db2f7f3556812ad"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048513d131b366db2f7f3556812ad"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2733d131b366db2f7f3556812ad"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:50SGucGvMan1kbLqyuaEr6"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Infected Mushroom"
+                      },
+                      "uri": "spotify:artist:6S2tas4z6DyIklBajDqJxI"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 521013
+                },
+                "id": "48HelMaBXoGa2UxE6nDlqX",
+                "name": "Heavyweight",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "15226071",
+                "uri": "spotify:track:48HelMaBXoGa2UxE6nDlqX"
+              },
+              "uid": "6d3b388895a78f39d052"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e029d470fe530009a07c7acc919"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048519d470fe530009a07c7acc919"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2739d470fe530009a07c7acc919"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6YEjK95sgoXQn1yGbYjHsp"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Infected Mushroom"
+                      },
+                      "uri": "spotify:artist:6S2tas4z6DyIklBajDqJxI"
+                    },
+                    {
+                      "profile": {
+                        "name": "Ninet Tayeb"
+                      },
+                      "uri": "spotify:artist:4oEhVAb4wkpqQbOqVMroI4"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 248400
+                },
+                "id": "7HjaeqTHY6QlwPY0MEjuMF",
+                "name": "Black Velvet",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "5124675",
+                "uri": "spotify:track:7HjaeqTHY6QlwPY0MEjuMF"
+              },
+              "uid": "aedec13fc7f9fb6ad8aa"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d8254759be0bd32e46e89eb5"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851d8254759be0bd32e46e89eb5"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d8254759be0bd32e46e89eb5"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:772BbdTeZVMfftDw9wrwCH"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Infected Mushroom"
+                      },
+                      "uri": "spotify:artist:6S2tas4z6DyIklBajDqJxI"
+                    },
+                    {
+                      "profile": {
+                        "name": "Skazi"
+                      },
+                      "uri": "spotify:artist:0YAmYesPdjvMPgnLKcDHR3"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 288695
+                },
+                "id": "00hlg6bKCe4c7WnuorMAYP",
+                "name": "I Wish - Skazi Edit",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1579336",
+                "uri": "spotify:track:00hlg6bKCe4c7WnuorMAYP"
+              },
+              "uid": "9677bd3d0a4c552ae25e"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0264365df1679063e7cca15bd0"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485164365df1679063e7cca15bd0"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27364365df1679063e7cca15bd0"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:4E9AWmsV9POjfg28Mz393X"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Psy Trance Mafia"
+                      },
+                      "uri": "spotify:artist:6AJiVMljdDi2Z1GF43m60q"
+                    },
+                    {
+                      "profile": {
+                        "name": "Infected Mushroom"
+                      },
+                      "uri": "spotify:artist:6S2tas4z6DyIklBajDqJxI"
+                    },
+                    {
+                      "profile": {
+                        "name": "Blastoyz"
+                      },
+                      "uri": "spotify:artist:6WLP1sraOcF3Gaxp7xBa4p"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 270857
+                },
+                "id": "6dezSbSW7iJF6f6IJLznU6",
+                "name": "Breathe Underwater",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "518836",
+                "uri": "spotify:track:6dezSbSW7iJF6f6IJLznU6"
+              },
+              "uid": "a13bde7b25464189fca0"
+            }
+          ]
+        }
+      },
+      "goods": {
+        "concerts": {
+          "items": [
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Miami",
+                  "name": "La Otra Wynwood"
+                },
+                "startDateIsoString": "2025-03-26T16:00-04:00",
+                "title": "Ferry Corsten, Eelke Kleijn, Giuseppe Ottaviani, Cosmic Gate, Aly & Fila, Anthony Attalla, Simon Doty, Luccio, Carlo Lio, Adapter, Mat.Joe, FREAK ON, Guz, Infected Mushroom, Galo",
+                "uri": "spotify:concert:5LutwEFY2CNpsN6L7t8nEQ"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Miami",
+                  "name": "La Otra Wynwood"
+                },
+                "startDateIsoString": "2025-03-29T23:00-04:00",
+                "title": "Infected Mushroom, Giuseppe Ottaviani",
+                "uri": "spotify:concert:6nduYenM7bzwHb9oxakkSM"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Atlanta",
+                  "name": "Believe Music Hall"
+                },
+                "startDateIsoString": "2025-04-26T22:00-04:00",
+                "title": "Infected Mushroom",
+                "uri": "spotify:concert:0LZcZDldHAIZI4y0lqkNg7"
+              }
+            }
+          ],
+          "totalCount": 3
+        },
+        "merch": {
+          "items": []
+        }
+      },
+      "headerImage": {
+        "data": {
+          "__typename": "ImageV2",
+          "sources": [
+            {
+              "maxHeight": 640,
+              "maxWidth": 1494,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67618600000194df25ccf97c057a3cc10c101e"
+            },
+            {
+              "maxHeight": 1080,
+              "maxWidth": 1920,
+              "url": "https://i2o.scdn.co/image/ab67618600001667df25ccf97c057a3cc10c101e"
+            },
+            {
+              "maxHeight": 641,
+              "maxWidth": 1495,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67618600009d80df25ccf97c057a3cc10c101e"
+            },
+            {
+              "maxHeight": 1140,
+              "maxWidth": 2660,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab6761860000eab1df25ccf97c057a3cc10c101e"
+            }
+          ]
+        }
+      },
+      "id": "6S2tas4z6DyIklBajDqJxI",
+      "preRelease": null,
+      "profile": {
+        "biography": {
+          "text": "Mining Israel's Goa trance of its hottest intensities, Infected Mushroom remain one of the Middle East's biggest international cult successes. Erez Aizen's cheap background in obsessed bedroom computer tinkering had led him into and out of a number of crude dance efforts, and when a mutual friend suggested he should get together with Amit Duvdevani, a thrash metal fan who had just returned from an aborted career path in India, the two found enough in common to surreptitiously explore the rising psychedelic trends pouring out of the nation's clubs. The results -- 1999's The Gathering, which was heavily inspired by the surreal ambient dance of <a href=\"spotify:artist:6RmijobcphddxSNtsBHjF0\">Simon Posford</a>, <a href=\"spotify:artist:2Wmyxn5qWyLPWKeEMmJKHc\">X-Dream</a>, and <a href=\"spotify:artist:1XvBR4zy1gyHBJSOJRcTzZ\">Transwave</a>, and 2000's Classical Mushroom, an aggressively melodic trance LP that broke the European, Japanese, and American markets -- elevated Infected Mushroom to one of Israel's key trance production duos. \r\n\nThe duo's third album, B.P. Empire, found them deviating a bit from their established psy-trance sound, experimenting with classical and Middle Eastern-influenced melodies and slower tempos. The 2003 double CD Converting Vegetarians took this genre experimentation further, designating one disc for more straightforward trance tracks and a second disc with tracks ranging from ambient and abstract electronic music to synth pop and downtempo. IM the Supervisor followed in 2004, and found the duo adding new production techniques and influences as well as an increased presence of vocals. The album was more accessible than previous efforts and became their most commercially successful release to date.\r\n\nFollowing IM the Supervisor, Infected Mushroom relocated to Los Angeles, and began working with guitarists Thomas Cunningham and Erez Netz. The duo was ranked number nine in DJMag's Top 100 DJs poll in 2007, confirming their status as the most popular psychedelic trance act in the world. Infected Mushroom's 2007 full-length, Vicious Delicious, expanded their stylistic range beyond electronic dance music, encompassing hip-hop, rock, and Latin music. The album featured more guest appearances than previous albums, including vocals by Gilberto Cerezo of <a href=\"spotify:artist:4WOIfFwyvx22jM0eg2fpKv\">Kinky</a> and Canadian hip-hop group <a href=\"spotify:artist:30QbUq31PEXAT4QFYZyBAM\">Swollen Members</a>, as well as the increased presence of live instrumentation. Arriving in 2009, Legend of the Black Shawarma (released in North America by <a href=\"spotify:artist:5MO2kbaGGA2a8kL4c9qqHq\">Paul Oakenfold</a>'s <a href=\"spotify:search:label%3A%22Perfecto%22\">Perfecto</a> label) took their rock/trance fusion sound even further, including collaborations with <a href=\"spotify:artist:3RNrq3jvMZxD9ZyoOZbQOD\">Korn</a>'s <a href=\"spotify:artist:1VW5tZ9pmSb2rG0GmSELwW\">Jonathan Davis</a> and <a href=\"spotify:artist:02NfyD6AlLA12crYzw5YcR\">Jane's Addiction</a>'s <a href=\"spotify:artist:2DS5RPK5A2GQTucYlgsQdE\">Perry Farrell</a>, as well as Infected Mushroom's remix of <a href=\"spotify:artist:22WZ7M8sxp5THdruNY3gXt\">the Doors</a>' \"Riders on the Storm.\" \r\n\nIn late 2011, <a href=\"spotify:artist:77AiFEVeAVj2ORpC85QVJs\">Steve Aoki</a> signed Infected Mushroom to his <a href=\"spotify:search:label%3A%22Dim+Mak%22\">Dim Mak</a> label. The group's first release for <a href=\"spotify:search:label%3A%22Dim+Mak%22\">Dim Mak</a> was 2012's Army of Mushrooms, yet another stylistic expansion, featuring dubstep, electro-house, and drum'n'bass tracks, as well as a cover of <a href=\"spotify:artist:7jy3rLJdDQY21OgRLCZ9sD\">Foo Fighters</a>' \"The Pretender.\" The group then undertook a massive North American tour dubbed \"The Unveiling,\" which featured an ambitious, overwhelming audio-visual setup. This was followed by another North American tour, \"FungusAmongUS,\" along with guests <a href=\"spotify:artist:62rW7FjQy7clhBDHuumg22\">the M Machine</a>. Infected Mushroom released a collaborative EP called Friends on Mushrooms, Vol. 1 in early 2013, followed by a second volume later in the year. The duo also produced a track on <a href=\"spotify:artist:1HY2Jd0NmPuamShAr6KMms\">Lady Gaga</a>'s 2013 album, Artpop. Friends on Mushrooms, Vol. 3 appeared in 2014, and a full-length titled Friends on Mushrooms, containing tracks from the EPs as well as two new songs, was released in early 2015. Later that year, Infected Mushroom released Converting Vegetarians, Vol. 2, which found them revisiting the psy-trance sound of their earlier work. They followed in 2017 with their 11th set, Return to the Sauce. ~ Dean Carlson, Rovi",
+          "type": "BIOGRAPHY"
+        },
+        "externalLinks": {
+          "items": [
+            {
+              "name": "FACEBOOK",
+              "url": "https://facebook.com/infectedmushroom"
+            },
+            {
+              "name": "INSTAGRAM",
+              "url": "https://instagram.com/infectedmushroom"
+            },
+            {
+              "name": "TWITTER",
+              "url": "https://twitter.com/infected"
+            },
+            {
+              "name": "WIKIPEDIA",
+              "url": "https://en.wikipedia.org/wiki/Infected_Mushroom"
+            }
+          ]
+        },
+        "name": "Infected Mushroom",
+        "pinnedItem": {
+          "backgroundImageV2": null,
+          "comment": "Out  Now! The New EP ",
+          "itemV2": {
+            "__typename": "AlbumResponseWrapper",
+            "data": {
+              "__typename": "Album",
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d4217a7f4aed02b3510f3548",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d4217a7f4aed02b3510f3548",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d4217a7f4aed02b3510f3548",
+                    "width": 640
+                  }
+                ]
+              },
+              "name": "Breathe Underwater",
+              "type": "EP",
+              "uri": "spotify:album:3w08iS8VSt0YarhcDW0lNq"
+            }
+          },
+          "subtitle": "Psy Trance Mafia, Infected Mushroom",
+          "thumbnailImage": {
+            "data": {
+              "sources": [
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000075a0d4217a7f4aed02b3510f3548"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000090d5d4217a7f4aed02b3510f3548"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000ab87d4217a7f4aed02b3510f3548"
+                }
+              ]
+            }
+          },
+          "title": "Breathe Underwater",
+          "type": "ALBUM",
+          "uri": "spotify:album:3w08iS8VSt0YarhcDW0lNq"
+        },
+        "playlistsV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67616d00001e027b10f3440877c01841cb987f",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Infected Mushroom \u2013 Vicious Delicious",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Infected Mushroom"
+                  }
+                },
+                "uri": "spotify:playlist:1FBA1jp0vXdLkR7HEWHzM8"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Selected by Infected Mushroom, your perfect holidays soundtrack.",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c45f58320575ce0bfa89b7287",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Xmas on Mushrooms",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Avi Yossef"
+                  }
+                },
+                "uri": "spotify:playlist:7AWY96L8JURXXqc4iX2PAt"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67616d00001e028e99f655f02e757601506fe6",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Infected Mushroom \u2013 Friends On Mushrooms, Vol. 1",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Infected Mushroom"
+                  }
+                },
+                "uri": "spotify:playlist:3iOWUKFALSJZ6uYzj3APgo"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e662076b7c590d087a0e8991",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Infected Mushroom \u2013 Legend Of The Black Shawarma",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Infected Mushroom"
+                  }
+                },
+                "uri": "spotify:playlist:6BvxkMZsxaxXTQzhCjoe5J"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02318cb71c621bdd938628711c",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Infected Mushroom \u2013 Friends on Mushrooms, Vol. 2",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Infected Mushroom"
+                  }
+                },
+                "uri": "spotify:playlist:1MUjl9VJ0C3z0KF68QKmyt"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://mosaic.scdn.co/640/ab67616d00001e026b1495d5d1a8cfebc426c251ab67616d00001e02a23123772800e45a81d5220aab67616d00001e02af7a80688a5001fbb92dad5bab67616d00001e02d07cf0437a749f00536b445e",
+                          "width": 640
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://mosaic.scdn.co/300/ab67616d00001e026b1495d5d1a8cfebc426c251ab67616d00001e02a23123772800e45a81d5220aab67616d00001e02af7a80688a5001fbb92dad5bab67616d00001e02d07cf0437a749f00536b445e",
+                          "width": 300
+                        },
+                        {
+                          "height": 60,
+                          "url": "https://mosaic.scdn.co/60/ab67616d00001e026b1495d5d1a8cfebc426c251ab67616d00001e02a23123772800e45a81d5220aab67616d00001e02af7a80688a5001fbb92dad5bab67616d00001e02d07cf0437a749f00536b445e",
+                          "width": 60
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Isolation Days on Mushrooms",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Avi Yossef"
+                  }
+                },
+                "uri": "spotify:playlist:7EzVG9aHN5Tf59HSCs7DFy"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://mosaic.scdn.co/640/ab67616d00001e021dc69ca3c145bd0e616d2652ab67616d00001e02a12df797d828f1d904f957feab67616d00001e02a54276791cbd3626f67db2e0ab67616d00001e02ffc84052ff38106d879ec943",
+                          "width": 640
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://mosaic.scdn.co/300/ab67616d00001e021dc69ca3c145bd0e616d2652ab67616d00001e02a12df797d828f1d904f957feab67616d00001e02a54276791cbd3626f67db2e0ab67616d00001e02ffc84052ff38106d879ec943",
+                          "width": 300
+                        },
+                        {
+                          "height": 60,
+                          "url": "https://mosaic.scdn.co/60/ab67616d00001e021dc69ca3c145bd0e616d2652ab67616d00001e02a12df797d828f1d904f957feab67616d00001e02a54276791cbd3626f67db2e0ab67616d00001e02ffc84052ff38106d879ec943",
+                          "width": 60
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Infected Mushroom's Top 10 Favorites",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Infected Mushroom"
+                  }
+                },
+                "uri": "spotify:playlist:2wfU8zBXFt301QmVebR2XK"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67616d00001e028948218547607b314ad52576",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Infected Mushroom \u2013 Never Mind",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Infected Mushroom"
+                  }
+                },
+                "uri": "spotify:playlist:3Qstjfupj3TFXnP8Atqgyq"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "A new Spotify playlist from Infected Mushroom ! Celebrating the new upcoming remixes EP IM21 Pt.1, the mushrooms bring you their favorite all time HOMmega tracks",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c5fbdf889edbfd1446e90f3a8",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Infected Mushroom Takeover",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "HOMmega Productions"
+                  }
+                },
+                "uri": "spotify:playlist:5vFKR1C22U9k2UPAoX0yTa"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c510e401f25cced8633e44c13",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "All time favorite remixes by Infected Mushroom",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "HOMmega Productions"
+                  }
+                },
+                "uri": "spotify:playlist:7fb1aJPZoUegyvFgY89ltd"
+              }
+            }
+          ],
+          "totalCount": 18
+        },
+        "verified": true
+      },
+      "relatedContent": {
+        "appearsOn": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Ganja White Night"
+                          },
+                          "uri": "spotify:artist:1a6oIpEh4DGgaqgWg5xwd3"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0261e2b6bb7a7a9c258053dc20",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485161e2b6bb7a7a9c258053dc20",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27361e2b6bb7a7a9c258053dc20",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "2AhomobPIGZiBZodF1cVEg",
+                    "name": "Unity",
+                    "sharingInfo": {
+                      "shareId": "w5KHZM-PTuGTJ6oNOhS7EA",
+                      "shareUrl": "https://open.spotify.com/album/2AhomobPIGZiBZodF1cVEg?si=w5KHZM-PTuGTJ6oNOhS7EA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2AhomobPIGZiBZodF1cVEg"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Hatikva 6"
+                          },
+                          "uri": "spotify:artist:3umXlcgiDTcCRkvPVobeJc"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0208bc6c666c49e6822cf15c77",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485108bc6c666c49e6822cf15c77",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27308bc6c666c49e6822cf15c77",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2017
+                    },
+                    "id": "3KreEdG83R4nEdG6uDo8Un",
+                    "name": "\u05d4\u05db\u05dc \u05e2\u05d5\u05d3 \u05dc\u05e4\u05e0\u05d9\u05d9",
+                    "sharingInfo": {
+                      "shareId": "pc0J0LpSQtigbUTdKR3cRQ",
+                      "shareUrl": "https://open.spotify.com/album/3KreEdG83R4nEdG6uDo8Un?si=pc0J0LpSQtigbUTdKR3cRQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3KreEdG83R4nEdG6uDo8Un"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Hatikva 6"
+                          },
+                          "uri": "spotify:artist:3umXlcgiDTcCRkvPVobeJc"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02bdaa282c6408cd9f6f05f770",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851bdaa282c6408cd9f6f05f770",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273bdaa282c6408cd9f6f05f770",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "6fATOJ5jYjeaSR6ovpSZsj",
+                    "name": "\u05de\u05e4\u05d4 \u05dc\u05e9\u05dd",
+                    "sharingInfo": {
+                      "shareId": "uQegKBCyS3uSCVEM3KynpQ",
+                      "shareUrl": "https://open.spotify.com/album/6fATOJ5jYjeaSR6ovpSZsj?si=uQegKBCyS3uSCVEM3KynpQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6fATOJ5jYjeaSR6ovpSZsj"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Insomniac Music Group"
+                          },
+                          "uri": "spotify:artist:5OikDRVEPtkPGRlhpwynSo"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02fcc64d4106c24d18f4a27dba",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851fcc64d4106c24d18f4a27dba",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273fcc64d4106c24d18f4a27dba",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "7Dq0VeyORoXlbxB1tBntZe",
+                    "name": "EDC Las Vegas 2024",
+                    "sharingInfo": {
+                      "shareId": "6G13Ern6QcOKGD8_cOqy1g",
+                      "shareUrl": "https://open.spotify.com/album/7Dq0VeyORoXlbxB1tBntZe?si=6G13Ern6QcOKGD8_cOqy1g"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:7Dq0VeyORoXlbxB1tBntZe"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Mr. Bill"
+                          },
+                          "uri": "spotify:artist:5JJclMMPi2YgEKjJY9AjbB"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025b3789a9a857e9a874ae9959",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515b3789a9a857e9a874ae9959",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735b3789a9a857e9a874ae9959",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "3YSCEubpM4QyBWIMc2fU0w",
+                    "name": "Mechanomorphic",
+                    "sharingInfo": {
+                      "shareId": "9cDwSBtRQmqIQBcLd5C8jA",
+                      "shareUrl": "https://open.spotify.com/album/3YSCEubpM4QyBWIMc2fU0w?si=9cDwSBtRQmqIQBcLd5C8jA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3YSCEubpM4QyBWIMc2fU0w"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Vini Vici"
+                          },
+                          "uri": "spotify:artist:29zsVzEH33dD5QqxeL8dvy"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02fdfd23bf2961a89c92e418de",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851fdfd23bf2961a89c92e418de",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273fdfd23bf2961a89c92e418de",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "0w2ske07UekHZanlfLqBap",
+                    "name": "Life Is a Remix",
+                    "sharingInfo": {
+                      "shareId": "ExxV8b0wSoKnpq44XsG6Ew",
+                      "shareUrl": "https://open.spotify.com/album/0w2ske07UekHZanlfLqBap?si=ExxV8b0wSoKnpq44XsG6Ew"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:0w2ske07UekHZanlfLqBap"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Monstercat"
+                          },
+                          "uri": "spotify:artist:4YwB41gFHCxY5bcNR3CcIH"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b1b4f333c30b954b3ccd4d81",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b1b4f333c30b954b3ccd4d81",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b1b4f333c30b954b3ccd4d81",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "1tug0tdqpXDnWAosTGU6fS",
+                    "name": "Rocket League x Monstercat - Legacy",
+                    "sharingInfo": {
+                      "shareId": "ND-voIt-SsCbZu6eRxZhng",
+                      "shareUrl": "https://open.spotify.com/album/1tug0tdqpXDnWAosTGU6fS?si=ND-voIt-SsCbZu6eRxZhng"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:1tug0tdqpXDnWAosTGU6fS"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02aa4832b713bb57a0fdf34664",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851aa4832b713bb57a0fdf34664",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273aa4832b713bb57a0fdf34664",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "1JxXgLyB7aBYwRfHeFfKsu",
+                    "name": "Rocket League x Monstercat Vol. 4",
+                    "sharingInfo": {
+                      "shareId": "708YjotbTS-vSfeSgOx-5Q",
+                      "shareUrl": "https://open.spotify.com/album/1JxXgLyB7aBYwRfHeFfKsu?si=708YjotbTS-vSfeSgOx-5Q"
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:1JxXgLyB7aBYwRfHeFfKsu"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Monstercat"
+                          },
+                          "uri": "spotify:artist:4YwB41gFHCxY5bcNR3CcIH"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025b67e0f585195cb4f5d1dd31",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515b67e0f585195cb4f5d1dd31",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735b67e0f585195cb4f5d1dd31",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "3juG6u5kmrIdzbPEBu75xk",
+                    "name": "Monstercat - Best of 2020",
+                    "sharingInfo": {
+                      "shareId": "4LHSa81ITxi58aQ8axWRdQ",
+                      "shareUrl": "https://open.spotify.com/album/3juG6u5kmrIdzbPEBu75xk?si=4LHSa81ITxi58aQ8axWRdQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3juG6u5kmrIdzbPEBu75xk"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Monstercat"
+                          },
+                          "uri": "spotify:artist:4YwB41gFHCxY5bcNR3CcIH"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029c7b8b6c62518ac5b6038abc",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519c7b8b6c62518ac5b6038abc",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739c7b8b6c62518ac5b6038abc",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "21F2ejaNXyZrXDdRK01nCC",
+                    "name": "Monstercat - Best of 2018",
+                    "sharingInfo": {
+                      "shareId": "DlJ5UnnZTHG8qW3-w0EEIg",
+                      "shareUrl": "https://open.spotify.com/album/21F2ejaNXyZrXDdRK01nCC?si=DlJ5UnnZTHG8qW3-w0EEIg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:21F2ejaNXyZrXDdRK01nCC"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029f7dfa35153f510c6275bb4d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519f7dfa35153f510c6275bb4d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739f7dfa35153f510c6275bb4d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2011
+                    },
+                    "id": "0SMXSJfFWbb42gI7mApBHP",
+                    "name": "Never Mind The Bollocks... Here's Paul Oakenfold (Mixed Version)",
+                    "sharingInfo": {
+                      "shareId": "VZ4EzZdyRhicQ8SJmY5_EQ",
+                      "shareUrl": "https://open.spotify.com/album/0SMXSJfFWbb42gI7mApBHP?si=VZ4EzZdyRhicQ8SJmY5_EQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:0SMXSJfFWbb42gI7mApBHP"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Monstercat"
+                          },
+                          "uri": "spotify:artist:4YwB41gFHCxY5bcNR3CcIH"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02875e2c8eeeab3db53b7be167",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851875e2c8eeeab3db53b7be167",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273875e2c8eeeab3db53b7be167",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "4zebClfjU7LVifwhE7CRpd",
+                    "name": "Monstercat Instinct Vol. 3",
+                    "sharingInfo": {
+                      "shareId": "0a5DKGYRSxK_fsWSrppSDA",
+                      "shareUrl": "https://open.spotify.com/album/4zebClfjU7LVifwhE7CRpd?si=0a5DKGYRSxK_fsWSrppSDA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:4zebClfjU7LVifwhE7CRpd"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Monstercat"
+                          },
+                          "uri": "spotify:artist:4YwB41gFHCxY5bcNR3CcIH"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02370df3bf63c668ba5764a8a3",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851370df3bf63c668ba5764a8a3",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273370df3bf63c668ba5764a8a3",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "5Dt2L9cgGjdeODEkH450QM",
+                    "name": "Monstercat Uncaged Vol. 6",
+                    "sharingInfo": {
+                      "shareId": "I3zwxY_wQtWL0ghBMmi34w",
+                      "shareUrl": "https://open.spotify.com/album/5Dt2L9cgGjdeODEkH450QM?si=I3zwxY_wQtWL0ghBMmi34w"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:5Dt2L9cgGjdeODEkH450QM"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Yahel"
+                          },
+                          "uri": "spotify:artist:7CHdJ8rVKe6cez9PKlpKrF"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02af26df040eb2ed7bbb3a9ecf",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851af26df040eb2ed7bbb3a9ecf",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273af26df040eb2ed7bbb3a9ecf",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2014
+                    },
+                    "id": "0jVbZ5naQs3ZtwTfYAaCd3",
+                    "name": "Full On Fluoro, Vol. 2 (Unmixed)",
+                    "sharingInfo": {
+                      "shareId": "aQKxgaFwTvSaK-ZtYBtVVw",
+                      "shareUrl": "https://open.spotify.com/album/0jVbZ5naQs3ZtwTfYAaCd3?si=aQKxgaFwTvSaK-ZtYBtVVw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:0jVbZ5naQs3ZtwTfYAaCd3"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Insomniac Music Group"
+                          },
+                          "uri": "spotify:artist:5OikDRVEPtkPGRlhpwynSo"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024d8a10dc2d9cabdc33c00f69",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514d8a10dc2d9cabdc33c00f69",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734d8a10dc2d9cabdc33c00f69",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "6uPcnPOziG32h0zoUFE7nN",
+                    "name": "EDC Mexico 2024",
+                    "sharingInfo": {
+                      "shareId": "R3pTuVOKS9GRSx02IeUlyw",
+                      "shareUrl": "https://open.spotify.com/album/6uPcnPOziG32h0zoUFE7nN?si=R3pTuVOKS9GRSx02IeUlyw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:6uPcnPOziG32h0zoUFE7nN"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Monstercat"
+                          },
+                          "uri": "spotify:artist:4YwB41gFHCxY5bcNR3CcIH"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e026f04fea798f6c52fb67872bd",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048516f04fea798f6c52fb67872bd",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2736f04fea798f6c52fb67872bd",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "06pfeMzbeaq0J8ZcE8DwMk",
+                    "name": "Monstercat Uncaged Vol. 11",
+                    "sharingInfo": {
+                      "shareId": "MUpUzsKmT1uilM94lIXDEw",
+                      "shareUrl": "https://open.spotify.com/album/06pfeMzbeaq0J8ZcE8DwMk?si=MUpUzsKmT1uilM94lIXDEw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:06pfeMzbeaq0J8ZcE8DwMk"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e0337b21aeeb51df5589ef32",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e0337b21aeeb51df5589ef32",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e0337b21aeeb51df5589ef32",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2010
+                    },
+                    "id": "6CkPDxDMdrnyZdwaPO8YyA",
+                    "name": "Red Means Distortion",
+                    "sharingInfo": {
+                      "shareId": "El5FK9HrRrW0nPDT548L9Q",
+                      "shareUrl": "https://open.spotify.com/album/6CkPDxDMdrnyZdwaPO8YyA?si=El5FK9HrRrW0nPDT548L9Q"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:6CkPDxDMdrnyZdwaPO8YyA"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Loud"
+                          },
+                          "uri": "spotify:artist:2nhTi1cXehDDk7kRCRyBkR"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021f82fcbf6ac866b37d7e5feb",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511f82fcbf6ac866b37d7e5feb",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731f82fcbf6ac866b37d7e5feb",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "3JgufqDjoLLCqy0HTUGDBf",
+                    "name": "Remixes (Others)",
+                    "sharingInfo": {
+                      "shareId": "Jx_wsPcrQp-S49lIjnnjrg",
+                      "shareUrl": "https://open.spotify.com/album/3JgufqDjoLLCqy0HTUGDBf?si=Jx_wsPcrQp-S49lIjnnjrg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3JgufqDjoLLCqy0HTUGDBf"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Blastoyz"
+                          },
+                          "uri": "spotify:artist:6WLP1sraOcF3Gaxp7xBa4p"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e027b008b44b9351ab9031c717b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048517b008b44b9351ab9031c717b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2737b008b44b9351ab9031c717b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "5qK6fZ78jLXitiDfzKDL3g",
+                    "name": "Part Of The Dream III",
+                    "sharingInfo": {
+                      "shareId": "NDU_WTbRRuaYcPsrBT4L0g",
+                      "shareUrl": "https://open.spotify.com/album/5qK6fZ78jLXitiDfzKDL3g?si=NDU_WTbRRuaYcPsrBT4L0g"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:5qK6fZ78jLXitiDfzKDL3g"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Monstercat"
+                          },
+                          "uri": "spotify:artist:4YwB41gFHCxY5bcNR3CcIH"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02f7111fc8598a81a43bf58502",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851f7111fc8598a81a43bf58502",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273f7111fc8598a81a43bf58502",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2017
+                    },
+                    "id": "1DCcRg5yXFDHZS2AmvxKki",
+                    "name": "Monstercat - Best of 2017",
+                    "sharingInfo": {
+                      "shareId": "OPysLJiBTqGolZSF_XNyqQ",
+                      "shareUrl": "https://open.spotify.com/album/1DCcRg5yXFDHZS2AmvxKki?si=OPysLJiBTqGolZSF_XNyqQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:1DCcRg5yXFDHZS2AmvxKki"
+                  }
+                ],
+                "totalCount": 1
+              }
+            }
+          ],
+          "totalCount": 108
+        },
+        "discoveredOnV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Infected Mushroom. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO43Sibe",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO43Sibe-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Infected Mushroom",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO43Sibe"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "id": "7J0uGnEwmOOCiuA3YceapQ",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://mosaic.scdn.co/640/ab67616d00001e0223fad8bd3a0351c0e183f075ab67616d00001e023a3b68cf5a698a12526a83e2ab67616d00001e028e216b4d9a4ad0eaffea4241ab67616d00001e02c878b0d17ea36a42314f7eef",
+                          "width": 640
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://mosaic.scdn.co/300/ab67616d00001e0223fad8bd3a0351c0e183f075ab67616d00001e023a3b68cf5a698a12526a83e2ab67616d00001e028e216b4d9a4ad0eaffea4241ab67616d00001e02c878b0d17ea36a42314f7eef",
+                          "width": 300
+                        },
+                        {
+                          "height": 60,
+                          "url": "https://mosaic.scdn.co/60/ab67616d00001e0223fad8bd3a0351c0e183f075ab67616d00001e023a3b68cf5a698a12526a83e2ab67616d00001e028e216b4d9a4ad0eaffea4241ab67616d00001e02c878b0d17ea36a42314f7eef",
+                          "width": 60
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Best of Infected Mushroom",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "trooper11499"
+                  }
+                },
+                "uri": "spotify:playlist:7J0uGnEwmOOCiuA3YceapQ"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Lose yourself in the cosmic spheres of Psytrance.",
+                "id": "37i9dQZF1DWXWbLEOaHnU3",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f0000000294d511ba3353077cfeb2f0fe",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Psytrance Supernova",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWXWbLEOaHnU3"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The biggest dance floor bangers of the 2000s.",
+                "id": "37i9dQZF1DWSj4n2q6ZYVe",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000027d24d8bbad41b4bb9dff417a",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Dance Hits 2000s",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWSj4n2q6ZYVe"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "psytrance 2025 - psychedelic electronic - best psy trance 2025 - trance music 2025 - best acid music 2025 - mushroom music - goatrance - goa trance - ozora festival - kantara psy trance",
+                "id": "0iJEh2BsvSw8V3lDTkiUK7",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c2f49a01b987e8f6268c1df1b",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Psytrance 2025 \ud83c\udf00 Psy Trance - Goatrance",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Revealed Recordings"
+                  }
+                },
+                "uri": "spotify:playlist:0iJEh2BsvSw8V3lDTkiUK7"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Psychedelic Trance at its best...",
+                "id": "5LYkaLqDJXIDP2giSxqTjv",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da844b497beac409520a3a672be8",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Psytrance / Trance \ud83c\udf44",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Psytrance / Trance \ud83c\udf44"
+                  }
+                },
+                "uri": "spotify:playlist:5LYkaLqDJXIDP2giSxqTjv"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "\u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05db\u05d9 \u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05e2\u05d5\u05de\u05e8 \u05d0\u05d3\u05dd \u05de\u05db\u05dc \u05d4\u05d6\u05de\u05e0\u05d9\u05dd. \u05e2\u05dd &quot;\u05e9\u05e0\u05d9 \u05de\u05e9\u05d5\u05d2\u05e2\u05d9\u05dd&quot;, &quot;\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1&quot;, &quot;\u05de\u05d4\u05e4\u05db\u05d4 \u05e9\u05dc \u05e9\u05de\u05d7\u05d4&quot;, &quot;\u05d4\u05d9\u05d0 \u05e8\u05e7 \u05e8\u05d5\u05e6\u05d4 \u05dc\u05e8\u05e7\u05d5\u05d3&quot;, &quot;\u05d7\u05d1\u05e8\u05d5\u05ea \u05e9\u05dc\u05da&quot;, &quot;\u05e8\u05d7\u05d5\u05e7 \u05de\u05db\u05d5\u05dc\u05dd&quot; \u05d5\u05e2\u05d5\u05d3",
+                "id": "6KuosI4VFmUoR0axRX6Lir",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c3e0d407cf773c35be0460b3b",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "\u05e2\u05d5\u05de\u05e8 \u05d0\u05d3\u05dd - \u05d4\u05dc\u05d4\u05d9\u05d8\u05d9\u05dd \u05d4\u05d2\u05d3\u05d5\u05dc\u05d9\u05dd",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Pure Israel"
+                  }
+                },
+                "uri": "spotify:playlist:6KuosI4VFmUoR0axRX6Lir"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "id": "6pJnnMJwoOo2hawKTVYxkq",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c7d56871cad3a9cc5b6deb69a",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "PsyTrance 2000's",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Fernando"
+                  }
+                },
+                "uri": "spotify:playlist:6pJnnMJwoOo2hawKTVYxkq"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "All Albums, All Singles, All Remixes by and for maestros IM. enjoy \u2665 LAST UPDATE: DECEMBER 24 (PSYTRANCE MAFIA)",
+                "id": "0ASjUGFVop4Ke5fVFBDO10",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://mosaic.scdn.co/640/ab67616d00001e02027737cbdad8e4d109d58e84ab67616d00001e02a1148567f1d1a5511ac428c7ab67616d00001e02e261c15fbb7b5beaaeb96453ab67616d00001e02f4862b4fa494ef26fd8f199e",
+                          "width": 640
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://mosaic.scdn.co/300/ab67616d00001e02027737cbdad8e4d109d58e84ab67616d00001e02a1148567f1d1a5511ac428c7ab67616d00001e02e261c15fbb7b5beaaeb96453ab67616d00001e02f4862b4fa494ef26fd8f199e",
+                          "width": 300
+                        },
+                        {
+                          "height": 60,
+                          "url": "https://mosaic.scdn.co/60/ab67616d00001e02027737cbdad8e4d109d58e84ab67616d00001e02a1148567f1d1a5511ac428c7ab67616d00001e02e261c15fbb7b5beaaeb96453ab67616d00001e02f4862b4fa494ef26fd8f199e",
+                          "width": 60
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Infected Mushroom Radio: Complete Discography",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Gal Ben Yehoshua"
+                  }
+                },
+                "uri": "spotify:playlist:0ASjUGFVop4Ke5fVFBDO10"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "id": "7pcwl7pxlG14JJGv0KzxAp",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://mosaic.scdn.co/640/ab67616d00001e024c1171920911eea632f2aa2cab67616d00001e02537a75e67ff8c59ff96d7b8aab67616d00001e02b5bc4686d08a5812a63f180dab67616d00001e02e73b1b6b3c3c25398303334f",
+                          "width": 640
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://mosaic.scdn.co/300/ab67616d00001e024c1171920911eea632f2aa2cab67616d00001e02537a75e67ff8c59ff96d7b8aab67616d00001e02b5bc4686d08a5812a63f180dab67616d00001e02e73b1b6b3c3c25398303334f",
+                          "width": 300
+                        },
+                        {
+                          "height": 60,
+                          "url": "https://mosaic.scdn.co/60/ab67616d00001e024c1171920911eea632f2aa2cab67616d00001e02537a75e67ff8c59ff96d7b8aab67616d00001e02b5bc4686d08a5812a63f180dab67616d00001e02e73b1b6b3c3c25398303334f",
+                          "width": 60
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Covers (that are better than the originals)",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "JTG"
+                  }
+                },
+                "uri": "spotify:playlist:7pcwl7pxlG14JJGv0KzxAp"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Created for all audiophiles, an exceptional breed of people who are fascinated by pure audio, motivated by the sound quality and addicted to audio gadgets.",
+                "id": "2PQ9pTWcoZdN261wcPzKT8",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c876e2b42d563ae5b2a248cbb",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "High-Resolution Audio",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Sree"
+                  }
+                },
+                "uri": "spotify:playlist:2PQ9pTWcoZdN261wcPzKT8"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "dubdogz dogprivate represa nostalgia classicas David Guetta Bob Sinclar,Kasino - Can&#x27;t Get Over Dj Antoine R.I.O. - Shine On Magic Box \u2013 If You dubdogz nostalgia, edm 00s, 00s, nostalgia",
+                "id": "4xQWhwsTyATIGI9Art1DuG",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84fb34b008b724c36a36eb0df8",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "DUBDOGZ - NOSTALGIA #01 #02 #03 e #4",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Lorenzo"
+                  }
+                },
+                "uri": "spotify:playlist:4xQWhwsTyATIGI9Art1DuG"
+              }
+            }
+          ],
+          "totalCount": 100
+        },
+        "featuringV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Infected Mushroom. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO43Sibe",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO43Sibe-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Infected Mushroom",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO43Sibe"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "With Bliss, Vini Vici, Xerox and more",
+                "id": "37i9dQZF1E4zFioTxxJoo8",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/6S2tas4z6DyIklBajDqJxI/en",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Infected Mushroom Radio",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1E4zFioTxxJoo8"
+              }
+            }
+          ],
+          "totalCount": 2
+        },
+        "relatedArtists": {
+          "items": [
+            {
+              "id": "5kCxDwD2rjY6lKSGdAW7Lk",
+              "profile": {
+                "name": "Bliss"
+              },
+              "uri": "spotify:artist:5kCxDwD2rjY6lKSGdAW7Lk",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebf60ecadc4927ad805a6e0a5f",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178f60ecadc4927ad805a6e0a5f",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174f60ecadc4927ad805a6e0a5f",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2opB8qXyAmLYSGEZxp7X3U",
+              "profile": {
+                "name": "1200 Micrograms"
+              },
+              "uri": "spotify:artist:2opB8qXyAmLYSGEZxp7X3U",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab67616d0000b273ae38351eebabe58535525b4d",
+                      "width": 640
+                    },
+                    {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/ab67616d00004851ae38351eebabe58535525b4d",
+                      "width": 64
+                    },
+                    {
+                      "height": 300,
+                      "url": "https://i.scdn.co/image/ab67616d00001e02ae38351eebabe58535525b4d",
+                      "width": 300
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2f9PTWJfMMDTAFZcvHy1Z5",
+              "profile": {
+                "name": "OVERWERK"
+              },
+              "uri": "spotify:artist:2f9PTWJfMMDTAFZcvHy1Z5",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb7db44272ab1a6c467f622691",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1787db44272ab1a6c467f622691",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051747db44272ab1a6c467f622691",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0YAmYesPdjvMPgnLKcDHR3",
+              "profile": {
+                "name": "Skazi"
+              },
+              "uri": "spotify:artist:0YAmYesPdjvMPgnLKcDHR3",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebdc23e2e666069861e8b2999e",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178dc23e2e666069861e8b2999e",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174dc23e2e666069861e8b2999e",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5RBdF1pJSLF3ugc2Y2PoB8",
+              "profile": {
+                "name": "Savant"
+              },
+              "uri": "spotify:artist:5RBdF1pJSLF3ugc2Y2PoB8",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb13594b7e2807330189daff84",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17813594b7e2807330189daff84",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517413594b7e2807330189daff84",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3dUltShd2gJQc98Kc7Syit",
+              "profile": {
+                "name": "Astrix"
+              },
+              "uri": "spotify:artist:3dUltShd2gJQc98Kc7Syit",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb9c426303d84dedd83417ac46",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1789c426303d84dedd83417ac46",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051749c426303d84dedd83417ac46",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3a9qv6NLHnsVxJUtKOMHvD",
+              "profile": {
+                "name": "The Glitch Mob"
+              },
+              "uri": "spotify:artist:3a9qv6NLHnsVxJUtKOMHvD",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb9b7ecb09bae3c89fde4cfbc7",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1789b7ecb09bae3c89fde4cfbc7",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051749b7ecb09bae3c89fde4cfbc7",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1Pe3z1UqRzKsQtHsl25dm6",
+              "profile": {
+                "name": "Juno Reactor"
+              },
+              "uri": "spotify:artist:1Pe3z1UqRzKsQtHsl25dm6",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb14d77dbf42fcdcbcb214aaeb",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17814d77dbf42fcdcbcb214aaeb",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517414d77dbf42fcdcbcb214aaeb",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1OpE6RVs0OBi3NtYklybgW",
+              "profile": {
+                "name": "PrototypeRaptor"
+              },
+              "uri": "spotify:artist:1OpE6RVs0OBi3NtYklybgW",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab67616d0000b2735a154e14ba8607dd93a26219",
+                      "width": 640
+                    },
+                    {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/ab67616d000048515a154e14ba8607dd93a26219",
+                      "width": 64
+                    },
+                    {
+                      "height": 300,
+                      "url": "https://i.scdn.co/image/ab67616d00001e025a154e14ba8607dd93a26219",
+                      "width": 300
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2DuJi13MWHjRHrqRUwk8vH",
+              "profile": {
+                "name": "Knife Party"
+              },
+              "uri": "spotify:artist:2DuJi13MWHjRHrqRUwk8vH",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb134cf89df8136ae2ec50d1a1",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178134cf89df8136ae2ec50d1a1",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174134cf89df8136ae2ec50d1a1",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6WLP1sraOcF3Gaxp7xBa4p",
+              "profile": {
+                "name": "Blastoyz"
+              },
+              "uri": "spotify:artist:6WLP1sraOcF3Gaxp7xBa4p",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb78a0bb03d5364cf09fb6d84b",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17878a0bb03d5364cf09fb6d84b",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517478a0bb03d5364cf09fb6d84b",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7bSyjB4y9NAhoUDrZTpYt4",
+              "profile": {
+                "name": "Ace Ventura"
+              },
+              "uri": "spotify:artist:7bSyjB4y9NAhoUDrZTpYt4",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb4364f8de9c716d3a273d359e",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1784364f8de9c716d3a273d359e",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051744364f8de9c716d3a273d359e",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5FWi1mowu6uiU2ZHwr1rby",
+              "profile": {
+                "name": "Feed Me"
+              },
+              "uri": "spotify:artist:5FWi1mowu6uiU2ZHwr1rby",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb4c708d39acdc96b195dcd2d9",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1784c708d39acdc96b195dcd2d9",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051744c708d39acdc96b195dcd2d9",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0QJKELJZZuLAjqLOOixJm5",
+              "profile": {
+                "name": "The Bloody Beetroots"
+              },
+              "uri": "spotify:artist:0QJKELJZZuLAjqLOOixJm5",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb2b74796dc7038abca211d4ef",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1782b74796dc7038abca211d4ef",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051742b74796dc7038abca211d4ef",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "55SDgogZ1SRUhIgmGvLyhD",
+              "profile": {
+                "name": "Electric Universe"
+              },
+              "uri": "spotify:artist:55SDgogZ1SRUhIgmGvLyhD",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb43ca40c8b1b325be5a2147ee",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17843ca40c8b1b325be5a2147ee",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517443ca40c8b1b325be5a2147ee",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "16fgoXgeTpBh4GE9XOjvn7",
+              "profile": {
+                "name": "Talamasca"
+              },
+              "uri": "spotify:artist:16fgoXgeTpBh4GE9XOjvn7",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb61b84f12beb0ca8f914a2e1e",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17861b84f12beb0ca8f914a2e1e",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517461b84f12beb0ca8f914a2e1e",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1Krc0nqZiWJ5SwngwZrbZm",
+              "profile": {
+                "name": "Beatman"
+              },
+              "uri": "spotify:artist:1Krc0nqZiWJ5SwngwZrbZm",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb317173db4dfdacb58c8aef8a",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178317173db4dfdacb58c8aef8a",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174317173db4dfdacb58c8aef8a",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0sZAFQhjMyOCrYmzZhuffk",
+              "profile": {
+                "name": "Ludmilla"
+              },
+              "uri": "spotify:artist:0sZAFQhjMyOCrYmzZhuffk",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eba8cf734c6ffe6921a5efb764",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178a8cf734c6ffe6921a5efb764",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174a8cf734c6ffe6921a5efb764",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5xnZNDl118VvPTvthujxpx",
+              "profile": {
+                "name": "Captain Hook"
+              },
+              "uri": "spotify:artist:5xnZNDl118VvPTvthujxpx",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb4e37b26e605b08c5271a0eef",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1784e37b26e605b08c5271a0eef",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051744e37b26e605b08c5271a0eef",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1mFl3WqgDgAirBKMnoYLLN",
+              "profile": {
+                "name": "Sesto Sento"
+              },
+              "uri": "spotify:artist:1mFl3WqgDgAirBKMnoYLLN",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab67616d0000b273d0d96a967e70f18d7c19c616",
+                      "width": 640
+                    },
+                    {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/ab67616d00004851d0d96a967e70f18d7c19c616",
+                      "width": 64
+                    },
+                    {
+                      "height": 300,
+                      "url": "https://i.scdn.co/image/ab67616d00001e02d0d96a967e70f18d7c19c616",
+                      "width": 300
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "totalCount": 40
+        }
+      },
+      "relatedVideos": {
+        "__typename": "RelatedVideoPage",
+        "items": [],
+        "totalCount": 0
+      },
+      "saved": false,
+      "sharingInfo": {
+        "shareId": "inQC82uzTQiNyMSxr2jxVg",
+        "shareUrl": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI?si=inQC82uzTQiNyMSxr2jxVg"
+      },
+      "stats": {
+        "followers": 769191,
+        "monthlyListeners": 911866,
+        "topCities": {
+          "items": [
+            {
+              "city": "Tel Aviv",
+              "country": "IL",
+              "numberOfListeners": 49376,
+              "region": "TA"
+            },
+            {
+              "city": "Mexico City",
+              "country": "MX",
+              "numberOfListeners": 27319,
+              "region": "CMX"
+            },
+            {
+              "city": "S\u00e3o Paulo",
+              "country": "BR",
+              "numberOfListeners": 15233,
+              "region": "SP"
+            },
+            {
+              "city": "Stockholm",
+              "country": "SE",
+              "numberOfListeners": 11208,
+              "region": "AB"
+            },
+            {
+              "city": "Helsinki",
+              "country": "FI",
+              "numberOfListeners": 10432,
+              "region": "18"
+            }
+          ]
+        },
+        "worldRank": 0
+      },
+      "uri": "spotify:artist:6S2tas4z6DyIklBajDqJxI",
+      "visualIdentity": {
+        "wideFullBleedImage": {
+          "__typename": "VisualIdentityImage",
+          "extractedColorSet": {
+            "encoreBaseSetTextColor": {
+              "alpha": 255,
+              "blue": 255,
+              "green": 189,
+              "red": 144
+            },
+            "highContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 196,
+                "green": 68,
+                "red": 0
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 150,
+                "green": 13,
+                "red": 0
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 208,
+                "red": 174
+              }
+            },
+            "higherContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 154,
+                "green": 20,
+                "red": 0
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 199,
+                "green": 71,
+                "red": 24
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 96,
+                "green": 215,
+                "red": 30
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 208,
+                "red": 174
+              }
+            },
+            "minContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 200,
+                "green": 72,
+                "red": 0
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 157,
+                "green": 24,
+                "red": 0
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              }
+            }
+          }
+        }
+      },
+      "visuals": {
+        "avatarImage": {
+          "extractedColors": {
+            "colorRaw": {
+              "hex": "#535353"
+            }
+          },
+          "sources": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb2ea36e7e9e49762e4a5c7d9b",
+              "width": 640
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1782ea36e7e9e49762e4a5c7d9b",
+              "width": 160
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051742ea36e7e9e49762e4a5c7d9b",
+              "width": 320
+            }
+          ]
+        },
+        "gallery": {
+          "items": [
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4919e718b434b396d89cf69f5",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4fb9d3d2bb61c7bd9e5a37048",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4107ed4b4a14080c61c907aaa",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd460f2acf8fb4fecced4d7ce94",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4d86f5f2987b60ec21e36e247",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd421c73d780a419ae0bbb879e9",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4d140faeeec50e7b708772ef7",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd47ccfa0ebf13635e5ad7f9149",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4ab47a58bbf388be03c311bee",
+                  "width": 640
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "watchFeedEntrypoint": null
+    }
+  },
+  "extensions": {}
+}

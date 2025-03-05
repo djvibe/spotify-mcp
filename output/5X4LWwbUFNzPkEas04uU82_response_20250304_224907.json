@@ -1,0 +1,4559 @@
+{
+  "data": {
+    "artistUnion": {
+      "__typename": "Artist",
+      "discography": {
+        "albums": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2020 Ultra Records, LLC / Kanary Music, Ltd.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e022f3a0b652f199fc7b3ff0cab",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048512f3a0b652f199fc7b3ff0cab",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2732f3a0b652f199fc7b3ff0cab",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 22,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2021
+                    },
+                    "id": "6TPMjAbsa8vrlaRCY8HaTH",
+                    "label": "Ultra Records, LLC",
+                    "name": "SLEEP",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "LitTAp1cQwSBTue82zu1iQ",
+                      "shareUrl": "https://open.spotify.com/album/6TPMjAbsa8vrlaRCY8HaTH?si=LitTAp1cQwSBTue82zu1iQ"
+                    },
+                    "tracks": {
+                      "totalCount": 15
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6TPMjAbsa8vrlaRCY8HaTH"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2019 Ultra Records, LLC / Kanary Music, Ltd.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a408b48e353f62d37debcd6a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a408b48e353f62d37debcd6a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a408b48e353f62d37debcd6a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 28,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2020
+                    },
+                    "id": "3RYFIyCHaMbrxz5l5kMTus",
+                    "label": "Ultra Records, LLC",
+                    "name": "Nothing To See Here",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "0L2-qGTIQ_y1y7-h8d6nXQ",
+                      "shareUrl": "https://open.spotify.com/album/3RYFIyCHaMbrxz5l5kMTus?si=0L2-qGTIQ_y1y7-h8d6nXQ"
+                    },
+                    "tracks": {
+                      "totalCount": 9
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3RYFIyCHaMbrxz5l5kMTus"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2017 Ultra Records, LLC / Kanary Music, Ltd.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e026d7abf8f9d308a4a83eab936",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048516d7abf8f9d308a4a83eab936",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2736d7abf8f9d308a4a83eab936",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 20,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2017
+                    },
+                    "id": "1EFHCXHKy3d83KGgu2Dx4y",
+                    "label": "Ultra Records, LLC",
+                    "name": "Blood Of My Blood",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "OxANYWEsSrqJwlr5NMsxyA",
+                      "shareUrl": "https://open.spotify.com/album/1EFHCXHKy3d83KGgu2Dx4y?si=OxANYWEsSrqJwlr5NMsxyA"
+                    },
+                    "tracks": {
+                      "totalCount": 10
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:1EFHCXHKy3d83KGgu2Dx4y"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2014 Kanary Inc.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2014 Kanary Inc.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021690af410ce9d07e97ab3df8",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511690af410ce9d07e97ab3df8",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731690af410ce9d07e97ab3df8",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 20,
+                      "month": 12,
+                      "precision": "DAY",
+                      "year": 2014
+                    },
+                    "id": "1uDDSp1dKmLr7eMQS7An5p",
+                    "label": "Kanary",
+                    "name": "We Were Young",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "MqokCfdZRCqL1JZPwZrMyA",
+                      "shareUrl": "https://open.spotify.com/album/1uDDSp1dKmLr7eMQS7An5p?si=MqokCfdZRCqL1JZPwZrMyA"
+                    },
+                    "tracks": {
+                      "totalCount": 6
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:1uDDSp1dKmLr7eMQS7An5p"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 4
+        },
+        "compilations": {
+          "items": [],
+          "totalCount": 0
+        },
+        "latest": {
+          "copyright": {
+            "items": [
+              {
+                "text": "(P) 2024 Ultra Records, LLC / Kanary Music, Ltd.",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02041103672f4624f345742b77",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851041103672f4624f345742b77",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273041103672f4624f345742b77",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 18,
+            "month": 10,
+            "precision": "DAY",
+            "year": 2024
+          },
+          "id": "3TZ5bDPYrtEONUeP5pv3wS",
+          "label": "Ultra Records, LLC",
+          "name": "Upside Down",
+          "playability": {
+            "playable": true,
+            "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+            "shareId": "YCezCKjIS96Pg_Zwfmd5Og",
+            "shareUrl": "https://open.spotify.com/album/3TZ5bDPYrtEONUeP5pv3wS?si=YCezCKjIS96Pg_Zwfmd5Og"
+          },
+          "tracks": {
+            "totalCount": 1
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:3TZ5bDPYrtEONUeP5pv3wS"
+        },
+        "popularReleasesAlbums": {
+          "items": [
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2013 Doorn / SpinninRecords.com",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2013 Doorn / SpinninRecords.com",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0221d1a642761f8d4779cc2c38",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485121d1a642761f8d4779cc2c38",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27321d1a642761f8d4779cc2c38",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 2,
+                "month": 9,
+                "precision": "DAY",
+                "year": 2013
+              },
+              "id": "7p38vlEZaMNySKQVSSWUm8",
+              "label": "Doorn Records",
+              "name": "Tsunami",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "THXVz-RGQw--yU1YGfXtyw",
+                "shareUrl": "https://open.spotify.com/album/7p38vlEZaMNySKQVSSWUm8?si=THXVz-RGQw--yU1YGfXtyw"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:7p38vlEZaMNySKQVSSWUm8"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2022 Spinnin' Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2022 Spinnin' Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e1be1b6007441d452061666d",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e1be1b6007441d452061666d",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e1be1b6007441d452061666d",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 16,
+                "month": 9,
+                "precision": "DAY",
+                "year": 2022
+              },
+              "id": "4HNIEO4z4B9iXPW8ywV01E",
+              "label": "Spinnin' Records",
+              "name": "Where Do We Go",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "51BkbbI6T_SESQqKQXRqfA",
+                "shareUrl": "https://open.spotify.com/album/4HNIEO4z4B9iXPW8ywV01E?si=51BkbbI6T_SESQqKQXRqfA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:4HNIEO4z4B9iXPW8ywV01E"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2024 Ultra Records, LLC / Kanary Music, Ltd.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b68299aab215a529c7b2449a",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b68299aab215a529c7b2449a",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b68299aab215a529c7b2449a",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 15,
+                "month": 3,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "5q9af3Svt28pk3shfKA9qX",
+              "label": "Ultra Records, LLC",
+              "name": "Let You Down (with Gabry Ponte)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "9Kl0wMMVQby7WpijDFTSpA",
+                "shareUrl": "https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX?si=9Kl0wMMVQby7WpijDFTSpA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:5q9af3Svt28pk3shfKA9qX"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2023 RCA Records, a division of Sony Music Entertainment",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a1985e9a44880a5aa7af4157",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a1985e9a44880a5aa7af4157",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a1985e9a44880a5aa7af4157",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 24,
+                "month": 2,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "2lN4M7HJ3xPgPFpVuInEQe",
+              "label": "Loud Luxury/Ultra Records/Sony Music Nashville/RCA Records",
+              "name": "Next To You (feat. Kane Brown)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "D-fYACfkSMCignpOcJpGMg",
+                "shareUrl": "https://open.spotify.com/album/2lN4M7HJ3xPgPFpVuInEQe?si=D-fYACfkSMCignpOcJpGMg"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:2lN4M7HJ3xPgPFpVuInEQe"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2020 Ultra Records, LLC / Kanary Music, Ltd.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02fdd23e8d468cf7dba0a435f4",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851fdd23e8d468cf7dba0a435f4",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273fdd23e8d468cf7dba0a435f4",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 5,
+                "month": 6,
+                "precision": "DAY",
+                "year": 2020
+              },
+              "id": "6bVZaSKh6STnheH2oW3V13",
+              "label": "Third Party",
+              "name": "Tinted Eyes (feat. 24kGoldn)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "QbeUuTjcTl2VZ4ArtMUAvA",
+                "shareUrl": "https://open.spotify.com/album/6bVZaSKh6STnheH2oW3V13?si=QbeUuTjcTl2VZ4ArtMUAvA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:6bVZaSKh6STnheH2oW3V13"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2019 Ultra Records, LLC / Kanary Music, Ltd.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a408b48e353f62d37debcd6a",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a408b48e353f62d37debcd6a",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a408b48e353f62d37debcd6a",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 28,
+                "month": 8,
+                "precision": "DAY",
+                "year": 2020
+              },
+              "id": "3RYFIyCHaMbrxz5l5kMTus",
+              "label": "Ultra Records, LLC",
+              "name": "Nothing To See Here",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "0L2-qGTIQ_y1y7-h8d6nXQ",
+                "shareUrl": "https://open.spotify.com/album/3RYFIyCHaMbrxz5l5kMTus?si=0L2-qGTIQ_y1y7-h8d6nXQ"
+              },
+              "tracks": {
+                "totalCount": 9
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:3RYFIyCHaMbrxz5l5kMTus"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2020 Ultra Records, LLC / Kanary Music, Ltd.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02e611ab053d5d10a66fb69f51",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851e611ab053d5d10a66fb69f51",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273e611ab053d5d10a66fb69f51",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 16,
+                "month": 10,
+                "precision": "DAY",
+                "year": 2020
+              },
+              "id": "437ICQjjhBRkK47bG686f9",
+              "label": "Ultra Records, LLC",
+              "name": "West Coast (feat. Quinn XCII)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "VlQ8qOroTsiYiMM6r5JSoQ",
+                "shareUrl": "https://open.spotify.com/album/437ICQjjhBRkK47bG686f9?si=VlQ8qOroTsiYiMM6r5JSoQ"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:437ICQjjhBRkK47bG686f9"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2014 SpinninRecords.com",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2014 SpinninRecords.com",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02ca5e02b30839a5d666364fa8",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851ca5e02b30839a5d666364fa8",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273ca5e02b30839a5d666364fa8",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 16,
+                "month": 6,
+                "precision": "DAY",
+                "year": 2014
+              },
+              "id": "0dCEAJtX9VHBCXms2vgKfT",
+              "label": "Spinnin' Records",
+              "name": "Gold Skies (feat. Aleesia)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "vvgrqHxORZGWWEXPlAKzNw",
+                "shareUrl": "https://open.spotify.com/album/0dCEAJtX9VHBCXms2vgKfT?si=vvgrqHxORZGWWEXPlAKzNw"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:0dCEAJtX9VHBCXms2vgKfT"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2020 Ultra Records, LLC / Kanary Music, Ltd.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022f3a0b652f199fc7b3ff0cab",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512f3a0b652f199fc7b3ff0cab",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732f3a0b652f199fc7b3ff0cab",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 22,
+                "month": 10,
+                "precision": "DAY",
+                "year": 2021
+              },
+              "id": "6TPMjAbsa8vrlaRCY8HaTH",
+              "label": "Ultra Records, LLC",
+              "name": "SLEEP",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "LitTAp1cQwSBTue82zu1iQ",
+                "shareUrl": "https://open.spotify.com/album/6TPMjAbsa8vrlaRCY8HaTH?si=LitTAp1cQwSBTue82zu1iQ"
+              },
+              "tracks": {
+                "totalCount": 15
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:6TPMjAbsa8vrlaRCY8HaTH"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2017 Ultra Records, LLC / Kanary Music, Ltd.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02105c0d0c00548a3f5596d97c",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851105c0d0c00548a3f5596d97c",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273105c0d0c00548a3f5596d97c",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 24,
+                "month": 2,
+                "precision": "DAY",
+                "year": 2017
+              },
+              "id": "4qmekuydjtcZerA8coLMNM",
+              "label": "Ultra Records, LLC",
+              "name": "Beautiful Disaster",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "EHSGXNuFQQWdhWd-Ht2dzQ",
+                "shareUrl": "https://open.spotify.com/album/4qmekuydjtcZerA8coLMNM?si=EHSGXNuFQQWdhWd-Ht2dzQ"
+              },
+              "tracks": {
+                "totalCount": 6
+              },
+              "type": "EP",
+              "uri": "spotify:album:4qmekuydjtcZerA8coLMNM"
+            }
+          ],
+          "totalCount": 20
+        },
+        "singles": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2024 Ultra Records, LLC / Kanary Music, Ltd.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02041103672f4624f345742b77",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851041103672f4624f345742b77",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273041103672f4624f345742b77",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 18,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "3TZ5bDPYrtEONUeP5pv3wS",
+                    "label": "Ultra Records, LLC",
+                    "name": "Upside Down",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "YCezCKjIS96Pg_Zwfmd5Og",
+                      "shareUrl": "https://open.spotify.com/album/3TZ5bDPYrtEONUeP5pv3wS?si=YCezCKjIS96Pg_Zwfmd5Og"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3TZ5bDPYrtEONUeP5pv3wS"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2024 Ultra Records, LLC / Kanary Music, Ltd.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0236d23c779a2ce774cbf8b371",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485136d23c779a2ce774cbf8b371",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27336d23c779a2ce774cbf8b371",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 23,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "2JuSoLnQXNXbVdOODSZQ88",
+                    "label": "Ultra Records, LLC",
+                    "name": "Smile",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "g0BFc1b3R6asyLlbVUOLpA",
+                      "shareUrl": "https://open.spotify.com/album/2JuSoLnQXNXbVdOODSZQ88?si=g0BFc1b3R6asyLlbVUOLpA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:2JuSoLnQXNXbVdOODSZQ88"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 Kanary Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 Kanary Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0266064e0a532a8b6cc3b19e69",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485166064e0a532a8b6cc3b19e69",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27366064e0a532a8b6cc3b19e69",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 28,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "6HQwDAc3znaAWHtuMVhB7E",
+                    "label": "Kanary Records",
+                    "name": "It Ain't Safe",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "eoZTvnWESuya4OuVK44mqw",
+                      "shareUrl": "https://open.spotify.com/album/6HQwDAc3znaAWHtuMVhB7E?si=eoZTvnWESuya4OuVK44mqw"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:6HQwDAc3znaAWHtuMVhB7E"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 Kanary Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 Kanary Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0224fe7e0b73a1e13293452520",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485124fe7e0b73a1e13293452520",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27324fe7e0b73a1e13293452520",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 3,
+                      "month": 5,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "5x66mF9DXl6adqFN3wbZhr",
+                    "label": "Kanary Records",
+                    "name": "Warmth (feat. Jono Dorr)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "sB4HeYFxQZmbJlq9AtFk8w",
+                      "shareUrl": "https://open.spotify.com/album/5x66mF9DXl6adqFN3wbZhr?si=sB4HeYFxQZmbJlq9AtFk8w"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5x66mF9DXl6adqFN3wbZhr"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2024 Ultra Records, LLC / Kanary Music, Ltd.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b68299aab215a529c7b2449a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b68299aab215a529c7b2449a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b68299aab215a529c7b2449a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 15,
+                      "month": 3,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "5q9af3Svt28pk3shfKA9qX",
+                    "label": "Ultra Records, LLC",
+                    "name": "Let You Down (with Gabry Ponte)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "9Kl0wMMVQby7WpijDFTSpA",
+                      "shareUrl": "https://open.spotify.com/album/5q9af3Svt28pk3shfKA9qX?si=9Kl0wMMVQby7WpijDFTSpA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5q9af3Svt28pk3shfKA9qX"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "Under exclusive license to Spinnin' Records /, \u00a9 2024 Kanary Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "Under exclusive license to Spinnin' Records /, \u2117 2024 Kanary Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e023e1d5ab55978dedfa514d116",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048513e1d5ab55978dedfa514d116",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2733e1d5ab55978dedfa514d116",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 26,
+                      "month": 1,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "3FKhVkpnKuHZkNaiEdfFOq",
+                    "label": "Kanary Records",
+                    "name": "Inside Out",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "XhdNz1SiR3S7oRkryZKNbQ",
+                      "shareUrl": "https://open.spotify.com/album/3FKhVkpnKuHZkNaiEdfFOq?si=XhdNz1SiR3S7oRkryZKNbQ"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3FKhVkpnKuHZkNaiEdfFOq"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2023 Spinnin' Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2023 Spinnin' Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b85e990d8d680b358cb934a4",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b85e990d8d680b358cb934a4",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b85e990d8d680b358cb934a4",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 27,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "7jJpEWbGI8nVMNRVUeWnwR",
+                    "label": "Spinnin' Records",
+                    "name": "Tsunami (Gabry Ponte Remix) [Extended Mix]",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "hCh_VrWOST2KPP-XmgwsbQ",
+                      "shareUrl": "https://open.spotify.com/album/7jJpEWbGI8nVMNRVUeWnwR?si=hCh_VrWOST2KPP-XmgwsbQ"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7jJpEWbGI8nVMNRVUeWnwR"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2023 Spinnin' Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2023 Spinnin' Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e4511f4ff75026275ba97336",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e4511f4ff75026275ba97336",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e4511f4ff75026275ba97336",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 27,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "386j66irGFKDJCWC5KmWnR",
+                    "label": "Spinnin' Records",
+                    "name": "Tsunami (Gabry Ponte Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "iE6zJ9_8Tv2cOS0_NQ7K6Q",
+                      "shareUrl": "https://open.spotify.com/album/386j66irGFKDJCWC5KmWnR?si=iE6zJ9_8Tv2cOS0_NQ7K6Q"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:386j66irGFKDJCWC5KmWnR"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2023 Lowly",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2023 Lowly",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e782c5d554ba6c6dbc9a03dc",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e782c5d554ba6c6dbc9a03dc",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e782c5d554ba6c6dbc9a03dc",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 27,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "7aCjB3RvvOFowFK24tehTP",
+                    "label": "Lowly",
+                    "name": "No Love",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "thR1PWyYS-uNlmxItMjVDg",
+                      "shareUrl": "https://open.spotify.com/album/7aCjB3RvvOFowFK24tehTP?si=thR1PWyYS-uNlmxItMjVDg"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7aCjB3RvvOFowFK24tehTP"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2023 Ultra Records, LLC / Kanary Music, Ltd.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02db3cf4e332a376a7944fccb7",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851db3cf4e332a376a7944fccb7",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273db3cf4e332a376a7944fccb7",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 13,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "4Yohw2SkANTgUSmCruXeKX",
+                    "label": "Ultra Records, LLC",
+                    "name": "This Moment",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "MYB8Q2ETQNu3wNDEuRJfIg",
+                      "shareUrl": "https://open.spotify.com/album/4Yohw2SkANTgUSmCruXeKX?si=MYB8Q2ETQNu3wNDEuRJfIg"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4Yohw2SkANTgUSmCruXeKX"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 86
+        },
+        "topTracks": {
+          "items": [
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0221d1a642761f8d4779cc2c38"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485121d1a642761f8d4779cc2c38"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27321d1a642761f8d4779cc2c38"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:7p38vlEZaMNySKQVSSWUm8"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "DVBBS"
+                      },
+                      "uri": "spotify:artist:5X4LWwbUFNzPkEas04uU82"
+                    },
+                    {
+                      "profile": {
+                        "name": "Borgeous"
+                      },
+                      "uri": "spotify:artist:4uiMn2g0pgTrhN096QJhbp"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 236706
+                },
+                "id": "0vZCG0H9KhtU7K8MEUVAoV",
+                "name": "Tsunami",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "284560519",
+                "uri": "spotify:track:0vZCG0H9KhtU7K8MEUVAoV"
+              },
+              "uid": "d3f5d4f34c1e2168a101"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e1be1b6007441d452061666d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851e1be1b6007441d452061666d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e1be1b6007441d452061666d"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:4HNIEO4z4B9iXPW8ywV01E"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "LUM!X"
+                      },
+                      "uri": "spotify:artist:0TKFPt9w0AAEnhB9bd0pLy"
+                    },
+                    {
+                      "profile": {
+                        "name": "DVBBS"
+                      },
+                      "uri": "spotify:artist:5X4LWwbUFNzPkEas04uU82"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 150476
+                },
+                "id": "5fBBhQfbpkYpGc0Qcax4FN",
+                "name": "Where Do We Go",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "23099194",
+                "uri": "spotify:track:5fBBhQfbpkYpGc0Qcax4FN"
+              },
+              "uid": "25ae6ad885f25bc04d6c"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02cd573d93a4790aee67838b35"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851cd573d93a4790aee67838b35"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273cd573d93a4790aee67838b35"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:1w0JnlUdhCzpDStOauaccX"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "DVBBS"
+                      },
+                      "uri": "spotify:artist:5X4LWwbUFNzPkEas04uU82"
+                    },
+                    {
+                      "profile": {
+                        "name": "Borgeous"
+                      },
+                      "uri": "spotify:artist:4uiMn2g0pgTrhN096QJhbp"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 186352
+                },
+                "id": "04bQwUsZXNj8iFPg67orvF",
+                "name": "Tsunami - Radio Edit",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "51847798",
+                "uri": "spotify:track:04bQwUsZXNj8iFPg67orvF"
+              },
+              "uid": "98b4a3c3b9e795bf4ea4"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b68299aab215a529c7b2449a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851b68299aab215a529c7b2449a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b68299aab215a529c7b2449a"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:5q9af3Svt28pk3shfKA9qX"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "DVBBS"
+                      },
+                      "uri": "spotify:artist:5X4LWwbUFNzPkEas04uU82"
+                    },
+                    {
+                      "profile": {
+                        "name": "Gabry Ponte"
+                      },
+                      "uri": "spotify:artist:5ENS85nZShljwNgg4wFD7D"
+                    },
+                    {
+                      "profile": {
+                        "name": "Sofiloud"
+                      },
+                      "uri": "spotify:artist:6pGgP4CDlYMumihpD3CAwm"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 149000
+                },
+                "id": "57BlL9l7O9JmUcD4cFnCH8",
+                "name": "Let You Down (with Gabry Ponte)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "7005938",
+                "uri": "spotify:track:57BlL9l7O9JmUcD4cFnCH8"
+              },
+              "uid": "4eadcb58798a7a9d2d34"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a1985e9a44880a5aa7af4157"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851a1985e9a44880a5aa7af4157"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a1985e9a44880a5aa7af4157"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:2lN4M7HJ3xPgPFpVuInEQe"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Loud Luxury"
+                      },
+                      "uri": "spotify:artist:6t1gpxYbY8OlLA7D2RiikQ"
+                    },
+                    {
+                      "profile": {
+                        "name": "DVBBS"
+                      },
+                      "uri": "spotify:artist:5X4LWwbUFNzPkEas04uU82"
+                    },
+                    {
+                      "profile": {
+                        "name": "Kane Brown"
+                      },
+                      "uri": "spotify:artist:3oSJ7TBVCWMDMiYjXNiCKE"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 161344
+                },
+                "id": "6iZ2inFhxOuHKxOlTwwhZq",
+                "name": "Next To You (feat. Kane Brown)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "22552305",
+                "uri": "spotify:track:6iZ2inFhxOuHKxOlTwwhZq"
+              },
+              "uid": "282379680da6e4325ac1"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02fdd23e8d468cf7dba0a435f4"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851fdd23e8d468cf7dba0a435f4"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273fdd23e8d468cf7dba0a435f4"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6bVZaSKh6STnheH2oW3V13"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "DVBBS"
+                      },
+                      "uri": "spotify:artist:5X4LWwbUFNzPkEas04uU82"
+                    },
+                    {
+                      "profile": {
+                        "name": "24kGoldn"
+                      },
+                      "uri": "spotify:artist:6fWVd57NKTalqvmjRd2t8Z"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 175081
+                },
+                "id": "6yhJwPZwzzYYtAV8Fk4utW",
+                "name": "Tinted Eyes (feat. 24kGoldn)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "87053403",
+                "uri": "spotify:track:6yhJwPZwzzYYtAV8Fk4utW"
+              },
+              "uid": "9b53feeb3be0193edf8d"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e611ab053d5d10a66fb69f51"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851e611ab053d5d10a66fb69f51"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e611ab053d5d10a66fb69f51"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:437ICQjjhBRkK47bG686f9"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "DVBBS"
+                      },
+                      "uri": "spotify:artist:5X4LWwbUFNzPkEas04uU82"
+                    },
+                    {
+                      "profile": {
+                        "name": "Quinn XCII"
+                      },
+                      "uri": "spotify:artist:3ApUX1o6oSz321MMECyIYd"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 150819
+                },
+                "id": "4VZlXx05loUmppWMqHFzt1",
+                "name": "West Coast (feat. Quinn XCII)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "63837491",
+                "uri": "spotify:track:4VZlXx05loUmppWMqHFzt1"
+              },
+              "uid": "9ae61eee042971efc669"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02deaa857b772fd281f12488f6"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851deaa857b772fd281f12488f6"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273deaa857b772fd281f12488f6"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:68hN98U478Ha2ysZ79tzQY"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "DVBBS"
+                      },
+                      "uri": "spotify:artist:5X4LWwbUFNzPkEas04uU82"
+                    },
+                    {
+                      "profile": {
+                        "name": "Borgeous"
+                      },
+                      "uri": "spotify:artist:4uiMn2g0pgTrhN096QJhbp"
+                    },
+                    {
+                      "profile": {
+                        "name": "Tinie Tempah"
+                      },
+                      "uri": "spotify:artist:0Tob4H0FLtEONHU1MjpUEp"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 159492
+                },
+                "id": "12i3cKDbbQB8f9o279iVVQ",
+                "name": "Tsunami (Jump) [feat. Tinie Tempah]",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "47740882",
+                "uri": "spotify:track:12i3cKDbbQB8f9o279iVVQ"
+              },
+              "uid": "e0fe156971f4cc9fa674"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02ca5e02b30839a5d666364fa8"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851ca5e02b30839a5d666364fa8"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273ca5e02b30839a5d666364fa8"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:0dCEAJtX9VHBCXms2vgKfT"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Sander van Doorn"
+                      },
+                      "uri": "spotify:artist:22bukBZvUppuwQwmDz75Gz"
+                    },
+                    {
+                      "profile": {
+                        "name": "Martin Garrix"
+                      },
+                      "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ"
+                    },
+                    {
+                      "profile": {
+                        "name": "DVBBS"
+                      },
+                      "uri": "spotify:artist:5X4LWwbUFNzPkEas04uU82"
+                    },
+                    {
+                      "profile": {
+                        "name": "Aleesia"
+                      },
+                      "uri": "spotify:artist:1KV1BqrUpebQPqVU2r89xc"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 329067
+                },
+                "id": "7vcXWUS5ML6dJ3nkvSc9aR",
+                "name": "Gold Skies (feat. Aleesia)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "45910229",
+                "uri": "spotify:track:7vcXWUS5ML6dJ3nkvSc9aR"
+              },
+              "uid": "95978cddf56cb9971337"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a408b48e353f62d37debcd6a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851a408b48e353f62d37debcd6a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a408b48e353f62d37debcd6a"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:3RYFIyCHaMbrxz5l5kMTus"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "DVBBS"
+                      },
+                      "uri": "spotify:artist:5X4LWwbUFNzPkEas04uU82"
+                    },
+                    {
+                      "profile": {
+                        "name": "BRIDGE"
+                      },
+                      "uri": "spotify:artist:05LTJdcIWfHyQXC1za07k8"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 197217
+                },
+                "id": "1ArupC3JsIuGwBZh2G0yj4",
+                "name": "GOMF (feat. BRIDGE)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "48834685",
+                "uri": "spotify:track:1ArupC3JsIuGwBZh2G0yj4"
+              },
+              "uid": "c67cb2d15ec0227da717"
+            }
+          ]
+        }
+      },
+      "goods": {
+        "concerts": {
+          "items": [
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Ottawa",
+                  "name": "Lansdowne Park"
+                },
+                "startDateIsoString": "2025-06-20T17:00-04:00",
+                "title": "DVBBS, Capochino, Daniel Allan, Deathpact, Gabriel & Dresden, HNTR, Kompany, Linska, Paper Skies",
+                "uri": "spotify:concert:6bj8bZlvQTSeLQ0PGxX2Kq"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Belgium",
+                  "name": "Tomorrowland Belgium"
+                },
+                "startDateIsoString": "2025-07-27T17:00+02:00",
+                "title": "DVBBS",
+                "uri": "spotify:concert:5kHHmZah5062sCi85oSwBw"
+              }
+            }
+          ],
+          "totalCount": 2
+        },
+        "merch": {
+          "items": []
+        }
+      },
+      "headerImage": {
+        "data": {
+          "__typename": "ImageV2",
+          "sources": [
+            {
+              "maxHeight": 640,
+              "maxWidth": 1494,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67618600000194421f6304f9d28452c007d913"
+            },
+            {
+              "maxHeight": 1080,
+              "maxWidth": 1920,
+              "url": "https://i2o.scdn.co/image/ab67618600001667421f6304f9d28452c007d913"
+            },
+            {
+              "maxHeight": 641,
+              "maxWidth": 1495,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67618600009d80421f6304f9d28452c007d913"
+            },
+            {
+              "maxHeight": 1140,
+              "maxWidth": 2660,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab6761860000eab1421f6304f9d28452c007d913"
+            }
+          ]
+        }
+      },
+      "id": "5X4LWwbUFNzPkEas04uU82",
+      "preRelease": null,
+      "profile": {
+        "biography": {
+          "text": "Formed in 2012 in Toronto, Canada, production/DJ duo composed of brothers Christopher van den Hoef and Alexandre van den Hoef.  DVBBS have built a strong discography, which has collectively garnered the group platinum sales in nearly a dozen countries and billions of streams to date.  DVBBS has collaborated with artists such as Blackbear, Wiz Khalifa, 24kGoldn, Galantis, Quinn XCII, Martin Garrix, Aloe Blacc, Icona Pop, Benny Benassi, Steve Aoki, 2 Chainz, powfu, Alida, Cody Simpson, Johnny Orlando, YBN Nahmir, Roy Woods, Dimitri Vegas &amp; Like Mike, Cheat Codes, Juicy J, and Belly to name a few.  Following their 2012 debut EP, \u2018Initio,\u2019 DVBBS gained international acclaim via their chart-topping single, \u201cTsunami,\u201d in 2013. As the duo\u2019s first-ever certified hit, the platinum-selling \u201cTsunami\u201d today counts over 1 billion streams. The 2014 vocal mix of the track, \u201cTsunami (Jump)\u201d featuring English rapper Tinie Tempah, topped both the UK Singles and UK Dance charts, making DVBBS one of only 13 Canadian artists to ever chart at #1 on the Official UK Singles Chart. DVBBS also count 12 platinum singles via &#34;Tinted Eyes&#34;, &#34;West Coast&#34;, &#34;IDWK&#34;, \u201cTsunami\u201d and \u201cNot Going Home,\u201d the latter of which also received a Juno Awards nomination for Dance Recording of the Year.  They have performed across the world\u2019s top festivals including Lollapalooza, Creamfields, Tomorrowland, EDC, Ultra Music Festival and beyond.",
+          "type": "AUTOBIOGRAPHY"
+        },
+        "externalLinks": {
+          "items": [
+            {
+              "name": "FACEBOOK",
+              "url": "https://facebook.com/dvbbs"
+            },
+            {
+              "name": "INSTAGRAM",
+              "url": "https://instagram.com/dvbbs"
+            },
+            {
+              "name": "TWITTER",
+              "url": "https://twitter.com/dvbbs"
+            }
+          ]
+        },
+        "name": "DVBBS",
+        "pinnedItem": null,
+        "playlistsV2": {
+          "items": [],
+          "totalCount": 0
+        },
+        "verified": true
+      },
+      "relatedContent": {
+        "appearsOn": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "KHEA"
+                          },
+                          "uri": "spotify:artist:4m6ubhNsdwF4psNf3R8kwR"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e023395e7b13e682e36fb097207",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048513395e7b13e682e36fb097207",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2733395e7b13e682e36fb097207",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "77PfUu2wLVGjkkJ6uxL8vY",
+                    "name": "SEROTONINA (DELUXE)",
+                    "sharingInfo": {
+                      "shareId": "5Outl-3OQ2CGqSotzAi3Sw",
+                      "shareUrl": "https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY?si=5Outl-3OQ2CGqSotzAi3Sw"
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:77PfUu2wLVGjkkJ6uxL8vY"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "BONNIE X CLYDE"
+                          },
+                          "uri": "spotify:artist:74xeHqz5Ap8ZHq69TkxI0r"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029d9d97aa4eb8658afb48fe03",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519d9d97aa4eb8658afb48fe03",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739d9d97aa4eb8658afb48fe03",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "5INNKGgFD6LbVOwAOyctZ8",
+                    "name": "There's No Tomorrow",
+                    "sharingInfo": {
+                      "shareId": "MFfmChloT2yNTFE1anyJzQ",
+                      "shareUrl": "https://open.spotify.com/album/5INNKGgFD6LbVOwAOyctZ8?si=MFfmChloT2yNTFE1anyJzQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:5INNKGgFD6LbVOwAOyctZ8"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Tinie Tempah"
+                          },
+                          "uri": "spotify:artist:0Tob4H0FLtEONHU1MjpUEp"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02054a273e9badf20122f5b497",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851054a273e9badf20122f5b497",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273054a273e9badf20122f5b497",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2013
+                    },
+                    "id": "46V4ARN9jk4vpZ7nMFcig6",
+                    "name": "Demonstration",
+                    "sharingInfo": {
+                      "shareId": "OKUUd6qJSeS8rWv6Vsh2hQ",
+                      "shareUrl": "https://open.spotify.com/album/46V4ARN9jk4vpZ7nMFcig6?si=OKUUd6qJSeS8rWv6Vsh2hQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:46V4ARN9jk4vpZ7nMFcig6"
+                  },
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Tinie Tempah"
+                          },
+                          "uri": "spotify:artist:0Tob4H0FLtEONHU1MjpUEp"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ddc8be7465b3bccdd91c8c39",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ddc8be7465b3bccdd91c8c39",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ddc8be7465b3bccdd91c8c39",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2013
+                    },
+                    "id": "3AVNIspr56GgbzBiqT46nh",
+                    "name": "Demonstration",
+                    "sharingInfo": {
+                      "shareId": "6bB7S-aCQ7O_KmdppDlIkg",
+                      "shareUrl": "https://open.spotify.com/album/3AVNIspr56GgbzBiqT46nh?si=6bB7S-aCQ7O_KmdppDlIkg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3AVNIspr56GgbzBiqT46nh"
+                  }
+                ],
+                "totalCount": 2
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Steve Aoki"
+                          },
+                          "uri": "spotify:artist:77AiFEVeAVj2ORpC85QVJs"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024868d30599b7c24e2879140d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514868d30599b7c24e2879140d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734868d30599b7c24e2879140d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2017
+                    },
+                    "id": "7uMQ1YhXvXNW93bHWGikKF",
+                    "name": "Steve Aoki Presents Kolony",
+                    "sharingInfo": {
+                      "shareId": "h19VHhF7TT2RBOfTIPgXZw",
+                      "shareUrl": "https://open.spotify.com/album/7uMQ1YhXvXNW93bHWGikKF?si=h19VHhF7TT2RBOfTIPgXZw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:7uMQ1YhXvXNW93bHWGikKF"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Walk off the Earth"
+                          },
+                          "uri": "spotify:artist:6jEiUoyyJNPHzSR0Nib6HX"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024a2b4ae81f1b8eb5348bfa35",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514a2b4ae81f1b8eb5348bfa35",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734a2b4ae81f1b8eb5348bfa35",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "7f7urFtWmLpxfuVI7xfOk6",
+                    "name": "Here We Go",
+                    "sharingInfo": {
+                      "shareId": "x1n65LrmQsmDlqOUyGMalA",
+                      "shareUrl": "https://open.spotify.com/album/7f7urFtWmLpxfuVI7xfOk6?si=x1n65LrmQsmDlqOUyGMalA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:7f7urFtWmLpxfuVI7xfOk6"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "SK8"
+                          },
+                          "uri": "spotify:artist:4YqctGfuLnSvjjlFQvNish"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a15b69300982cb9418eaecbd",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a15b69300982cb9418eaecbd",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a15b69300982cb9418eaecbd",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "6VrEbRbjgxP3dDYzDUv5l1",
+                    "name": "Last Day On Earth",
+                    "sharingInfo": {
+                      "shareId": "Q4B5xQyjTteE0i3pg9dNIw",
+                      "shareUrl": "https://open.spotify.com/album/6VrEbRbjgxP3dDYzDUv5l1?si=Q4B5xQyjTteE0i3pg9dNIw"
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:6VrEbRbjgxP3dDYzDUv5l1"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0299211966a0a7d368d3fc73e8",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485199211966a0a7d368d3fc73e8",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27399211966a0a7d368d3fc73e8",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "2Y0zWn63gVXD2uCMINXca0",
+                    "name": "Summer Heat",
+                    "sharingInfo": {
+                      "shareId": "K5Jv2zUGTOqOh5AQucILBQ",
+                      "shareUrl": "https://open.spotify.com/album/2Y0zWn63gVXD2uCMINXca0?si=K5Jv2zUGTOqOh5AQucILBQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:2Y0zWn63gVXD2uCMINXca0"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Steve Aoki"
+                          },
+                          "uri": "spotify:artist:77AiFEVeAVj2ORpC85QVJs"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020b898b15136f8770fe7226f0",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510b898b15136f8770fe7226f0",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730b898b15136f8770fe7226f0",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "5J5G5yoAxZ2eaJromTbB19",
+                    "name": "Neon Future III (Remixes)",
+                    "sharingInfo": {
+                      "shareId": "YEEs715iRDyJUsf52b8HtQ",
+                      "shareUrl": "https://open.spotify.com/album/5J5G5yoAxZ2eaJromTbB19?si=YEEs715iRDyJUsf52b8HtQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:5J5G5yoAxZ2eaJromTbB19"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0247f20cf98d830a9fd02db5e9",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485147f20cf98d830a9fd02db5e9",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27347f20cf98d830a9fd02db5e9",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "3iNYRCTcvOnh48PRDqc1ut",
+                    "name": "Clean Pop Hits",
+                    "sharingInfo": {
+                      "shareId": "vMTNVCVuTLOo8GeVAWDm6Q",
+                      "shareUrl": "https://open.spotify.com/album/3iNYRCTcvOnh48PRDqc1ut?si=vMTNVCVuTLOo8GeVAWDm6Q"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3iNYRCTcvOnh48PRDqc1ut"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Steve Aoki"
+                          },
+                          "uri": "spotify:artist:77AiFEVeAVj2ORpC85QVJs"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020d28ecd73f04a876c7c3a179",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510d28ecd73f04a876c7c3a179",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730d28ecd73f04a876c7c3a179",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2017
+                    },
+                    "id": "6lfe9dGFX5LljTSi0dtjLQ",
+                    "name": "Just Hold On (Remixes)",
+                    "sharingInfo": {
+                      "shareId": "cPRj9OrpRrCAjhGfiOUZKg",
+                      "shareUrl": "https://open.spotify.com/album/6lfe9dGFX5LljTSi0dtjLQ?si=cPRj9OrpRrCAjhGfiOUZKg"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:6lfe9dGFX5LljTSi0dtjLQ"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Ultra Music"
+                          },
+                          "uri": "spotify:artist:45gUc6C9pBNX1XOCACRi3H"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020fce74b9c25dbb8170886ca3",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510fce74b9c25dbb8170886ca3",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730fce74b9c25dbb8170886ca3",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "5t2VVQM3hV1hE7KxINngiW",
+                    "name": "Ultra 2019",
+                    "sharingInfo": {
+                      "shareId": "wM8fvbbxRby0fd-KXvIXeg",
+                      "shareUrl": "https://open.spotify.com/album/5t2VVQM3hV1hE7KxINngiW?si=wM8fvbbxRby0fd-KXvIXeg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:5t2VVQM3hV1hE7KxINngiW"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e026b4ce13d2ceb5caae8a428ea",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048516b4ce13d2ceb5caae8a428ea",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2736b4ce13d2ceb5caae8a428ea",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "7AqkiQysedoNWqNc0Ltpzo",
+                    "name": "Summer Mix 2021",
+                    "sharingInfo": {
+                      "shareId": "tluEhz7LTuuu1hZYaETG6Q",
+                      "shareUrl": "https://open.spotify.com/album/7AqkiQysedoNWqNc0Ltpzo?si=tluEhz7LTuuu1hZYaETG6Q"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:7AqkiQysedoNWqNc0Ltpzo"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ada9aacb1e076770a7013056",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ada9aacb1e076770a7013056",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ada9aacb1e076770a7013056",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "7Cghhp1oxalD3s0LZ6V6cE",
+                    "name": "House Classics, Vol. 1 (Presented by Spinnin' Records)",
+                    "sharingInfo": {
+                      "shareId": "b0-E8LaNSKmM1htLPeRXig",
+                      "shareUrl": "https://open.spotify.com/album/7Cghhp1oxalD3s0LZ6V6cE?si=b0-E8LaNSKmM1htLPeRXig"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:7Cghhp1oxalD3s0LZ6V6cE"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e022c290d6dc3afeab531de8e34",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048512c290d6dc3afeab531de8e34",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2732c290d6dc3afeab531de8e34",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2015
+                    },
+                    "id": "2Eefs5ZTu3CQ0rl1Zede7l",
+                    "name": "Tomorrowland - The Secret Kingdom Of Melodia",
+                    "sharingInfo": {
+                      "shareId": "y7oPoexfTM29fWr9wyJgPQ",
+                      "shareUrl": "https://open.spotify.com/album/2Eefs5ZTu3CQ0rl1Zede7l?si=y7oPoexfTM29fWr9wyJgPQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:2Eefs5ZTu3CQ0rl1Zede7l"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Cheat Codes"
+                          },
+                          "uri": "spotify:artist:7DMveApC7UnC2NPfPvlHSU"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a3f7dc4648e81aad9d662d3e",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a3f7dc4648e81aad9d662d3e",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a3f7dc4648e81aad9d662d3e",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "35zGHE4j9ABvh5LI0z2wuP",
+                    "name": "Level 1",
+                    "sharingInfo": {
+                      "shareId": "qEBLixk6RqK3XWu3agB7tQ",
+                      "shareUrl": "https://open.spotify.com/album/35zGHE4j9ABvh5LI0z2wuP?si=qEBLixk6RqK3XWu3agB7tQ"
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:35zGHE4j9ABvh5LI0z2wuP"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0208613f834ed99fbc8d9d9914",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485108613f834ed99fbc8d9d9914",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27308613f834ed99fbc8d9d9914",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "1hwuti5rC9Ig3eqZJy01JK",
+                    "name": "Pump It Up",
+                    "sharingInfo": {
+                      "shareId": "p96oDHNiTRmbD8-2x39Shg",
+                      "shareUrl": "https://open.spotify.com/album/1hwuti5rC9Ig3eqZJy01JK?si=p96oDHNiTRmbD8-2x39Shg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:1hwuti5rC9Ig3eqZJy01JK"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021148e181fbe833b13b0d498a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511148e181fbe833b13b0d498a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731148e181fbe833b13b0d498a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "71medK8B0OS8y3wz95AFEi",
+                    "name": "Armada Music Year Mix 2022, Vol. 1",
+                    "sharingInfo": {
+                      "shareId": "VsQN8CUWTNypFPBURzfytA",
+                      "shareUrl": "https://open.spotify.com/album/71medK8B0OS8y3wz95AFEi?si=VsQN8CUWTNypFPBURzfytA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:71medK8B0OS8y3wz95AFEi"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "David Waxman"
+                          },
+                          "uri": "spotify:artist:0dWGTlDQRPllVWKAjRyvlf"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0251ea856ed9b5a7e61f910d17",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485151ea856ed9b5a7e61f910d17",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27351ea856ed9b5a7e61f910d17",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "552oMiI9G0NWr9LGGaNWDh",
+                    "name": "Ultra Records presents: U R House (DJ Mix)",
+                    "sharingInfo": {
+                      "shareId": "m0ydIrIvSL6zh62N-yHWTQ",
+                      "shareUrl": "https://open.spotify.com/album/552oMiI9G0NWr9LGGaNWDh?si=m0ydIrIvSL6zh62N-yHWTQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:552oMiI9G0NWr9LGGaNWDh"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025ba918fd238851f83bb95b17",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515ba918fd238851f83bb95b17",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735ba918fd238851f83bb95b17",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2017
+                    },
+                    "id": "2b4FxzKPWaPVNvlogfQGcH",
+                    "name": "Ultra Music Festival 2017",
+                    "sharingInfo": {
+                      "shareId": "0NDMiCj1Tl6PaGdknTAvJw",
+                      "shareUrl": "https://open.spotify.com/album/2b4FxzKPWaPVNvlogfQGcH?si=0NDMiCj1Tl6PaGdknTAvJw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:2b4FxzKPWaPVNvlogfQGcH"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Ultra Music"
+                          },
+                          "uri": "spotify:artist:45gUc6C9pBNX1XOCACRi3H"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e028c6b00c05af392cf6bc7b66f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048518c6b00c05af392cf6bc7b66f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2738c6b00c05af392cf6bc7b66f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "31ZVxRy7fYbLNxQDrsiIbr",
+                    "name": "Ultra 2022",
+                    "sharingInfo": {
+                      "shareId": "3iAqpE8zTPGUO-rbmsR9yA",
+                      "shareUrl": "https://open.spotify.com/album/31ZVxRy7fYbLNxQDrsiIbr?si=3iAqpE8zTPGUO-rbmsR9yA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:31ZVxRy7fYbLNxQDrsiIbr"
+                  }
+                ],
+                "totalCount": 1
+              }
+            }
+          ],
+          "totalCount": 47
+        },
+        "discoveredOnV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Home is where the main stage is \ud83d\udc97 with Martin Garrix",
+                "id": "37i9dQZF1DX1kCIzMYtzum",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000024cf1707f40fc4e4eeded35e9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "EDM 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX1kCIzMYtzum"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
+                "id": "37i9dQZF1DWSf2RDTDayIx",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002518096c62a9e453db38093db",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Happy Beats",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWSf2RDTDayIx"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Classic EDM Hits.",
+                "id": "1lS6v9h4MXOw6f6y8MkS8w",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8487c902ab559476f00ebd8072",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "EDM Classics (Top 100)",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Den Haku Records"
+                  }
+                },
+                "uri": "spotify:playlist:1lS6v9h4MXOw6f6y8MkS8w"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "TB. Musica Para Correr Motivacion.",
+                "id": "5Z1m46SMcRNoIykQtOk4Ys",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72ca0dfbc98bc5e46775ab4c23f",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Musica Para Correr 2025 \ud83d\udca8",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Phonix Lab"
+                  }
+                },
+                "uri": "spotify:playlist:5Z1m46SMcRNoIykQtOk4Ys"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Extreme BASS BOOSTED\ud83d\udd09, if you want bass than  u are at the right place THANK YOU AL SO MUCH FOR THE 165K LIKES\ud83d\udcaa\u2764\ufe0f\u200d\ud83e\ude79",
+                "id": "2UYXeRywUTzFibuoSnn5a0",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c2d24e1fc4f5f3aec8a59b4f9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "EXTREME BASS",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "B.071w"
+                  }
+                },
+                "uri": "spotify:playlist:2UYXeRywUTzFibuoSnn5a0"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "100% cl\u00e1ssicos.",
+                "id": "37i9dQZF1DX3Kdv0IChEm9",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000022f37db1ec16b664d218c572c",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "EDM Hits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX3Kdv0IChEm9"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The best Tech House Music in 2025 incl. tracks by James Hype, FISHER, Mau P, John Summit, Chris Lake, Hannah Laing and many more. Tech House Music - House Mix - Party Mix - Gym Music - Club Mix - DJ Music - Remixes.",
+                "id": "7bNKrNBfnPLG3ANBbVn5mB",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ce7bee42cb9bd62de6bc04d9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "TECH HOUSE 2025 \ud83d\udfe3 House Party Mix. Deejay Remixes. DJ Music. Gym, Workout & Sport Music.   ",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "THE NIGHT DRIVE"
+                  }
+                },
+                "uri": "spotify:playlist:7bNKrNBfnPLG3ANBbVn5mB"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "id": "3iNDEHNuhmkZFRPT7DYTZT",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84378980269f90ce55bbc75e58",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "BASS LOCO Y ELECTR\u00d3NICA \u00c9PICA \ud83d\ude0e\ud83d\udd25\ud83d\udd25\ud83d\udca5\ud83d\udc4c",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Alan"
+                  }
+                },
+                "uri": "spotify:playlist:3iNDEHNuhmkZFRPT7DYTZT"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "id": "790GlAfqEJqVDmX3ZHLLNQ",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://mosaic.scdn.co/640/ab67616d00001e0217f434884fcbc6981a80c20cab67616d00001e0260ee38d5b537c78146df56a2ab67616d00001e02a1ec14aba0eb90b354893133ab67616d00001e02c214de97e2decbaaed705fcc",
+                          "width": 640
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://mosaic.scdn.co/300/ab67616d00001e0217f434884fcbc6981a80c20cab67616d00001e0260ee38d5b537c78146df56a2ab67616d00001e02a1ec14aba0eb90b354893133ab67616d00001e02c214de97e2decbaaed705fcc",
+                          "width": 300
+                        },
+                        {
+                          "height": 60,
+                          "url": "https://mosaic.scdn.co/60/ab67616d00001e0217f434884fcbc6981a80c20cab67616d00001e0260ee38d5b537c78146df56a2ab67616d00001e02a1ec14aba0eb90b354893133ab67616d00001e02c214de97e2decbaaed705fcc",
+                          "width": 60
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Martin Garrix \u2014 Animals, tsunami & wizard",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Torrealba"
+                  }
+                },
+                "uri": "spotify:playlist:790GlAfqEJqVDmX3ZHLLNQ"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Chasing that runner's high",
+                "id": "37i9dQZF1DWT6anPZiHuxz",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000020d66ba79cf5b4f7b07d24169",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Running Club",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWT6anPZiHuxz"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Quinn XCII. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO25lU76",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO25lU76-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Quinn XCII",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO25lU76"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is DVBBS. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO3vBedW",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO3vBedW-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is DVBBS",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO3vBedW"
+              }
+            }
+          ],
+          "totalCount": 100
+        },
+        "featuringV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is DVBBS. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO3vBedW",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO3vBedW-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is DVBBS",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO3vBedW"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "With Sebastian Ingrosso, Axwell /\\ Ingrosso, Dada Life and more",
+                "id": "37i9dQZF1E4EvGhW39YEU7",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/5X4LWwbUFNzPkEas04uU82/en",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "DVBBS Radio",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1E4EvGhW39YEU7"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
+                "id": "37i9dQZF1DWSf2RDTDayIx",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002518096c62a9e453db38093db",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Happy Beats",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWSf2RDTDayIx"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Nostalgic <a href=\"spotify:genre:edm_dance\">dance</a> festival favorites from the 2010s.",
+                "id": "37i9dQZF1DX8D2YR1GbW3K",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002360b9dd854158aa5a6a45811",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Headliners",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX8D2YR1GbW3K"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "all the stutter, all the feels. ",
+                "id": "37i9dQZF1DWU5hC93Ey99S",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000023fe2546417d7f11b8415adc9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Emotional Dance",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWU5hC93Ey99S"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Brandi Cyrus",
+                "id": "37i9dQZF1DXaa4ZtoHhRxv",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f0000000215b557be695c633cb00de783",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Country Club",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXaa4ZtoHhRxv"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Floor fillers and big streamers of 2013.",
+                "id": "37i9dQZF1DXaAPAIaXwtEI",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000025754032763884e0cdeca46b9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Dance Hits of 2013",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXaAPAIaXwtEI"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "<a href=\"spotify:artist:00CMSJdbf36zOzKB3z8JrR\">Victor Cardenas</a>'s favorite tracks. Updated regularly. Curated by Victor Cardenas. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
+                "id": "37i9dQZF1DXciYvjsn0pd9",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000029ba14afc4d35c94ae3471d0b",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Victor Cardenas track IDs",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXciYvjsn0pd9"
+              }
+            }
+          ],
+          "totalCount": 8
+        },
+        "relatedArtists": {
+          "items": [
+            {
+              "id": "4uiMn2g0pgTrhN096QJhbp",
+              "profile": {
+                "name": "Borgeous"
+              },
+              "uri": "spotify:artist:4uiMn2g0pgTrhN096QJhbp",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eba6462c1d40b775b433025746",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178a6462c1d40b775b433025746",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174a6462c1d40b775b433025746",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3gk0OYeLFWYupGFRHqLSR7",
+              "profile": {
+                "name": "Showtek"
+              },
+              "uri": "spotify:artist:3gk0OYeLFWYupGFRHqLSR7",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb34995d6b17e2274331c5382d",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17834995d6b17e2274331c5382d",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517434995d6b17e2274331c5382d",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2vVNxGBvKRQMWwI5c8KmYh",
+              "profile": {
+                "name": "Tujamo"
+              },
+              "uri": "spotify:artist:2vVNxGBvKRQMWwI5c8KmYh",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb4ff3493ab05afb520e3a4380",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1784ff3493ab05afb520e3a4380",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051744ff3493ab05afb520e3a4380",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3PtCud9dIdOv4exrzdZZ1C",
+              "profile": {
+                "name": "MAKJ"
+              },
+              "uri": "spotify:artist:3PtCud9dIdOv4exrzdZZ1C",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebe890d286a0d743b28512350a",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178e890d286a0d743b28512350a",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174e890d286a0d743b28512350a",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7HqEmV7FeCi16bQyHMpIrF",
+              "profile": {
+                "name": "VASSY"
+              },
+              "uri": "spotify:artist:7HqEmV7FeCi16bQyHMpIrF",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb74f701392655525e48cec9ea",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17874f701392655525e48cec9ea",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517474f701392655525e48cec9ea",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6hyMWrxGBsOx6sWcVj1DqP",
+              "profile": {
+                "name": "Sebastian Ingrosso"
+              },
+              "uri": "spotify:artist:6hyMWrxGBsOx6sWcVj1DqP",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb2e079e23c13aacb2e249d975",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1782e079e23c13aacb2e249d975",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051742e079e23c13aacb2e249d975",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1pbHrVayIcVpHI9z97u4bK",
+              "profile": {
+                "name": "Bingo Players"
+              },
+              "uri": "spotify:artist:1pbHrVayIcVpHI9z97u4bK",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb13ed6ed33980ae1a5ab19275",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17813ed6ed33980ae1a5ab19275",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517413ed6ed33980ae1a5ab19275",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "53YSn9tHwGJ6bq5P0gGoYo",
+              "profile": {
+                "name": "Firebeatz"
+              },
+              "uri": "spotify:artist:53YSn9tHwGJ6bq5P0gGoYo",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb535193eae048dbd308cdd078",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178535193eae048dbd308cdd078",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174535193eae048dbd308cdd078",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6VD4UEUPvtsemqD3mmTqCR",
+              "profile": {
+                "name": "Deorro"
+              },
+              "uri": "spotify:artist:6VD4UEUPvtsemqD3mmTqCR",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb6927317407c8e2499d0cd39f",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1786927317407c8e2499d0cd39f",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051746927317407c8e2499d0cd39f",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6M7RdR9ZP52h2mfNLmiHtU",
+              "profile": {
+                "name": "Good Times Ahead"
+              },
+              "uri": "spotify:artist:6M7RdR9ZP52h2mfNLmiHtU",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb4ae83319274dba86eaae9d1d",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1784ae83319274dba86eaae9d1d",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051744ae83319274dba86eaae9d1d",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2wX6xSig4Rig5kZU6ePlWe",
+              "profile": {
+                "name": "KSHMR"
+              },
+              "uri": "spotify:artist:2wX6xSig4Rig5kZU6ePlWe",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebd1db941d6e307ab229651fae",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178d1db941d6e307ab229651fae",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174d1db941d6e307ab229651fae",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6BrvowZBreEkXzJQMpL174",
+              "profile": {
+                "name": "Hardwell"
+              },
+              "uri": "spotify:artist:6BrvowZBreEkXzJQMpL174",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb65136609a4980a953d64f552",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17865136609a4980a953d64f552",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517465136609a4980a953d64f552",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5FvlJcXnFIm72pgQtW3Dct",
+              "profile": {
+                "name": "Feenixpawl"
+              },
+              "uri": "spotify:artist:5FvlJcXnFIm72pgQtW3Dct",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb016ba8d9cffabf556e41d583",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178016ba8d9cffabf556e41d583",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174016ba8d9cffabf556e41d583",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1tBU8jUEdVR3mqSsAqEGfD",
+              "profile": {
+                "name": "Tommy Trash"
+              },
+              "uri": "spotify:artist:1tBU8jUEdVR3mqSsAqEGfD",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb59714d5eaba37dbf36f92cc5",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17859714d5eaba37dbf36f92cc5",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517459714d5eaba37dbf36f92cc5",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4xgFgBZ7CRtgtHcziClOwQ",
+              "profile": {
+                "name": "MOGUAI"
+              },
+              "uri": "spotify:artist:4xgFgBZ7CRtgtHcziClOwQ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb47295edb62c8e31263bdc9b0",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17847295edb62c8e31263bdc9b0",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517447295edb62c8e31263bdc9b0",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1V3VTM7VspiQjcmRhC010n",
+              "profile": {
+                "name": "Quintino"
+              },
+              "uri": "spotify:artist:1V3VTM7VspiQjcmRhC010n",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb4659d63ac8932f7205bb5583",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1784659d63ac8932f7205bb5583",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051744659d63ac8932f7205bb5583",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5fahUm8t5c0GIdeTq0ZaG8",
+              "profile": {
+                "name": "Otto Knows"
+              },
+              "uri": "spotify:artist:5fahUm8t5c0GIdeTq0ZaG8",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb34f11fa225bb47cd91bf0766",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17834f11fa225bb47cd91bf0766",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517434f11fa225bb47cd91bf0766",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "77AiFEVeAVj2ORpC85QVJs",
+              "profile": {
+                "name": "Steve Aoki"
+              },
+              "uri": "spotify:artist:77AiFEVeAVj2ORpC85QVJs",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebcf85b39d94c486218a687248",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178cf85b39d94c486218a687248",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174cf85b39d94c486218a687248",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0CbeG1224FS58EUx4tPevZ",
+              "profile": {
+                "name": "Timmy Trumpet"
+              },
+              "uri": "spotify:artist:0CbeG1224FS58EUx4tPevZ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb82ac9eee4c8a5f57412b4821",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17882ac9eee4c8a5f57412b4821",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517482ac9eee4c8a5f57412b4821",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3IpvVrP3VLhruTmnququq7",
+              "profile": {
+                "name": "Mike Williams"
+              },
+              "uri": "spotify:artist:3IpvVrP3VLhruTmnququq7",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb4024f925954066d1df73137a",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1784024f925954066d1df73137a",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051744024f925954066d1df73137a",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "totalCount": 40
+        }
+      },
+      "relatedVideos": {
+        "__typename": "RelatedVideoPage",
+        "items": [],
+        "totalCount": 0
+      },
+      "saved": false,
+      "sharingInfo": {
+        "shareId": "N4JTAJ-6QuyHL_fEIAK_2A",
+        "shareUrl": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82?si=N4JTAJ-6QuyHL_fEIAK_2A"
+      },
+      "stats": {
+        "followers": 1066540,
+        "monthlyListeners": 3442905,
+        "topCities": {
+          "items": [
+            {
+              "city": "Mexico City",
+              "country": "MX",
+              "numberOfListeners": 56610,
+              "region": "CMX"
+            },
+            {
+              "city": "Toronto",
+              "country": "CA",
+              "numberOfListeners": 41334,
+              "region": "ON"
+            },
+            {
+              "city": "Montreal",
+              "country": "CA",
+              "numberOfListeners": 39848,
+              "region": "QC"
+            },
+            {
+              "city": "Sydney",
+              "country": "AU",
+              "numberOfListeners": 34466,
+              "region": "NSW"
+            },
+            {
+              "city": "Santiago",
+              "country": "CL",
+              "numberOfListeners": 32425,
+              "region": "RM"
+            }
+          ]
+        },
+        "worldRank": 0
+      },
+      "uri": "spotify:artist:5X4LWwbUFNzPkEas04uU82",
+      "visualIdentity": {
+        "wideFullBleedImage": {
+          "__typename": "VisualIdentityImage",
+          "extractedColorSet": {
+            "encoreBaseSetTextColor": {
+              "alpha": 255,
+              "blue": 213,
+              "green": 185,
+              "red": 184
+            },
+            "highContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 88,
+                "green": 64,
+                "red": 64
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 33,
+                "green": 13,
+                "red": 15
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 233,
+                "green": 203,
+                "red": 202
+              }
+            },
+            "higherContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 74,
+                "green": 51,
+                "red": 51
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 109,
+                "green": 84,
+                "red": 84
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 96,
+                "green": 215,
+                "red": 30
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 233,
+                "green": 203,
+                "red": 202
+              }
+            },
+            "minContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 88,
+                "green": 64,
+                "red": 64
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 33,
+                "green": 13,
+                "red": 15
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              }
+            }
+          }
+        }
+      },
+      "visuals": {
+        "avatarImage": {
+          "extractedColors": {
+            "colorRaw": {
+              "hex": "#683830"
+            }
+          },
+          "sources": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb7774c26597015306f66cd35b",
+              "width": 640
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1787774c26597015306f66cd35b",
+              "width": 160
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051747774c26597015306f66cd35b",
+              "width": 320
+            }
+          ]
+        },
+        "gallery": {
+          "items": [
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd45fcc7b07dc54910326b6bf00",
+                  "width": 640
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "watchFeedEntrypoint": null
+    }
+  },
+  "extensions": {}
+}

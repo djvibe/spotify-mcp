@@ -1,0 +1,4589 @@
+{
+  "data": {
+    "artistUnion": {
+      "__typename": "Artist",
+      "discography": {
+        "albums": {
+          "items": [],
+          "totalCount": 0
+        },
+        "compilations": {
+          "items": [],
+          "totalCount": 0
+        },
+        "latest": {
+          "copyright": {
+            "items": [
+              {
+                "text": "2024 Catch & Release",
+                "type": "C"
+              },
+              {
+                "text": "2024 Catch & Release",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e020445db0af0b11d14db1c4cfa",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048510445db0af0b11d14db1c4cfa",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2730445db0af0b11d14db1c4cfa",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 29,
+            "month": 11,
+            "precision": "DAY",
+            "year": 2024
+          },
+          "id": "0T84ITkYkKp7x3vxWpvSCf",
+          "label": "Catch & Release",
+          "name": "Ocean",
+          "playability": {
+            "playable": true,
+            "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+            "shareId": "6rLg8K_tSbSW50iK-K1jfQ",
+            "shareUrl": "https://open.spotify.com/album/0T84ITkYkKp7x3vxWpvSCf?si=6rLg8K_tSbSW50iK-K1jfQ"
+          },
+          "tracks": {
+            "totalCount": 1
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:0T84ITkYkKp7x3vxWpvSCf"
+        },
+        "popularReleasesAlbums": {
+          "items": [
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2024 Samples 'n' Seconds Records, under exclusive licence to Universal Music Operations Limited",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2024 Samples 'n' Seconds Records, under exclusive licence to Universal Music Operations Limited",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02decbf9beecb3cb749ce3a2e2",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851decbf9beecb3cb749ce3a2e2",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273decbf9beecb3cb749ce3a2e2",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 9,
+                "month": 2,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "5eKQYtDqVmrHPZoKHG1LlH",
+              "label": "Universal-Island Records Ltd.",
+              "name": "Somebody (2024)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "rDRxBmgpRSi904TD1oGmPw",
+                "shareUrl": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH?si=rDRxBmgpRSi904TD1oGmPw"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:5eKQYtDqVmrHPZoKHG1LlH"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2023 Catch & Release",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2023 Catch & Release",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a6e3a7e65879142b2a5fe3e7",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a6e3a7e65879142b2a5fe3e7",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a6e3a7e65879142b2a5fe3e7",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 11,
+                "month": 8,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "5WAQTwGucEJPQLgh235Pbz",
+              "label": "Catch & Release",
+              "name": "Atmosphere",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "poOf7iWHSOKv7C0t8I7ryQ",
+                "shareUrl": "https://open.spotify.com/album/5WAQTwGucEJPQLgh235Pbz?si=poOf7iWHSOKv7C0t8I7ryQ"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:5WAQTwGucEJPQLgh235Pbz"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2024 Method 808, distributed by gamma.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0231f60a0ce2b1c6588d80877d",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485131f60a0ce2b1c6588d80877d",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27331f60a0ce2b1c6588d80877d",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 21,
+                "month": 6,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "2so0gk9JxwVcQaCUIOxRh2",
+              "label": "Method 808, distributed by gamma.",
+              "name": "It's That Time (FISHER Remix)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "hrqM_eEpS9S-R0YmJk53uw",
+                "shareUrl": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2?si=hrqM_eEpS9S-R0YmJk53uw"
+              },
+              "tracks": {
+                "totalCount": 3
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:2so0gk9JxwVcQaCUIOxRh2"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2018 Follow The FISH, LLC, under exclusive license to UMG Recordings, Inc.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2018 Follow The FISH, LLC, under exclusive license to UMG Recordings, Inc.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029367c1ee2eec0bf3a04b4868",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519367c1ee2eec0bf3a04b4868",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739367c1ee2eec0bf3a04b4868",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 13,
+                "month": 7,
+                "precision": "DAY",
+                "year": 2018
+              },
+              "id": "143cxYCazoiNfviHRmxkdv",
+              "label": "Fisher - Follow the FISH, LLC",
+              "name": "Losing It",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "bjiUF_v5SMCoaZsj3q8Yww",
+                "shareUrl": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv?si=bjiUF_v5SMCoaZsj3q8Yww"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:143cxYCazoiNfviHRmxkdv"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2023 Follow the Fish LLC d/b/a Catch & Release, under exclusive license to Big Beat / Atlantic Records for the world excluding the United Kingdom, Germany, Switzerland, Austria, Australia, and New Zealand",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2023 Follow the Fish LLC d/b/a Catch & Release, under exclusive license to Big Beat / Atlantic Records for the world excluding the United Kingdom, Germany, Switzerland, Austria, Australia, and New Zealand",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023b5d839a2b6b19511567a3d4",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513b5d839a2b6b19511567a3d4",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733b5d839a2b6b19511567a3d4",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 23,
+                "month": 6,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "29p3XedLUbGNxK7aje4WPW",
+              "label": "Big Beat Records/Atlantic",
+              "name": "TAKE IT OFF",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "nbpjk-DiQcypeskhOqaOWA",
+                "shareUrl": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW?si=nbpjk-DiQcypeskhOqaOWA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:29p3XedLUbGNxK7aje4WPW"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2024 Catch & Release",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2024 Catch & Release",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020445db0af0b11d14db1c4cfa",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510445db0af0b11d14db1c4cfa",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730445db0af0b11d14db1c4cfa",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 29,
+                "month": 11,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "0T84ITkYkKp7x3vxWpvSCf",
+              "label": "Catch & Release",
+              "name": "Ocean",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "6rLg8K_tSbSW50iK-K1jfQ",
+                "shareUrl": "https://open.spotify.com/album/0T84ITkYkKp7x3vxWpvSCf?si=6rLg8K_tSbSW50iK-K1jfQ"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:0T84ITkYkKp7x3vxWpvSCf"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2024 UMG Recordings, Inc.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2024 UMG Recordings, Inc.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e027e536112cde0150fdaec65b6",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048517e536112cde0150fdaec65b6",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737e536112cde0150fdaec65b6",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 8,
+                "month": 2,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "7JIcY8DOxlyJKAW3Dl3sWk",
+              "label": "Tuff Gong",
+              "name": "Jamming (FISHER Rework)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "uc8ioms8SES_sCdHq-Au9g",
+                "shareUrl": "https://open.spotify.com/album/7JIcY8DOxlyJKAW3Dl3sWk?si=uc8ioms8SES_sCdHq-Au9g"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:7JIcY8DOxlyJKAW3Dl3sWk"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2022 Yellow Productions, under exclusive license to UMG Recordings, Inc.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2022 Yellow Productions, under exclusive license to UMG Recordings, Inc.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023dea99d6ea257ee48a112cd8",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513dea99d6ea257ee48a112cd8",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 2,
+                "month": 9,
+                "precision": "DAY",
+                "year": 2022
+              },
+              "id": "5a5yqCyb7xF3Hklvlwc3t3",
+              "label": "Astralwerks",
+              "name": "World, Hold On (FISHER Rework)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "FQcAmJJ2QcmrjW2dJhgvyQ",
+                "shareUrl": "https://open.spotify.com/album/5a5yqCyb7xF3Hklvlwc3t3?si=FQcAmJJ2QcmrjW2dJhgvyQ"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:5a5yqCyb7xF3Hklvlwc3t3"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2019 Follow The FISH, LLC, under exclusive license to UMG Recordings, Inc.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2019 Follow The FISH, LLC, under exclusive license to UMG Recordings, Inc.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c9103bcebb6bf4ca93c7ad3d",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c9103bcebb6bf4ca93c7ad3d",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c9103bcebb6bf4ca93c7ad3d",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 10,
+                "month": 5,
+                "precision": "DAY",
+                "year": 2019
+              },
+              "id": "1voOnpa4pILlDPVsrIFl8b",
+              "label": "Catch & Release/Astralwerks",
+              "name": "You Little Beauty",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "3CtO9e60TE2xjVvTwNvC4Q",
+                "shareUrl": "https://open.spotify.com/album/1voOnpa4pILlDPVsrIFl8b?si=3CtO9e60TE2xjVvTwNvC4Q"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1voOnpa4pILlDPVsrIFl8b"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2017 DIRTYBIRD",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2017 DIRTYBIRD",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c6b6244ab810f6b0b8528bfa",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c6b6244ab810f6b0b8528bfa",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c6b6244ab810f6b0b8528bfa",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 10,
+                "month": 11,
+                "precision": "DAY",
+                "year": 2017
+              },
+              "id": "0fxmxqOgw2e60JBY2eGZcQ",
+              "label": "DIRTYBIRD",
+              "name": "Oi Oi",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "tFUplgMuRp6KhyG-kiw_OA",
+                "shareUrl": "https://open.spotify.com/album/0fxmxqOgw2e60JBY2eGZcQ?si=tFUplgMuRp6KhyG-kiw_OA"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "EP",
+              "uri": "spotify:album:0fxmxqOgw2e60JBY2eGZcQ"
+            }
+          ],
+          "totalCount": 20
+        },
+        "singles": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Catch & Release",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Catch & Release",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020445db0af0b11d14db1c4cfa",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510445db0af0b11d14db1c4cfa",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730445db0af0b11d14db1c4cfa",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 29,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "0T84ITkYkKp7x3vxWpvSCf",
+                    "label": "Catch & Release",
+                    "name": "Ocean",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "6rLg8K_tSbSW50iK-K1jfQ",
+                      "shareUrl": "https://open.spotify.com/album/0T84ITkYkKp7x3vxWpvSCf?si=6rLg8K_tSbSW50iK-K1jfQ"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:0T84ITkYkKp7x3vxWpvSCf"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Catch & Release",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Catch & Release",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0290c66a1452d100f3ddd3cfd1",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485190c66a1452d100f3ddd3cfd1",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27390c66a1452d100f3ddd3cfd1",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 9,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "58koXuocSFzeYdnmC4gyFK",
+                    "label": "Catch & Release",
+                    "name": "Boost Up",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "ILTLp2bbRQCIeZqIocfVow",
+                      "shareUrl": "https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK?si=ILTLp2bbRQCIeZqIocfVow"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:58koXuocSFzeYdnmC4gyFK"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Method 808, distributed by gamma.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0231f60a0ce2b1c6588d80877d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485131f60a0ce2b1c6588d80877d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27331f60a0ce2b1c6588d80877d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 21,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "2so0gk9JxwVcQaCUIOxRh2",
+                    "label": "Method 808, distributed by gamma.",
+                    "name": "It's That Time (FISHER Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "hrqM_eEpS9S-R0YmJk53uw",
+                      "shareUrl": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2?si=hrqM_eEpS9S-R0YmJk53uw"
+                    },
+                    "tracks": {
+                      "totalCount": 3
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:2so0gk9JxwVcQaCUIOxRh2"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Epic Records, a division of Sony Music Entertainment Courtesy of Epic Records and under license from The Sony Music Commercial Music Group, a division of Sony Music Entertainment",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Epic Records, a division of Sony Music Entertainment Courtesy of Epic Records and under license from The Sony Music Commercial Music Group, a division of Sony Music Entertainment",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021dec00ff37e4cab52103bd76",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511dec00ff37e4cab52103bd76",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731dec00ff37e4cab52103bd76",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 3,
+                      "month": 5,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "3xLq2t27tpJcAswTxF7S44",
+                    "label": "Catch & Release",
+                    "name": "Waiting For Tonight",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "si5Sji7KQgCalLMjN7z7uQ",
+                      "shareUrl": "https://open.spotify.com/album/3xLq2t27tpJcAswTxF7S44?si=si5Sji7KQgCalLMjN7z7uQ"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3xLq2t27tpJcAswTxF7S44"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 Samples 'n' Seconds Records, under exclusive licence to Universal Music Operations Limited",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 Samples 'n' Seconds Records, under exclusive licence to Universal Music Operations Limited",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02decbf9beecb3cb749ce3a2e2",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851decbf9beecb3cb749ce3a2e2",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273decbf9beecb3cb749ce3a2e2",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 9,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "5eKQYtDqVmrHPZoKHG1LlH",
+                    "label": "Universal-Island Records Ltd.",
+                    "name": "Somebody (2024)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "rDRxBmgpRSi904TD1oGmPw",
+                      "shareUrl": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH?si=rDRxBmgpRSi904TD1oGmPw"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5eKQYtDqVmrHPZoKHG1LlH"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 UMG Recordings, Inc.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 UMG Recordings, Inc.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e027e536112cde0150fdaec65b6",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048517e536112cde0150fdaec65b6",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2737e536112cde0150fdaec65b6",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 8,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "7JIcY8DOxlyJKAW3Dl3sWk",
+                    "label": "Tuff Gong",
+                    "name": "Jamming (FISHER Rework)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "uc8ioms8SES_sCdHq-Au9g",
+                      "shareUrl": "https://open.spotify.com/album/7JIcY8DOxlyJKAW3Dl3sWk?si=uc8ioms8SES_sCdHq-Au9g"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7JIcY8DOxlyJKAW3Dl3sWk"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2023 Catch & Release",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2023 Catch & Release",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a6e3a7e65879142b2a5fe3e7",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a6e3a7e65879142b2a5fe3e7",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a6e3a7e65879142b2a5fe3e7",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 11,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "5WAQTwGucEJPQLgh235Pbz",
+                    "label": "Catch & Release",
+                    "name": "Atmosphere",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "poOf7iWHSOKv7C0t8I7ryQ",
+                      "shareUrl": "https://open.spotify.com/album/5WAQTwGucEJPQLgh235Pbz?si=poOf7iWHSOKv7C0t8I7ryQ"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5WAQTwGucEJPQLgh235Pbz"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2023 Follow the Fish LLC d/b/a Catch & Release, under exclusive license to Big Beat / Atlantic Records for the world excluding the United Kingdom, Germany, Switzerland, Austria, Australia, and New Zealand",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2023 Follow the Fish LLC d/b/a Catch & Release, under exclusive license to Big Beat / Atlantic Records for the world excluding the United Kingdom, Germany, Switzerland, Austria, Australia, and New Zealand",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e023b5d839a2b6b19511567a3d4",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048513b5d839a2b6b19511567a3d4",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2733b5d839a2b6b19511567a3d4",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 23,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "29p3XedLUbGNxK7aje4WPW",
+                    "label": "Big Beat Records/Atlantic",
+                    "name": "TAKE IT OFF",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "nbpjk-DiQcypeskhOqaOWA",
+                      "shareUrl": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW?si=nbpjk-DiQcypeskhOqaOWA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:29p3XedLUbGNxK7aje4WPW"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2022 Catch & Release",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2022 Catch & Release",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02951ede297e3c2b15bf6f979f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851951ede297e3c2b15bf6f979f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273951ede297e3c2b15bf6f979f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 2,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2022
+                    },
+                    "id": "4aPbE5DxRmMERh3eAVY3nS",
+                    "label": "Catch & Release",
+                    "name": "Yeah The Girls",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "0ZhUhnI9Rk2swU3qOr4Gfw",
+                      "shareUrl": "https://open.spotify.com/album/4aPbE5DxRmMERh3eAVY3nS?si=0ZhUhnI9Rk2swU3qOr4Gfw"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4aPbE5DxRmMERh3eAVY3nS"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2022 Yellow Productions, under exclusive license to UMG Recordings, Inc.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2022 Yellow Productions, under exclusive license to UMG Recordings, Inc.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e023dea99d6ea257ee48a112cd8",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048513dea99d6ea257ee48a112cd8",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 2,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2022
+                    },
+                    "id": "5a5yqCyb7xF3Hklvlwc3t3",
+                    "label": "Astralwerks",
+                    "name": "World, Hold On (FISHER Rework)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "FQcAmJJ2QcmrjW2dJhgvyQ",
+                      "shareUrl": "https://open.spotify.com/album/5a5yqCyb7xF3Hklvlwc3t3?si=FQcAmJJ2QcmrjW2dJhgvyQ"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5a5yqCyb7xF3Hklvlwc3t3"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 22
+        },
+        "topTracks": {
+          "items": [
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e023dea99d6ea257ee48a112cd8"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048513dea99d6ea257ee48a112cd8"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2733dea99d6ea257ee48a112cd8"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:5a5yqCyb7xF3Hklvlwc3t3"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Bob Sinclar"
+                      },
+                      "uri": "spotify:artist:5YFS41yoX0YuFY39fq21oN"
+                    },
+                    {
+                      "profile": {
+                        "name": "Steve Edwards"
+                      },
+                      "uri": "spotify:artist:2SwhNukah1MYpLR594PnuC"
+                    },
+                    {
+                      "profile": {
+                        "name": "FISHER"
+                      },
+                      "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 178304
+                },
+                "id": "6quGF3Kvzd5WYEEuCmvCe1",
+                "name": "World, Hold On - FISHER Rework",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "427555399",
+                "uri": "spotify:track:6quGF3Kvzd5WYEEuCmvCe1"
+              },
+              "uid": "bd33adcc2a30c2111079"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02decbf9beecb3cb749ce3a2e2"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851decbf9beecb3cb749ce3a2e2"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273decbf9beecb3cb749ce3a2e2"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:5eKQYtDqVmrHPZoKHG1LlH"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Gotye"
+                      },
+                      "uri": "spotify:artist:2AsusXITU8P25dlRNhcAbG"
+                    },
+                    {
+                      "profile": {
+                        "name": "FISHER"
+                      },
+                      "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+                    },
+                    {
+                      "profile": {
+                        "name": "Chris Lake"
+                      },
+                      "uri": "spotify:artist:5Igpc9iLZ3YGtKeYfSrrOE"
+                    },
+                    {
+                      "profile": {
+                        "name": "Kimbra"
+                      },
+                      "uri": "spotify:artist:6hk7Yq1DU9QcCCrz9uc0Ti"
+                    },
+                    {
+                      "profile": {
+                        "name": "Sante Sansone"
+                      },
+                      "uri": "spotify:artist:5fAwPpS78sokZdpktoSUE8"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 153518
+                },
+                "id": "0agQ9vIV7NP4dntGKLcCXO",
+                "name": "Somebody (2024)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "174935096",
+                "uri": "spotify:track:0agQ9vIV7NP4dntGKLcCXO"
+              },
+              "uid": "0f8f604c1deb84800f96"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a6e3a7e65879142b2a5fe3e7"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851a6e3a7e65879142b2a5fe3e7"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a6e3a7e65879142b2a5fe3e7"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:5WAQTwGucEJPQLgh235Pbz"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "FISHER"
+                      },
+                      "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+                    },
+                    {
+                      "profile": {
+                        "name": "Kita Alexander"
+                      },
+                      "uri": "spotify:artist:3CGuwWgoCYSO5Z72H5G2Ec"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 182857
+                },
+                "id": "63HwAAXuSV2tzIUPoHOwZa",
+                "name": "Atmosphere",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "190659889",
+                "uri": "spotify:track:63HwAAXuSV2tzIUPoHOwZa"
+              },
+              "uid": "dcbd98daf4b5b24e99e0"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e029367c1ee2eec0bf3a04b4868"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048519367c1ee2eec0bf3a04b4868"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2739367c1ee2eec0bf3a04b4868"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:143cxYCazoiNfviHRmxkdv"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "FISHER"
+                      },
+                      "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 248035
+                },
+                "id": "6ho0GyrWZN3mhi9zVRW7xi",
+                "name": "Losing It",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "573087302",
+                "uri": "spotify:track:6ho0GyrWZN3mhi9zVRW7xi"
+              },
+              "uid": "6b6ac5d42e0122255bfd"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0231f60a0ce2b1c6588d80877d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485131f60a0ce2b1c6588d80877d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27331f60a0ce2b1c6588d80877d"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:2so0gk9JxwVcQaCUIOxRh2"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Marlon Hoffstadt"
+                      },
+                      "uri": "spotify:artist:0HHa7ZJZxUQlg5l2mB0N0f"
+                    },
+                    {
+                      "profile": {
+                        "name": "FISHER"
+                      },
+                      "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 171717
+                },
+                "id": "3GiORO0zRwRT3g9CCklzkQ",
+                "name": "It's That Time - FISHER Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "43856491",
+                "uri": "spotify:track:3GiORO0zRwRT3g9CCklzkQ"
+              },
+              "uid": "ffe339fa2f0163e8e54c"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e023b5d839a2b6b19511567a3d4"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048513b5d839a2b6b19511567a3d4"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2733b5d839a2b6b19511567a3d4"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:29p3XedLUbGNxK7aje4WPW"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "FISHER"
+                      },
+                      "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+                    },
+                    {
+                      "profile": {
+                        "name": "Aatig"
+                      },
+                      "uri": "spotify:artist:21OabQwzpxuFNxp7p781Ao"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "EXPLICIT"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 194604
+                },
+                "id": "7zp9FOU4cjFdGN1zdWTvcB",
+                "name": "TAKE IT OFF",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "130397271",
+                "uri": "spotify:track:7zp9FOU4cjFdGN1zdWTvcB"
+              },
+              "uid": "a4d25575f3ced0572c81"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e020445db0af0b11d14db1c4cfa"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048510445db0af0b11d14db1c4cfa"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2730445db0af0b11d14db1c4cfa"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:0T84ITkYkKp7x3vxWpvSCf"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "FISHER"
+                      },
+                      "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+                    },
+                    {
+                      "profile": {
+                        "name": "AR/CO"
+                      },
+                      "uri": "spotify:artist:7mGI9Sd66FqHjIkwzkgbG7"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 196923
+                },
+                "id": "6jhAJgaS9OttFwP5Cn8WII",
+                "name": "Ocean",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "10461050",
+                "uri": "spotify:track:6jhAJgaS9OttFwP5Cn8WII"
+              },
+              "uid": "b1e0573b4486968243c8"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02951ede297e3c2b15bf6f979f"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851951ede297e3c2b15bf6f979f"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273951ede297e3c2b15bf6f979f"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:4aPbE5DxRmMERh3eAVY3nS"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "FISHER"
+                      },
+                      "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+                    },
+                    {
+                      "profile": {
+                        "name": "MERYLL"
+                      },
+                      "uri": "spotify:artist:4pqY01dGuzojomnVCXYbXC"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 194310
+                },
+                "id": "1w3IvRZpHTCyGkCp8icGAa",
+                "name": "Yeah The Girls",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "72604045",
+                "uri": "spotify:track:1w3IvRZpHTCyGkCp8icGAa"
+              },
+              "uid": "62db5b9533ee7a6e6d33"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0290c66a1452d100f3ddd3cfd1"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485190c66a1452d100f3ddd3cfd1"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27390c66a1452d100f3ddd3cfd1"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:58koXuocSFzeYdnmC4gyFK"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "FISHER"
+                      },
+                      "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+                    },
+                    {
+                      "profile": {
+                        "name": "Flowdan"
+                      },
+                      "uri": "spotify:artist:07CimrZi5vs9iEao47TNQ4"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 211899
+                },
+                "id": "07Sm4SlYGZ4CRSxgwP3hUr",
+                "name": "Boost Up",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "21938313",
+                "uri": "spotify:track:07Sm4SlYGZ4CRSxgwP3hUr"
+              },
+              "uid": "ff80034e7ea91f898d20"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e027e536112cde0150fdaec65b6"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048517e536112cde0150fdaec65b6"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2737e536112cde0150fdaec65b6"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:7JIcY8DOxlyJKAW3Dl3sWk"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Bob Marley & The Wailers"
+                      },
+                      "uri": "spotify:artist:2QsynagSdAqZj3U9HgDzjD"
+                    },
+                    {
+                      "profile": {
+                        "name": "FISHER"
+                      },
+                      "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 201928
+                },
+                "id": "2gKewcQZEV1fqoWH81RUDk",
+                "name": "Jamming - FISHER Rework",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "40602304",
+                "uri": "spotify:track:2gKewcQZEV1fqoWH81RUDk"
+              },
+              "uid": "f0eb8adf5f16f0a6c672"
+            }
+          ]
+        }
+      },
+      "goods": {
+        "concerts": {
+          "items": [
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Miami",
+                  "name": "Club Space Miami"
+                },
+                "startDateIsoString": "2025-03-26T23:00-04:00",
+                "title": "FISHER, Paco Osuna, SOSA, Little Fritter",
+                "uri": "spotify:concert:0DjLmq0cKg7IFOXUpgFuK5"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Nashville",
+                  "name": "The Pinnacle"
+                },
+                "startDateIsoString": "2025-04-11T20:00-05:00",
+                "title": "FISHER",
+                "uri": "spotify:concert:2ugxjE11NoG7YVCBpYWOpU"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": true,
+                "location": {
+                  "city": "Tampa",
+                  "name": "Raymond James Stadium North Grounds"
+                },
+                "startDateIsoString": "2025-04-25T17:00-04:00",
+                "title": "Breakaway Music Festival Tampa 2025",
+                "uri": "spotify:concert:326sJxjPNkCAksW5PN9KAm"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": true,
+                "location": {
+                  "city": "Fort Worth",
+                  "name": "Panther Island"
+                },
+                "startDateIsoString": "2025-04-26T00:00-05:00",
+                "title": "Ubbi Dubbi 2025",
+                "uri": "spotify:concert:5T2P7uirV20T9kZu4ppadb"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Fort Worth",
+                  "name": "Panther Island Pavilion"
+                },
+                "startDateIsoString": "2025-04-27T17:00-05:00",
+                "title": "What So Not, AHEE, BEAUZ, Basstripper, BRUX, Common Creation, Dead X, Dombresky, Dr. Fresch, EDDIE, FISHER, GorillaT, GRAVEDGR, HVDES, INZO, JSTJR, Lil Texas, Level Up, Neek, Neotek, Patrick Topping, Riot Ten, Skybreak, SKYLER, SOTA, Subtronics, Sunday Scaries, WHIPPED CREAM, WonkyWilla, Yosuf, zoska",
+                "uri": "spotify:concert:5OWz3wMkrqGqmLOR2R0P8p"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Denver",
+                  "name": "16th & Welton"
+                },
+                "startDateIsoString": "2025-05-26T18:00-06:00",
+                "title": "FISHER",
+                "uri": "spotify:concert:7B6FhQmeZvrDaJiq5a2Sia"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "PARIS",
+                  "name": "Hippodrome de Longchamp"
+                },
+                "startDateIsoString": "2025-06-28T14:00+02:00",
+                "title": "KOMPROMAT, MEUTE, FISHER, Zaho de Sagazan, Werenoi, Lamomali",
+                "uri": "spotify:concert:1gNv7pOqsCJ8PRVJVbRtV2"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "MARMANDE",
+                  "name": "PLEIN AIR"
+                },
+                "startDateIsoString": "2025-07-03T12:00+02:00",
+                "title": "Hindi Zahra, Feder, Gazo, Ril\u00e8s, AFROJACK, I Hate Models, Jungeli, Kybba, J Balvin, DJ Snake, Damso, Black Eyed Peas, Biga*Ranx, Yseult, Hoshi, The Black Keys, FISHER, Jersey, Teletech, Basswell, OMAKS, CARAVEL, Alex Farell, B2B, SIKOTI, Part Time Killer, Bella Claxton, Faster Horses",
+                "uri": "spotify:concert:7eCWDfUqveNjuwf6JaZJFi"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Kristiansand S",
+                  "name": "Bystranda"
+                },
+                "startDateIsoString": "2025-07-04T12:00+02:00",
+                "title": "FISHER, Stormzy, Kygo, TIX, Kamelen, Bausa, Ari Bajgora, Chase & Status, Ka2, Victoria Nadine, Rakkere, Moyka",
+                "uri": "spotify:concert:6SQuX0c8uI4driBEJmFU4t"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "MARMANDE",
+                  "name": "PLEIN AIR"
+                },
+                "startDateIsoString": "2025-07-05T00:00+02:00",
+                "title": "Biga*Ranx, Damso, Hoshi, MEUTE, Black Eyed Peas, DJ Snake, FISHER, LANDMVRKS, Jersey, Wallace Cleaver, NEMZZ",
+                "uri": "spotify:concert:0UMxsYBjm1Dl7G97PRWJEI"
+              }
+            }
+          ],
+          "totalCount": 13
+        },
+        "merch": {
+          "items": []
+        }
+      },
+      "headerImage": {
+        "data": {
+          "__typename": "ImageV2",
+          "sources": [
+            {
+              "maxHeight": 640,
+              "maxWidth": 1494,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67618600000194411f9686205d15041dea1ed9"
+            },
+            {
+              "maxHeight": 1080,
+              "maxWidth": 1920,
+              "url": "https://i2o.scdn.co/image/ab67618600001667411f9686205d15041dea1ed9"
+            },
+            {
+              "maxHeight": 641,
+              "maxWidth": 1495,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67618600009d80411f9686205d15041dea1ed9"
+            },
+            {
+              "maxHeight": 1140,
+              "maxWidth": 2660,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab6761860000eab1411f9686205d15041dea1ed9"
+            }
+          ]
+        }
+      },
+      "id": "1VJ0briNOlXRtJUAzoUJdt",
+      "preRelease": null,
+      "profile": {
+        "biography": {
+          "text": "Australian tech-house producer Paul Fisher (aka Fisher) brings a sense of carefree fun to his productions, which strip away pretenses to focus on serving the dancefloor. He came to the public's attention in 2018 with his brassy single \"Losing It,\" which was certified platinum in his home country and was nominated for a Grammy. The follow-up \"You Little Beauty\" was also a success, and Fisher continued releasing upbeat club material such as 2021's \"Just Feels Tight,\" 2022's \"It's a Killa,\" and 2023's \"Take It Off.\" \r\n\nFisher was born and raised on the Gold Coast of Australia, where he pursued a career as a professional surfer for many years. The lifestyle came with its fair share of parties, incentivizing Fisher to take up DJing in 2005, although it wouldn't be until 2011 that he turned his hand to production. His initial tracks were released as part of <a href=\"spotify:artist:5z7jsdhxqvsOxzZxfVF236\">Cut Snake</a> alongside fellow producer and surfer Leigh Sedley. Fisher eventually went solo in 2017, going on to issue a string of singles such as \"Ya Kidding,\" \"Stop It,\" and \"Ya Didn't,\" all on <a href=\"spotify:search:label%3A%22Dirtybird%22\">Dirtybird</a>. In 2018, he released his breakout track, \"Losing It,\" this time via <a href=\"spotify:search:label%3A%22Catch+%26+Release%22\">Catch & Release</a>. The song went to number one on the Australian and American club charts, and was certified gold or platinum in Australia, Italy, Germany, and the U.K. It was also nominated for Best Dance Recording at the 61st Annual Grammy Awards.\r\n\nFisher followed the success of \"Losing It\" with the <a href=\"spotify:artist:3m5hegxlB80Z2zQb1893pc\">Loleatta Holloway</a>-sampling \"You Little Beauty,\" which similarly topped club charts and was nominated for an ARIA Music Award. The double A-side \"Freaks\"/\"Wanna Go Dancin'\" appeared in 2020, followed by \"Just Feels Tight\" in 2021. Fisher teamed up with <a href=\"spotify:artist:4Siyzg8kWayQfPQsPSl6JI\">Shermanology</a> in 2022 on the floor-filling single \"It's a Killa\" and landed a pair of club hits in 2023 with \"Atmosphere\" featuring <a href=\"spotify:artist:3CGuwWgoCYSO5Z72H5G2Ec\">Kita Alexander</a> and \"Take It Off\" featuring Aatig. ~ Liam Martin & Paul Simpson, Rovi",
+          "type": "BIOGRAPHY"
+        },
+        "externalLinks": {
+          "items": [
+            {
+              "name": "FACEBOOK",
+              "url": "https://facebook.com/followthefishtv.tv"
+            },
+            {
+              "name": "INSTAGRAM",
+              "url": "https://instagram.com/followthefishtv"
+            },
+            {
+              "name": "TWITTER",
+              "url": "https://twitter.com/followthefishtv"
+            }
+          ]
+        },
+        "name": "FISHER",
+        "pinnedItem": {
+          "backgroundImageV2": null,
+          "comment": "OCEAN \ud83c\udf0a\ud83c\udf0a OUT NOW !!",
+          "itemV2": {
+            "__typename": "AlbumResponseWrapper",
+            "data": {
+              "__typename": "Album",
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020a8463c6fe8230e829354898",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510a8463c6fe8230e829354898",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730a8463c6fe8230e829354898",
+                    "width": 640
+                  }
+                ]
+              },
+              "name": "Ocean",
+              "type": "SINGLE",
+              "uri": "spotify:album:3scl0Lfq92CcfbIA7VxrVC"
+            }
+          },
+          "subtitle": "Single",
+          "thumbnailImage": {
+            "data": {
+              "sources": [
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000075a00a8463c6fe8230e829354898"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000090d50a8463c6fe8230e829354898"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000ab870a8463c6fe8230e829354898"
+                }
+              ]
+            }
+          },
+          "title": "Ocean",
+          "type": "ALBUM",
+          "uri": "spotify:album:3scl0Lfq92CcfbIA7VxrVC"
+        },
+        "playlistsV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "All your favourite records in one place!",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84b6f341e167907c9bcaceeb0e",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Catch & Release Records",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Catch & Release"
+                  }
+                },
+                "uri": "spotify:playlist:2P5ouqmAfL2634EgveHYsz"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://mosaic.scdn.co/640/ab67616d00001e024ef64f5419f46b80f69d2f66ab67616d00001e025974fb995e6941b8b101876cab67616d00001e026d219182e667f12137c01f94ab67616d00001e029d2e0cbb0c7259c74f0f3097",
+                          "width": 640
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://mosaic.scdn.co/300/ab67616d00001e024ef64f5419f46b80f69d2f66ab67616d00001e025974fb995e6941b8b101876cab67616d00001e026d219182e667f12137c01f94ab67616d00001e029d2e0cbb0c7259c74f0f3097",
+                          "width": 300
+                        },
+                        {
+                          "height": 60,
+                          "url": "https://mosaic.scdn.co/60/ab67616d00001e024ef64f5419f46b80f69d2f66ab67616d00001e025974fb995e6941b8b101876cab67616d00001e026d219182e667f12137c01f94ab67616d00001e029d2e0cbb0c7259c74f0f3097",
+                          "width": 60
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Paul Fisher"
+                  }
+                },
+                "uri": "spotify:playlist:2gP8HlnVcqh4ODGBTy1D3r"
+              }
+            }
+          ],
+          "totalCount": 2
+        },
+        "verified": true
+      },
+      "relatedContent": {
+        "appearsOn": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Jennifer Lopez"
+                          },
+                          "uri": "spotify:artist:2DlGxzQSjYe5N6G9nkYghR"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ec7898a4ed10f186b8db8a3a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ec7898a4ed10f186b8db8a3a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ec7898a4ed10f186b8db8a3a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "7iLgRk89HhZw9QZvQjjATj",
+                    "name": "On The 6 (25th Anniversary Edition)",
+                    "sharingInfo": {
+                      "shareId": "pWgk22uQRfWPVcV04Fa7Gg",
+                      "shareUrl": "https://open.spotify.com/album/7iLgRk89HhZw9QZvQjjATj?si=pWgk22uQRfWPVcV04Fa7Gg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:7iLgRk89HhZw9QZvQjjATj"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02313b3c26d982a0993fe01395",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851313b3c26d982a0993fe01395",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273313b3c26d982a0993fe01395",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "4t6fUUuiT5jk1nPosXnqwD",
+                    "name": "Deep House Party",
+                    "sharingInfo": {
+                      "shareId": "xTfw4kVISASzXH1LebIuGA",
+                      "shareUrl": "https://open.spotify.com/album/4t6fUUuiT5jk1nPosXnqwD?si=xTfw4kVISASzXH1LebIuGA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:4t6fUUuiT5jk1nPosXnqwD"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02744ac0b1dd0a4468500d6873",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851744ac0b1dd0a4468500d6873",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273744ac0b1dd0a4468500d6873",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "2Hf9jhHwHd4CRblRClgMSy",
+                    "name": "Beach Party 2020",
+                    "sharingInfo": {
+                      "shareId": "RIbqZ9lxQs2FqPTMzs5jUA",
+                      "shareUrl": "https://open.spotify.com/album/2Hf9jhHwHd4CRblRClgMSy?si=RIbqZ9lxQs2FqPTMzs5jUA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:2Hf9jhHwHd4CRblRClgMSy"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020daaa2c26b0db473198cee2b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510daaa2c26b0db473198cee2b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730daaa2c26b0db473198cee2b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "7D1GxLf2HmzT6ngnI9ls6S",
+                    "name": "Best Gaming Tracks",
+                    "sharingInfo": {
+                      "shareId": "pAFgX0VGRvO4D_8XUE0Uog",
+                      "shareUrl": "https://open.spotify.com/album/7D1GxLf2HmzT6ngnI9ls6S?si=pAFgX0VGRvO4D_8XUE0Uog"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:7D1GxLf2HmzT6ngnI9ls6S"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02690e314cc1dcc6fc65e9209a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851690e314cc1dcc6fc65e9209a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273690e314cc1dcc6fc65e9209a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "6beynOi19ih0qO2Cj1vZOQ",
+                    "name": "Ibiza Fever 2023 by FG (Exclusive Mix By Bob Sinclar)",
+                    "sharingInfo": {
+                      "shareId": "yPO03zUOTK29EkoaE0mP9g",
+                      "shareUrl": "https://open.spotify.com/album/6beynOi19ih0qO2Cj1vZOQ?si=yPO03zUOTK29EkoaE0mP9g"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:6beynOi19ih0qO2Cj1vZOQ"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d0b59638750547da6a3cf1ec",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d0b59638750547da6a3cf1ec",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d0b59638750547da6a3cf1ec",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "2dk7k4wG34k8o9TPxrMOCX",
+                    "name": "Vive El Verano 2024",
+                    "sharingInfo": {
+                      "shareId": "SRBtRf-CSr23eP5rCl6RIA",
+                      "shareUrl": "https://open.spotify.com/album/2dk7k4wG34k8o9TPxrMOCX?si=SRBtRf-CSr23eP5rCl6RIA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:2dk7k4wG34k8o9TPxrMOCX"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0240204cd69892cec8f1781dea",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485140204cd69892cec8f1781dea",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27340204cd69892cec8f1781dea",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "0Avy6QPpUbn3rJ5f76yimK",
+                    "name": "He's All That (Music From The Netflix Film)",
+                    "sharingInfo": {
+                      "shareId": "rBtjp3qrQBeff28X48n0Kw",
+                      "shareUrl": "https://open.spotify.com/album/0Avy6QPpUbn3rJ5f76yimK?si=rBtjp3qrQBeff28X48n0Kw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:0Avy6QPpUbn3rJ5f76yimK"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c9920ddb0618cdc0fd5c600b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c9920ddb0618cdc0fd5c600b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c9920ddb0618cdc0fd5c600b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "6rTfu5jxuxQ3V9Jdl19ekk",
+                    "name": "Beach Party 2024",
+                    "sharingInfo": {
+                      "shareId": "8EXED3m1Q0KtmWJ84RsOvQ",
+                      "shareUrl": "https://open.spotify.com/album/6rTfu5jxuxQ3V9Jdl19ekk?si=8EXED3m1Q0KtmWJ84RsOvQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:6rTfu5jxuxQ3V9Jdl19ekk"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e023b23df1baad048a9defee85d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048513b23df1baad048a9defee85d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2733b23df1baad048a9defee85d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "29n2PIJYZqNSVb1Y0kD6h2",
+                    "name": "House Party 2023",
+                    "sharingInfo": {
+                      "shareId": "6ZaAp4rbSmSprYkRf1SHAA",
+                      "shareUrl": "https://open.spotify.com/album/29n2PIJYZqNSVb1Y0kD6h2?si=6ZaAp4rbSmSprYkRf1SHAA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:29n2PIJYZqNSVb1Y0kD6h2"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Milk & Sugar"
+                          },
+                          "uri": "spotify:artist:159cwGtgCzNpyHWY6tzihH"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e028eacd3926cc6928e957da990",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048518eacd3926cc6928e957da990",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2738eacd3926cc6928e957da990",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "1E4HHM38iCBOL34wNdy9Un",
+                    "name": "Milk & Sugar House Nation Ibiza 2024",
+                    "sharingInfo": {
+                      "shareId": "Div_Jh7wSuSH0Tc10f1mFw",
+                      "shareUrl": "https://open.spotify.com/album/1E4HHM38iCBOL34wNdy9Un?si=Div_Jh7wSuSH0Tc10f1mFw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:1E4HHM38iCBOL34wNdy9Un"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02fc5ee869ebc2d1b610cae70a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851fc5ee869ebc2d1b610cae70a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273fc5ee869ebc2d1b610cae70a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "79NqhtipO3hY4gEuxrzw56",
+                    "name": "House \u00c9t\u00e9 2024",
+                    "sharingInfo": {
+                      "shareId": "3s4HR0T-Qc-kF5esCIFGBQ",
+                      "shareUrl": "https://open.spotify.com/album/79NqhtipO3hY4gEuxrzw56?si=3s4HR0T-Qc-kF5esCIFGBQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:79NqhtipO3hY4gEuxrzw56"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0295e8b1065819bd1ea9172ebf",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485195e8b1065819bd1ea9172ebf",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27395e8b1065819bd1ea9172ebf",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "2iyUhgHxZixR6c255983KB",
+                    "name": "EDM Workout 2025",
+                    "sharingInfo": {
+                      "shareId": "e71hxipZSganLJycS_S3-w",
+                      "shareUrl": "https://open.spotify.com/album/2iyUhgHxZixR6c255983KB?si=e71hxipZSganLJycS_S3-w"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:2iyUhgHxZixR6c255983KB"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0219592250a989fdc854709601",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485119592250a989fdc854709601",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27319592250a989fdc854709601",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "2vmeYUusEpLjWm5hQJ3BQe",
+                    "name": "Dj Mag : House",
+                    "sharingInfo": {
+                      "shareId": "FRUHbsLKShW1IYrDVAAByA",
+                      "shareUrl": "https://open.spotify.com/album/2vmeYUusEpLjWm5hQJ3BQe?si=FRUHbsLKShW1IYrDVAAByA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:2vmeYUusEpLjWm5hQJ3BQe"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e022f63bacc876b98c052de4670",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048512f63bacc876b98c052de4670",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2732f63bacc876b98c052de4670",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "1diEGpwWfezKQtTLtiak92",
+                    "name": "Bass Boosted Car",
+                    "sharingInfo": {
+                      "shareId": "qMTzc-u8TeS4H-USEoAjBA",
+                      "shareUrl": "https://open.spotify.com/album/1diEGpwWfezKQtTLtiak92?si=qMTzc-u8TeS4H-USEoAjBA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:1diEGpwWfezKQtTLtiak92"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Bob Sinclar"
+                          },
+                          "uri": "spotify:artist:5YFS41yoX0YuFY39fq21oN"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02723c6c75c4cb8c0c6108d2d0",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851723c6c75c4cb8c0c6108d2d0",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273723c6c75c4cb8c0c6108d2d0",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "3MjwJvoGjnvY3yJIWnYpfF",
+                    "name": "World, Hold On (FISHER Rework / Extended Mix)",
+                    "sharingInfo": {
+                      "shareId": "Sx9u6D6tRjOZIjQ5BAAfFg",
+                      "shareUrl": "https://open.spotify.com/album/3MjwJvoGjnvY3yJIWnYpfF?si=Sx9u6D6tRjOZIjQ5BAAfFg"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3MjwJvoGjnvY3yJIWnYpfF"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02cb25421612317b29bd0706ba",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851cb25421612317b29bd0706ba",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273cb25421612317b29bd0706ba",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "0XiKiu4Uw16KFIyVDSytI2",
+                    "name": "Dirtybird Campout West Compilation",
+                    "sharingInfo": {
+                      "shareId": "kSMTOhSrRVC6NJNeEa7Lyg",
+                      "shareUrl": "https://open.spotify.com/album/0XiKiu4Uw16KFIyVDSytI2?si=kSMTOhSrRVC6NJNeEa7Lyg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:0XiKiu4Uw16KFIyVDSytI2"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0202549732802564710429cd3f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485102549732802564710429cd3f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27302549732802564710429cd3f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "6PpdUe0BI2uhtrLr4IMGRY",
+                    "name": "Fitness 2020",
+                    "sharingInfo": {
+                      "shareId": "NA2YARnHTxGG3tk-5RF_OQ",
+                      "shareUrl": "https://open.spotify.com/album/6PpdUe0BI2uhtrLr4IMGRY?si=NA2YARnHTxGG3tk-5RF_OQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:6PpdUe0BI2uhtrLr4IMGRY"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02505f73f6f821681349b49ccc",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851505f73f6f821681349b49ccc",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273505f73f6f821681349b49ccc",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "4z6g1CJ9PtujtwWiePDdvx",
+                    "name": "Summer Hits 2018",
+                    "sharingInfo": {
+                      "shareId": "8_IgthwwR5-fBkUuD4cgDw",
+                      "shareUrl": "https://open.spotify.com/album/4z6g1CJ9PtujtwWiePDdvx?si=8_IgthwwR5-fBkUuD4cgDw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:4z6g1CJ9PtujtwWiePDdvx"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02213cce4bb813c53e7f25ebe5",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851213cce4bb813c53e7f25ebe5",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273213cce4bb813c53e7f25ebe5",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "0uzLQeJ55CShXo7wBlnovK",
+                    "name": "Los Mayores \u00c9xitos House Y EDM",
+                    "sharingInfo": {
+                      "shareId": "HNK2ZfpaR_OkCyM4pew_eQ",
+                      "shareUrl": "https://open.spotify.com/album/0uzLQeJ55CShXo7wBlnovK?si=HNK2ZfpaR_OkCyM4pew_eQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:0uzLQeJ55CShXo7wBlnovK"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02f7aca44c8fcdc5bdce961098",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851f7aca44c8fcdc5bdce961098",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273f7aca44c8fcdc5bdce961098",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "6CeYizLeUfJDgV5WMO4Xyd",
+                    "name": "Vacation Mode",
+                    "sharingInfo": {
+                      "shareId": "bGDsPv0TRhil8Kr8pmtTjg",
+                      "shareUrl": "https://open.spotify.com/album/6CeYizLeUfJDgV5WMO4Xyd?si=bGDsPv0TRhil8Kr8pmtTjg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:6CeYizLeUfJDgV5WMO4Xyd"
+                  }
+                ],
+                "totalCount": 1
+              }
+            }
+          ],
+          "totalCount": 24
+        },
+        "discoveredOnV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> to the rhythm and move your feet!",
+                "id": "37i9dQZF1DXaXB8fQg7xif",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002d2c23cff8e4056e5c891216d",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Dance Party",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXaXB8fQg7xif"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Discover the best House Music to vibe or dance to.\u2502<a href=\"https://www.instagram.com/weareuncommonrecords/\">Instagram</a>",
+                "id": "7bu7BZEusLNJSaAuUUZBKn",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8445022ff58370157cbb0b02a6",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "HOUSE MUSIC 2025 (Top 100)",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "UNCOMMON"
+                  }
+                },
+                "uri": "spotify:playlist:7bu7BZEusLNJSaAuUUZBKn"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "it's never too early for summer dance hits \ud83d\ude0e\u2600\ufe0f",
+                "id": "37i9dQZF1DWZ7eJRBxKzdO",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002c69d0b9a845acfa88f9794ca",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Summer Dance Hits 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWZ7eJRBxKzdO"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is FISHER. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO15yTgv",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO15yTgv-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is FISHER",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO15yTgv"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Deep House &amp; Lounge Music, Cafe del Marina, lounge hits. Chillout, Summer Chill Hits. Beach Music - New Years music - Chill music - Cafe del mar ibiza - Hotel Costas -Soft House - Covers - Summer Vibes - (Bar &amp; Caf\u00e9) Summer  Beach Lounge Music, Ibiza, sunset vibes, Background Music, Friday vibes",
+                "id": "4FhyjgN9pPGzTbUVuzqOUW",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84b0b7f210f4aa703eb307c098",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "IBIZA Summer Mix 2025 \ud83c\udf34 Deep House - Tech House - Afrohouse - Sunset Vibes - Beach Lounge - Chillout",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "LoudKult"
+                  }
+                },
+                "uri": "spotify:playlist:4FhyjgN9pPGzTbUVuzqOUW"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Dip your feet in the pool and enjoy this perfect summer house mix \u2600\ufe0f\u200a",
+                "id": "37i9dQZF1DX05r4Oy3Ln97",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002932540ed5ec4a5b603e717f7",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Summer House 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX05r4Oy3Ln97"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "All the <a href=\"spotify:genre:edm_dance\">big ones</a> with Dom Dolla",
+                "id": "37i9dQZF1DX0BcQWzuB7ZO",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000020823934df67cad1413624f1a",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Dance Hits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX0BcQWzuB7ZO"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "\ud83d\ude0eLa mejor \ud83d\udd25seleccion de musica electronica \u2665\ufe0f",
+                "id": "39nFCFRtOYIRkfx0hggGHa",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://mosaic.scdn.co/640/ab67616d00001e02bbfd604e3eb005d48ba772f9ab67616d00001e02ccdcbd450e42fc7b27a82a1fab67616d00001e02dc6516b26e3af84d1c76b0aeab67616d00001e02e7cab10befa626ff5a55880c",
+                          "width": 640
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://mosaic.scdn.co/300/ab67616d00001e02bbfd604e3eb005d48ba772f9ab67616d00001e02ccdcbd450e42fc7b27a82a1fab67616d00001e02dc6516b26e3af84d1c76b0aeab67616d00001e02e7cab10befa626ff5a55880c",
+                          "width": 300
+                        },
+                        {
+                          "height": 60,
+                          "url": "https://mosaic.scdn.co/60/ab67616d00001e02bbfd604e3eb005d48ba772f9ab67616d00001e02ccdcbd450e42fc7b27a82a1fab67616d00001e02dc6516b26e3af84d1c76b0aeab67616d00001e02e7cab10befa626ff5a55880c",
+                          "width": 60
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "M\u00daSICA \ud83c\udfb5\ud83d\udd25 ELECTR\u00d3NICA \u2665\ufe0f PUROS EXITOS \ud83d\ude0e",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Poncho .CRTS \ud83d\ude08"
+                  }
+                },
+                "uri": "spotify:playlist:39nFCFRtOYIRkfx0hggGHa"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The best Tech House Music in 2025 incl. tracks by James Hype, FISHER, Mau P, John Summit, Chris Lake, Hannah Laing and many more. Tech House Music - House Mix - Party Mix - Gym Music - Club Mix - DJ Music - Remixes.",
+                "id": "7bNKrNBfnPLG3ANBbVn5mB",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ce7bee42cb9bd62de6bc04d9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "TECH HOUSE 2025 \ud83d\udfe3 House Party Mix. Deejay Remixes. DJ Music. Gym, Workout & Sport Music.   ",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "THE NIGHT DRIVE"
+                  }
+                },
+                "uri": "spotify:playlist:7bNKrNBfnPLG3ANBbVn5mB"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "id": "4rxnMVYa0wZsmWNM9fI7RU",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da848c3b3fd1a2555869fb64faf0",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "HOUSE MUSIC",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "aryo"
+                  }
+                },
+                "uri": "spotify:playlist:4rxnMVYa0wZsmWNM9fI7RU"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Pumping tracks for pumping iron!",
+                "id": "37i9dQZF1DXdxcBWuJkbcy",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002636a699fcada8d04339c7803",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Gym Hits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXdxcBWuJkbcy"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Get ready for Ibiza season 2024. See you on the dancefloor.",
+                "id": "37i9dQZF1DXaCACvgOVs5K",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002ec816a80a5306e63cb9c99c3",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Ibiza 2024",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXaCACvgOVs5K"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "id": "7dXNMYz3OpesgSuoLlz2cG",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://mosaic.scdn.co/640/ab67616d00001e025c86221aab835ad1b8f7e16fab67616d00001e0268c351ff95beef153ddec5adab67616d00001e029367c1ee2eec0bf3a04b4868ab67616d00001e02e945b8d2ddbcaaf1ec522da5",
+                          "width": 640
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://mosaic.scdn.co/300/ab67616d00001e025c86221aab835ad1b8f7e16fab67616d00001e0268c351ff95beef153ddec5adab67616d00001e029367c1ee2eec0bf3a04b4868ab67616d00001e02e945b8d2ddbcaaf1ec522da5",
+                          "width": 300
+                        },
+                        {
+                          "height": 60,
+                          "url": "https://mosaic.scdn.co/60/ab67616d00001e025c86221aab835ad1b8f7e16fab67616d00001e0268c351ff95beef153ddec5adab67616d00001e029367c1ee2eec0bf3a04b4868ab67616d00001e02e945b8d2ddbcaaf1ec522da5",
+                          "width": 60
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "TECHNO,  HOUSE, TRANCE, ELECTRONICA \u2764\ufe0f\u2764\ufe0f\ud83e\udd75\ud83e\udd75",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Carlos-17"
+                  }
+                },
+                "uri": "spotify:playlist:7dXNMYz3OpesgSuoLlz2cG"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The Best Techno House",
+                "id": "6jCgabXrYUjqdaF0ozKkTj",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84fe855a1e909c4ccd042a7efa",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Techno House 2025 \ud83d\udd25",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "TXTR"
+                  }
+                },
+                "uri": "spotify:playlist:6jCgabXrYUjqdaF0ozKkTj"
+              }
+            }
+          ],
+          "totalCount": 100
+        },
+        "featuringV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is FISHER. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO15yTgv",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO15yTgv-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is FISHER",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO15yTgv"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "With Mau P, Chris Lake, Cloonee and more",
+                "id": "37i9dQZF1E4jNnKRrZ3uF4",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/1VJ0briNOlXRtJUAzoUJdt/en",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "FISHER Radio",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1E4jNnKRrZ3uF4"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Get your beast mode on!",
+                "id": "37i9dQZF1DX76Wlfdnj7AP",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000021c85876e7d9b8633ec32a8b9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Beast Mode",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX76Wlfdnj7AP"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "it's never too early for summer dance hits \ud83d\ude0e\u2600\ufe0f",
+                "id": "37i9dQZF1DWZ7eJRBxKzdO",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002c69d0b9a845acfa88f9794ca",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Summer Dance Hits 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWZ7eJRBxKzdO"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Home is where the main stage is \ud83d\udc97 with Martin Garrix",
+                "id": "37i9dQZF1DX1kCIzMYtzum",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000024cf1707f40fc4e4eeded35e9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "EDM 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX1kCIzMYtzum"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Award winning party maker Charli xcx",
+                "id": "37i9dQZF1DXa2PvUpywmrr",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000021e8d3b2ba40759b4f71ce1a0",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Party Hits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXa2PvUpywmrr"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> to the rhythm and move your feet!",
+                "id": "37i9dQZF1DXaXB8fQg7xif",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002d2c23cff8e4056e5c891216d",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Dance Party",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXaXB8fQg7xif"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Ride the bassline. Cover: HNTR",
+                "id": "37i9dQZF1DWZCdOD1jAvLL",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002f1a0774f70194eed7dad5a35",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Bangers",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWZCdOD1jAvLL"
+              }
+            }
+          ],
+          "totalCount": 8
+        },
+        "relatedArtists": {
+          "items": [
+            {
+              "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+              "profile": {
+                "name": "Chris Lake"
+              },
+              "uri": "spotify:artist:5Igpc9iLZ3YGtKeYfSrrOE",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb3c4c752f83e79a2f4f84341b",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1783c4c752f83e79a2f4f84341b",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051743c4c752f83e79a2f4f84341b",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "205i7E8fNVfojowcQSfK9m",
+              "profile": {
+                "name": "Dom Dolla"
+              },
+              "uri": "spotify:artist:205i7E8fNVfojowcQSfK9m",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb9290e172cbcacc0521b02b11",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1789290e172cbcacc0521b02b11",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051749290e172cbcacc0521b02b11",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0w1sbtZVQoK6GzV4A4OkCv",
+              "profile": {
+                "name": "Mau P"
+              },
+              "uri": "spotify:artist:0w1sbtZVQoK6GzV4A4OkCv",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb12baa0b37fe138e1bc53547d",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17812baa0b37fe138e1bc53547d",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517412baa0b37fe138e1bc53547d",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "21dVknSLCsK37cWozWDZZS",
+              "profile": {
+                "name": "Matt Sassari"
+              },
+              "uri": "spotify:artist:21dVknSLCsK37cWozWDZZS",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb8cc19f79bcd84f2d4bbe360d",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1788cc19f79bcd84f2d4bbe360d",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051748cc19f79bcd84f2d4bbe360d",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "43BxCL6t4c73BQnIJtry5v",
+              "profile": {
+                "name": "James Hype"
+              },
+              "uri": "spotify:artist:43BxCL6t4c73BQnIJtry5v",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb3735de17f641144240511000",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1783735de17f641144240511000",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051743735de17f641144240511000",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3CGuwWgoCYSO5Z72H5G2Ec",
+              "profile": {
+                "name": "Kita Alexander"
+              },
+              "uri": "spotify:artist:3CGuwWgoCYSO5Z72H5G2Ec",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebe3b294f31a001467af375961",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178e3b294f31a001467af375961",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174e3b294f31a001467af375961",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7kNqXtgeIwFtelmRjWv205",
+              "profile": {
+                "name": "John Summit"
+              },
+              "uri": "spotify:artist:7kNqXtgeIwFtelmRjWv205",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb81180f8a7fd1f2c2e657c436",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17881180f8a7fd1f2c2e657c436",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517481180f8a7fd1f2c2e657c436",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5fAwPpS78sokZdpktoSUE8",
+              "profile": {
+                "name": "Sante Sansone"
+              },
+              "uri": "spotify:artist:5fAwPpS78sokZdpktoSUE8",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebe5dc200c3d1a888bfc348ae6",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178e5dc200c3d1a888bfc348ae6",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174e5dc200c3d1a888bfc348ae6",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2SwhNukah1MYpLR594PnuC",
+              "profile": {
+                "name": "Steve Edwards"
+              },
+              "uri": "spotify:artist:2SwhNukah1MYpLR594PnuC",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab67616d0000b273c272f11aee228a5089cb4501",
+                      "width": 640
+                    },
+                    {
+                      "height": 64,
+                      "url": "https://i.scdn.co/image/ab67616d00004851c272f11aee228a5089cb4501",
+                      "width": 64
+                    },
+                    {
+                      "height": 300,
+                      "url": "https://i.scdn.co/image/ab67616d00001e02c272f11aee228a5089cb4501",
+                      "width": 300
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4qLwtWhlhyAoQ4S9mSrDW9",
+              "profile": {
+                "name": "Odd Mob"
+              },
+              "uri": "spotify:artist:4qLwtWhlhyAoQ4S9mSrDW9",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb6b2234fbdc9b647b208d1714",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1786b2234fbdc9b647b208d1714",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051746b2234fbdc9b647b208d1714",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4lgrPvofm0IT605L9OrOTN",
+              "profile": {
+                "name": "Jengi"
+              },
+              "uri": "spotify:artist:4lgrPvofm0IT605L9OrOTN",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb1c109c4122e40a893f83387f",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1781c109c4122e40a893f83387f",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051741c109c4122e40a893f83387f",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1yqxFtPHKcGcv6SXZNdyT9",
+              "profile": {
+                "name": "MK"
+              },
+              "uri": "spotify:artist:1yqxFtPHKcGcv6SXZNdyT9",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebffa0888ff64a510cbf665855",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178ffa0888ff64a510cbf665855",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174ffa0888ff64a510cbf665855",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3VRyybsQu0MDG0F2LBxnv7",
+              "profile": {
+                "name": "Noizu"
+              },
+              "uri": "spotify:artist:3VRyybsQu0MDG0F2LBxnv7",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebfba584a24d405fa7d4524968",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178fba584a24d405fa7d4524968",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174fba584a24d405fa7d4524968",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "19VDJ9IKyBSUMDJxLsasP6",
+              "profile": {
+                "name": "Mr. Belt & Wezol"
+              },
+              "uri": "spotify:artist:19VDJ9IKyBSUMDJxLsasP6",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb8419b04162e3cba3098187c5",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1788419b04162e3cba3098187c5",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051748419b04162e3cba3098187c5",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7tm9Tuc70geXOOyKhtZHIj",
+              "profile": {
+                "name": "Chris Lorenzo"
+              },
+              "uri": "spotify:artist:7tm9Tuc70geXOOyKhtZHIj",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebf0c4eaa650f582c8062e0fd2",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178f0c4eaa650f582c8062e0fd2",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174f0c4eaa650f582c8062e0fd2",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4STmXOXUF3UieHU46NWLVt",
+              "profile": {
+                "name": "Poppy Baskcomb"
+              },
+              "uri": "spotify:artist:4STmXOXUF3UieHU46NWLVt",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb66a9d6f9202389b2acf28bf4",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17866a9d6f9202389b2acf28bf4",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517466a9d6f9202389b2acf28bf4",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5nki7yRhxgM509M5ADlN1p",
+              "profile": {
+                "name": "Oliver Heldens"
+              },
+              "uri": "spotify:artist:5nki7yRhxgM509M5ADlN1p",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebe0de3617061247aa35ff7865",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178e0de3617061247aa35ff7865",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174e0de3617061247aa35ff7865",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4TvhRzxIL1le2PWCeUqxQw",
+              "profile": {
+                "name": "The Blessed Madonna"
+              },
+              "uri": "spotify:artist:4TvhRzxIL1le2PWCeUqxQw",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb3faa8a7110b06f86f04c4923",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1783faa8a7110b06f86f04c4923",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051743faa8a7110b06f86f04c4923",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7MdlXmq2HViAJWo9cf30sR",
+              "profile": {
+                "name": "Cloonee"
+              },
+              "uri": "spotify:artist:7MdlXmq2HViAJWo9cf30sR",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebdcb1edbd747cf285bbb19205",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178dcb1edbd747cf285bbb19205",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174dcb1edbd747cf285bbb19205",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0HHa7ZJZxUQlg5l2mB0N0f",
+              "profile": {
+                "name": "Marlon Hoffstadt"
+              },
+              "uri": "spotify:artist:0HHa7ZJZxUQlg5l2mB0N0f",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb57d72d301e85ee4fe097de83",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17857d72d301e85ee4fe097de83",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517457d72d301e85ee4fe097de83",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "totalCount": 40
+        }
+      },
+      "relatedVideos": {
+        "__typename": "RelatedVideoPage",
+        "items": [],
+        "totalCount": 0
+      },
+      "saved": false,
+      "sharingInfo": {
+        "shareId": "QhVC7ivlTP-dcjtNnc1kqw",
+        "shareUrl": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt?si=QhVC7ivlTP-dcjtNnc1kqw"
+      },
+      "stats": {
+        "followers": 1077508,
+        "monthlyListeners": 16648010,
+        "topCities": {
+          "items": [
+            {
+              "city": "Sydney",
+              "country": "AU",
+              "numberOfListeners": 351032,
+              "region": "NSW"
+            },
+            {
+              "city": "Melbourne",
+              "country": "AU",
+              "numberOfListeners": 295740,
+              "region": "VIC"
+            },
+            {
+              "city": "Mexico City",
+              "country": "MX",
+              "numberOfListeners": 262116,
+              "region": "CMX"
+            },
+            {
+              "city": "London",
+              "country": "GB",
+              "numberOfListeners": 254130,
+              "region": "ENG"
+            },
+            {
+              "city": "Santiago",
+              "country": "CL",
+              "numberOfListeners": 244078,
+              "region": "RM"
+            }
+          ]
+        },
+        "worldRank": 481
+      },
+      "uri": "spotify:artist:1VJ0briNOlXRtJUAzoUJdt",
+      "visualIdentity": {
+        "wideFullBleedImage": {
+          "__typename": "VisualIdentityImage",
+          "extractedColorSet": {
+            "encoreBaseSetTextColor": {
+              "alpha": 255,
+              "blue": 187,
+              "green": 187,
+              "red": 187
+            },
+            "highContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 83,
+                "green": 83,
+                "red": 83
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 51,
+                "green": 51,
+                "red": 51
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 205,
+                "green": 205,
+                "red": 205
+              }
+            },
+            "higherContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 53,
+                "green": 53,
+                "red": 53
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 86,
+                "green": 86,
+                "red": 86
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 96,
+                "green": 215,
+                "red": 30
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 205,
+                "green": 205,
+                "red": 205
+              }
+            },
+            "minContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 83,
+                "green": 83,
+                "red": 83
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 51,
+                "green": 51,
+                "red": 51
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              }
+            }
+          }
+        }
+      },
+      "visuals": {
+        "avatarImage": {
+          "extractedColors": {
+            "colorRaw": {
+              "hex": "#905048"
+            }
+          },
+          "sources": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebcd3fb82b1270a175ed000118",
+              "width": 640
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178cd3fb82b1270a175ed000118",
+              "width": 160
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174cd3fb82b1270a175ed000118",
+              "width": 320
+            }
+          ]
+        },
+        "gallery": {
+          "items": [
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd48b5c69d7ee2f0cec9ab4612d",
+                  "width": 640
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "watchFeedEntrypoint": null
+    }
+  },
+  "extensions": {}
+}

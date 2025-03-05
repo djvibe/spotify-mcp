@@ -1,0 +1,5181 @@
+{
+  "data": {
+    "artistUnion": {
+      "__typename": "Artist",
+      "discography": {
+        "albums": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2022 STMPD RCRDS B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2022 STMPD RCRDS B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02edba220be76f96d51bd38838",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851edba220be76f96d51bd38838",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273edba220be76f96d51bd38838",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 29,
+                      "month": 4,
+                      "precision": "DAY",
+                      "year": 2022
+                    },
+                    "id": "45gsxfnJ5Nt2RZp82SQenc",
+                    "label": "STMPD RCRDS",
+                    "name": "Sentio",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "BqJvKVq6ThuY2SCfVf7T0g",
+                      "shareUrl": "https://open.spotify.com/album/45gsxfnJ5Nt2RZp82SQenc?si=BqJvKVq6ThuY2SCfVf7T0g"
+                    },
+                    "tracks": {
+                      "totalCount": 11
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:45gsxfnJ5Nt2RZp82SQenc"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 1
+        },
+        "compilations": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2022 STMPD RCRDS B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2022 STMPD RCRDS B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b87b5e34618deb90f7b204fa",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b87b5e34618deb90f7b204fa",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b87b5e34618deb90f7b204fa",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 11,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2022
+                    },
+                    "id": "0GjeCnPe5ucOwFKBE8hbCN",
+                    "label": "STMPD RCRDS",
+                    "name": "Martin Garrix presents STMPD RCRDS Vol. 006",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "2nmejqYnToKEo3jBBD76Fg",
+                      "shareUrl": "https://open.spotify.com/album/0GjeCnPe5ucOwFKBE8hbCN?si=2nmejqYnToKEo3jBBD76Fg"
+                    },
+                    "tracks": {
+                      "totalCount": 11
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:0GjeCnPe5ucOwFKBE8hbCN"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2021 STMPD RCRDS B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2021 STMPD RCRDS B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02911789bae63e1811da36f22d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851911789bae63e1811da36f22d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273911789bae63e1811da36f22d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 9,
+                      "month": 7,
+                      "precision": "DAY",
+                      "year": 2021
+                    },
+                    "id": "2ztL7KcokCLCG8su7pbCRd",
+                    "label": "STMPD RCRDS",
+                    "name": "Martin Garrix presents STMPD RCRDS Vol. 005",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "MfvJNZZgRWqB7SMMwnL-XA",
+                      "shareUrl": "https://open.spotify.com/album/2ztL7KcokCLCG8su7pbCRd?si=MfvJNZZgRWqB7SMMwnL-XA"
+                    },
+                    "tracks": {
+                      "totalCount": 11
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:2ztL7KcokCLCG8su7pbCRd"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2021 STMPD RCRDS B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2021 STMPD RCRDS B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e022cdf4020c1e73978fcb42c84",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048512cdf4020c1e73978fcb42c84",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2732cdf4020c1e73978fcb42c84",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 5,
+                      "month": 3,
+                      "precision": "DAY",
+                      "year": 2021
+                    },
+                    "id": "3yeUk5RuTra6Jl4C0dWXXs",
+                    "label": "STMPD RCRDS",
+                    "name": "Martin Garrix presents STMPD RCRDS Vol. 004",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "0d6QcpgZSX2REWxUYeThfg",
+                      "shareUrl": "https://open.spotify.com/album/3yeUk5RuTra6Jl4C0dWXXs?si=0d6QcpgZSX2REWxUYeThfg"
+                    },
+                    "tracks": {
+                      "totalCount": 19
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3yeUk5RuTra6Jl4C0dWXXs"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2020 STMPD RCRDS B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2020 STMPD RCRDS B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d48b650abe034373ff3086ec",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d48b650abe034373ff3086ec",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d48b650abe034373ff3086ec",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 27,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2020
+                    },
+                    "id": "5GcunXDfAK4yIxb3v25tNn",
+                    "label": "STMPD RCRDS",
+                    "name": "Martin Garrix presents STMPD RCRDS Vol. 003",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "5zq3HcTKQwGfOKgn0AVSRA",
+                      "shareUrl": "https://open.spotify.com/album/5GcunXDfAK4yIxb3v25tNn?si=5zq3HcTKQwGfOKgn0AVSRA"
+                    },
+                    "tracks": {
+                      "totalCount": 7
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:5GcunXDfAK4yIxb3v25tNn"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2020 STMPD RCRDS B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2020 STMPD RCRDS B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02925a9ca27dc710ed4c20308a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851925a9ca27dc710ed4c20308a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273925a9ca27dc710ed4c20308a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 6,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2020
+                    },
+                    "id": "7r8Uo8G8OdxQg2kKVMnKul",
+                    "label": "STMPD RCRDS",
+                    "name": "Martin Garrix presents STMPD RCRDS Vol. 002",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "0ybI0Ln4RYyeQerozpw0cQ",
+                      "shareUrl": "https://open.spotify.com/album/7r8Uo8G8OdxQg2kKVMnKul?si=0ybI0Ln4RYyeQerozpw0cQ"
+                    },
+                    "tracks": {
+                      "totalCount": 12
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:7r8Uo8G8OdxQg2kKVMnKul"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2020 STMPD RCRDS B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2020 STMPD RCRDS B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a5718f7eda39e700adef586f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a5718f7eda39e700adef586f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a5718f7eda39e700adef586f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 25,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2020
+                    },
+                    "id": "29UfFqKo97D2C07FELQOKb",
+                    "label": "STMPD RCRDS",
+                    "name": "Martin Garrix presents STMPD RCRDS Vol. 001",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "FFc8LG_FQW6yaR6xnccmIA",
+                      "shareUrl": "https://open.spotify.com/album/29UfFqKo97D2C07FELQOKb?si=FFc8LG_FQW6yaR6xnccmIA"
+                    },
+                    "tracks": {
+                      "totalCount": 20
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:29UfFqKo97D2C07FELQOKb"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 6
+        },
+        "latest": {
+          "copyright": {
+            "items": [
+              {
+                "text": "\u00a9 2025 STMPD RCRDS B.V. / Eddie O Entertainment / Casablanca Records, under exclusive license to Universal Music GmbH",
+                "type": "C"
+              },
+              {
+                "text": "\u2117 2025 STMPD RCRDS B.V. / Eddie O Entertainment / Casablanca Records, under exclusive license to Universal Music GmbH",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e0241266c956e2fcdfc1dde4e16",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d0000485141266c956e2fcdfc1dde4e16",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27341266c956e2fcdfc1dde4e16",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 14,
+            "month": 2,
+            "precision": "DAY",
+            "year": 2025
+          },
+          "id": "3ROJjwTulQSpaUtgXgpKAu",
+          "label": "Virgin",
+          "name": "Told You So (Acoustic Version)",
+          "playability": {
+            "playable": true,
+            "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+            "shareId": "c8icBG8bSICxGtjJ4MyXIw",
+            "shareUrl": "https://open.spotify.com/album/3ROJjwTulQSpaUtgXgpKAu?si=c8icBG8bSICxGtjJ4MyXIw"
+          },
+          "tracks": {
+            "totalCount": 2
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:3ROJjwTulQSpaUtgXgpKAu"
+        },
+        "popularReleasesAlbums": {
+          "items": [
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2016 STMPD RCRDS B.V. exclusively licensed to Epic Amsterdam, a divison of Sony Music Entertainment Netherlands B.V.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028c77bcf5f5a227d270d23370",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518c77bcf5f5a227d270d23370",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738c77bcf5f5a227d270d23370",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 29,
+                "month": 7,
+                "precision": "DAY",
+                "year": 2016
+              },
+              "id": "1FOJ5IXGXe8dl0cXvCU6wK",
+              "label": "Epic Amsterdam",
+              "name": "In the Name of Love",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "4y14p6lFRUSQbkjdMZM07w",
+                "shareUrl": "https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK?si=4y14p6lFRUSQbkjdMZM07w"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1FOJ5IXGXe8dl0cXvCU6wK"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2016 STMPD RCRDS B.V. exclusively licensed to Epic Amsterdam, a divison of Sony Music Entertainment Netherlands B.V.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0264f8a309aa3c0a66a31fc374",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485164f8a309aa3c0a66a31fc374",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27364f8a309aa3c0a66a31fc374",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 27,
+                "month": 1,
+                "precision": "DAY",
+                "year": 2017
+              },
+              "id": "2v9rQe4F8fVSh5v8bAq0jF",
+              "label": "Epic Amsterdam",
+              "name": "Scared to Be Lonely",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "tU_aY5qlQbqq2oYJSzLiqA",
+                "shareUrl": "https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF?si=tU_aY5qlQbqq2oYJSzLiqA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:2v9rQe4F8fVSh5v8bAq0jF"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2024 STMPD RCRDS B.V. / Eddie O Entertainment / Casablanca Records, under exclusive license to Universal Music GmbH",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2024 STMPD RCRDS B.V. / Eddie O Entertainment / Casablanca Records, under exclusive license to Universal Music GmbH",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0274ed367a3007b962487f89bb",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485174ed367a3007b962487f89bb",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27374ed367a3007b962487f89bb",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 22,
+                "month": 11,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "3peq5CPlvCF11LKMDN4k8H",
+              "label": "Virgin",
+              "name": "Told You So",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "v2TJa88TTK6rUoozMmKrmw",
+                "shareUrl": "https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H?si=v2TJa88TTK6rUoozMmKrmw"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:3peq5CPlvCF11LKMDN4k8H"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2013 STMPD RCRDS",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2013 STMPD RCRDS",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026abad6915a2216dc18e7e3a7",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516abad6915a2216dc18e7e3a7",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736abad6915a2216dc18e7e3a7",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 17,
+                "month": 6,
+                "precision": "DAY",
+                "year": 2013
+              },
+              "id": "4Xs4NI3J2Nf9eSUqvW7GBn",
+              "label": "STMPD RCRDS",
+              "name": "Animals",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "dRcw_QhZQDGP8xMWZYM6Ew",
+                "shareUrl": "https://open.spotify.com/album/4Xs4NI3J2Nf9eSUqvW7GBn?si=dRcw_QhZQDGP8xMWZYM6Ew"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:4Xs4NI3J2Nf9eSUqvW7GBn"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2019 STMPD RCRDS B.V. exclusively licensed to Epic Amsterdam, a division of Sony Music Entertainment Netherlands B.V.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d7658a5bf66a2f3f11878bdf",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d7658a5bf66a2f3f11878bdf",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d7658a5bf66a2f3f11878bdf",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 25,
+                "month": 4,
+                "precision": "DAY",
+                "year": 2019
+              },
+              "id": "0xbuJLlb5afBcmCpdOaszR",
+              "label": "Epic Amsterdam",
+              "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "FJA95omAQzekfNllHv1_bA",
+                "shareUrl": "https://open.spotify.com/album/0xbuJLlb5afBcmCpdOaszR?si=FJA95omAQzekfNllHv1_bA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:0xbuJLlb5afBcmCpdOaszR"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2018 STMPD RCRDS B.V. exclusively licensed to Epic Amsterdam, a division of Sony Music Entertainment Netherlands B.V.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02def05abd2a12cd19243e2b6d",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851def05abd2a12cd19243e2b6d",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273def05abd2a12cd19243e2b6d",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 29,
+                "month": 7,
+                "precision": "DAY",
+                "year": 2018
+              },
+              "id": "1GUfof1gHsqYjoHFym3aim",
+              "label": "Epic Amsterdam",
+              "name": "High On Life (feat. Bonn)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "B8D3emWRQKmlAhPtgr4w4Q",
+                "shareUrl": "https://open.spotify.com/album/1GUfof1gHsqYjoHFym3aim?si=B8D3emWRQKmlAhPtgr4w4Q"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1GUfof1gHsqYjoHFym3aim"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2018 STMPD RCRDS B.V. exclusively licensed to Epic Amsterdam, a division of Sony Music Entertainment Netherlands B.V.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b800b91af812df0ce0dd2883",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b800b91af812df0ce0dd2883",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b800b91af812df0ce0dd2883",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 15,
+                "month": 6,
+                "precision": "DAY",
+                "year": 2018
+              },
+              "id": "1XQ6XbZ6ZM1V5iEtWlYDeH",
+              "label": "Epic Amsterdam",
+              "name": "Ocean (feat. Khalid)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "9fw1R9ieSzepirnsTVaOCQ",
+                "shareUrl": "https://open.spotify.com/album/1XQ6XbZ6ZM1V5iEtWlYDeH?si=9fw1R9ieSzepirnsTVaOCQ"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1XQ6XbZ6ZM1V5iEtWlYDeH"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2017 STMPD RCRDS B.V. exclusively licensed to Epic Amsterdam, a divison of Sony Music Entertainment Netherlands B.V.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0272c57da7edfe8e915182cdd4",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485172c57da7edfe8e915182cdd4",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27372c57da7edfe8e915182cdd4",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 26,
+                "month": 5,
+                "precision": "DAY",
+                "year": 2017
+              },
+              "id": "0OK35duHpTPnvqya2d4pnn",
+              "label": "Epic Amsterdam",
+              "name": "There for You",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "_th72P8hRW-2GJ890FQYMA",
+                "shareUrl": "https://open.spotify.com/album/0OK35duHpTPnvqya2d4pnn?si=_th72P8hRW-2GJ890FQYMA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:0OK35duHpTPnvqya2d4pnn"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2024 STMPD RCRDS B.V.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2024 STMPD RCRDS B.V.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022cd834c826d484dcb3414699",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512cd834c826d484dcb3414699",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732cd834c826d484dcb3414699",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 16,
+                "month": 2,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "1EHfXHtB9Ynnia0yZhV6HO",
+              "label": "STMPD RCRDS",
+              "name": "Carry You",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "eJcm5om7RayQh9Zi14fTWA",
+                "shareUrl": "https://open.spotify.com/album/1EHfXHtB9Ynnia0yZhV6HO?si=eJcm5om7RayQh9Zi14fTWA"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1EHfXHtB9Ynnia0yZhV6HO"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2024 STMPD RCRDS B.V.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2024 STMPD RCRDS B.V.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e021a7636183288035b0930f4bc",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048511a7636183288035b0930f4bc",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731a7636183288035b0930f4bc",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 18,
+                "month": 10,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "5XjuB8WjardHuZpaMy6LXP",
+              "label": "STMPD RCRDS",
+              "name": "Gravity",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "2sTB_6iXSriD0rTvrejX8A",
+                "shareUrl": "https://open.spotify.com/album/5XjuB8WjardHuZpaMy6LXP?si=2sTB_6iXSriD0rTvrejX8A"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:5XjuB8WjardHuZpaMy6LXP"
+            }
+          ],
+          "totalCount": 20
+        },
+        "singles": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2025 STMPD RCRDS B.V. / Eddie O Entertainment / Casablanca Records, under exclusive license to Universal Music GmbH",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2025 STMPD RCRDS B.V. / Eddie O Entertainment / Casablanca Records, under exclusive license to Universal Music GmbH",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0241266c956e2fcdfc1dde4e16",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485141266c956e2fcdfc1dde4e16",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27341266c956e2fcdfc1dde4e16",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 14,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "3ROJjwTulQSpaUtgXgpKAu",
+                    "label": "Virgin",
+                    "name": "Told You So (Acoustic Version)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "c8icBG8bSICxGtjJ4MyXIw",
+                      "shareUrl": "https://open.spotify.com/album/3ROJjwTulQSpaUtgXgpKAu?si=c8icBG8bSICxGtjJ4MyXIw"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3ROJjwTulQSpaUtgXgpKAu"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2025 STMPD RCRDS B.V. / Eddie O Entertainment / Casablanca Records, under exclusive license to Universal Music GmbH",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2025 STMPD RCRDS B.V. / Eddie O Entertainment / Casablanca Records, under exclusive license to Universal Music GmbH",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e026792be97219e930a685a1ce8",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048516792be97219e930a685a1ce8",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2736792be97219e930a685a1ce8",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 10,
+                      "month": 1,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "7tSdlRlODwsNkMHTT86VCY",
+                    "label": "Virgin",
+                    "name": "Told You So (Remixes Vol. 2)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "HwFFClHvTVOmoUwx0kAVhA",
+                      "shareUrl": "https://open.spotify.com/album/7tSdlRlODwsNkMHTT86VCY?si=HwFFClHvTVOmoUwx0kAVhA"
+                    },
+                    "tracks": {
+                      "totalCount": 5
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7tSdlRlODwsNkMHTT86VCY"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2025 STMPD RCRDS B.V. / Eddie O Entertainment / Casablanca Records, under exclusive license to Universal Music GmbH",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2025 STMPD RCRDS B.V. / Eddie O Entertainment / Casablanca Records, under exclusive license to Universal Music GmbH",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020914738d84e37c09828dd0f2",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510914738d84e37c09828dd0f2",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730914738d84e37c09828dd0f2",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 3,
+                      "month": 1,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "3ZNDcJGZGcIge6HPMGos3X",
+                    "label": "Virgin",
+                    "name": "Told You So (Remixes Vol. 1)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "yKojTwwQQJa448NNs0pEpw",
+                      "shareUrl": "https://open.spotify.com/album/3ZNDcJGZGcIge6HPMGos3X?si=yKojTwwQQJa448NNs0pEpw"
+                    },
+                    "tracks": {
+                      "totalCount": 5
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3ZNDcJGZGcIge6HPMGos3X"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 STMPD RCRDS B.V. / Eddie O Entertainment / Casablanca Records, under exclusive license to Universal Music GmbH",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 STMPD RCRDS B.V. / Eddie O Entertainment / Casablanca Records, under exclusive license to Universal Music GmbH",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0274ed367a3007b962487f89bb",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485174ed367a3007b962487f89bb",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27374ed367a3007b962487f89bb",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 22,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "3peq5CPlvCF11LKMDN4k8H",
+                    "label": "Virgin",
+                    "name": "Told You So",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "v2TJa88TTK6rUoozMmKrmw",
+                      "shareUrl": "https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H?si=v2TJa88TTK6rUoozMmKrmw"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3peq5CPlvCF11LKMDN4k8H"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 STMPD RCRDS B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 STMPD RCRDS B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021a7636183288035b0930f4bc",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511a7636183288035b0930f4bc",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731a7636183288035b0930f4bc",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 18,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "5XjuB8WjardHuZpaMy6LXP",
+                    "label": "STMPD RCRDS",
+                    "name": "Gravity",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "2sTB_6iXSriD0rTvrejX8A",
+                      "shareUrl": "https://open.spotify.com/album/5XjuB8WjardHuZpaMy6LXP?si=2sTB_6iXSriD0rTvrejX8A"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5XjuB8WjardHuZpaMy6LXP"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2024 STMPD RCRDS B.V. exclusively licensed to Epic Amsterdam, a division of Sony Music Entertainment Netherlands B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02eaff931d5416df299c138726",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851eaff931d5416df299c138726",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273eaff931d5416df299c138726",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 19,
+                      "month": 7,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "5MwREpSNM3JMxAq8xqe3im",
+                    "label": "Epic Amsterdam",
+                    "name": "Smile (feat. Carolina Liar)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "lIkoa340Qh2g-D9c3WoFbg",
+                      "shareUrl": "https://open.spotify.com/album/5MwREpSNM3JMxAq8xqe3im?si=lIkoa340Qh2g-D9c3WoFbg"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5MwREpSNM3JMxAq8xqe3im"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 STMPD RCRDS B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 STMPD RCRDS B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0297b272513140a44ec5d7c3c6",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485197b272513140a44ec5d7c3c6",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27397b272513140a44ec5d7c3c6",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 7,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "7hjd1WmWPqTyrPGDaywQjK",
+                    "label": "STMPD RCRDS",
+                    "name": "Wherever You Are",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "8cWYm9SrSoSDXCBezWYu_A",
+                      "shareUrl": "https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK?si=8cWYm9SrSoSDXCBezWYu_A"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7hjd1WmWPqTyrPGDaywQjK"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 STMPD RCRDS B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 STMPD RCRDS B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02613b6c12449bc44c3e90ddf8",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851613b6c12449bc44c3e90ddf8",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273613b6c12449bc44c3e90ddf8",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 8,
+                      "month": 3,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "6IDhErpNcFSc0Zi4pBYtgH",
+                    "label": "STMPD RCRDS",
+                    "name": "IDEM",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "NmDuO3uLSnWlxSRiUdoJFw",
+                      "shareUrl": "https://open.spotify.com/album/6IDhErpNcFSc0Zi4pBYtgH?si=NmDuO3uLSnWlxSRiUdoJFw"
+                    },
+                    "tracks": {
+                      "totalCount": 4
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:6IDhErpNcFSc0Zi4pBYtgH"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 STMPD RCRDS B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 STMPD RCRDS B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e023af2b28b3209856b7d35691f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048513af2b28b3209856b7d35691f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2733af2b28b3209856b7d35691f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 8,
+                      "month": 3,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "5UPw5Z0vsHExBhH56uS3iQ",
+                    "label": "STMPD RCRDS",
+                    "name": "Empty",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "8LAKnf10RxG9D1gnsFzdmA",
+                      "shareUrl": "https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ?si=8LAKnf10RxG9D1gnsFzdmA"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5UPw5Z0vsHExBhH56uS3iQ"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 STMPD RCRDS B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 STMPD RCRDS B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02f222bfa4458df5813326edf7",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851f222bfa4458df5813326edf7",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273f222bfa4458df5813326edf7",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 1,
+                      "month": 3,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "1oNttAQgPEuS0NfPsdWhaS",
+                    "label": "STMPD RCRDS",
+                    "name": "Biochemical",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "7G2aAh3CQwyvTcLuEVDShQ",
+                      "shareUrl": "https://open.spotify.com/album/1oNttAQgPEuS0NfPsdWhaS?si=7G2aAh3CQwyvTcLuEVDShQ"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1oNttAQgPEuS0NfPsdWhaS"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 131
+        },
+        "topTracks": {
+          "items": [
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e028c77bcf5f5a227d270d23370"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048518c77bcf5f5a227d270d23370"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2738c77bcf5f5a227d270d23370"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:1FOJ5IXGXe8dl0cXvCU6wK"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Martin Garrix"
+                      },
+                      "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ"
+                    },
+                    {
+                      "profile": {
+                        "name": "Bebe Rexha"
+                      },
+                      "uri": "spotify:artist:64M6ah0SkkRsnPGtGiRAbb"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 195706
+                },
+                "id": "23L5CiUhw2jV1OIMwthR3S",
+                "name": "In the Name of Love",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1561983813",
+                "uri": "spotify:track:23L5CiUhw2jV1OIMwthR3S"
+              },
+              "uid": "3415e66f501b801756e7"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0264f8a309aa3c0a66a31fc374"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485164f8a309aa3c0a66a31fc374"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27364f8a309aa3c0a66a31fc374"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:2v9rQe4F8fVSh5v8bAq0jF"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Martin Garrix"
+                      },
+                      "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ"
+                    },
+                    {
+                      "profile": {
+                        "name": "Dua Lipa"
+                      },
+                      "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 220883
+                },
+                "id": "3ebXMykcMXOcLeJ9xZ17XH",
+                "name": "Scared to Be Lonely",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1377146006",
+                "uri": "spotify:track:3ebXMykcMXOcLeJ9xZ17XH"
+              },
+              "uid": "fa47d3d4fe405f82e86f"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0274ed367a3007b962487f89bb"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485174ed367a3007b962487f89bb"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27374ed367a3007b962487f89bb"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:3peq5CPlvCF11LKMDN4k8H"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Martin Garrix"
+                      },
+                      "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ"
+                    },
+                    {
+                      "profile": {
+                        "name": "Jex"
+                      },
+                      "uri": "spotify:artist:0NO8SsF6umjI3iQJzTycVF"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 187031
+                },
+                "id": "52dEZA0A4siRTuA4e8w3ll",
+                "name": "Told You So",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "31676813",
+                "uri": "spotify:track:52dEZA0A4siRTuA4e8w3ll"
+              },
+              "uid": "db1b024d2ce484d6056a"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e026abad6915a2216dc18e7e3a7"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048516abad6915a2216dc18e7e3a7"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2736abad6915a2216dc18e7e3a7"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:4Xs4NI3J2Nf9eSUqvW7GBn"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Martin Garrix"
+                      },
+                      "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 304228
+                },
+                "id": "0A9mHc7oYUoCECqByV8cQR",
+                "name": "Animals",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "445480644",
+                "uri": "spotify:track:0A9mHc7oYUoCECqByV8cQR"
+              },
+              "uid": "a58f54ded89eecb8d924"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d7658a5bf66a2f3f11878bdf"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851d7658a5bf66a2f3f11878bdf"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d7658a5bf66a2f3f11878bdf"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:0xbuJLlb5afBcmCpdOaszR"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Martin Garrix"
+                      },
+                      "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ"
+                    },
+                    {
+                      "profile": {
+                        "name": "Macklemore"
+                      },
+                      "uri": "spotify:artist:3JhNCzhSMTxs9WLGJJxWOY"
+                    },
+                    {
+                      "profile": {
+                        "name": "Fall Out Boy"
+                      },
+                      "uri": "spotify:artist:4UXqAaa6dQYAk18Lv7PEgX"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "EXPLICIT"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 163804
+                },
+                "id": "7Feaw9WAEREY0DUOSXJLOM",
+                "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "684558210",
+                "uri": "spotify:track:7Feaw9WAEREY0DUOSXJLOM"
+              },
+              "uid": "aa0e3e8ad7e18aa817c0"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02def05abd2a12cd19243e2b6d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851def05abd2a12cd19243e2b6d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273def05abd2a12cd19243e2b6d"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:1GUfof1gHsqYjoHFym3aim"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Martin Garrix"
+                      },
+                      "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ"
+                    },
+                    {
+                      "profile": {
+                        "name": "Bonn"
+                      },
+                      "uri": "spotify:artist:7Io0XduXk7aOHFHA7sLru2"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 230761
+                },
+                "id": "4ut5G4rgB1ClpMTMfjoIuy",
+                "name": "High On Life (feat. Bonn)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "456850657",
+                "uri": "spotify:track:4ut5G4rgB1ClpMTMfjoIuy"
+              },
+              "uid": "8690fbc0056b4b2bf0a1"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e026abad6915a2216dc18e7e3a7"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048516abad6915a2216dc18e7e3a7"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2736abad6915a2216dc18e7e3a7"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:4Xs4NI3J2Nf9eSUqvW7GBn"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Martin Garrix"
+                      },
+                      "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 176117
+                },
+                "id": "4g6m1iaAsgdgDqgxGtvY0C",
+                "name": "Animals - Radio Edit",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "231929188",
+                "uri": "spotify:track:4g6m1iaAsgdgDqgxGtvY0C"
+              },
+              "uid": "1924574d05067c11458c"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b800b91af812df0ce0dd2883"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851b800b91af812df0ce0dd2883"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b800b91af812df0ce0dd2883"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:1XQ6XbZ6ZM1V5iEtWlYDeH"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Martin Garrix"
+                      },
+                      "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ"
+                    },
+                    {
+                      "profile": {
+                        "name": "Khalid"
+                      },
+                      "uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 216419
+                },
+                "id": "3nc420PXjTdBV5TN0gCFkS",
+                "name": "Ocean (feat. Khalid)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "547706391",
+                "uri": "spotify:track:3nc420PXjTdBV5TN0gCFkS"
+              },
+              "uid": "afb546b4eea9686d4b38"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02274e9346f3ed6b53345a0d40"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851274e9346f3ed6b53345a0d40"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273274e9346f3ed6b53345a0d40"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:0GJU424RiEyYQTLbZcHVA7"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "David Guetta"
+                      },
+                      "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+                    },
+                    {
+                      "profile": {
+                        "name": "Martin Garrix"
+                      },
+                      "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ"
+                    },
+                    {
+                      "profile": {
+                        "name": "Brooks"
+                      },
+                      "uri": "spotify:artist:4mHAu7NX2UNsnGXjviBD9e"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 201560
+                },
+                "id": "7u7syG4R9kbMNnRE1x5wlZ",
+                "name": "Like I Do",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "483264418",
+                "uri": "spotify:track:7u7syG4R9kbMNnRE1x5wlZ"
+              },
+              "uid": "905263caef6c38181a9a"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0272c57da7edfe8e915182cdd4"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485172c57da7edfe8e915182cdd4"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27372c57da7edfe8e915182cdd4"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:0OK35duHpTPnvqya2d4pnn"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Martin Garrix"
+                      },
+                      "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ"
+                    },
+                    {
+                      "profile": {
+                        "name": "Troye Sivan"
+                      },
+                      "uri": "spotify:artist:3WGpXCj9YhhfX11TToZcXP"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 221904
+                },
+                "id": "6jA8HL9i4QGzsj6fjoxp8Y",
+                "name": "There for You",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "621429653",
+                "uri": "spotify:track:6jA8HL9i4QGzsj6fjoxp8Y"
+              },
+              "uid": "c362fad34b21ad864c5c"
+            }
+          ]
+        }
+      },
+      "goods": {
+        "concerts": {
+          "items": [
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Las Vegas",
+                  "name": "Omnia"
+                },
+                "startDateIsoString": "2025-03-07T22:30-08:00",
+                "title": "Martin Garrix",
+                "uri": "spotify:concert:4FR7jtxyJHMaAofpgGZPZO"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Las Vegas",
+                  "name": "Marquee Dayclub"
+                },
+                "startDateIsoString": "2025-03-08T11:00-08:00",
+                "title": "Martin Garrix",
+                "uri": "spotify:concert:1aTxK6ygjjLwTRSqmIIFbG"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Navi Mumbai",
+                  "name": "D Y Patil Sports Stadium"
+                },
+                "startDateIsoString": "2025-03-14T14:00+05:30",
+                "title": "Martin Garrix",
+                "uri": "spotify:concert:6p3U3xTEH2pkN6c7K1dwfG"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Miami",
+                  "name": "FPL Solar Amphitheater at Bayfront Park"
+                },
+                "startDateIsoString": "2025-03-30T12:00-04:00",
+                "title": "999999999, Above & Beyond, Adam Beyer, AFROJACK, Alesso, Anyma, Solomun, Armin van Buuren, ARTBAT, Axwell, Boris Brejcha, Carl Cox, Charlotte de Witte, Chase & Status, deadmau5, Pendulum, Eli Brown, Dom Dolla, John Summit, Four Tet, Gesaffelstein, Hardwell, I Hate Models, LSDREAM, CloZee, Martin Garrix, Mau P, Miss Monique, Nero, NGHTMRE, Sullivan King, Richie Hawtin, Subtronics, Ti\u00ebsto, Zedd, Zeds Dead",
+                "uri": "spotify:concert:1hm0glYlRtuTbuKru9Pu4G"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Flemington",
+                  "name": "Flemington Racecourse"
+                },
+                "startDateIsoString": "2025-04-11T00:00+10:00",
+                "title": "Martin Garrix",
+                "uri": "spotify:concert:7tlcNOQqmRAKCNa4y4EYFH"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Stavanger",
+                  "name": "Landstreff Stavanger"
+                },
+                "startDateIsoString": "2025-05-02T20:00+02:00",
+                "title": "Martin Garrix",
+                "uri": "spotify:concert:4JEJwcbELJK00ZiJT9CtCp"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Stavanger",
+                  "name": "Landstreff Stavanger"
+                },
+                "startDateIsoString": "2025-05-02T20:00+02:00",
+                "title": "Martin Garrix, Swae Lee, Timmy Trumpet, Wiz Khalifa, Arif Murakami, Stig Brenner, Sigrid, UNDERGRUNN, Ballinciaga, Emma Steinbakken, Kamelen, TIX, Ari Bajgora, Bausa, Beathoven, Den BB, Makosir, Metropolen, Moyka, PandaPanda, Postgirobygget, Rakkere, S\u00f8te og Rare Gutter",
+                "uri": "spotify:concert:3f1nZzigzDBforAddVsRRk"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Kaunas",
+                  "name": "Kauno \u017dalgirio arena"
+                },
+                "startDateIsoString": "2025-05-30T20:00+03:00",
+                "title": "Martin Garrix",
+                "uri": "spotify:concert:54JsFmeU8u2BCzx4DLLWCD"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "ARRAS",
+                  "name": "La Citadelle"
+                },
+                "startDateIsoString": "2025-07-05T14:30+02:00",
+                "title": "Martin Garrix, Gracie Abrams, Julien Dor\u00e9, Pierre Garnier, David Kushner",
+                "uri": "spotify:concert:6t6AHZjpzQOAQL31Z0lQJz"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "H\u00e9rouville-saint-clair",
+                  "name": "Chateau De Beauregard A Herouville St Clair"
+                },
+                "startDateIsoString": "2025-07-06T00:00+02:00",
+                "title": "Martin Garrix",
+                "uri": "spotify:concert:4ZZI1XDSy9aaP7JgXeqNbi"
+              }
+            }
+          ],
+          "totalCount": 13
+        },
+        "merch": {
+          "items": []
+        }
+      },
+      "headerImage": {
+        "data": {
+          "__typename": "ImageV2",
+          "sources": [
+            {
+              "maxHeight": 640,
+              "maxWidth": 1494,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab676186000001947ad2f32f5e78ca5d8f5ff848"
+            },
+            {
+              "maxHeight": 1080,
+              "maxWidth": 1920,
+              "url": "https://i2o.scdn.co/image/ab676186000016677ad2f32f5e78ca5d8f5ff848"
+            },
+            {
+              "maxHeight": 641,
+              "maxWidth": 1495,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67618600009d807ad2f32f5e78ca5d8f5ff848"
+            },
+            {
+              "maxHeight": 1140,
+              "maxWidth": 2660,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab6761860000eab17ad2f32f5e78ca5d8f5ff848"
+            }
+          ]
+        }
+      },
+      "id": "60d24wfXkVzDSfLS6hyCjZ",
+      "preRelease": null,
+      "profile": {
+        "biography": {
+          "text": "Martin Garrix - the name that belongs to one of the youngest and most successful DJ\u2019s/producers championing the pop and electronic scene. Garrix has taken his expertise across the globe, by headlining festivals, breaking through territories, and collaborating with major stars including Dua Lipa, Khalid and Bono, and The Edge. Climbing yet another rung of his ladder to stardom, he is a founder of his very own label (STMPD RCRDS), owner of a studio complex in Amsterdam, and a mentor to upcoming artists. \n\nNow in his mid-twenties, multiple years into a career that began by debuting the single \u2018Animals\u2019 back in 2013. The invigorating, dance-floor stomper soared to the top of the charts worldwide, ultimately altering the status of what would be considered popular music. Continuing his voyage to conquer the mainstream catchment area over the years, Garrix has become responsible for providing us with infectious and anthemic dance and pop records alongside a string of memorable collaborations; \u2018In The Name Of Love\u2019 with Bebe Rexha, \u2018Scared To Be Lonely\u2019 with Dua Lipa, &#39;Ocean\u2019 with Khalid, \u2018Summer Days\u2019 with Macklemore and Patrick Stump, and \u2018We Are The People\u2019 with Bono and The Edge.  \n\nThere\u2019s no doubt that this ability to reinvent his brand and fearlessly experiment with his sound is an undeniable testament to his talent and longevity, ultimately driving his legendary narrative even further.",
+          "type": "AUTOBIOGRAPHY"
+        },
+        "externalLinks": {
+          "items": [
+            {
+              "name": "FACEBOOK",
+              "url": "https://facebook.com/martin.garrix/"
+            },
+            {
+              "name": "INSTAGRAM",
+              "url": "https://instagram.com/martingarrix/"
+            },
+            {
+              "name": "TWITTER",
+              "url": "https://twitter.com/MartinGarrix"
+            }
+          ]
+        },
+        "name": "Martin Garrix",
+        "pinnedItem": {
+          "backgroundImageV2": null,
+          "comment": "'Told You So' is OUT NOW!",
+          "itemV2": {
+            "__typename": "PlaylistResponseWrapper",
+            "data": {
+              "__typename": "Playlist",
+              "images": {
+                "items": [
+                  {
+                    "sources": [
+                      {
+                        "height": null,
+                        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da848837dc21a6566125b94c67b8",
+                        "width": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              "name": "Told You So Martin Garrix & Jex",
+              "uri": "spotify:playlist:03ICMYsVsC4I2SZnERcQJb"
+            }
+          },
+          "subtitle": "Playlist",
+          "thumbnailImage": {
+            "data": {
+              "sources": [
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c000097ac8837dc21a6566125b94c67b8"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c8837dc21a6566125b94c67b8"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000dec58837dc21a6566125b94c67b8"
+                }
+              ]
+            }
+          },
+          "title": "Told You So Martin Garrix & Jex",
+          "type": "PLAYLIST",
+          "uri": "spotify:playlist:03ICMYsVsC4I2SZnERcQJb"
+        },
+        "playlistsV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "My new song Told You So with Jex is out soon! Martin Garrix Told You So, Jex Told You So, Told You So Jex, Garrix, Martin Garrix, Jex, I Told You So, Told You Martin, Told You Jex, jexjordyn, TikTok song, Viral hits",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da848837dc21a6566125b94c67b8",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Told You So Martin Garrix & Jex",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Martin Garrix"
+                  }
+                },
+                "uri": "spotify:playlist:03ICMYsVsC4I2SZnERcQJb"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "My album Sentio is out soon! sentio martin garrix, martin garrix sentio, sentio garrix, sentio, garrix sentio, album martin garrix, martin garrix album, album 2022, martin, garrix, garrix album, new album, new, follow, limitless",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84bc807af9800fbdd781740f1b",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Sentio Martin Garrix Album",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Martin Garrix"
+                  }
+                },
+                "uri": "spotify:playlist:0I2JVMEo8lWghfjk4VXXXE"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "By STMPD \u00b7 The best deep-toned, low-pitched and powerfull trap &amp; bass music",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84da19b2c62e3d2a0f35447fe5",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Trap & Bass",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "STMPD RCRDS"
+                  }
+                },
+                "uri": "spotify:playlist:2Zr0pVM3Cj3WHqUSCfvVaC"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Discover the best Dance Music &amp; Electronic Dance Music for 2023. Updated every week! Cover: Martin Garrix",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845c15da1f9d98d32e9b5df3fe",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Dance Music 2023",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "STMPD RCRDS"
+                  }
+                },
+                "uri": "spotify:playlist:776QrQtTgLrsqzCgqNYC6a"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The very best of STMPD RCRDS, including: Martin Garrix - Carry You, Lavern - Human, DubVision - Electricity, KVSH - Be Someone (feat. Ray X Ben) and Matisse &amp; Sadko - Into You, updated every Friday.",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da844822f0e5fd857d16e0748016",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "STMPD TOP 100",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "STMPD RCRDS"
+                  }
+                },
+                "uri": "spotify:playlist:1OIzwJTbrOeZTHvUXf5yMg"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Join Martin Garrix on tour with all the songs he played during his latest shows in India. A selection of high-energy dance tracks from Martin Garrix, David Guetta, Avicii, Zedd, Alesso, Benny Benassi, Dombresky, Matisse &amp; Sadko, Brooks, Julian Jordan + more!",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8444c350010bf543f717eec25c",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Martin Garrix On Tour",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Martin Garrix"
+                  }
+                },
+                "uri": "spotify:playlist:23CCeKlfdpSsd18D3zneNv"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Tech House - Techhouse - Techno - House - Tech House 2023 - Techno House - Updated every week! Cover: Mikey Barreneche",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842863dea173a7b54a7cdf6fc0",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Technicians",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "STMPD RCRDS"
+                  }
+                },
+                "uri": "spotify:playlist:59WvtJbUmNfglG7W6CpVsL"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "A collection of all STMPD RCRDS releases. STMPD RCRDS - Martin Garrix - dance music 2023 - tech house - techno house -  bass house bangers - dance mix",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84fd46088b7bea3058e7a13c9e",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "STMPD RCRDS New Releases",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "STMPD RCRDS"
+                  }
+                },
+                "uri": "spotify:playlist:0ZhTd0v0esEM40nX1S66g0"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da842bd9dc19ac69f78d9409674f",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Ytram",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Martin Garrix"
+                  }
+                },
+                "uri": "spotify:playlist:5JqvdVSgF0ZaZRQCUCz9Gf"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "A weekly selection of tracks that I love to listen to at home or play out at a party.",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72ca5d9ede6e535d1438a3c0199",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Martin Garrix Radio",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Martin Garrix"
+                  }
+                },
+                "uri": "spotify:playlist:1boYpG5G2QkmQ7FRi2dRc1"
+              }
+            }
+          ],
+          "totalCount": 11
+        },
+        "verified": true
+      },
+      "relatedContent": {
+        "appearsOn": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "David Guetta"
+                          },
+                          "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02274e9346f3ed6b53345a0d40",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851274e9346f3ed6b53345a0d40",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273274e9346f3ed6b53345a0d40",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "0GJU424RiEyYQTLbZcHVA7",
+                    "name": "7: Anniversary Edition",
+                    "sharingInfo": {
+                      "shareId": "MuG3PRJ0QROEfqtVj-aP_A",
+                      "shareUrl": "https://open.spotify.com/album/0GJU424RiEyYQTLbZcHVA7?si=MuG3PRJ0QROEfqtVj-aP_A"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:0GJU424RiEyYQTLbZcHVA7"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Christina Aguilera"
+                          },
+                          "uri": "spotify:artist:1l7ZsJRRS8wlW3WfJfPfNS"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021736bda7a710514bcce25194",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511736bda7a710514bcce25194",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731736bda7a710514bcce25194",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2012
+                    },
+                    "id": "56vCgdP2fIuKtvMu6MBL2Q",
+                    "name": "Lotus (Deluxe Version)",
+                    "sharingInfo": {
+                      "shareId": "m6XUvadJTW2q1nDMePCpSQ",
+                      "shareUrl": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q?si=m6XUvadJTW2q1nDMePCpSQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:56vCgdP2fIuKtvMu6MBL2Q"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "David Guetta"
+                          },
+                          "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02361fc37abb522361121bc3c1",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851361fc37abb522361121bc3c1",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273361fc37abb522361121bc3c1",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "2Sq9AIsIrad2GygwB6QLPt",
+                    "name": "7",
+                    "sharingInfo": {
+                      "shareId": "fPb25jwoSCiKdbNkjaYzdA",
+                      "shareUrl": "https://open.spotify.com/album/2Sq9AIsIrad2GygwB6QLPt?si=fPb25jwoSCiKdbNkjaYzdA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2Sq9AIsIrad2GygwB6QLPt"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "AREA21"
+                          },
+                          "uri": "spotify:artist:76YIoWHp3Ri3q1ocOPtFzp"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02db28dc90d60cad55416eb353",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851db28dc90d60cad55416eb353",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273db28dc90d60cad55416eb353",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "30WNa86MJsrzTlki1YHI6A",
+                    "name": "Greatest Hits Vol. 1",
+                    "sharingInfo": {
+                      "shareId": "TlbmA4zeSumcFZwXoF3gBA",
+                      "shareUrl": "https://open.spotify.com/album/30WNa86MJsrzTlki1YHI6A?si=TlbmA4zeSumcFZwXoF3gBA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:30WNa86MJsrzTlki1YHI6A"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "DubVision"
+                          },
+                          "uri": "spotify:artist:3XINWZaloea97SIRiyTJxX"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b58fb606988ea8f46df86a43",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b58fb606988ea8f46df86a43",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b58fb606988ea8f46df86a43",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "1zS4ssyuOpe7CIJh1LJ6DX",
+                    "name": "Another World",
+                    "sharingInfo": {
+                      "shareId": "XKSsJdA5Q920ZTkEL8HPKQ",
+                      "shareUrl": "https://open.spotify.com/album/1zS4ssyuOpe7CIJh1LJ6DX?si=XKSsJdA5Q920ZTkEL8HPKQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:1zS4ssyuOpe7CIJh1LJ6DX"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "The Weeknd"
+                          },
+                          "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02364aec7419abbc2f5aeaaeda",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851364aec7419abbc2f5aeaaeda",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273364aec7419abbc2f5aeaaeda",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2015
+                    },
+                    "id": "12yYl13Ce7u8LuhtEl75aQ",
+                    "name": "Can't Feel My Face (Martin Garrix Remix)",
+                    "sharingInfo": {
+                      "shareId": "2bWQN6k7RY2oIhEiLPx65A",
+                      "shareUrl": "https://open.spotify.com/album/12yYl13Ce7u8LuhtEl75aQ?si=2bWQN6k7RY2oIhEiLPx65A"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:12yYl13Ce7u8LuhtEl75aQ"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0225ea1f20909538ade0948e53",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485125ea1f20909538ade0948e53",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27325ea1f20909538ade0948e53",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "70Lim5hgCG0pJDsULLlXCK",
+                    "name": "STMPD RCRDS Mixtape 2024 Side A",
+                    "sharingInfo": {
+                      "shareId": "Qh4Z5lPPQzCm-xoZwTBEKw",
+                      "shareUrl": "https://open.spotify.com/album/70Lim5hgCG0pJDsULLlXCK?si=Qh4Z5lPPQzCm-xoZwTBEKw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:70Lim5hgCG0pJDsULLlXCK"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020daaa2c26b0db473198cee2b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510daaa2c26b0db473198cee2b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730daaa2c26b0db473198cee2b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "7D1GxLf2HmzT6ngnI9ls6S",
+                    "name": "Best Gaming Tracks",
+                    "sharingInfo": {
+                      "shareId": "b3wKUqweTLSBReqi5KtpEA",
+                      "shareUrl": "https://open.spotify.com/album/7D1GxLf2HmzT6ngnI9ls6S?si=b3wKUqweTLSBReqi5KtpEA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:7D1GxLf2HmzT6ngnI9ls6S"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020ecae1ff4b14444a376db7ea",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510ecae1ff4b14444a376db7ea",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730ecae1ff4b14444a376db7ea",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2016
+                    },
+                    "id": "4B4nVmQZWZ44Y4yzLDa5n1",
+                    "name": "Seize the Day! Your Morning Commute",
+                    "sharingInfo": {
+                      "shareId": "Wmm5RazlSIaLCJdfJ15XPw",
+                      "shareUrl": "https://open.spotify.com/album/4B4nVmQZWZ44Y4yzLDa5n1?si=Wmm5RazlSIaLCJdfJ15XPw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:4B4nVmQZWZ44Y4yzLDa5n1"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02970139cb90eecd458d21cdb3",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851970139cb90eecd458d21cdb3",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273970139cb90eecd458d21cdb3",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2025
+                    },
+                    "id": "3LQZLfZP8qBxyhrShkBGAi",
+                    "name": "EDM Party 2025",
+                    "sharingInfo": {
+                      "shareId": "a-7iJyzSSiCPVemBRanOOA",
+                      "shareUrl": "https://open.spotify.com/album/3LQZLfZP8qBxyhrShkBGAi?si=a-7iJyzSSiCPVemBRanOOA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3LQZLfZP8qBxyhrShkBGAi"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Dillon Francis"
+                          },
+                          "uri": "spotify:artist:5R3Hr2cnCCjt220Jmt2xLf"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0286c5383e95a9ea1edcd58c85",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485186c5383e95a9ea1edcd58c85",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27386c5383e95a9ea1edcd58c85",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "4RSvuzDzXPyWK0qKWn8nQl",
+                    "name": "Money Sucks, Friends Rule (10 Year Remix Album)",
+                    "sharingInfo": {
+                      "shareId": "w0qtyjjDRwqNVD-P2EiJ7Q",
+                      "shareUrl": "https://open.spotify.com/album/4RSvuzDzXPyWK0qKWn8nQl?si=w0qtyjjDRwqNVD-P2EiJ7Q"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4RSvuzDzXPyWK0qKWn8nQl"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e4a0ed62d917fe434222e0a4",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e4a0ed62d917fe434222e0a4",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e4a0ed62d917fe434222e0a4",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "7zlknS1oRVEWyisXoIYKpf",
+                    "name": "EDM Gaming 2025",
+                    "sharingInfo": {
+                      "shareId": "7szZaNcCQb-L0J6Q4ZCzTA",
+                      "shareUrl": "https://open.spotify.com/album/7zlknS1oRVEWyisXoIYKpf?si=7szZaNcCQb-L0J6Q4ZCzTA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:7zlknS1oRVEWyisXoIYKpf"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "David Guetta"
+                          },
+                          "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02bc8b39a56507d53c25ce8e0c",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851bc8b39a56507d53c25ce8e0c",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273bc8b39a56507d53c25ce8e0c",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "3r6AEmeVnFXmG7YIEzunzy",
+                    "name": "New Year's Eve Party",
+                    "sharingInfo": {
+                      "shareId": "bJJm-jfXT9OZOaiTotrrEw",
+                      "shareUrl": "https://open.spotify.com/album/3r6AEmeVnFXmG7YIEzunzy?si=bJJm-jfXT9OZOaiTotrrEw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3r6AEmeVnFXmG7YIEzunzy"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d0b59638750547da6a3cf1ec",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d0b59638750547da6a3cf1ec",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d0b59638750547da6a3cf1ec",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "2dk7k4wG34k8o9TPxrMOCX",
+                    "name": "Vive El Verano 2024",
+                    "sharingInfo": {
+                      "shareId": "Q4U3SJRrQriLhpzwhsYx8w",
+                      "shareUrl": "https://open.spotify.com/album/2dk7k4wG34k8o9TPxrMOCX?si=Q4U3SJRrQriLhpzwhsYx8w"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:2dk7k4wG34k8o9TPxrMOCX"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Dimitri Vegas & Like Mike"
+                          },
+                          "uri": "spotify:artist:73jBynjsVtofjRpdpRAJGk"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02aa5d117b295ca805caa734f4",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851aa5d117b295ca805caa734f4",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273aa5d117b295ca805caa734f4",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2013
+                    },
+                    "id": "0tKCFqWnjhKuc1Twf7paeu",
+                    "name": "Project T (Martin Garrix Remix)",
+                    "sharingInfo": {
+                      "shareId": "0MfxKF5NSMCPWfWTWh0YWg",
+                      "shareUrl": "https://open.spotify.com/album/0tKCFqWnjhKuc1Twf7paeu?si=0MfxKF5NSMCPWfWTWh0YWg"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:0tKCFqWnjhKuc1Twf7paeu"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021c2791af92ebd775ee336ba2",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511c2791af92ebd775ee336ba2",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731c2791af92ebd775ee336ba2",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2025
+                    },
+                    "id": "2cX0rniOdhGTpQ0i3QtrGW",
+                    "name": "Joggen 2025",
+                    "sharingInfo": {
+                      "shareId": "LhUDZ3NYTWiXC2WhmBolfw",
+                      "shareUrl": "https://open.spotify.com/album/2cX0rniOdhGTpQ0i3QtrGW?si=LhUDZ3NYTWiXC2WhmBolfw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:2cX0rniOdhGTpQ0i3QtrGW"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0231fa9c71dd3bf9e963bc4178",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485131fa9c71dd3bf9e963bc4178",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27331fa9c71dd3bf9e963bc4178",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "27QJC4ClW9NnGKGzsadg66",
+                    "name": "Slow Pop EDM House Run",
+                    "sharingInfo": {
+                      "shareId": "u6J_QKUeRuW2X89qJ1JkJQ",
+                      "shareUrl": "https://open.spotify.com/album/27QJC4ClW9NnGKGzsadg66?si=u6J_QKUeRuW2X89qJ1JkJQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:27QJC4ClW9NnGKGzsadg66"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e022c290d6dc3afeab531de8e34",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048512c290d6dc3afeab531de8e34",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2732c290d6dc3afeab531de8e34",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2015
+                    },
+                    "id": "2Eefs5ZTu3CQ0rl1Zede7l",
+                    "name": "Tomorrowland - The Secret Kingdom Of Melodia",
+                    "sharingInfo": {
+                      "shareId": "O-6R1zFXSGS8P91MQoBxng",
+                      "shareUrl": "https://open.spotify.com/album/2Eefs5ZTu3CQ0rl1Zede7l?si=O-6R1zFXSGS8P91MQoBxng"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:2Eefs5ZTu3CQ0rl1Zede7l"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Ti\u00ebsto"
+                          },
+                          "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c56fd0c327e53f4ee6c96799",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c56fd0c327e53f4ee6c96799",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c56fd0c327e53f4ee6c96799",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2015
+                    },
+                    "id": "2XuubqlDwvySO4Xn7acM68",
+                    "name": "Club Life, Vol. 4 - New York City",
+                    "sharingInfo": {
+                      "shareId": "h0ZPnJ95QmiCJ1G2nAhh2g",
+                      "shareUrl": "https://open.spotify.com/album/2XuubqlDwvySO4Xn7acM68?si=h0ZPnJ95QmiCJ1G2nAhh2g"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2XuubqlDwvySO4Xn7acM68"
+                  },
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Ti\u00ebsto"
+                          },
+                          "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02de5f51296e162e8ec5d56899",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851de5f51296e162e8ec5d56899",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273de5f51296e162e8ec5d56899",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2015
+                    },
+                    "id": "57bABnvvPfNhBQRI70dqlU",
+                    "name": "Club Life, Vol. 4 - New York City",
+                    "sharingInfo": {
+                      "shareId": "vM-gDJpgSUaQU0ks_RimaA",
+                      "shareUrl": "https://open.spotify.com/album/57bABnvvPfNhBQRI70dqlU?si=vM-gDJpgSUaQU0ks_RimaA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:57bABnvvPfNhBQRI70dqlU"
+                  }
+                ],
+                "totalCount": 2
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e026fd4c6f327afcf39fcda4cba",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048516fd4c6f327afcf39fcda4cba",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2736fd4c6f327afcf39fcda4cba",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2025
+                    },
+                    "id": "2LmMu1Zmfxb1BV1woDnTOw",
+                    "name": "Running Motivation",
+                    "sharingInfo": {
+                      "shareId": "7N7LDgaaR-GqoiYyJrH0SA",
+                      "shareUrl": "https://open.spotify.com/album/2LmMu1Zmfxb1BV1woDnTOw?si=7N7LDgaaR-GqoiYyJrH0SA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:2LmMu1Zmfxb1BV1woDnTOw"
+                  }
+                ],
+                "totalCount": 1
+              }
+            }
+          ],
+          "totalCount": 68
+        },
+        "discoveredOnV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Martin Garrix. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO3xu60E",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO3xu60E-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Martin Garrix",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO3xu60E"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Home is where the main stage is \ud83d\udc97 with Martin Garrix",
+                "id": "37i9dQZF1DX1kCIzMYtzum",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000024cf1707f40fc4e4eeded35e9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "EDM 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX1kCIzMYtzum"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Electr\u00f3nica 2025 - Best Tracks of Tomorrowland - Tomorrowland Soundtrack - EDM 2025 - Techno Mix - Dance Anthems - Party Mix - Festival Music - Tomorrowland Winter - Tomorrowland Brasil - EDM Playlist - Eletr\u00f4nicas As Melhores \ud83c\udfaa",
+                "id": "33PyRULhtc4SRrUE1wbbmp",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c60f35b2f2202708688cc14cc",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Tomorrowland 2025 Playlist \ud83d\udc99 EDM HITS",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "The Circus \ud83c\udfaa"
+                  }
+                },
+                "uri": "spotify:playlist:33PyRULhtc4SRrUE1wbbmp"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Lo mejor en ingl\u00e9s de la \u00faltima d\u00e9cada. Para novedades, escucha <a href=\"spotify:playlist:37i9dQZF1DX6aTaZa0K6VA\">Pop Up</a>.",
+                "id": "37i9dQZF1DX1ngEVM0lKrb",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002bc543b839338fcddd53a8938",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Pop Internacional 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX1ngEVM0lKrb"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "De 50 populairste hits van nu. Cover: Zo\u00eb Tauran & Idaly",
+                "id": "37i9dQZF1DWSBi5svWQ9Nk",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002c2e993ab3e20bc316ffa9e2c",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Hot Hits NL",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWSBi5svWQ9Nk"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Nederlandse Top 40, de enige echte hitlijst van Nederland! Official Dutch Top 40. Check top40.nl voor alle details.",
+                "id": "5lH9NjOeJvctAO92ZrKQNB",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c028a62a3c0cac03d75d26f02",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Top 40",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Nederlandse Top 40"
+                  }
+                },
+                "uri": "spotify:playlist:5lH9NjOeJvctAO92ZrKQNB"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Your daily update of the most played tracks right now - Netherlands.",
+                "id": "37i9dQZEVXbKCF6dqVpDkS",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_nl_default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Top 50 - Netherlands",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZEVXbKCF6dqVpDkS"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is radio mixtape &amp; the latest release 2024 playlist all songs setlist tour old discography lo mejor de exitos last new single album mix in the name of love scared to be lonely last new album discography",
+                "id": "3qK2rMseClthZl1jCNPZFY",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c3fc07b6f9c8570d87391c0fe",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "MARTIN GARRIX HITS\ud83c\udfa7BEST OF",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "\ud83c\udfa7 EDM Playlists \ud83c\udfa7"
+                  }
+                },
+                "uri": "spotify:playlist:3qK2rMseClthZl1jCNPZFY"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Tap it back or go for a spin with these uptempo tracks!",
+                "id": "37i9dQZF1DX32NsLKyzScr",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002ecbc3f66c5912d783dee45b7",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Power Hour",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX32NsLKyzScr"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The biggest songs of the 2010s. Cover: Lady Gaga",
+                "id": "37i9dQZF1DX5Ejj0EkURtP",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002d8968192efe2f409766f2ff2",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "All Out 2010s",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX5Ejj0EkURtP"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
+                "id": "37i9dQZF1DX6GJXiuZRisr",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002c10f679b1fe5266e9c7eaa8f",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Night Rider",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX6GJXiuZRisr"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "id": "3RxE0RAqiFlJHKDI5WWR8H",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://mosaic.scdn.co/640/ab67616d00001e0228a8a05c3a7ba952c7615ab9ab67616d00001e022b517912fd69652ff10d8e11ab67616d00001e028c77bcf5f5a227d270d23370ab67616d00001e028ff7c3580d429c8212b9a3b6",
+                          "width": 640
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://mosaic.scdn.co/300/ab67616d00001e0228a8a05c3a7ba952c7615ab9ab67616d00001e022b517912fd69652ff10d8e11ab67616d00001e028c77bcf5f5a227d270d23370ab67616d00001e028ff7c3580d429c8212b9a3b6",
+                          "width": 300
+                        },
+                        {
+                          "height": 60,
+                          "url": "https://mosaic.scdn.co/60/ab67616d00001e0228a8a05c3a7ba952c7615ab9ab67616d00001e022b517912fd69652ff10d8e11ab67616d00001e028c77bcf5f5a227d270d23370ab67616d00001e028ff7c3580d429c8212b9a3b6",
+                          "width": 60
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Electr\u00f3nica 2016 2017",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "GERARDO VEGA"
+                  }
+                },
+                "uri": "spotify:playlist:3RxE0RAqiFlJHKDI5WWR8H"
+              }
+            }
+          ],
+          "totalCount": 100
+        },
+        "featuringV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Martin Garrix. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO3xu60E",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO3xu60E-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Martin Garrix",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO3xu60E"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "With Axwell /\\ Ingrosso, Kygo, The Chainsmokers and more",
+                "id": "37i9dQZF1E4zbMsDbTSEeQ",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/60d24wfXkVzDSfLS6hyCjZ/en",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Martin Garrix Radio",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1E4zbMsDbTSEeQ"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The pop hits you just can't get enough of. Cover: Tate McRae",
+                "id": "37i9dQZF1DXcOFePJj4Rgb",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000026091b2487246698172ce1b20",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Pop Favourites",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXcOFePJj4Rgb"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Home is where the main stage is \ud83d\udc97 with Martin Garrix",
+                "id": "37i9dQZF1DX1kCIzMYtzum",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000024cf1707f40fc4e4eeded35e9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "EDM 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX1kCIzMYtzum"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Get in the zone with these current jams!",
+                "id": "37i9dQZF1DWU13kKnk03AP",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002fc8749d4f07787c827d60bf1",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Daily Lift",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWU13kKnk03AP"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Current favorites and exciting new music. Cover: Sabrina Carpenter",
+                "id": "37i9dQZF1DXcRXFNfZr7Tp",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f0000000261f458ea0ecf8d5e13654741",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "just hits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXcRXFNfZr7Tp"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
+                "id": "37i9dQZF1DWSf2RDTDayIx",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002518096c62a9e453db38093db",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Happy Beats",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWSf2RDTDayIx"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "All the <a href=\"spotify:genre:edm_dance\">big ones</a> with Dom Dolla",
+                "id": "37i9dQZF1DX0BcQWzuB7ZO",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000020823934df67cad1413624f1a",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Dance Hits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX0BcQWzuB7ZO"
+              }
+            }
+          ],
+          "totalCount": 8
+        },
+        "relatedArtists": {
+          "items": [
+            {
+              "id": "4AVFqumd2ogHFlRbKIjp1t",
+              "profile": {
+                "name": "Alesso"
+              },
+              "uri": "spotify:artist:4AVFqumd2ogHFlRbKIjp1t",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb327e7178289c299c48e12577",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178327e7178289c299c48e12577",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174327e7178289c299c48e12577",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4sTQVOfp9vEMCemLw50sbu",
+              "profile": {
+                "name": "Galantis"
+              },
+              "uri": "spotify:artist:4sTQVOfp9vEMCemLw50sbu",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb7bda087d6fb48d481efd3344",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1787bda087d6fb48d481efd3344",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051747bda087d6fb48d481efd3344",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "23fqKkggKUBHNkbKtXEls4",
+              "profile": {
+                "name": "Kygo"
+              },
+              "uri": "spotify:artist:23fqKkggKUBHNkbKtXEls4",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebe5ea1aa1404629c12ad86658",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178e5ea1aa1404629c12ad86658",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174e5ea1aa1404629c12ad86658",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1vCWHaC5f2uS3yhpwWbIA6",
+              "profile": {
+                "name": "Avicii"
+              },
+              "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebae07171f989fb39736674113",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178ae07171f989fb39736674113",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174ae07171f989fb39736674113",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5JYo7gm2dkyLLlWHjxS7Dy",
+              "profile": {
+                "name": "Sandro Cavazza"
+              },
+              "uri": "spotify:artist:5JYo7gm2dkyLLlWHjxS7Dy",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebabc78e987a9deb1cde2734c3",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178abc78e987a9deb1cde2734c3",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174abc78e987a9deb1cde2734c3",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1HBjj22wzbscIZ9sEb5dyf",
+              "profile": {
+                "name": "Jonas Blue"
+              },
+              "uri": "spotify:artist:1HBjj22wzbscIZ9sEb5dyf",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebc2ef6ee256ee38ee35f42df7",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178c2ef6ee256ee38ee35f42df7",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174c2ef6ee256ee38ee35f42df7",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2XnBwblw31dfGnspMIwgWz",
+              "profile": {
+                "name": "Axwell /\\ Ingrosso"
+              },
+              "uri": "spotify:artist:2XnBwblw31dfGnspMIwgWz",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb9f6e5d736809c4cb40d59a7e",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1789f6e5d736809c4cb40d59a7e",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051749f6e5d736809c4cb40d59a7e",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2qxJFvFYMEDqd7ui6kSAcq",
+              "profile": {
+                "name": "Zedd"
+              },
+              "uri": "spotify:artist:2qxJFvFYMEDqd7ui6kSAcq",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebe28762aed82cde1178fb3873",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178e28762aed82cde1178fb3873",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174e28762aed82cde1178fb3873",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "69GGBxA162lTqCwzJG5jLp",
+              "profile": {
+                "name": "The Chainsmokers"
+              },
+              "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb44434ab91c37f5407f8e83b6",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17844434ab91c37f5407f8e83b6",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517444434ab91c37f5407f8e83b6",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3t5xRXzsuZmMDkQzgOX35S",
+              "profile": {
+                "name": "Robin Schulz"
+              },
+              "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb869ddcc058c5ff2a459ad8d5",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178869ddcc058c5ff2a459ad8d5",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174869ddcc058c5ff2a459ad8d5",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "64KEffDW9EtZ1y2vBYgq8T",
+              "profile": {
+                "name": "Marshmello"
+              },
+              "uri": "spotify:artist:64KEffDW9EtZ1y2vBYgq8T",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb53ca421f91678c26b4f15512",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17853ca421f91678c26b4f15512",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517453ca421f91678c26b4f15512",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+              "profile": {
+                "name": "David Guetta"
+              },
+              "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebf150017ca69c8793503c2d4f",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178f150017ca69c8793503c2d4f",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174f150017ca69c8793503c2d4f",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7vk5e3vY1uw9plTHJAMwjN",
+              "profile": {
+                "name": "Alan Walker"
+              },
+              "uri": "spotify:artist:7vk5e3vY1uw9plTHJAMwjN",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebbf753c009fd9c2d53351dd3c",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178bf753c009fd9c2d53351dd3c",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174bf753c009fd9c2d53351dd3c",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7DMveApC7UnC2NPfPvlHSU",
+              "profile": {
+                "name": "Cheat Codes"
+              },
+              "uri": "spotify:artist:7DMveApC7UnC2NPfPvlHSU",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebcb85c5aad19e9ccdac03aab4",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178cb85c5aad19e9ccdac03aab4",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174cb85c5aad19e9ccdac03aab4",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7CajNmpbOovFoOoasH2HaY",
+              "profile": {
+                "name": "Calvin Harris"
+              },
+              "uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb014a3c1730d960c66396ed63",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178014a3c1730d960c66396ed63",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174014a3c1730d960c66396ed63",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "64M6ah0SkkRsnPGtGiRAbb",
+              "profile": {
+                "name": "Bebe Rexha"
+              },
+              "uri": "spotify:artist:64M6ah0SkkRsnPGtGiRAbb",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebead1540fa76796266fadba33",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178ead1540fa76796266fadba33",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174ead1540fa76796266fadba33",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6Dd3NScHWwnW6obMFbl1BH",
+              "profile": {
+                "name": "Daya"
+              },
+              "uri": "spotify:artist:6Dd3NScHWwnW6obMFbl1BH",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb540e862652f24fe2988911b2",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178540e862652f24fe2988911b2",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174540e862652f24fe2988911b2",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+              "profile": {
+                "name": "R3HAB"
+              },
+              "uri": "spotify:artist:6cEuCEZu7PAE9ZSzLLc2oQ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb20dfb8f52ef4926a22e552c8",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17820dfb8f52ef4926a22e552c8",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517420dfb8f52ef4926a22e552c8",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4ehtJnVumNf6xzSCDk8aLB",
+              "profile": {
+                "name": "Martin Jensen"
+              },
+              "uri": "spotify:artist:4ehtJnVumNf6xzSCDk8aLB",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebbb66aefa6eee7185729d6921",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178bb66aefa6eee7185729d6921",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174bb66aefa6eee7185729d6921",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "20gsENnposVs2I4rQ5kvrf",
+              "profile": {
+                "name": "Sam Feldt"
+              },
+              "uri": "spotify:artist:20gsENnposVs2I4rQ5kvrf",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb63679ce54fde629d40df457d",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17863679ce54fde629d40df457d",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517463679ce54fde629d40df457d",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "totalCount": 40
+        }
+      },
+      "relatedVideos": {
+        "__typename": "RelatedVideoPage",
+        "items": [],
+        "totalCount": 0
+      },
+      "saved": false,
+      "sharingInfo": {
+        "shareId": "6I_eSTw_SIiMVWKogJDCyQ",
+        "shareUrl": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ?si=6I_eSTw_SIiMVWKogJDCyQ"
+      },
+      "stats": {
+        "followers": 15155752,
+        "monthlyListeners": 20603534,
+        "topCities": {
+          "items": [
+            {
+              "city": "Amsterdam",
+              "country": "NL",
+              "numberOfListeners": 345948,
+              "region": "NH"
+            },
+            {
+              "city": "Mexico City",
+              "country": "MX",
+              "numberOfListeners": 293097,
+              "region": "CMX"
+            },
+            {
+              "city": "Rotterdam",
+              "country": "NL",
+              "numberOfListeners": 237145,
+              "region": "ZH"
+            },
+            {
+              "city": "Jakarta",
+              "country": "ID",
+              "numberOfListeners": 231605,
+              "region": "JK"
+            },
+            {
+              "city": "Sydney",
+              "country": "AU",
+              "numberOfListeners": 227992,
+              "region": "NSW"
+            }
+          ]
+        },
+        "worldRank": 336
+      },
+      "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ",
+      "visualIdentity": {
+        "wideFullBleedImage": {
+          "__typename": "VisualIdentityImage",
+          "extractedColorSet": {
+            "encoreBaseSetTextColor": {
+              "alpha": 255,
+              "blue": 184,
+              "green": 184,
+              "red": 195
+            },
+            "highContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 48,
+                "green": 48,
+                "red": 56
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 82,
+                "green": 82,
+                "red": 90
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 203,
+                "green": 203,
+                "red": 213
+              }
+            },
+            "higherContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 48,
+                "green": 48,
+                "red": 56
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 82,
+                "green": 82,
+                "red": 90
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 96,
+                "green": 215,
+                "red": 30
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 203,
+                "green": 203,
+                "red": 213
+              }
+            },
+            "minContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 48,
+                "green": 48,
+                "red": 56
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 82,
+                "green": 82,
+                "red": 90
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              }
+            }
+          }
+        }
+      },
+      "visuals": {
+        "avatarImage": {
+          "extractedColors": {
+            "colorRaw": {
+              "hex": "#404040"
+            }
+          },
+          "sources": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb45c3688488f871aace7a4a57",
+              "width": 640
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f17845c3688488f871aace7a4a57",
+              "width": 160
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab6761610000517445c3688488f871aace7a4a57",
+              "width": 320
+            }
+          ]
+        },
+        "gallery": {
+          "items": [
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd426839070f1d27fd3dee6a9ce",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd439c8ad264331a0a3b10aa2b7",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd474262ef536cb69819981b0ba",
+                  "width": 640
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "watchFeedEntrypoint": null
+    }
+  },
+  "extensions": {}
+}

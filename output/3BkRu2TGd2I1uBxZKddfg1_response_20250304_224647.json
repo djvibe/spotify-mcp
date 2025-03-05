@@ -1,0 +1,4590 @@
+{
+  "data": {
+    "artistUnion": {
+      "__typename": "Artist",
+      "discography": {
+        "albums": {
+          "items": [],
+          "totalCount": 0
+        },
+        "compilations": {
+          "items": [],
+          "totalCount": 0
+        },
+        "latest": {
+          "copyright": {
+            "items": [
+              {
+                "text": "2025 UPPERGROUND",
+                "type": "C"
+              },
+              {
+                "text": "2025 UPPERGROUND",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02f08546e0279ff1df343fb430",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851f08546e0279ff1df343fb430",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f08546e0279ff1df343fb430",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 28,
+            "month": 2,
+            "precision": "DAY",
+            "year": 2025
+          },
+          "id": "4paVM4hXl2Lq9EhngKRpWy",
+          "label": "UPPERGROUND",
+          "name": "Afterparty",
+          "playability": {
+            "playable": true,
+            "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+            "shareId": "LN7L15wCQ7GaZDz54P-YUA",
+            "shareUrl": "https://open.spotify.com/album/4paVM4hXl2Lq9EhngKRpWy?si=LN7L15wCQ7GaZDz54P-YUA"
+          },
+          "tracks": {
+            "totalCount": 1
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:4paVM4hXl2Lq9EhngKRpWy"
+        },
+        "popularReleasesAlbums": {
+          "items": [
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2024 Insomniac Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2024 Insomniac Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02aca64d6105d38b07b061b1f7",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851aca64d6105d38b07b061b1f7",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273aca64d6105d38b07b061b1f7",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 13,
+                "month": 9,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "62cNVQX5G5tM6n302goHbL",
+              "label": "Insomniac Records",
+              "name": "Hollow (feat. Bonn)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "Us351LqxSneq4md1YlaBsA",
+                "shareUrl": "https://open.spotify.com/album/62cNVQX5G5tM6n302goHbL?si=Us351LqxSneq4md1YlaBsA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:62cNVQX5G5tM6n302goHbL"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2024 The Sleepy Jackson Pty Ltd and Nick Littlemore, under exclusive licence to Universal Music Australia Pty Ltd",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2024 The Sleepy Jackson Pty Ltd and Nick Littlemore, under exclusive licence to Universal Music Australia Pty Ltd",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02eebceec695556566750ecc6d",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851eebceec695556566750ecc6d",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273eebceec695556566750ecc6d",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 6,
+                "month": 12,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "60byCifK9JXAUwNzbpfSS2",
+              "label": "EMI Recorded Music Australia Pty Ltd",
+              "name": "We Are The People (ARTBAT Remix)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "6IN4TIl3RTabdLiy8xAKTA",
+                "shareUrl": "https://open.spotify.com/album/60byCifK9JXAUwNzbpfSS2?si=6IN4TIl3RTabdLiy8xAKTA"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:60byCifK9JXAUwNzbpfSS2"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2020 METAPHYSICAL",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2020 METAPHYSICAL",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024731d0665262e4fd7b6fa80b",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514731d0665262e4fd7b6fa80b",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734731d0665262e4fd7b6fa80b",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 11,
+                "month": 9,
+                "precision": "DAY",
+                "year": 2020
+              },
+              "id": "0JZhnQOj0GJqODT4NolPLv",
+              "label": "METAPHYSICAL",
+              "name": "Best of Me (Radio Edit)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "uH0_RsW3T0-Z8pUc1OSUhw",
+                "shareUrl": "https://open.spotify.com/album/0JZhnQOj0GJqODT4NolPLv?si=uH0_RsW3T0-Z8pUc1OSUhw"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:0JZhnQOj0GJqODT4NolPLv"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2024 HUGEL, under exclusive license to Universal Music GmbH",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2024 HUGEL, under exclusive license to Universal Music GmbH",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0285b76b74f98039fa7ea7022b",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485185b76b74f98039fa7ea7022b",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27385b76b74f98039fa7ea7022b",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 27,
+                "month": 12,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "5kRla1xPI51kTotmC4nW6j",
+              "label": "Virgin",
+              "name": "I Adore You (ARTBAT Remix)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "EkWYsoZXT_OLo-YmiruFOQ",
+                "shareUrl": "https://open.spotify.com/album/5kRla1xPI51kTotmC4nW6j?si=EkWYsoZXT_OLo-YmiruFOQ"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:5kRla1xPI51kTotmC4nW6j"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2025 UPPERGROUND",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2025 UPPERGROUND",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024ae0bf76dab06a8c9dc676a2",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514ae0bf76dab06a8c9dc676a2",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734ae0bf76dab06a8c9dc676a2",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 17,
+                "month": 1,
+                "precision": "DAY",
+                "year": 2025
+              },
+              "id": "1FCDz3JcIg62PMInMhubHQ",
+              "label": "UPPERGROUND",
+              "name": "She The Last One",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "xdQorM1oQN-EuafGyulLug",
+                "shareUrl": "https://open.spotify.com/album/1FCDz3JcIg62PMInMhubHQ?si=xdQorM1oQN-EuafGyulLug"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1FCDz3JcIg62PMInMhubHQ"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2019 Embassy One under exclusive licence to Sony Music Entertainment UK Limited",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f7bb45ac04c966e4435aa740",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f7bb45ac04c966e4435aa740",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f7bb45ac04c966e4435aa740",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 9,
+                "month": 8,
+                "precision": "DAY",
+                "year": 2019
+              },
+              "id": "4gzaCyT20sk6Xu6WzBlkpd",
+              "label": "RCA Records Label",
+              "name": "Return to Oz (ARTBAT Remix)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "ei-i-IwESK-BFlLEE12mpw",
+                "shareUrl": "https://open.spotify.com/album/4gzaCyT20sk6Xu6WzBlkpd?si=ei-i-IwESK-BFlLEE12mpw"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:4gzaCyT20sk6Xu6WzBlkpd"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2024 AVALAN ROKSTON, under exclusive license to Universal Music GmbH",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2024 AVALAN ROKSTON, under exclusive license to Universal Music GmbH",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020f09dcf2cc523ea6920ccca9",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510f09dcf2cc523ea6920ccca9",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730f09dcf2cc523ea6920ccca9",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 19,
+                "month": 7,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "36oj2t9bAdWr4WCJbgM4UB",
+              "label": "Island Berlin",
+              "name": "The Ocean",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "AtYlE15WSNaarX08TwDGTg",
+                "shareUrl": "https://open.spotify.com/album/36oj2t9bAdWr4WCJbgM4UB?si=AtYlE15WSNaarX08TwDGTg"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:36oj2t9bAdWr4WCJbgM4UB"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2024 UPPERGROUND",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2024 UPPERGROUND",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c858bf328a2d5dbc877bd31a",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c858bf328a2d5dbc877bd31a",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c858bf328a2d5dbc877bd31a",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 26,
+                "month": 1,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "0KIJ5H16buFOBL0vNpmSsi",
+              "label": "UPPERGROUND",
+              "name": "In Your Arms",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "NXK_3nxaTPejOytRu68lVg",
+                "shareUrl": "https://open.spotify.com/album/0KIJ5H16buFOBL0vNpmSsi?si=NXK_3nxaTPejOytRu68lVg"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:0KIJ5H16buFOBL0vNpmSsi"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "Under exclusive license to Warner Music Group Germany Holding GmbH, \u00a9 2023 ARTBAT",
+                    "type": "C"
+                  },
+                  {
+                    "text": "Under exclusive license to Warner Music Group Germany Holding GmbH, \u2117 2023 ARTBAT",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024aea3926e1d467b3d4bd5a78",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514aea3926e1d467b3d4bd5a78",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734aea3926e1d467b3d4bd5a78",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 22,
+                "month": 12,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "7HOrMf3DQGW4vlXqCzJFCM",
+              "label": "Warner Music Central Europe",
+              "name": "Coming Home (feat. John Martin) [Vintage Culture Remix]",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "bbQaHYPJTG-YSRjPq20TOA",
+                "shareUrl": "https://open.spotify.com/album/7HOrMf3DQGW4vlXqCzJFCM?si=bbQaHYPJTG-YSRjPq20TOA"
+              },
+              "tracks": {
+                "totalCount": 3
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:7HOrMf3DQGW4vlXqCzJFCM"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2022 UPPERGROUND",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2022 UPPERGROUND",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02437d9d5294627b2e152e6feb",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851437d9d5294627b2e152e6feb",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273437d9d5294627b2e152e6feb",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 18,
+                "month": 11,
+                "precision": "DAY",
+                "year": 2022
+              },
+              "id": "6mQ61LMEZzW5HAvFWFumbK",
+              "label": "UPPERGROUND",
+              "name": "Tibet",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "Ai6EuketRoqX3b3RHsMRAw",
+                "shareUrl": "https://open.spotify.com/album/6mQ61LMEZzW5HAvFWFumbK?si=Ai6EuketRoqX3b3RHsMRAw"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:6mQ61LMEZzW5HAvFWFumbK"
+            }
+          ],
+          "totalCount": 20
+        },
+        "singles": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2025 UPPERGROUND",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2025 UPPERGROUND",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02f08546e0279ff1df343fb430",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851f08546e0279ff1df343fb430",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273f08546e0279ff1df343fb430",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 28,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "4paVM4hXl2Lq9EhngKRpWy",
+                    "label": "UPPERGROUND",
+                    "name": "Afterparty",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "LN7L15wCQ7GaZDz54P-YUA",
+                      "shareUrl": "https://open.spotify.com/album/4paVM4hXl2Lq9EhngKRpWy?si=LN7L15wCQ7GaZDz54P-YUA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4paVM4hXl2Lq9EhngKRpWy"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2025 UPPERGROUND",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2025 UPPERGROUND",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024ae0bf76dab06a8c9dc676a2",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514ae0bf76dab06a8c9dc676a2",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734ae0bf76dab06a8c9dc676a2",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 17,
+                      "month": 1,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "1FCDz3JcIg62PMInMhubHQ",
+                    "label": "UPPERGROUND",
+                    "name": "She The Last One",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "xdQorM1oQN-EuafGyulLug",
+                      "shareUrl": "https://open.spotify.com/album/1FCDz3JcIg62PMInMhubHQ?si=xdQorM1oQN-EuafGyulLug"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1FCDz3JcIg62PMInMhubHQ"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 HUGEL, under exclusive license to Universal Music GmbH",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 HUGEL, under exclusive license to Universal Music GmbH",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0285b76b74f98039fa7ea7022b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485185b76b74f98039fa7ea7022b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27385b76b74f98039fa7ea7022b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 27,
+                      "month": 12,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "5kRla1xPI51kTotmC4nW6j",
+                    "label": "Virgin",
+                    "name": "I Adore You (ARTBAT Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "EkWYsoZXT_OLo-YmiruFOQ",
+                      "shareUrl": "https://open.spotify.com/album/5kRla1xPI51kTotmC4nW6j?si=EkWYsoZXT_OLo-YmiruFOQ"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5kRla1xPI51kTotmC4nW6j"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 The Sleepy Jackson Pty Ltd and Nick Littlemore, under exclusive licence to Universal Music Australia Pty Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 The Sleepy Jackson Pty Ltd and Nick Littlemore, under exclusive licence to Universal Music Australia Pty Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02eebceec695556566750ecc6d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851eebceec695556566750ecc6d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273eebceec695556566750ecc6d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 6,
+                      "month": 12,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "60byCifK9JXAUwNzbpfSS2",
+                    "label": "EMI Recorded Music Australia Pty Ltd",
+                    "name": "We Are The People (ARTBAT Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "6IN4TIl3RTabdLiy8xAKTA",
+                      "shareUrl": "https://open.spotify.com/album/60byCifK9JXAUwNzbpfSS2?si=6IN4TIl3RTabdLiy8xAKTA"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:60byCifK9JXAUwNzbpfSS2"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Insomniac Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Insomniac Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c3a2903ea414bcf003691403",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c3a2903ea414bcf003691403",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c3a2903ea414bcf003691403",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 29,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "272iuIyZuKFVMUYZsvWis9",
+                    "label": "Insomniac Records",
+                    "name": "Hollow (feat. Bonn) [K\u00f6lsch Remix]",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "23KyK3yRSiy8UYdT02KuQg",
+                      "shareUrl": "https://open.spotify.com/album/272iuIyZuKFVMUYZsvWis9?si=23KyK3yRSiy8UYdT02KuQg"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:272iuIyZuKFVMUYZsvWis9"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 UPPERGROUND",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 UPPERGROUND",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025cba1b1698ca0e72f4b40211",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515cba1b1698ca0e72f4b40211",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735cba1b1698ca0e72f4b40211",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 15,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "3IMeZdfa9akLXvM2mqJQad",
+                    "label": "UPPERGROUND",
+                    "name": "Humans",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "kW0S3sY_QR6VReKkgkQ83w",
+                      "shareUrl": "https://open.spotify.com/album/3IMeZdfa9akLXvM2mqJQad?si=kW0S3sY_QR6VReKkgkQ83w"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3IMeZdfa9akLXvM2mqJQad"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Insomniac Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Insomniac Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02aca64d6105d38b07b061b1f7",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851aca64d6105d38b07b061b1f7",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273aca64d6105d38b07b061b1f7",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 13,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "62cNVQX5G5tM6n302goHbL",
+                    "label": "Insomniac Records",
+                    "name": "Hollow (feat. Bonn)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "Us351LqxSneq4md1YlaBsA",
+                      "shareUrl": "https://open.spotify.com/album/62cNVQX5G5tM6n302goHbL?si=Us351LqxSneq4md1YlaBsA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:62cNVQX5G5tM6n302goHbL"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 AVALAN ROKSTON, under exclusive license to Universal Music GmbH",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 AVALAN ROKSTON, under exclusive license to Universal Music GmbH",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020f09dcf2cc523ea6920ccca9",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510f09dcf2cc523ea6920ccca9",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730f09dcf2cc523ea6920ccca9",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 19,
+                      "month": 7,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "36oj2t9bAdWr4WCJbgM4UB",
+                    "label": "Island Berlin",
+                    "name": "The Ocean",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "AtYlE15WSNaarX08TwDGTg",
+                      "shareUrl": "https://open.spotify.com/album/36oj2t9bAdWr4WCJbgM4UB?si=AtYlE15WSNaarX08TwDGTg"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:36oj2t9bAdWr4WCJbgM4UB"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 UPPERGROUND",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 UPPERGROUND",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d5dad556d4033da9fd8f056c",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d5dad556d4033da9fd8f056c",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d5dad556d4033da9fd8f056c",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 14,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "1WyoGZphtDpMXxCD3iYuBJ",
+                    "label": "UPPERGROUND",
+                    "name": "Pull Out",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "YfDHy14zRY-EHrYzGjolxQ",
+                      "shareUrl": "https://open.spotify.com/album/1WyoGZphtDpMXxCD3iYuBJ?si=YfDHy14zRY-EHrYzGjolxQ"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1WyoGZphtDpMXxCD3iYuBJ"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 Virgin Records Limited",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 Virgin Records Limited",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0228b8ca2fcbdf2385c91501ad",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485128b8ca2fcbdf2385c91501ad",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27328b8ca2fcbdf2385c91501ad",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 24,
+                      "month": 5,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "5bitCrIgU2AoIY6Lp53s3k",
+                    "label": "Positiva",
+                    "name": "Hey Boy Hey Girl (ARTBAT Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "1inoTUXmQkWJo1O4NQ0Zmw",
+                      "shareUrl": "https://open.spotify.com/album/5bitCrIgU2AoIY6Lp53s3k?si=1inoTUXmQkWJo1O4NQ0Zmw"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5bitCrIgU2AoIY6Lp53s3k"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 59
+        },
+        "topTracks": {
+          "items": [
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02aca64d6105d38b07b061b1f7"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851aca64d6105d38b07b061b1f7"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273aca64d6105d38b07b061b1f7"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:62cNVQX5G5tM6n302goHbL"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "MORTEN"
+                      },
+                      "uri": "spotify:artist:19HFRWmRCl27kTk6LeqAO8"
+                    },
+                    {
+                      "profile": {
+                        "name": "ARTBAT"
+                      },
+                      "uri": "spotify:artist:3BkRu2TGd2I1uBxZKddfg1"
+                    },
+                    {
+                      "profile": {
+                        "name": "Bonn"
+                      },
+                      "uri": "spotify:artist:7Io0XduXk7aOHFHA7sLru2"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 200859
+                },
+                "id": "7EdPWyTm6EtO5httz2Dcoa",
+                "name": "Hollow (feat. Bonn)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "13349946",
+                "uri": "spotify:track:7EdPWyTm6EtO5httz2Dcoa"
+              },
+              "uid": "1fd517a0fd464d2fc90d"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02eebceec695556566750ecc6d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851eebceec695556566750ecc6d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273eebceec695556566750ecc6d"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:60byCifK9JXAUwNzbpfSS2"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Empire Of The Sun"
+                      },
+                      "uri": "spotify:artist:67hb7towEyKvt5Z8Bx306c"
+                    },
+                    {
+                      "profile": {
+                        "name": "ARTBAT"
+                      },
+                      "uri": "spotify:artist:3BkRu2TGd2I1uBxZKddfg1"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 238080
+                },
+                "id": "0L6223jyrD2qFSxSmjpEMP",
+                "name": "We Are The People - ARTBAT Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "5737033",
+                "uri": "spotify:track:0L6223jyrD2qFSxSmjpEMP"
+              },
+              "uid": "31f89b9da9d33785c3f0"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e024731d0665262e4fd7b6fa80b"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048514731d0665262e4fd7b6fa80b"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734731d0665262e4fd7b6fa80b"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:0JZhnQOj0GJqODT4NolPLv"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "ARTBAT"
+                      },
+                      "uri": "spotify:artist:3BkRu2TGd2I1uBxZKddfg1"
+                    },
+                    {
+                      "profile": {
+                        "name": "Sailor & I"
+                      },
+                      "uri": "spotify:artist:2RZbJDQz3gwJppZzfbuxTx"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 229440
+                },
+                "id": "4bJ7hDIjOucR0hGDEaVBOr",
+                "name": "Best of Me - Radio Edit",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "33995322",
+                "uri": "spotify:track:4bJ7hDIjOucR0hGDEaVBOr"
+              },
+              "uid": "5771a77a007b2d5cb975"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0285b76b74f98039fa7ea7022b"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485185b76b74f98039fa7ea7022b"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27385b76b74f98039fa7ea7022b"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:5kRla1xPI51kTotmC4nW6j"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "HUGEL"
+                      },
+                      "uri": "spotify:artist:5PlfkPxwCpRRWQJBxCa0By"
+                    },
+                    {
+                      "profile": {
+                        "name": "Topic"
+                      },
+                      "uri": "spotify:artist:0u6GtibW46tFX7koQ6uNJZ"
+                    },
+                    {
+                      "profile": {
+                        "name": "ARTBAT"
+                      },
+                      "uri": "spotify:artist:3BkRu2TGd2I1uBxZKddfg1"
+                    },
+                    {
+                      "profile": {
+                        "name": "Arash"
+                      },
+                      "uri": "spotify:artist:7hQmAXAzWI6D350VTgkKTG"
+                    },
+                    {
+                      "profile": {
+                        "name": "Daecolm"
+                      },
+                      "uri": "spotify:artist:1IFAU4mznUcfPVP9z2c24N"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 270967
+                },
+                "id": "1Zg16X9sBXpfQbs6fgVJzH",
+                "name": "I Adore You - ARTBAT Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "3709695",
+                "uri": "spotify:track:1Zg16X9sBXpfQbs6fgVJzH"
+              },
+              "uid": "cbb7dd8b8fefb79489ca"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e024ae0bf76dab06a8c9dc676a2"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048514ae0bf76dab06a8c9dc676a2"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734ae0bf76dab06a8c9dc676a2"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:1FCDz3JcIg62PMInMhubHQ"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "ARTBAT"
+                      },
+                      "uri": "spotify:artist:3BkRu2TGd2I1uBxZKddfg1"
+                    },
+                    {
+                      "profile": {
+                        "name": "Vintage Culture"
+                      },
+                      "uri": "spotify:artist:28uJnu5EsrGml2tBd7y8ts"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 202204
+                },
+                "id": "1OGikFMQXWG41hK6QWIGjK",
+                "name": "She The Last One",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "2060305",
+                "uri": "spotify:track:1OGikFMQXWG41hK6QWIGjK"
+              },
+              "uid": "6b7da1abb073c6de0295"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f7bb45ac04c966e4435aa740"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851f7bb45ac04c966e4435aa740"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f7bb45ac04c966e4435aa740"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:4gzaCyT20sk6Xu6WzBlkpd"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Monolink"
+                      },
+                      "uri": "spotify:artist:2I4hRNCYkPKJQlkoEZKjYx"
+                    },
+                    {
+                      "profile": {
+                        "name": "ARTBAT"
+                      },
+                      "uri": "spotify:artist:3BkRu2TGd2I1uBxZKddfg1"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 480000
+                },
+                "id": "0gwNGHcBRYtF7mvgUczVo1",
+                "name": "Return to Oz - ARTBAT Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "89565782",
+                "uri": "spotify:track:0gwNGHcBRYtF7mvgUczVo1"
+              },
+              "uid": "758b9266d09dbe5389c1"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e020f09dcf2cc523ea6920ccca9"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048510f09dcf2cc523ea6920ccca9"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2730f09dcf2cc523ea6920ccca9"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:36oj2t9bAdWr4WCJbgM4UB"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "AVALAN ROKSTON"
+                      },
+                      "uri": "spotify:artist:3WqiBOiSB2FlD25EX9893G"
+                    },
+                    {
+                      "profile": {
+                        "name": "ARTBAT"
+                      },
+                      "uri": "spotify:artist:3BkRu2TGd2I1uBxZKddfg1"
+                    },
+                    {
+                      "profile": {
+                        "name": "Avalan"
+                      },
+                      "uri": "spotify:artist:13v2M5UZ3bbOCGmuvo7uFw"
+                    },
+                    {
+                      "profile": {
+                        "name": "Rokston"
+                      },
+                      "uri": "spotify:artist:5XWSzLJ3W6zr7Hf1XhNvPP"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 206250
+                },
+                "id": "1QEasBeUReqzE4kHXLWzny",
+                "name": "The Ocean",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "3471235",
+                "uri": "spotify:track:1QEasBeUReqzE4kHXLWzny"
+              },
+              "uid": "d9872decc5851dfb0084"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e026894434a703e5c13558c70cb"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048516894434a703e5c13558c70cb"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2736894434a703e5c13558c70cb"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:350F8g1oIRWzdUs8gMfmsc"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "ARTBAT"
+                      },
+                      "uri": "spotify:artist:3BkRu2TGd2I1uBxZKddfg1"
+                    },
+                    {
+                      "profile": {
+                        "name": "Armin van Buuren"
+                      },
+                      "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 237401
+                },
+                "id": "1Qew5n9FSPxpiqu0Og4R3J",
+                "name": "Take Off",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "8843946",
+                "uri": "spotify:track:1Qew5n9FSPxpiqu0Og4R3J"
+              },
+              "uid": "49b385dcd8396f74d4da"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e025c4e85219dd562120b836a1d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048515c4e85219dd562120b836a1d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2735c4e85219dd562120b836a1d"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:5iPUTw7ZqnL3X53FdUVWmz"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "The Chemical Brothers"
+                      },
+                      "uri": "spotify:artist:1GhPHrq36VKCY3ucVaZCfo"
+                    },
+                    {
+                      "profile": {
+                        "name": "ARTBAT"
+                      },
+                      "uri": "spotify:artist:3BkRu2TGd2I1uBxZKddfg1"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 192380
+                },
+                "id": "6ncIQAyVDdHePrHc8HxIjv",
+                "name": "Hey Boy Hey Girl - ARTBAT Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "4723984",
+                "uri": "spotify:track:6ncIQAyVDdHePrHc8HxIjv"
+              },
+              "uid": "0a5fad218698d3b98afe"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02437d9d5294627b2e152e6feb"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851437d9d5294627b2e152e6feb"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273437d9d5294627b2e152e6feb"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6mQ61LMEZzW5HAvFWFumbK"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "ARTBAT"
+                      },
+                      "uri": "spotify:artist:3BkRu2TGd2I1uBxZKddfg1"
+                    },
+                    {
+                      "profile": {
+                        "name": "Argy"
+                      },
+                      "uri": "spotify:artist:1NaQOKgddaJipUtmptb7GI"
+                    },
+                    {
+                      "profile": {
+                        "name": "Zafrir"
+                      },
+                      "uri": "spotify:artist:3DJVDo0kd19fZXpTabasOX"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 403676
+                },
+                "id": "7xvl39LuJ8o5yeHR1kta90",
+                "name": "Tibet",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "15305265",
+                "uri": "spotify:track:7xvl39LuJ8o5yeHR1kta90"
+              },
+              "uid": "55cf26c1c384bd5cc524"
+            }
+          ]
+        }
+      },
+      "goods": {
+        "concerts": {
+          "items": [
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Belgrade",
+                  "name": "Hangar"
+                },
+                "startDateIsoString": "2025-03-14T22:00+01:00",
+                "title": "ARTBAT",
+                "uri": "spotify:concert:1zeV960lKXBrK9MWbJ9hQW"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Miami",
+                  "name": "FPL Solar Amphitheater at Bayfront Park"
+                },
+                "startDateIsoString": "2025-03-28T22:00-04:00",
+                "title": "ARTBAT",
+                "uri": "spotify:concert:10kvqvzTJdZhL63VIE37Ap"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Miami Beach",
+                  "name": "M2 Miami"
+                },
+                "startDateIsoString": "2025-03-29T22:00-04:00",
+                "title": "ARTBAT, Miss Monique, Olympe",
+                "uri": "spotify:concert:3Dqlku8i8PtnmdsIzPH01O"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Miami",
+                  "name": "FPL Solar Amphitheater at Bayfront Park"
+                },
+                "startDateIsoString": "2025-03-30T12:00-04:00",
+                "title": "999999999, Above & Beyond, Adam Beyer, AFROJACK, Alesso, Anyma, Solomun, Armin van Buuren, ARTBAT, Axwell, Boris Brejcha, Carl Cox, Charlotte de Witte, Chase & Status, deadmau5, Pendulum, Eli Brown, Dom Dolla, John Summit, Four Tet, Gesaffelstein, Hardwell, I Hate Models, LSDREAM, CloZee, Martin Garrix, Mau P, Miss Monique, Nero, NGHTMRE, Sullivan King, Richie Hawtin, Subtronics, Ti\u00ebsto, Zedd, Zeds Dead",
+                "uri": "spotify:concert:1hm0glYlRtuTbuKru9Pu4G"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Kuala Lumpur",
+                  "name": "Bandar Malaysia Sdn. Bhd."
+                },
+                "startDateIsoString": "2025-04-11T22:00+08:00",
+                "title": "ARTBAT",
+                "uri": "spotify:concert:1pjd3eBQR6Z2HHW9nBQYrc"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Khet Huai Khwang",
+                  "name": "RCA"
+                },
+                "startDateIsoString": "2025-04-12T22:00+07:00",
+                "title": "ARTBAT",
+                "uri": "spotify:concert:4NFqUgzfRK6jBO4hwQtvO9"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "San Miguel",
+                  "name": "Costa 21"
+                },
+                "startDateIsoString": "2025-04-18T22:00-05:00",
+                "title": "ARTBAT",
+                "uri": "spotify:concert:44TyIUBwFbGz12H3q01pit"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Villa Argentina",
+                  "name": "Paseo Parque de la Ciudad"
+                },
+                "startDateIsoString": "2025-04-19T22:00-03:00",
+                "title": "ARTBAT",
+                "uri": "spotify:concert:4Tw8zYsC7ZF1H4aJPfx4a9"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Abu Dhabi",
+                  "name": "Ethiad Park, Yas Island"
+                },
+                "startDateIsoString": "2025-04-26T22:00+04:00",
+                "title": "ARTBAT",
+                "uri": "spotify:concert:4YoPfTboK3v8vHTTYqkfpG"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Las Vegas",
+                  "name": "EDC Las Vegas"
+                },
+                "startDateIsoString": "2025-05-18T22:00-07:00",
+                "title": "ARTBAT, Argy",
+                "uri": "spotify:concert:7dsUhM4gZWKFj2yhXliquw"
+              }
+            }
+          ],
+          "totalCount": 28
+        },
+        "merch": {
+          "items": []
+        }
+      },
+      "headerImage": {
+        "data": {
+          "__typename": "ImageV2",
+          "sources": [
+            {
+              "maxHeight": 640,
+              "maxWidth": 1494,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab676186000001943d18817bdf7810564ad49570"
+            },
+            {
+              "maxHeight": 1080,
+              "maxWidth": 1920,
+              "url": "https://i2o.scdn.co/image/ab676186000016673d18817bdf7810564ad49570"
+            },
+            {
+              "maxHeight": 641,
+              "maxWidth": 1495,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67618600009d803d18817bdf7810564ad49570"
+            },
+            {
+              "maxHeight": 1140,
+              "maxWidth": 2660,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab6761860000eab13d18817bdf7810564ad49570"
+            }
+          ]
+        }
+      },
+      "id": "3BkRu2TGd2I1uBxZKddfg1",
+      "preRelease": null,
+      "profile": {
+        "biography": {
+          "text": "Artur and Batish have become an unparalleled force in electronic music, earning accolades as Mixmag Stars of the Year and Beatport&#39;s top-selling artists. Their chart-topping hits like the &#39;Age of Love&#39; (Rave Remix), &#39;Horizon,&#39; and &#39;Best of Me feat. Sailor &amp; I,&#39; and remixes and collaborations, for and with artists such as Monolink, K\u00f6slch, Camelphat, Sono, David Guetta and Idris Elba have solidified their position as industry powerhouses. As sought-after DJs, they have captivated crowds at prestigious festivals and clubs like Tomorrowland, Creamfields, Timewarp, Awakenings, Cercle, EDC, and Hi Ibiza, while their UPPERGROUND label, which was launched in 2021, has quickly risen to prominence, by championing visionary artists in the electronic, melodic house and techno, and putting on events around the world. ARTBAT&#39;s music has also transcended other realms, featuring in fashion campaigns with brands like Emporio Armani and Grand Seiko and on platforms like TikTok and Roblox. With their music being adored by millions of fans around the world, ARTBAT&#39;s meteoric rise from the underground to becoming sought-after electronic artists has left an indelible mark on the electronic music scene.",
+          "type": "AUTOBIOGRAPHY"
+        },
+        "externalLinks": {
+          "items": [
+            {
+              "name": "FACEBOOK",
+              "url": "https://facebook.com/artbatmusic"
+            },
+            {
+              "name": "INSTAGRAM",
+              "url": "https://instagram.com/artbatmusic"
+            },
+            {
+              "name": "TWITTER",
+              "url": "https://twitter.com/artbatmusic"
+            }
+          ]
+        },
+        "name": "ARTBAT",
+        "pinnedItem": {
+          "backgroundImageV2": {
+            "data": {
+              "__typename": "ImageV2",
+              "sources": [
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab676170000059104b3385ef22a79f898361aedf"
+                }
+              ]
+            }
+          },
+          "comment": "Afterparty OUT NOW",
+          "itemV2": {
+            "__typename": "AlbumResponseWrapper",
+            "data": {
+              "__typename": "Album",
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f08546e0279ff1df343fb430",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f08546e0279ff1df343fb430",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f08546e0279ff1df343fb430",
+                    "width": 640
+                  }
+                ]
+              },
+              "name": "Afterparty",
+              "type": "SINGLE",
+              "uri": "spotify:album:4paVM4hXl2Lq9EhngKRpWy"
+            }
+          },
+          "subtitle": "Single \u2022 New Release",
+          "thumbnailImage": {
+            "data": {
+              "sources": [
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000075a0f08546e0279ff1df343fb430"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000090d5f08546e0279ff1df343fb430"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000ab87f08546e0279ff1df343fb430"
+                }
+              ]
+            }
+          },
+          "title": "Afterparty",
+          "type": "ALBUM",
+          "uri": "spotify:album:4paVM4hXl2Lq9EhngKRpWy"
+        },
+        "playlistsV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Every track in the UPPERGROUND Catalogue, with tracks from ARTBAT,  David Guetta, Idris Elba, Vintage Culture, Another Life, Glowal, Shall Ocin, Massano, Ae:ther",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cff12da39d1f1fa09b6bce9b4",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "UPPERGROUND by ARTBAT",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "ARTBAT"
+                  }
+                },
+                "uri": "spotify:playlist:6qIqHXTHB4D14MGiOetEX6"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "A handpicked selection of favourite tracks &#x2F; remixes. Updated regularly by ARTBAT!  ",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84c8f7a49f90175c76936cd259",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "ARTBAT Playlist",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "ARTBAT"
+                  }
+                },
+                "uri": "spotify:playlist:0AwJSvPvyJsNL3jaqUtTv5"
+              }
+            }
+          ],
+          "totalCount": 2
+        },
+        "verified": true
+      },
+      "relatedContent": {
+        "appearsOn": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Argy"
+                          },
+                          "uri": "spotify:artist:1NaQOKgddaJipUtmptb7GI"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024b0cf5068f1af6be93fa0a60",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514b0cf5068f1af6be93fa0a60",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734b0cf5068f1af6be93fa0a60",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "34eqkiNdakhMaOmklFTpOv",
+                    "name": "New World",
+                    "sharingInfo": {
+                      "shareId": "3Q2VkhlvSuGL0-pn31tbZg",
+                      "shareUrl": "https://open.spotify.com/album/34eqkiNdakhMaOmklFTpOv?si=3Q2VkhlvSuGL0-pn31tbZg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:34eqkiNdakhMaOmklFTpOv"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Armin van Buuren"
+                          },
+                          "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0217a981d50d000a4c48f6807a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485117a981d50d000a4c48f6807a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27317a981d50d000a4c48f6807a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "0mvD9eqmYwZz0OZHJwOVjp",
+                    "name": "A State of Trance Year Mix 2024 (Mixed by Armin van Buuren)",
+                    "sharingInfo": {
+                      "shareId": "K-0w99OKSJ2xMNYGdxXmPA",
+                      "shareUrl": "https://open.spotify.com/album/0mvD9eqmYwZz0OZHJwOVjp?si=K-0w99OKSJ2xMNYGdxXmPA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:0mvD9eqmYwZz0OZHJwOVjp"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Armin van Buuren"
+                          },
+                          "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0277fd78ae39fb732b73258d07",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485177fd78ae39fb732b73258d07",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27377fd78ae39fb732b73258d07",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2025
+                    },
+                    "id": "4Op54RyLTo5ZmPelTwxAZZ",
+                    "name": "A State of Trance 2025 - TRANSFORMATION (The Official Album)",
+                    "sharingInfo": {
+                      "shareId": "_MP1j4jATR6xnNJGDpgLIA",
+                      "shareUrl": "https://open.spotify.com/album/4Op54RyLTo5ZmPelTwxAZZ?si=_MP1j4jATR6xnNJGDpgLIA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4Op54RyLTo5ZmPelTwxAZZ"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Armin van Buuren ASOT Radio"
+                          },
+                          "uri": "spotify:artist:25mFVpuABa9GkGcj9eOPce"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0290506d47ba2efee0cca1e6f1",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485190506d47ba2efee0cca1e6f1",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27390506d47ba2efee0cca1e6f1",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "7pOQsB2wBvULZyu59THukt",
+                    "name": "ASOT 1204 - A State of Trance Episode 1204 (Top 50 of 2024)",
+                    "sharingInfo": {
+                      "shareId": "FCSU379sRKqlicbQHZHnIA",
+                      "shareUrl": "https://open.spotify.com/album/7pOQsB2wBvULZyu59THukt?si=FCSU379sRKqlicbQHZHnIA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:7pOQsB2wBvULZyu59THukt"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02fcf5f85013aa9c7d6c348728",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851fcf5f85013aa9c7d6c348728",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273fcf5f85013aa9c7d6c348728",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "0l36hakh6eix8OnIF5osST",
+                    "name": "A State of Trance Year Mix 2024 (Selected by Armin van Buuren)",
+                    "sharingInfo": {
+                      "shareId": "4vfaAMZqS3WmZKh9Jb3tig",
+                      "shareUrl": "https://open.spotify.com/album/0l36hakh6eix8OnIF5osST?si=4vfaAMZqS3WmZKh9Jb3tig"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:0l36hakh6eix8OnIF5osST"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "The Chemical Brothers"
+                          },
+                          "uri": "spotify:artist:1GhPHrq36VKCY3ucVaZCfo"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025c4e85219dd562120b836a1d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515c4e85219dd562120b836a1d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735c4e85219dd562120b836a1d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "5iPUTw7ZqnL3X53FdUVWmz",
+                    "name": "Hey Boy Hey Girl (ARTBAT Remix)",
+                    "sharingInfo": {
+                      "shareId": "QMnn7RJSRiaTj949_eEARw",
+                      "shareUrl": "https://open.spotify.com/album/5iPUTw7ZqnL3X53FdUVWmz?si=QMnn7RJSRiaTj949_eEARw"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5iPUTw7ZqnL3X53FdUVWmz"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0254d100c9fc76f5916804378a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485154d100c9fc76f5916804378a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27354d100c9fc76f5916804378a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "38ezuNxMBVB0FsiF29Wo3P",
+                    "name": "Armada Music Year Mix 2024",
+                    "sharingInfo": {
+                      "shareId": "IOtKqY-MSYCZb9Hc-NATLQ",
+                      "shareUrl": "https://open.spotify.com/album/38ezuNxMBVB0FsiF29Wo3P?si=IOtKqY-MSYCZb9Hc-NATLQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:38ezuNxMBVB0FsiF29Wo3P"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Armin van Buuren"
+                          },
+                          "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e027ec30dbbaa962e1f6858be85",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048517ec30dbbaa962e1f6858be85",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2737ec30dbbaa962e1f6858be85",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "4DFeEGmEGdfnaUWwXBgjeY",
+                    "name": "A State of Trance 2024 (Mixed by Armin van Buuren)",
+                    "sharingInfo": {
+                      "shareId": "VL0eRgvETpqeBXkTur9U1w",
+                      "shareUrl": "https://open.spotify.com/album/4DFeEGmEGdfnaUWwXBgjeY?si=VL0eRgvETpqeBXkTur9U1w"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4DFeEGmEGdfnaUWwXBgjeY"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0223fef05df7019789cfbf9e3f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485123fef05df7019789cfbf9e3f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27323fef05df7019789cfbf9e3f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "3XCXszgpnwhnZa0TdyoIFX",
+                    "name": "Unity Pt. 2",
+                    "sharingInfo": {
+                      "shareId": "iP58aIh-QtaTg1H6dUIYUg",
+                      "shareUrl": "https://open.spotify.com/album/3XCXszgpnwhnZa0TdyoIFX?si=iP58aIh-QtaTg1H6dUIYUg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3XCXszgpnwhnZa0TdyoIFX"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "CamelPhat"
+                          },
+                          "uri": "spotify:artist:240wlM8vDrf6S4zCyzGj2W"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e3866855759dc9d16091b315",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e3866855759dc9d16091b315",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e3866855759dc9d16091b315",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "1USrnunDsroJ3keCEZJpxr",
+                    "name": "Dark Matter",
+                    "sharingInfo": {
+                      "shareId": "FeocjTCnR42IOLkby1_o1Q",
+                      "shareUrl": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr?si=FeocjTCnR42IOLkby1_o1Q"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:1USrnunDsroJ3keCEZJpxr"
+                  },
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "CamelPhat"
+                          },
+                          "uri": "spotify:artist:240wlM8vDrf6S4zCyzGj2W"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02646a2642929bbbd1f17f2c23",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851646a2642929bbbd1f17f2c23",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273646a2642929bbbd1f17f2c23",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "6MMe5dAtwWrV0ldIPdctgN",
+                    "name": "Dark Matter",
+                    "sharingInfo": {
+                      "shareId": "V9vkjOoXSDWPMfkatnVFQw",
+                      "shareUrl": "https://open.spotify.com/album/6MMe5dAtwWrV0ldIPdctgN?si=V9vkjOoXSDWPMfkatnVFQw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6MMe5dAtwWrV0ldIPdctgN"
+                  }
+                ],
+                "totalCount": 2
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Armin van Buuren"
+                          },
+                          "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02af083a2039e74e6f26f7c8d1",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851af083a2039e74e6f26f7c8d1",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273af083a2039e74e6f26f7c8d1",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "1dHg0xAaK2he85otDUNaDV",
+                    "name": "Live at Tomorrowland Brasil 2024 (Highlights)",
+                    "sharingInfo": {
+                      "shareId": "7kvYALPGQxeWSvJZRNImrA",
+                      "shareUrl": "https://open.spotify.com/album/1dHg0xAaK2he85otDUNaDV?si=7kvYALPGQxeWSvJZRNImrA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:1dHg0xAaK2he85otDUNaDV"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b13e1e16de57c8ce77503026",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b13e1e16de57c8ce77503026",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b13e1e16de57c8ce77503026",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "4qEEAMFCLBAZ0zAtAgrm3v",
+                    "name": "Realm Of Consciousness Pt. IV",
+                    "sharingInfo": {
+                      "shareId": "3HjMybrZSKmECacSRpEVBw",
+                      "shareUrl": "https://open.spotify.com/album/4qEEAMFCLBAZ0zAtAgrm3v?si=3HjMybrZSKmECacSRpEVBw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:4qEEAMFCLBAZ0zAtAgrm3v"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e022073b8dedb8473fcc10abb30",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048512073b8dedb8473fcc10abb30",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2732073b8dedb8473fcc10abb30",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "6Wbhar2tzSeb6a4WPeGUO3",
+                    "name": "Angesagte Top Hits - 2024",
+                    "sharingInfo": {
+                      "shareId": "NXH3lLTOT-aua1KzqVRNhA",
+                      "shareUrl": "https://open.spotify.com/album/6Wbhar2tzSeb6a4WPeGUO3?si=NXH3lLTOT-aua1KzqVRNhA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:6Wbhar2tzSeb6a4WPeGUO3"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Insomniac Records"
+                          },
+                          "uri": "spotify:artist:51xR0dvqUomzb5eY6dvT4M"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d94c793306d5f39e2e82c1b9",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d94c793306d5f39e2e82c1b9",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d94c793306d5f39e2e82c1b9",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "6YYCeo97KpTlZXMwAtFH6t",
+                    "name": "Best of Insomniac Records: 2024",
+                    "sharingInfo": {
+                      "shareId": "DxHtBeuxQhmx8IDXrE0-sw",
+                      "shareUrl": "https://open.spotify.com/album/6YYCeo97KpTlZXMwAtFH6t?si=DxHtBeuxQhmx8IDXrE0-sw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:6YYCeo97KpTlZXMwAtFH6t"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Armin van Buuren"
+                          },
+                          "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02714d391c320bd23291b87a06",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851714d391c320bd23291b87a06",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273714d391c320bd23291b87a06",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "4QoEFEhgIw8DIBuHL2UQtt",
+                    "name": "Live at EDC Las Vegas 2024 (Highlights)",
+                    "sharingInfo": {
+                      "shareId": "gTrOFGIhR4GzIp-Cbi9Vnw",
+                      "shareUrl": "https://open.spotify.com/album/4QoEFEhgIw8DIBuHL2UQtt?si=gTrOFGIhR4GzIp-Cbi9Vnw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4QoEFEhgIw8DIBuHL2UQtt"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e4a0ed62d917fe434222e0a4",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e4a0ed62d917fe434222e0a4",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e4a0ed62d917fe434222e0a4",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "7zlknS1oRVEWyisXoIYKpf",
+                    "name": "EDM Gaming 2025",
+                    "sharingInfo": {
+                      "shareId": "QpRppIg8TfuBi2QtjhHglQ",
+                      "shareUrl": "https://open.spotify.com/album/7zlknS1oRVEWyisXoIYKpf?si=QpRppIg8TfuBi2QtjhHglQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:7zlknS1oRVEWyisXoIYKpf"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Armin van Buuren"
+                          },
+                          "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025794c9492297ece30ecbd43c",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515794c9492297ece30ecbd43c",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735794c9492297ece30ecbd43c",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "5y9UMEZY5e47d66v1GDTm9",
+                    "name": "Live at Ultra Music Festival Miami 2024 (Mainstage) [Highlights]",
+                    "sharingInfo": {
+                      "shareId": "kei8ODTjRBaMrcMm0-DuzA",
+                      "shareUrl": "https://open.spotify.com/album/5y9UMEZY5e47d66v1GDTm9?si=kei8ODTjRBaMrcMm0-DuzA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:5y9UMEZY5e47d66v1GDTm9"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Pete Tong"
+                          },
+                          "uri": "spotify:artist:6n1t55WMsSIUFHrAL4mUsB"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0226bd2deeefc442fdc807f16b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485126bd2deeefc442fdc807f16b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27326bd2deeefc442fdc807f16b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "6t9MecARSZoPZScE7kk3sP",
+                    "name": "Pete Tong + Friends: Ibiza Classics",
+                    "sharingInfo": {
+                      "shareId": "G3vqmQM2R2iYlab2Wyw8kg",
+                      "shareUrl": "https://open.spotify.com/album/6t9MecARSZoPZScE7kk3sP?si=G3vqmQM2R2iYlab2Wyw8kg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6t9MecARSZoPZScE7kk3sP"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Insomniac Music Group"
+                          },
+                          "uri": "spotify:artist:5OikDRVEPtkPGRlhpwynSo"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021912116c5e788b11d2a51e12",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511912116c5e788b11d2a51e12",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731912116c5e788b11d2a51e12",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "1e9Qd1uG31pRnMpfwuKwXZ",
+                    "name": "EDC Orlando 2024",
+                    "sharingInfo": {
+                      "shareId": "b_tgiH96S1eTtGQCYJqwyw",
+                      "shareUrl": "https://open.spotify.com/album/1e9Qd1uG31pRnMpfwuKwXZ?si=b_tgiH96S1eTtGQCYJqwyw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:1e9Qd1uG31pRnMpfwuKwXZ"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0200b3e8aac19bc18af1fb8154",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485100b3e8aac19bc18af1fb8154",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27300b3e8aac19bc18af1fb8154",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "0tewTslfzpy7HJqqFrJxlP",
+                    "name": "Global Underground: Adapt #2 (Mixed)",
+                    "sharingInfo": {
+                      "shareId": "ZyN6gsn2QFOCwww1NNYegg",
+                      "shareUrl": "https://open.spotify.com/album/0tewTslfzpy7HJqqFrJxlP?si=ZyN6gsn2QFOCwww1NNYegg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:0tewTslfzpy7HJqqFrJxlP"
+                  }
+                ],
+                "totalCount": 1
+              }
+            }
+          ],
+          "totalCount": 118
+        },
+        "discoveredOnV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is ARTBAT. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO25Uhe8",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO25Uhe8-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is ARTBAT",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO25Uhe8"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Vintage Culture. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO1dfouA",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO1dfouA-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Vintage Culture",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO1dfouA"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "A handpicked selection of favourite tracks &#x2F; remixes. Updated regularly by ARTBAT!  ",
+                "id": "0AwJSvPvyJsNL3jaqUtTv5",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84c8f7a49f90175c76936cd259",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "ARTBAT Playlist",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "ARTBAT"
+                  }
+                },
+                "uri": "spotify:playlist:0AwJSvPvyJsNL3jaqUtTv5"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "A hypnotic journey through Melodic Techno. Photographer: Kevin Mazur via Getty Images",
+                "id": "37i9dQZF1DX9gPDOAK0Yqv",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000025c820da003375796b71df840",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Melodic Techno Elements",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX9gPDOAK0Yqv"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
+                "id": "37i9dQZF1DX6GJXiuZRisr",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002c10f679b1fe5266e9c7eaa8f",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Night Rider",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX6GJXiuZRisr"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Number #1 Best Melodic Techno Playlist on Spotify! \ud83d\udd25 Don't forget to follow the playlist. Enjoy! \ud83d\udc9c\ud83c\udf89 | <a href=\"spotify:playlist:7xvprkqL69ax4Ui9pgFfAM\">New Playlist \ud83d\udc8e</a>",
+                "id": "0aUHXLjLoyw0cfDTayFVg9",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84b95412c05b5bc8fa98f46fac",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "MELODIC TECHNO 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "widerberg"
+                  }
+                },
+                "uri": "spotify:playlist:0aUHXLjLoyw0cfDTayFVg9"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Pumping tracks for pumping iron!",
+                "id": "37i9dQZF1DXdxcBWuJkbcy",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002636a699fcada8d04339c7803",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Gym Hits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXdxcBWuJkbcy"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The biggest hits from the world of dance music! Cover: Steve Angello",
+                "id": "37i9dQZF1DX7SEhw42DW5b",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002ce5450b27cf63f5e1da92cb1",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Club Hits 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX7SEhw42DW5b"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is our playground! \ud83e\udea9\u200a Cover: Keinemusik",
+                "id": "37i9dQZF1DWVCHIm2MEeIy",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002870dcc839d8321d006a01d17",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Electronic Circus",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWVCHIm2MEeIy"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "S\u00f3 Track Boa Fan List - f\u00e3s do Vintage Culture e SoTrackBoa - eletr\u00f4nicas 2023 mais tocadas - Warung - Laroc - Green Valley - House Music - Tech House - Academia Eletr\u00f4nico - M\u00fasica Eletr\u00f4nica 2024 - KVSH Gabe Chemical Surf - Navio S\u00f3 Track Boa - Hi Ibiza 2023 Vintage Tomorrowland Brasil",
+                "id": "1gp8CERx65hpt4td2dYF8V",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84def267abcae0113a0ad1ebb5",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "S\u00d3 TRACK BOA 2025 - VINTAGE CULTURE ALOK MOCHAKK DUBDOGZ ILLUSIONIZE DEEP HOUSE ELETRONICAS IBIZA",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "SO PLAYLIST BOA"
+                  }
+                },
+                "uri": "spotify:playlist:1gp8CERx65hpt4td2dYF8V"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Tap it back or go for a spin with these uptempo tracks!",
+                "id": "37i9dQZF1DX32NsLKyzScr",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002ecbc3f66c5912d783dee45b7",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Power Hour",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX32NsLKyzScr"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The best car music of 2025! \ud83d\ude97\ud83d\udd25 Updated weekly and perfect for driving. Featuring the best Car Music, EDM, Techno, Slap House, Brazilian Bass, Deep House and more! Enjoy tracks from David Guetta, Tiesto, Meduza, Robin Schulz, Alok, Calvin Harris, Topic and more. \ud83d\udd25 Auto Musik f\u00fcr den Sommer",
+                "id": "1QNIPdWMxKHBYED5ZXfNVU",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f1e4a074be4d21a2d2d20bea",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Car Music",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Future House Cloud"
+                  }
+                },
+                "uri": "spotify:playlist:1QNIPdWMxKHBYED5ZXfNVU"
+              }
+            }
+          ],
+          "totalCount": 100
+        },
+        "featuringV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is ARTBAT. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO25Uhe8",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO25Uhe8-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is ARTBAT",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO25Uhe8"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "With Argy, Anyma, Cassian and more",
+                "id": "37i9dQZF1E4oxG4dVrGVu6",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/3BkRu2TGd2I1uBxZKddfg1/en",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "ARTBAT Radio",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1E4oxG4dVrGVu6"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Ride the bassline. Cover: HNTR",
+                "id": "37i9dQZF1DWZCdOD1jAvLL",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002f1a0774f70194eed7dad5a35",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Bangers",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWZCdOD1jAvLL"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Pumping tracks for pumping iron!",
+                "id": "37i9dQZF1DXdxcBWuJkbcy",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002636a699fcada8d04339c7803",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Gym Hits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXdxcBWuJkbcy"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
+                "id": "37i9dQZF1DX6GJXiuZRisr",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002c10f679b1fe5266e9c7eaa8f",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Night Rider",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX6GJXiuZRisr"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "House music lives here. United under one roof, featuring Westend.",
+                "id": "37i9dQZF1DXa8NOEUWPn9W",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000027453f9ecfb3a16da65cd7ba6",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Housewerk",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXa8NOEUWPn9W"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Tap it back or go for a spin with these uptempo tracks!",
+                "id": "37i9dQZF1DX32NsLKyzScr",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002ecbc3f66c5912d783dee45b7",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Power Hour",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX32NsLKyzScr"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Jackie Hollander",
+                "id": "37i9dQZF1DXa41CMuUARjl",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002d7eb1eb5d3261f6adc2eb62b",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "All New Dance",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXa41CMuUARjl"
+              }
+            }
+          ],
+          "totalCount": 8
+        },
+        "relatedArtists": {
+          "items": [
+            {
+              "id": "6htWLP8aiuf19FYMA4VQAZ",
+              "profile": {
+                "name": "Massano"
+              },
+              "uri": "spotify:artist:6htWLP8aiuf19FYMA4VQAZ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb4c500573f0fceb7a0ac018ac",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1784c500573f0fceb7a0ac018ac",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051744c500573f0fceb7a0ac018ac",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "113reBz1jA6rVxbXl55mlj",
+              "profile": {
+                "name": "Reb\u016bke"
+              },
+              "uri": "spotify:artist:113reBz1jA6rVxbXl55mlj",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb746a3cb382c1127949139842",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178746a3cb382c1127949139842",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174746a3cb382c1127949139842",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "29TpNOsTNYbLb6Xa10H0PR",
+              "profile": {
+                "name": "Miss Monique"
+              },
+              "uri": "spotify:artist:29TpNOsTNYbLb6Xa10H0PR",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebb8028862eeb5ccaf303d71ce",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178b8028862eeb5ccaf303d71ce",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174b8028862eeb5ccaf303d71ce",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "11aPF3sc8lDWNqPVInm4Zx",
+              "profile": {
+                "name": "Kevin de Vries"
+              },
+              "uri": "spotify:artist:11aPF3sc8lDWNqPVInm4Zx",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebfca0470ef4050a23e8be83a2",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178fca0470ef4050a23e8be83a2",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174fca0470ef4050a23e8be83a2",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1ChtRJ3f4rbv4vtz87i6CD",
+              "profile": {
+                "name": "Cassian"
+              },
+              "uri": "spotify:artist:1ChtRJ3f4rbv4vtz87i6CD",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb7a962fd922a918f6fbddc2d2",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1787a962fd922a918f6fbddc2d2",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051747a962fd922a918f6fbddc2d2",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1NaQOKgddaJipUtmptb7GI",
+              "profile": {
+                "name": "Argy"
+              },
+              "uri": "spotify:artist:1NaQOKgddaJipUtmptb7GI",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb6af308cbf977d9d0d4c4d820",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1786af308cbf977d9d0d4c4d820",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051746af308cbf977d9d0d4c4d820",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "39RaU9BN81x3KBo299bwXs",
+              "profile": {
+                "name": "Fideles"
+              },
+              "uri": "spotify:artist:39RaU9BN81x3KBo299bwXs",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb5edd06b18d4ae97ebd7772d9",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1785edd06b18d4ae97ebd7772d9",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051745edd06b18d4ae97ebd7772d9",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4iBwchw0U0GZv5RfVYSMxN",
+              "profile": {
+                "name": "Anyma"
+              },
+              "uri": "spotify:artist:4iBwchw0U0GZv5RfVYSMxN",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebb9cc4c45b63d294bce8eefa1",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178b9cc4c45b63d294bce8eefa1",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174b9cc4c45b63d294bce8eefa1",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6Jbyd4qzEtbFtswZP1o6Ht",
+              "profile": {
+                "name": "Agents Of Time"
+              },
+              "uri": "spotify:artist:6Jbyd4qzEtbFtswZP1o6Ht",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebb4864fc2248e7e07a7fab91d",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178b4864fc2248e7e07a7fab91d",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174b4864fc2248e7e07a7fab91d",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "02DWGcShQivFepRvGJ7xhB",
+              "profile": {
+                "name": "Adriatique"
+              },
+              "uri": "spotify:artist:02DWGcShQivFepRvGJ7xhB",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebf79457bd44fc38d78dca1e97",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178f79457bd44fc38d78dca1e97",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174f79457bd44fc38d78dca1e97",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0I6oCyQQ1Q50q97y9B9gAx",
+              "profile": {
+                "name": "Korolova"
+              },
+              "uri": "spotify:artist:0I6oCyQQ1Q50q97y9B9gAx",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb4e634e33e3bab933592621bd",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1784e634e33e3bab933592621bd",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051744e634e33e3bab933592621bd",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7mC3RkNNTV6p2j9w4F8Ip4",
+              "profile": {
+                "name": "Layton Giordani"
+              },
+              "uri": "spotify:artist:7mC3RkNNTV6p2j9w4F8Ip4",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb6c6952edf91019d3d9ce777e",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1786c6952edf91019d3d9ce777e",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051746c6952edf91019d3d9ce777e",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6QSwQEz8CDMg8Rqk8dEkxS",
+              "profile": {
+                "name": "Mathame"
+              },
+              "uri": "spotify:artist:6QSwQEz8CDMg8Rqk8dEkxS",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb917634fb95dc346cf73f5185",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178917634fb95dc346cf73f5185",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174917634fb95dc346cf73f5185",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0ToTNYPspLv4FWbcpXgOUt",
+              "profile": {
+                "name": "Be No Rain"
+              },
+              "uri": "spotify:artist:0ToTNYPspLv4FWbcpXgOUt",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebe49ab0bf47f6ffa8bccdeed6",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178e49ab0bf47f6ffa8bccdeed6",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174e49ab0bf47f6ffa8bccdeed6",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6D36JCiONtO40ykvT5RBec",
+              "profile": {
+                "name": "Goom Gum"
+              },
+              "uri": "spotify:artist:6D36JCiONtO40ykvT5RBec",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebf054aa089341bddeef56b05a",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178f054aa089341bddeef56b05a",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174f054aa089341bddeef56b05a",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7mGCESDlw5ChfZQTQ3eUIS",
+              "profile": {
+                "name": "braev"
+              },
+              "uri": "spotify:artist:7mGCESDlw5ChfZQTQ3eUIS",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebbef054ec0408254c7ca66362",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178bef054ec0408254c7ca66362",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174bef054ec0408254c7ca66362",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4xG5i2Smlt6o5QxuGp9LqM",
+              "profile": {
+                "name": "Son of Son"
+              },
+              "uri": "spotify:artist:4xG5i2Smlt6o5QxuGp9LqM",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebf11439ce3c85076a8ef24e32",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178f11439ce3c85076a8ef24e32",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174f11439ce3c85076a8ef24e32",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "71rqI5HtraA3qXBwatyG6e",
+              "profile": {
+                "name": "Innellea"
+              },
+              "uri": "spotify:artist:71rqI5HtraA3qXBwatyG6e",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb8a39629b47ba387c210e8e8c",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1788a39629b47ba387c210e8e8c",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051748a39629b47ba387c210e8e8c",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7A4TdwdnxfR9auD1yAmpWD",
+              "profile": {
+                "name": "Delhia De France"
+              },
+              "uri": "spotify:artist:7A4TdwdnxfR9auD1yAmpWD",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb9a6736c0082b8fbaff5e5bef",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1789a6736c0082b8fbaff5e5bef",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051749a6736c0082b8fbaff5e5bef",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "715OI7hiv58daVlEDXM47U",
+              "profile": {
+                "name": "Chris Avantgarde"
+              },
+              "uri": "spotify:artist:715OI7hiv58daVlEDXM47U",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebf94ebd8a3ec3e68ae25eb746",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178f94ebd8a3ec3e68ae25eb746",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174f94ebd8a3ec3e68ae25eb746",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "totalCount": 40
+        }
+      },
+      "relatedVideos": {
+        "__typename": "RelatedVideoPage",
+        "items": [],
+        "totalCount": 0
+      },
+      "saved": false,
+      "sharingInfo": {
+        "shareId": "YQllJqb1QYeHISa6njoG1w",
+        "shareUrl": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1?si=YQllJqb1QYeHISa6njoG1w"
+      },
+      "stats": {
+        "followers": 473024,
+        "monthlyListeners": 3967858,
+        "topCities": {
+          "items": [
+            {
+              "city": "S\u00e3o Paulo",
+              "country": "BR",
+              "numberOfListeners": 83004,
+              "region": "SP"
+            },
+            {
+              "city": "Mexico City",
+              "country": "MX",
+              "numberOfListeners": 76005,
+              "region": "CMX"
+            },
+            {
+              "city": "Buenos Aires",
+              "country": "AR",
+              "numberOfListeners": 56907,
+              "region": "C"
+            },
+            {
+              "city": "Istanbul",
+              "country": "TR",
+              "numberOfListeners": 51102,
+              "region": "34"
+            },
+            {
+              "city": "Amsterdam",
+              "country": "NL",
+              "numberOfListeners": 46169,
+              "region": "NH"
+            }
+          ]
+        },
+        "worldRank": 0
+      },
+      "uri": "spotify:artist:3BkRu2TGd2I1uBxZKddfg1",
+      "visualIdentity": {
+        "wideFullBleedImage": {
+          "__typename": "VisualIdentityImage",
+          "extractedColorSet": {
+            "encoreBaseSetTextColor": {
+              "alpha": 255,
+              "blue": 209,
+              "green": 192,
+              "red": 158
+            },
+            "highContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 102,
+                "green": 87,
+                "red": 56
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 68,
+                "green": 54,
+                "red": 24
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 228,
+                "green": 211,
+                "red": 176
+              }
+            },
+            "higherContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 70,
+                "green": 56,
+                "red": 26
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 105,
+                "green": 90,
+                "red": 59
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 96,
+                "green": 215,
+                "red": 30
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 228,
+                "green": 211,
+                "red": 176
+              }
+            },
+            "minContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 144,
+                "green": 128,
+                "red": 96
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 116,
+                "green": 101,
+                "red": 70
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              }
+            }
+          }
+        }
+      },
+      "visuals": {
+        "avatarImage": {
+          "extractedColors": {
+            "colorRaw": {
+              "hex": "#486888"
+            }
+          },
+          "sources": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb111dd7f3a44a7c5b9c1aeb06",
+              "width": 640
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178111dd7f3a44a7c5b9c1aeb06",
+              "width": 160
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174111dd7f3a44a7c5b9c1aeb06",
+              "width": 320
+            }
+          ]
+        },
+        "gallery": {
+          "items": [
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4194081ac43f0f46da0e4e9b5",
+                  "width": 640
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "watchFeedEntrypoint": null
+    }
+  },
+  "extensions": {}
+}

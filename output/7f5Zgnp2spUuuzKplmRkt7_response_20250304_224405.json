@@ -1,0 +1,5092 @@
+{
+  "data": {
+    "artistUnion": {
+      "__typename": "Artist",
+      "discography": {
+        "albums": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2024 Lost & Cie Music SPRL exclusively licensed to Epic Amsterdam, with courtesy of Sony Music Entertainment Belgium NV/SA",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a3f02446d8c8654b765c4e7a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a3f02446d8c8654b765c4e7a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a3f02446d8c8654b765c4e7a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 22,
+                      "month": 3,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "7cBrKCUJFq7KgTLy4CJ6ST",
+                    "label": "Epic Amsterdam",
+                    "name": "All Stand Together (Deluxe)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "_SJMRKQ_SlmO8iEAi9M1CQ",
+                      "shareUrl": "https://open.spotify.com/album/7cBrKCUJFq7KgTLy4CJ6ST?si=_SJMRKQ_SlmO8iEAi9M1CQ"
+                    },
+                    "tracks": {
+                      "totalCount": 12
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:7cBrKCUJFq7KgTLy4CJ6ST"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2023 Lost & Cie Music SPRL exclusively licensed to Epic Amsterdam, with courtesy of Sony Music Entertainment Belgium NV/SA",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02580da30167c82db5fcc5f798",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851580da30167c82db5fcc5f798",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273580da30167c82db5fcc5f798",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 10,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2023
+                    },
+                    "id": "6Kk0U3JRoniLtiSjypjEVL",
+                    "label": "Epic Amsterdam",
+                    "name": "All Stand Together",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "krAEKGTDQIKnnDvDbhA0Ig",
+                      "shareUrl": "https://open.spotify.com/album/6Kk0U3JRoniLtiSjypjEVL?si=krAEKGTDQIKnnDvDbhA0Ig"
+                    },
+                    "tracks": {
+                      "totalCount": 12
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6Kk0U3JRoniLtiSjypjEVL"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2020 Found Frequencies / Armada Music B.V. This recording under exclusive license to Sony Music Entertainment Canada Inc.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025f0b728c9dd6c3e191575a7b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515f0b728c9dd6c3e191575a7b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735f0b728c9dd6c3e191575a7b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 25,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2020
+                    },
+                    "id": "7EACgx1UrqH8dSLHmQWH5r",
+                    "label": "Armada",
+                    "name": "Cup of Beats (Deluxe)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "pwH7LjEzTlKG9PkXGDfVqA",
+                      "shareUrl": "https://open.spotify.com/album/7EACgx1UrqH8dSLHmQWH5r?si=pwH7LjEzTlKG9PkXGDfVqA"
+                    },
+                    "tracks": {
+                      "totalCount": 10
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:7EACgx1UrqH8dSLHmQWH5r"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2020 Found Frequencies / Armada Music B.V. This recording under exclusive license to Sony Music Entertainment Canada Inc.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0280d9fe2bbbbe2441472ddd2a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485180d9fe2bbbbe2441472ddd2a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27380d9fe2bbbbe2441472ddd2a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 27,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2020
+                    },
+                    "id": "6H8RZh8T03SQYrTE7ClxKi",
+                    "label": "Armada",
+                    "name": "Cup of Beats",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "Dq42X6N0R8mTk51n3tmK3w",
+                      "shareUrl": "https://open.spotify.com/album/6H8RZh8T03SQYrTE7ClxKi?si=Dq42X6N0R8mTk51n3tmK3w"
+                    },
+                    "tracks": {
+                      "totalCount": 12
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6H8RZh8T03SQYrTE7ClxKi"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2019 Found Frequencies / Armada Music B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2019 Found Frequencies / Armada Music B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02127e13a21108faeaecb19167",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851127e13a21108faeaecb19167",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273127e13a21108faeaecb19167",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 4,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2019
+                    },
+                    "id": "6NQRmMazNOKi0IiIXlNzGh",
+                    "label": "Found Frequencies",
+                    "name": "Alive And Feeling Fine",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "WNTfyhr9SeOxKrw4PriSuQ",
+                      "shareUrl": "https://open.spotify.com/album/6NQRmMazNOKi0IiIXlNzGh?si=WNTfyhr9SeOxKrw4PriSuQ"
+                    },
+                    "tracks": {
+                      "totalCount": 23
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6NQRmMazNOKi0IiIXlNzGh"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2017 Lost & Cie under exclusive license to Armada Music B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2017 Lost & Cie under exclusive license to Armada Music B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e028197ddae1e13a24d20fae984",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048518197ddae1e13a24d20fae984",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2738197ddae1e13a24d20fae984",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 14,
+                      "month": 7,
+                      "precision": "DAY",
+                      "year": 2017
+                    },
+                    "id": "5rcvGoipXnS92rUar71LSR",
+                    "label": "Armada Music Albums",
+                    "name": "Less Is More (Deluxe) [Extended Versions]",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "30YlzTLkTcSEjaBRr0mHuw",
+                      "shareUrl": "https://open.spotify.com/album/5rcvGoipXnS92rUar71LSR?si=30YlzTLkTcSEjaBRr0mHuw"
+                    },
+                    "tracks": {
+                      "totalCount": 17
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:5rcvGoipXnS92rUar71LSR"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2017 Lost & Cie under exclusive license to Armada Music B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2017 Lost & Cie under exclusive license to Armada Music B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02784c07f778f0b19dbbd6f9a2",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851784c07f778f0b19dbbd6f9a2",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273784c07f778f0b19dbbd6f9a2",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 14,
+                      "month": 7,
+                      "precision": "DAY",
+                      "year": 2017
+                    },
+                    "id": "3QIsiu0QHR6vRPlGcnlJMN",
+                    "label": "Armada Music Albums",
+                    "name": "Less Is More (Deluxe)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "4jwKPQOwSXOcJh52lS3cKw",
+                      "shareUrl": "https://open.spotify.com/album/3QIsiu0QHR6vRPlGcnlJMN?si=4jwKPQOwSXOcJh52lS3cKw"
+                    },
+                    "tracks": {
+                      "totalCount": 17
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3QIsiu0QHR6vRPlGcnlJMN"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2016 Lost & Cie under exclusive license to Armada Music B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2016 Lost & Cie under exclusive license to Armada Music B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c01ab1c4b2dceb2cfc89e6fa",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c01ab1c4b2dceb2cfc89e6fa",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c01ab1c4b2dceb2cfc89e6fa",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 21,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2016
+                    },
+                    "id": "5ofMsLtz8HogkhrlTQ1UaG",
+                    "label": "Armada Music Albums",
+                    "name": "Less Is More",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "7cZE6IndRjagUNt0IHiuLw",
+                      "shareUrl": "https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG?si=7cZE6IndRjagUNt0IHiuLw"
+                    },
+                    "tracks": {
+                      "totalCount": 16
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:5ofMsLtz8HogkhrlTQ1UaG"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 8
+        },
+        "compilations": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2020 Found Frequencies / Armada Music B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2020 Found Frequencies / Armada Music B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0254cd76a5c03bc53872beacc1",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485154cd76a5c03bc53872beacc1",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27354cd76a5c03bc53872beacc1",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 26,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 2020
+                    },
+                    "id": "0ihgVgfSn986xyTyy1mhMa",
+                    "label": "Found Frequencies",
+                    "name": "Found Frequencies Compilation 2 (Mixed by Lost Frequencies)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "ShMr_vH6RyKlHv-OqxbR-w",
+                      "shareUrl": "https://open.spotify.com/album/0ihgVgfSn986xyTyy1mhMa?si=ShMr_vH6RyKlHv-OqxbR-w"
+                    },
+                    "tracks": {
+                      "totalCount": 10
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:0ihgVgfSn986xyTyy1mhMa"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2019 Found Frequencies / Armada Music B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2019 Found Frequencies / Armada Music B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024681785a790251e147123c4d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514681785a790251e147123c4d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734681785a790251e147123c4d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 3,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2019
+                    },
+                    "id": "6aez99NU2krFwRvZmtRe9u",
+                    "label": "Found Frequencies",
+                    "name": "Found Frequencies Compilation (Mixed by Lost Frequencies)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "7YW_Zn1RTl-gyehEdA5v5g",
+                      "shareUrl": "https://open.spotify.com/album/6aez99NU2krFwRvZmtRe9u?si=7YW_Zn1RTl-gyehEdA5v5g"
+                    },
+                    "tracks": {
+                      "totalCount": 14
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:6aez99NU2krFwRvZmtRe9u"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2017 Armada Music B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2017 Armada Music B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02aeec8550f31e49eeca88f60e",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851aeec8550f31e49eeca88f60e",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273aeec8550f31e49eeca88f60e",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 15,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2017
+                    },
+                    "id": "3qP94O76ccTVBU8zLCkrJu",
+                    "label": "ARVA",
+                    "name": "Armada Invites (In The Mix): Lost Frequencies",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "5QSlWdxLTsm7o6SDhMnfRw",
+                      "shareUrl": "https://open.spotify.com/album/3qP94O76ccTVBU8zLCkrJu?si=5QSlWdxLTsm7o6SDhMnfRw"
+                    },
+                    "tracks": {
+                      "totalCount": 13
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3qP94O76ccTVBU8zLCkrJu"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 3
+        },
+        "latest": {
+          "copyright": {
+            "items": [
+              {
+                "text": "(P) 2025, Lost & Cie Music SRL, exclusively licensed to Epic Amsterdam, a division of Sony Music Entertainment Netherlands B.V.",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b6db73327b1ec83e25751a92",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b6db73327b1ec83e25751a92",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b6db73327b1ec83e25751a92",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 14,
+            "month": 2,
+            "precision": "DAY",
+            "year": 2025
+          },
+          "id": "5pZOfLCspR6Qj2phX61Onn",
+          "label": "Epic Amsterdam",
+          "name": "Love Is The Only Thing (Deluxe Edit)",
+          "playability": {
+            "playable": true,
+            "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+            "shareId": "jUAVc12XTBWLrXTqs6zmnQ",
+            "shareUrl": "https://open.spotify.com/album/5pZOfLCspR6Qj2phX61Onn?si=jUAVc12XTBWLrXTqs6zmnQ"
+          },
+          "tracks": {
+            "totalCount": 2
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:5pZOfLCspR6Qj2phX61Onn"
+        },
+        "popularReleasesAlbums": {
+          "items": [
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2016 Lost & Cie under exclusive license to Armada Music B.V.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2016 Lost & Cie under exclusive license to Armada Music B.V.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c01ab1c4b2dceb2cfc89e6fa",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c01ab1c4b2dceb2cfc89e6fa",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c01ab1c4b2dceb2cfc89e6fa",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 21,
+                "month": 10,
+                "precision": "DAY",
+                "year": 2016
+              },
+              "id": "5ofMsLtz8HogkhrlTQ1UaG",
+              "label": "Armada Music Albums",
+              "name": "Less Is More",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "7cZE6IndRjagUNt0IHiuLw",
+                "shareUrl": "https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG?si=7cZE6IndRjagUNt0IHiuLw"
+              },
+              "tracks": {
+                "totalCount": 16
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:5ofMsLtz8HogkhrlTQ1UaG"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2024 UROK",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2024 UROK / Lost & Cie Music SPRL, with courtesy of Epic Amsterdam / Sony Music Entertainment Belgium NV",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a0fab1c9bdfc54357ddb89a6",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a0fab1c9bdfc54357ddb89a6",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a0fab1c9bdfc54357ddb89a6",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 19,
+                "month": 7,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "4CAe3r1nsTTAjGcWqGZbAr",
+              "label": "UROK",
+              "name": "Black Friday (pretty like the sun)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "bQDFyWf9R_SGx9pIZzXfDA",
+                "shareUrl": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr?si=bQDFyWf9R_SGx9pIZzXfDA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:4CAe3r1nsTTAjGcWqGZbAr"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2023 Lost & Cie Music SPRL exclusively licensed to Epic Amsterdam, with courtesy of Sony Music Entertainment Belgium NV/SA",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02580da30167c82db5fcc5f798",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851580da30167c82db5fcc5f798",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273580da30167c82db5fcc5f798",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 10,
+                "month": 11,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "6Kk0U3JRoniLtiSjypjEVL",
+              "label": "Epic Amsterdam",
+              "name": "All Stand Together",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "krAEKGTDQIKnnDvDbhA0Ig",
+                "shareUrl": "https://open.spotify.com/album/6Kk0U3JRoniLtiSjypjEVL?si=krAEKGTDQIKnnDvDbhA0Ig"
+              },
+              "tracks": {
+                "totalCount": 12
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:6Kk0U3JRoniLtiSjypjEVL"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2021 Lost & Cie Music SPRL exclusively licensed to Epic Amsterdam, with courtesy of Sony Music Entertainment Belgium NV/SA",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028d7a7f1855b04104ba59c18b",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518d7a7f1855b04104ba59c18b",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738d7a7f1855b04104ba59c18b",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 30,
+                "month": 7,
+                "precision": "DAY",
+                "year": 2021
+              },
+              "id": "5YrOK7zze6egKg9a8WRcnD",
+              "label": "Epic Amsterdam",
+              "name": "Where Are You Now",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "ea4FnCCfRPqUuLp2Lh1QtA",
+                "shareUrl": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD?si=ea4FnCCfRPqUuLp2Lh1QtA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:5YrOK7zze6egKg9a8WRcnD"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2024, Lost & Cie Music SRL, exclusively licensed to Epic Amsterdam, a division of Sony Music Entertainment Netherlands B.V.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0288df479dc8309669758abf55",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485188df479dc8309669758abf55",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27388df479dc8309669758abf55",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 8,
+                "month": 11,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "15jDxA16MFYS22jkKrzT59",
+              "label": "Epic Amsterdam",
+              "name": "Love Is The Only Thing",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "mZB1yTJKRMiTW4mrx_W8LA",
+                "shareUrl": "https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59?si=mZB1yTJKRMiTW4mrx_W8LA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:15jDxA16MFYS22jkKrzT59"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2024 Epic Amsterdam, with courtesy of Sony Music Entertainment (Finland) Oy",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0213bc6d83bab2ec82448674d4",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485113bc6d83bab2ec82448674d4",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27313bc6d83bab2ec82448674d4",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 20,
+                "month": 9,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "3hO7kTl82pnO2bhc4TFICc",
+              "label": "Epic Amsterdam",
+              "name": "Freestyler (Rock The Microphone)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "hMMPZHHoQuKUCOPl9u62aQ",
+                "shareUrl": "https://open.spotify.com/album/3hO7kTl82pnO2bhc4TFICc?si=hMMPZHHoQuKUCOPl9u62aQ"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:3hO7kTl82pnO2bhc4TFICc"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2023 Lost & Cie Music SPRL exclusively licensed to Epic Amsterdam, with courtesy of Sony Music Entertainment Belgium NV/SA",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c7d9ade1eeadf6a983cd9916",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c7d9ade1eeadf6a983cd9916",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c7d9ade1eeadf6a983cd9916",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 9,
+                "month": 6,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "4Ec0qA1sxuX6vrViAwkxxG",
+              "label": "Epic Amsterdam",
+              "name": "The Feeling",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "5MvpnBeyQBWXf_EZYZPrJQ",
+                "shareUrl": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG?si=5MvpnBeyQBWXf_EZYZPrJQ"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:4Ec0qA1sxuX6vrViAwkxxG"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2022 Lost & Cie Music SPRL exclusively licensed to Epic Amsterdam, with courtesy of Sony Music Entertainment Belgium NV/SA",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e027a1b61448054bd2f97406822",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048517a1b61448054bd2f97406822",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2737a1b61448054bd2f97406822",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 9,
+                "month": 12,
+                "precision": "DAY",
+                "year": 2022
+              },
+              "id": "1wntuGFGZSdkDL3pOTcdpr",
+              "label": "Epic Amsterdam",
+              "name": "Back To You",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "cdcMbLn3TxqHeNmEQzln9A",
+                "shareUrl": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr?si=cdcMbLn3TxqHeNmEQzln9A"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1wntuGFGZSdkDL3pOTcdpr"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2019 Found Frequencies / Armada Music B.V.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2019 Found Frequencies / Armada Music B.V.",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02127e13a21108faeaecb19167",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851127e13a21108faeaecb19167",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273127e13a21108faeaecb19167",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 4,
+                "month": 10,
+                "precision": "DAY",
+                "year": 2019
+              },
+              "id": "6NQRmMazNOKi0IiIXlNzGh",
+              "label": "Found Frequencies",
+              "name": "Alive And Feeling Fine",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "WNTfyhr9SeOxKrw4PriSuQ",
+                "shareUrl": "https://open.spotify.com/album/6NQRmMazNOKi0IiIXlNzGh?si=WNTfyhr9SeOxKrw4PriSuQ"
+              },
+              "tracks": {
+                "totalCount": 23
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:6NQRmMazNOKi0IiIXlNzGh"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2024 Lost & Cie Music SPRL exclusively licensed to Epic Amsterdam, with courtesy of Sony Music Entertainment Belgium NV/SA",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0236d804998bb567e07dfbaeaf",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485136d804998bb567e07dfbaeaf",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27336d804998bb567e07dfbaeaf",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 19,
+                "month": 4,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "1KIJzQIjSlJaSQZ9qLf1kB",
+              "label": "Epic Amsterdam",
+              "name": "In My Bones",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "0r_cyYnXQ42JN5dYgMlplg",
+                "shareUrl": "https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB?si=0r_cyYnXQ42JN5dYgMlplg"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1KIJzQIjSlJaSQZ9qLf1kB"
+            }
+          ],
+          "totalCount": 20
+        },
+        "singles": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2025, Lost & Cie Music SRL, exclusively licensed to Epic Amsterdam, a division of Sony Music Entertainment Netherlands B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b6db73327b1ec83e25751a92",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b6db73327b1ec83e25751a92",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b6db73327b1ec83e25751a92",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 14,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "5pZOfLCspR6Qj2phX61Onn",
+                    "label": "Epic Amsterdam",
+                    "name": "Love Is The Only Thing (Deluxe Edit)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "jUAVc12XTBWLrXTqs6zmnQ",
+                      "shareUrl": "https://open.spotify.com/album/5pZOfLCspR6Qj2phX61Onn?si=jUAVc12XTBWLrXTqs6zmnQ"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5pZOfLCspR6Qj2phX61Onn"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2024 Lost & Cie Music SPRL exclusively licensed to Epic Amsterdam, with courtesy of Sony Music Entertainment Belgium NV/SA",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025627b39d3113b2665ec40de4",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515627b39d3113b2665ec40de4",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735627b39d3113b2665ec40de4",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 27,
+                      "month": 12,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "1UJrBOjkjQZB0LMsCqgy4X",
+                    "label": "Epic Amsterdam",
+                    "name": "Kick The Nation",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "bn9G1GlTS0iPMrQFwHLYsA",
+                      "shareUrl": "https://open.spotify.com/album/1UJrBOjkjQZB0LMsCqgy4X?si=bn9G1GlTS0iPMrQFwHLYsA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1UJrBOjkjQZB0LMsCqgy4X"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2024, Lost & Cie Music SRL, exclusively licensed to Epic Amsterdam, a division of Sony Music Entertainment Netherlands B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0288df479dc8309669758abf55",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485188df479dc8309669758abf55",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27388df479dc8309669758abf55",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 8,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "15jDxA16MFYS22jkKrzT59",
+                    "label": "Epic Amsterdam",
+                    "name": "Love Is The Only Thing",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "mZB1yTJKRMiTW4mrx_W8LA",
+                      "shareUrl": "https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59?si=mZB1yTJKRMiTW4mrx_W8LA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:15jDxA16MFYS22jkKrzT59"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 UROK",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 Lost & Cie Music SPRL, with courtesy of Epic Amsterdam / Sony Music Entertainment Belgium NV",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0202f955fa4bbd2f02a40fed6a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485102f955fa4bbd2f02a40fed6a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27302f955fa4bbd2f02a40fed6a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 18,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "3a86ijPRSNqBUboCH1En3G",
+                    "label": "UROK",
+                    "name": "Black Friday (pretty like the sun) (deluxe version)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "m4nqPLW4SByMOTyz3PwhHg",
+                      "shareUrl": "https://open.spotify.com/album/3a86ijPRSNqBUboCH1En3G?si=m4nqPLW4SByMOTyz3PwhHg"
+                    },
+                    "tracks": {
+                      "totalCount": 3
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3a86ijPRSNqBUboCH1En3G"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2024 Epic Amsterdam, with courtesy of Sony Music Entertainment (Finland) Oy",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0213bc6d83bab2ec82448674d4",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485113bc6d83bab2ec82448674d4",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27313bc6d83bab2ec82448674d4",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 20,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "3hO7kTl82pnO2bhc4TFICc",
+                    "label": "Epic Amsterdam",
+                    "name": "Freestyler (Rock The Microphone)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "hMMPZHHoQuKUCOPl9u62aQ",
+                      "shareUrl": "https://open.spotify.com/album/3hO7kTl82pnO2bhc4TFICc?si=hMMPZHHoQuKUCOPl9u62aQ"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3hO7kTl82pnO2bhc4TFICc"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 UROK",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 UROK / Lost & Cie Music SPRL, with courtesy of Epic Amsterdam / Sony Music Entertainment Belgium NV",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a0fab1c9bdfc54357ddb89a6",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a0fab1c9bdfc54357ddb89a6",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a0fab1c9bdfc54357ddb89a6",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 19,
+                      "month": 7,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "4CAe3r1nsTTAjGcWqGZbAr",
+                    "label": "UROK",
+                    "name": "Black Friday (pretty like the sun)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "bQDFyWf9R_SGx9pIZzXfDA",
+                      "shareUrl": "https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr?si=bQDFyWf9R_SGx9pIZzXfDA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4CAe3r1nsTTAjGcWqGZbAr"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2024 Lost & Cie Music SPRL exclusively licensed to Epic Amsterdam, with courtesy of Sony Music Entertainment Belgium NV/SA",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0227d1a6f9f64006a065e48e9f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485127d1a6f9f64006a065e48e9f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27327d1a6f9f64006a065e48e9f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 28,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "1N9Q9qExjJolq3k6epVzuz",
+                    "label": "Epic Amsterdam",
+                    "name": "In My Bones (Konstantin Sibold Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "xP6zcY7NQgiFGHQptTjjng",
+                      "shareUrl": "https://open.spotify.com/album/1N9Q9qExjJolq3k6epVzuz?si=xP6zcY7NQgiFGHQptTjjng"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1N9Q9qExjJolq3k6epVzuz"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2024 Lost & Cie Music SPRL exclusively licensed to Epic Amsterdam, with courtesy of Sony Music Entertainment Belgium NV/SA",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a6eef6b3028487c0b5b50ff4",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a6eef6b3028487c0b5b50ff4",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a6eef6b3028487c0b5b50ff4",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 21,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "3eUh66TAw3hTzuJbMcpSmU",
+                    "label": "Epic Amsterdam",
+                    "name": "In My Bones (Deluxe Mix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "nMeC28GnS26svrAiqUKhHA",
+                      "shareUrl": "https://open.spotify.com/album/3eUh66TAw3hTzuJbMcpSmU?si=nMeC28GnS26svrAiqUKhHA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3eUh66TAw3hTzuJbMcpSmU"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2024 Lost & Cie Music SPRL exclusively licensed to Epic Amsterdam, with courtesy of Sony Music Entertainment Belgium NV/SA",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0236d804998bb567e07dfbaeaf",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485136d804998bb567e07dfbaeaf",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27336d804998bb567e07dfbaeaf",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 19,
+                      "month": 4,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "1KIJzQIjSlJaSQZ9qLf1kB",
+                    "label": "Epic Amsterdam",
+                    "name": "In My Bones",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "0r_cyYnXQ42JN5dYgMlplg",
+                      "shareUrl": "https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB?si=0r_cyYnXQ42JN5dYgMlplg"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1KIJzQIjSlJaSQZ9qLf1kB"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2024 Lost & Cie Music SPRL exclusively licensed to Epic Amsterdam, with courtesy of Sony Music Entertainment Belgium NV/SA",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ea742409867ff37b8792acbc",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ea742409867ff37b8792acbc",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ea742409867ff37b8792acbc",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 20,
+                      "month": 3,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "5fSB7APCR8tXYEaHwpRiic",
+                    "label": "Epic Amsterdam",
+                    "name": "Head Down (Remix Pack)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "ef__1t9HREmjYTZE4bgbgw",
+                      "shareUrl": "https://open.spotify.com/album/5fSB7APCR8tXYEaHwpRiic?si=ef__1t9HREmjYTZE4bgbgw"
+                    },
+                    "tracks": {
+                      "totalCount": 3
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5fSB7APCR8tXYEaHwpRiic"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 111
+        },
+        "topTracks": {
+          "items": [
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02580da30167c82db5fcc5f798"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851580da30167c82db5fcc5f798"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273580da30167c82db5fcc5f798"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6Kk0U3JRoniLtiSjypjEVL"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Lost Frequencies"
+                      },
+                      "uri": "spotify:artist:7f5Zgnp2spUuuzKplmRkt7"
+                    },
+                    {
+                      "profile": {
+                        "name": "Calum Scott"
+                      },
+                      "uri": "spotify:artist:6ydoSd3N2mwgwBHtF6K7eX"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 149066
+                },
+                "id": "3mfER4ORePHvN35cbZ3dkV",
+                "name": "Where Are You Now",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1482509623",
+                "uri": "spotify:track:3mfER4ORePHvN35cbZ3dkV"
+              },
+              "uid": "6105ca26cedc43a7db52"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a0fab1c9bdfc54357ddb89a6"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851a0fab1c9bdfc54357ddb89a6"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a0fab1c9bdfc54357ddb89a6"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:4CAe3r1nsTTAjGcWqGZbAr"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Lost Frequencies"
+                      },
+                      "uri": "spotify:artist:7f5Zgnp2spUuuzKplmRkt7"
+                    },
+                    {
+                      "profile": {
+                        "name": "Tom Odell"
+                      },
+                      "uri": "spotify:artist:2txHhyCwHjUEpJjWrEyqyX"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 145599
+                },
+                "id": "4MSj19TwYBLgDFj3ddEeco",
+                "name": "Black Friday (pretty like the sun)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "234028209",
+                "uri": "spotify:track:4MSj19TwYBLgDFj3ddEeco"
+              },
+              "uid": "2d3b74a72d30ebe34a7e"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02c01ab1c4b2dceb2cfc89e6fa"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851c01ab1c4b2dceb2cfc89e6fa"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273c01ab1c4b2dceb2cfc89e6fa"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:5ofMsLtz8HogkhrlTQ1UaG"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Lost Frequencies"
+                      },
+                      "uri": "spotify:artist:7f5Zgnp2spUuuzKplmRkt7"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 138013
+                },
+                "id": "4255amV4enzl28KAn16rUO",
+                "name": "Are You With Me",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1224509943",
+                "uri": "spotify:track:4255amV4enzl28KAn16rUO"
+              },
+              "uid": "5985562abbfac6c39399"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02c01ab1c4b2dceb2cfc89e6fa"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851c01ab1c4b2dceb2cfc89e6fa"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273c01ab1c4b2dceb2cfc89e6fa"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:5ofMsLtz8HogkhrlTQ1UaG"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Lost Frequencies"
+                      },
+                      "uri": "spotify:artist:7f5Zgnp2spUuuzKplmRkt7"
+                    },
+                    {
+                      "profile": {
+                        "name": "Janieck"
+                      },
+                      "uri": "spotify:artist:1bZDq4po4dMIpN74Zendm0"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 159480
+                },
+                "id": "1Mys1gf9SkMBAVGGxpkJ7d",
+                "name": "Reality",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "801907541",
+                "uri": "spotify:track:1Mys1gf9SkMBAVGGxpkJ7d"
+              },
+              "uid": "d6f37ab829b39f2646db"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02580da30167c82db5fcc5f798"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851580da30167c82db5fcc5f798"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273580da30167c82db5fcc5f798"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6Kk0U3JRoniLtiSjypjEVL"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Lost Frequencies"
+                      },
+                      "uri": "spotify:artist:7f5Zgnp2spUuuzKplmRkt7"
+                    },
+                    {
+                      "profile": {
+                        "name": "Bonn"
+                      },
+                      "uri": "spotify:artist:7Io0XduXk7aOHFHA7sLru2"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 154386
+                },
+                "id": "25jTLospI6eYVZ5TDDQN7V",
+                "name": "The Feeling",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "219020700",
+                "uri": "spotify:track:25jTLospI6eYVZ5TDDQN7V"
+              },
+              "uid": "20101a6527157520525f"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0288df479dc8309669758abf55"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485188df479dc8309669758abf55"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27388df479dc8309669758abf55"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:15jDxA16MFYS22jkKrzT59"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Lost Frequencies"
+                      },
+                      "uri": "spotify:artist:7f5Zgnp2spUuuzKplmRkt7"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 171093
+                },
+                "id": "4r6c2ClnuYLwNv4lEM7XlW",
+                "name": "Love Is The Only Thing",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "17445567",
+                "uri": "spotify:track:4r6c2ClnuYLwNv4lEM7XlW"
+              },
+              "uid": "24c4a1b9bc1957f76b8b"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02580da30167c82db5fcc5f798"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851580da30167c82db5fcc5f798"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273580da30167c82db5fcc5f798"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6Kk0U3JRoniLtiSjypjEVL"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Lost Frequencies"
+                      },
+                      "uri": "spotify:artist:7f5Zgnp2spUuuzKplmRkt7"
+                    },
+                    {
+                      "profile": {
+                        "name": "Elley Duh\u00e9"
+                      },
+                      "uri": "spotify:artist:67MNhiAICFY6Pwc2YxCO0K"
+                    },
+                    {
+                      "profile": {
+                        "name": "X Ambassadors"
+                      },
+                      "uri": "spotify:artist:3NPpFNZtSTHheNBaWC82rB"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 156546
+                },
+                "id": "4PdSICTVRI1xrXZM1sOSCe",
+                "name": "Back To You",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "250295547",
+                "uri": "spotify:track:4PdSICTVRI1xrXZM1sOSCe"
+              },
+              "uid": "9d03fb5320d48cb79ca3"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0213bc6d83bab2ec82448674d4"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485113bc6d83bab2ec82448674d4"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27313bc6d83bab2ec82448674d4"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:3hO7kTl82pnO2bhc4TFICc"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Lost Frequencies"
+                      },
+                      "uri": "spotify:artist:7f5Zgnp2spUuuzKplmRkt7"
+                    },
+                    {
+                      "profile": {
+                        "name": "Bomfunk MC's"
+                      },
+                      "uri": "spotify:artist:0NeC6ploeJUq8oDwYQjNPS"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 174000
+                },
+                "id": "5Axl2Rjg3wOC3JHju1Gess",
+                "name": "Freestyler (Rock The Microphone)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "23042229",
+                "uri": "spotify:track:5Axl2Rjg3wOC3JHju1Gess"
+              },
+              "uid": "9bd89001b4f8b3a90704"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02580da30167c82db5fcc5f798"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851580da30167c82db5fcc5f798"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273580da30167c82db5fcc5f798"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6Kk0U3JRoniLtiSjypjEVL"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Lost Frequencies"
+                      },
+                      "uri": "spotify:artist:7f5Zgnp2spUuuzKplmRkt7"
+                    },
+                    {
+                      "profile": {
+                        "name": "Bastille"
+                      },
+                      "uri": "spotify:artist:7EQ0qTo7fWT7DPxmxtSYEc"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 173888
+                },
+                "id": "1elmYn9vrSnQzs44rJcVY6",
+                "name": "Head Down",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "87182661",
+                "uri": "spotify:track:1elmYn9vrSnQzs44rJcVY6"
+              },
+              "uid": "445abe7b0364e465b89b"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e021ff69705c599897274f8a781"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048511ff69705c599897274f8a781"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2731ff69705c599897274f8a781"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6SysUU95ns1m8xfNrLCWDx"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Lost Frequencies"
+                      },
+                      "uri": "spotify:artist:7f5Zgnp2spUuuzKplmRkt7"
+                    },
+                    {
+                      "profile": {
+                        "name": "Zonderling"
+                      },
+                      "uri": "spotify:artist:0bMKf3lIYR9GaNTdFKkTOr"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 153391
+                },
+                "id": "64fwanXDvwmsQrLsDSVHMv",
+                "name": "Crazy",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "283622709",
+                "uri": "spotify:track:64fwanXDvwmsQrLsDSVHMv"
+              },
+              "uid": "f970c20eb14f8a4de705"
+            }
+          ]
+        }
+      },
+      "goods": {
+        "concerts": {
+          "items": [
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Huez",
+                  "name": "Alpe d'Huez"
+                },
+                "startDateIsoString": "2025-03-19T17:00+01:00",
+                "title": "Lost Frequencies, Andromedik",
+                "uri": "spotify:concert:1vrJbqtgeqpqyrLPvQVttU"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Huez",
+                  "name": "Alpe d'Huez"
+                },
+                "startDateIsoString": "2025-03-20T17:00+01:00",
+                "title": "Lost Frequencies, Dimitri Vegas & Like Mike",
+                "uri": "spotify:concert:1EpjBd8W6KywreKRuEwU39"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "London",
+                  "name": "Roundhouse"
+                },
+                "startDateIsoString": "2025-03-21T19:00Z",
+                "title": "Lost Frequencies",
+                "uri": "spotify:concert:5VZg1e6aQ2HSuTRJd0zkvl"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Las Vegas",
+                  "name": "Omnia"
+                },
+                "startDateIsoString": "2025-04-05T22:30-07:00",
+                "title": "Lost Frequencies",
+                "uri": "spotify:concert:2FQLwRxcWmLz34yEAaHhll"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Torbole Sul Garda",
+                  "name": "Horizon Lake Garda Music Festival"
+                },
+                "startDateIsoString": "2025-05-16T17:00+02:00",
+                "title": "Lost Frequencies",
+                "uri": "spotify:concert:79gHMMlHYRRaYwY63bmPGI"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Sofia",
+                  "name": "Arena Sofia (Velodrome)"
+                },
+                "startDateIsoString": "2025-06-20T17:00+03:00",
+                "title": "Lost Frequencies",
+                "uri": "spotify:concert:0EbGGEk0SRSGkagOI8m0MI"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Chorz\u00f3w",
+                  "name": "Silesia Park"
+                },
+                "startDateIsoString": "2025-06-21T17:00+02:00",
+                "title": "Lost Frequencies",
+                "uri": "spotify:concert:0nYJ5TRHvpGMI0lA6OwjxK"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Z\u00fcrich (kreis 7)",
+                  "name": "ZOA City"
+                },
+                "startDateIsoString": "2025-06-28T15:00+02:00",
+                "title": "Lost Frequencies",
+                "uri": "spotify:concert:6CFIjofQMKdvlrAFZmlfzw"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "P\u00e4rnu",
+                  "name": "P\u00e4rnu Rannapark"
+                },
+                "startDateIsoString": "2025-07-11T17:00+03:00",
+                "title": "Lost Frequencies, Andromedik",
+                "uri": "spotify:concert:4jfOdCVI1fW91sK2FQaN6W"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Boom",
+                  "name": "Provincial Recreation Domain De Schorre"
+                },
+                "startDateIsoString": "2025-07-19T17:00+02:00",
+                "title": "Dimitri Vegas & Like Mike, Henri PFR, Lost Frequencies, hayve, Miss Monique",
+                "uri": "spotify:concert:2bTZnsADIArnO3Mn91Mjnr"
+              }
+            }
+          ],
+          "totalCount": 17
+        },
+        "merch": {
+          "items": []
+        }
+      },
+      "headerImage": {
+        "data": {
+          "__typename": "ImageV2",
+          "sources": [
+            {
+              "maxHeight": 640,
+              "maxWidth": 1494,
+              "url": "https://image-cdn-fa.spotifycdn.com/image/ab676186000001943ce55273b56ae2bd6d04e395"
+            },
+            {
+              "maxHeight": 1080,
+              "maxWidth": 1920,
+              "url": "https://i2o.scdn.co/image/ab676186000016673ce55273b56ae2bd6d04e395"
+            },
+            {
+              "maxHeight": 641,
+              "maxWidth": 1495,
+              "url": "https://image-cdn-fa.spotifycdn.com/image/ab67618600009d803ce55273b56ae2bd6d04e395"
+            },
+            {
+              "maxHeight": 1140,
+              "maxWidth": 2660,
+              "url": "https://image-cdn-fa.spotifycdn.com/image/ab6761860000eab13ce55273b56ae2bd6d04e395"
+            }
+          ]
+        }
+      },
+      "id": "7f5Zgnp2spUuuzKplmRkt7",
+      "preRelease": null,
+      "profile": {
+        "biography": {
+          "text": "Belgian producer Lost Frequencies has achieved massive international success with his sunny yet wistful dance tracks, remixes, and collaborations. Beginning with his 2014 breakout hit \"Are You with Me,\" a tropical house track based on a country song by <a href=\"spotify:artist:070kGpqtESdDsLb3gdMIyx\">Easton Corbin</a>, he topped the charts in his home country five times, and released more than a dozen tracks that have been certified gold, platinum, or diamond. The song appeared on his 2016 full-length Less Is More, along with other major hits like \"Reality\" (featuring <a href=\"spotify:artist:5gtYjyZlmPOc1lLHvYzCON\">Janieck Devy</a>) and a cover of <a href=\"spotify:artist:0Suv0tRrNrUlRzAy8aXjma\">Haddaway</a>'s \"What Is Love.\" 2019's Alive and Feeling Fine included further smashes like \"Crazy\" (with <a href=\"spotify:artist:0bMKf3lIYR9GaNTdFKkTOr\">Zonderling</a>) and \"Melody\" (featuring <a href=\"spotify:artist:7KMqksf0UMdyA0UCf4R3ux\">James Blunt</a>). After releasing the EP Cup of Beats in 2020, Lost Frequencies scored further hits with 2021's \"Rise\" and \"Where Are You Now\" (with <a href=\"spotify:artist:6ydoSd3N2mwgwBHtF6K7eX\">Calum Scott</a>), 2022's \"Questions\" (with <a href=\"spotify:artist:4IWBUUAFIplrNtaOHcJPRM\">James Arthur</a>), and 2023's country-infused \"The Feeling.\"\r\n\nFelix de Laet began creating homemade remixes as soon as he got his first laptop, and started using the moniker Lost Frequencies in 2014. His original productions ranged from jazzy deep house to downtempo and trap beats. Lost Frequencies signed to <a href=\"spotify:search:label%3A%22Armada+Music%22\">Armada Music</a>, the Dutch trance label co-founded by <a href=\"spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5\">Armin van Buuren</a>, and his first release was \"Are You with Me,\" a dance-pop song built around a sample from the identically titled song by American country singer <a href=\"spotify:artist:070kGpqtESdDsLb3gdMIyx\">Easton Corbin</a>. The track was an immediate hit, spending several months on dance charts throughout Europe. Lost Frequencies remixed singles by <a href=\"spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5\">Armin van Buuren</a> and <a href=\"spotify:artist:2HkAI0YrEcgoR8QdaURqhO\">Dimitri Vegas</a> & Like Mike, and released his second single, \"Reality,\" in 2015. Featuring Dutch singer/songwriter <a href=\"spotify:artist:5gtYjyZlmPOc1lLHvYzCON\">Janieck Devy</a>, the song was another huge hit, topping charts in several countries.\r\n\nLost Frequencies issued his debut full-length, Less Is More, the following year. The album featured his previously released hits as well as \"Beautiful Life\" (featuring <a href=\"spotify:artist:5JYo7gm2dkyLLlWHjxS7Dy\">Sandro Cavazza</a>) and \"All or Nothing\" with <a href=\"spotify:artist:2sRQFLs62KkM8UTW3DjDFM\">Axel Ehnstr\u00f6m</a>. Other guests included <a href=\"spotify:artist:0eBOZ74PcpQb3SisNPgaRQ\">Jake Reese</a>, Nick Schilder, and Joakim Wilow. A deluxe version arrived in 2017, adding additional track \"Here with You\" with <a href=\"spotify:artist:5TgQ66WuWkoQ2xYxaSTnVP\">Netsky</a>. A steady stream of singles carried de Laet into 2019, including \"Crazy\" with <a href=\"spotify:artist:0bMKf3lIYR9GaNTdFKkTOr\">Zonderling</a> (the producer's fifth Belgian chart-topper), \"Melody\" with <a href=\"spotify:artist:7KMqksf0UMdyA0UCf4R3ux\">James Blunt</a>, and \"Recognise\" with <a href=\"spotify:artist:0Bz1CWrQwczPyhBTnvlvoi\">Flynn</a>. All three tracks later appeared on his second full-length, Alive and Feeling Fine, which was released in October of that year. \r\n\nThe EP Cup of Beats appeared on de Laet's <a href=\"spotify:search:label%3A%22Found+Frequencies%22\">Found Frequencies</a> imprint in 2020. It featured the hits \"Love to Go\" (with <a href=\"spotify:artist:0bMKf3lIYR9GaNTdFKkTOr\">Zonderling</a> and Kelvin Jones) and \"Don't Leave Me Now\" (with <a href=\"spotify:artist:4W6fwRbqEy1dfEoE6OCyZu\">Mathieu Koss</a>) as well as \"One More Night,\" featuring <a href=\"spotify:artist:070kGpqtESdDsLb3gdMIyx\">Easton Corbin</a>. In 2021, Lost Frequencies released \"Rise,\" which hit the Belgian Top Ten. He then collaborated with British singer/songwriter <a href=\"spotify:artist:6ydoSd3N2mwgwBHtF6K7eX\">Calum Scott</a> on the song \"Where Are You Now,\" which became a major worldwide hit, charting in over two-dozen countries. \"Questions,\" a collaboration with <a href=\"spotify:artist:4IWBUUAFIplrNtaOHcJPRM\">James Arthur</a>, followed in 2022. The country-meets-electronica single \"The Feeling\" arrived in June 2023. ~ Paul Simpson, Rovi",
+          "type": "BIOGRAPHY"
+        },
+        "externalLinks": {
+          "items": [
+            {
+              "name": "FACEBOOK",
+              "url": "https://facebook.com/LostFrequenciesMusic"
+            },
+            {
+              "name": "INSTAGRAM",
+              "url": "https://instagram.com/lostfrequencies"
+            },
+            {
+              "name": "TWITTER",
+              "url": "https://twitter.com/LFrequencies"
+            }
+          ]
+        },
+        "name": "Lost Frequencies",
+        "pinnedItem": null,
+        "playlistsV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Lost Frequencies' selection. Enjoy the sunshine and the good vibes!",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c869d9668b77d138d7f87d3d3",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Found Frequencies \u2728",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Felix De Laet"
+                  }
+                },
+                "uri": "spotify:playlist:73L47cwLjkliuWVl7upc16"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Enjoy the coolest sounds of the moment handpicked by Lost Frequencies. <a href=\"https://open.spotify.com/user/belgosounds?si=_1clxCqrS8SArnNrvK17IQ\">Click here</a> to listen to the other Belgo Sounds Playlists.",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ac21514bd6b289ae51da6a4f",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Lost Radio by Lost Frequencies",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Belgo Sounds"
+                  }
+                },
+                "uri": "spotify:playlist:7x2qvpjyM4FJyY6ncZwpHk"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The list with your favorite Tomorrowland 2025 festival anthems handpicked by Dimitri Vegas &amp; Like Mike!",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841efdd9385069ad4bd6263ebf",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Tomorrowland Official Playlist",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Dimitri Vegas & Like Mike"
+                  }
+                },
+                "uri": "spotify:playlist:5ZgnTlYPLATJiTg9yTgppb"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "I like to think the sound of \u201cLost Frequencies\u201d has two sides: one side is represented by the more chilled out tracks, while my Deluxe Mixes &amp; Remixes bring energy. These are tracks I often play in my sets, so I wanted to group them together to share with you the more \u201celectrified\u201d side of LF ! ",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d130dcca815850781b420a1a",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Lost Frequencies Remix & Deluxe",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Felix De Laet"
+                  }
+                },
+                "uri": "spotify:playlist:4vX3m4crHtshS8vEJXFa50"
+              }
+            }
+          ],
+          "totalCount": 4
+        },
+        "verified": true
+      },
+      "relatedContent": {
+        "appearsOn": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Kungs"
+                          },
+                          "uri": "spotify:artist:7keGfmQR4X5w0two1xKZ7d"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b494febf43e3a001e4d03af6",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b494febf43e3a001e4d03af6",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b494febf43e3a001e4d03af6",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "0LAO0Lz7P7nO3MpRiQZBLL",
+                    "name": "Club Azur",
+                    "sharingInfo": {
+                      "shareId": "3xF_WGwuQh-OA3K1Imf0dQ",
+                      "shareUrl": "https://open.spotify.com/album/0LAO0Lz7P7nO3MpRiQZBLL?si=3xF_WGwuQh-OA3K1Imf0dQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:0LAO0Lz7P7nO3MpRiQZBLL"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Armin van Buuren"
+                          },
+                          "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0299b458b0561faa6ad398fcad",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485199b458b0561faa6ad398fcad",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27399b458b0561faa6ad398fcad",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "3NrgI683Ssrc5uMddFIplo",
+                    "name": "RELAXED",
+                    "sharingInfo": {
+                      "shareId": "60zFUfrOQ6aIqXkaphhREw",
+                      "shareUrl": "https://open.spotify.com/album/3NrgI683Ssrc5uMddFIplo?si=60zFUfrOQ6aIqXkaphhREw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3NrgI683Ssrc5uMddFIplo"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Armin van Buuren"
+                          },
+                          "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02dc51950e8bae32aa33885972",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851dc51950e8bae32aa33885972",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273dc51950e8bae32aa33885972",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2008
+                    },
+                    "id": "4e2QetRWqlrP3POEmixCza",
+                    "name": "In And Out Of Love",
+                    "sharingInfo": {
+                      "shareId": "reDuhv24TF-K6tMXHgQ9WA",
+                      "shareUrl": "https://open.spotify.com/album/4e2QetRWqlrP3POEmixCza?si=reDuhv24TF-K6tMXHgQ9WA"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4e2QetRWqlrP3POEmixCza"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e027b4758a52ca5e4c84c01ef56",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048517b4758a52ca5e4c84c01ef56",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2737b4758a52ca5e4c84c01ef56",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2016
+                    },
+                    "id": "3rgrMDKCWu1hLnMVv9BJiE",
+                    "name": "All The Hits 2017",
+                    "sharingInfo": {
+                      "shareId": "y8CiyKI1RdO-blznQu3qkA",
+                      "shareUrl": "https://open.spotify.com/album/3rgrMDKCWu1hLnMVv9BJiE?si=y8CiyKI1RdO-blznQu3qkA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3rgrMDKCWu1hLnMVv9BJiE"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Sia"
+                          },
+                          "uri": "spotify:artist:5WUlDfRSoLAfcVSX1WnrxN"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a02f27fe62d92c390d6de918",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a02f27fe62d92c390d6de918",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a02f27fe62d92c390d6de918",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "0YAYI6pK9cbgb9VgSUyCY4",
+                    "name": "LABRINTH, SIA, DIPLO PRESENT... LSD (REMIXES) (feat. Sia, Diplo & Labrinth)",
+                    "sharingInfo": {
+                      "shareId": "JwRVnKy8TgKRb2HbDgy7jw",
+                      "shareUrl": "https://open.spotify.com/album/0YAYI6pK9cbgb9VgSUyCY4?si=JwRVnKy8TgKRb2HbDgy7jw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:0YAYI6pK9cbgb9VgSUyCY4"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02813a691c04ad84d6ae3c9506",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851813a691c04ad84d6ae3c9506",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273813a691c04ad84d6ae3c9506",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "513sAXvsrEb1nHGOLUKSWe",
+                    "name": "Armada Music presents Summer Hits 2021 (Mini Mix)",
+                    "sharingInfo": {
+                      "shareId": "ajOlam8TSUuWbSfeSYGWlQ",
+                      "shareUrl": "https://open.spotify.com/album/513sAXvsrEb1nHGOLUKSWe?si=ajOlam8TSUuWbSfeSYGWlQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:513sAXvsrEb1nHGOLUKSWe"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Sebastien"
+                          },
+                          "uri": "spotify:artist:173M6tvnbPT1Wp5ucD0uAS"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0239639836d798fe30e74ea7fc",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485139639836d798fe30e74ea7fc",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27339639836d798fe30e74ea7fc",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "2xAHhhNbfxdmRCTYPUcI7r",
+                    "name": "Hands On Armada",
+                    "sharingInfo": {
+                      "shareId": "d2NudLpoQSePYK1jTM6IbA",
+                      "shareUrl": "https://open.spotify.com/album/2xAHhhNbfxdmRCTYPUcI7r?si=d2NudLpoQSePYK1jTM6IbA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2xAHhhNbfxdmRCTYPUcI7r"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Luther Vandross"
+                          },
+                          "uri": "spotify:artist:19y5MFBH7gohEdGwKM7QsP"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02803e11afd07dc5d912dd0327",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851803e11afd07dc5d912dd0327",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273803e11afd07dc5d912dd0327",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2025
+                    },
+                    "id": "0xzFxd6HmtKMneQGOhQTqT",
+                    "name": "Never Too Much: Greatest Hits",
+                    "sharingInfo": {
+                      "shareId": "rLURuS00RyidCM-3hTdSWQ",
+                      "shareUrl": "https://open.spotify.com/album/0xzFxd6HmtKMneQGOhQTqT?si=rLURuS00RyidCM-3hTdSWQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:0xzFxd6HmtKMneQGOhQTqT"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Miley Cyrus"
+                          },
+                          "uri": "spotify:artist:5YGY8feqx7naU7z4HrwZM6"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029190cde082f19e6a96f9b95d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519190cde082f19e6a96f9b95d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739190cde082f19e6a96f9b95d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2017
+                    },
+                    "id": "4kWPS9C0JwMh9bdeesSuAf",
+                    "name": "Malibu (The Remixes)",
+                    "sharingInfo": {
+                      "shareId": "rIk90TG7ToeTXxmVIGro6w",
+                      "shareUrl": "https://open.spotify.com/album/4kWPS9C0JwMh9bdeesSuAf?si=rIk90TG7ToeTXxmVIGro6w"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4kWPS9C0JwMh9bdeesSuAf"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Emma Bale"
+                          },
+                          "uri": "spotify:artist:1vlR56ECqMAOA2mUTcTgPV"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020d8d054c36f16af30270fa66",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510d8d054c36f16af30270fa66",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730d8d054c36f16af30270fa66",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2015
+                    },
+                    "id": "5u01rNslPPnklsyWLoUaJa",
+                    "name": "My World Untouched",
+                    "sharingInfo": {
+                      "shareId": "KXdDcFTKQBSGMqyTZUnyoA",
+                      "shareUrl": "https://open.spotify.com/album/5u01rNslPPnklsyWLoUaJa?si=KXdDcFTKQBSGMqyTZUnyoA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:5u01rNslPPnklsyWLoUaJa"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a82a8feea833cd4b78fc20c4",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a82a8feea833cd4b78fc20c4",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a82a8feea833cd4b78fc20c4",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "44Qf3GZAszxNO895fKhC51",
+                    "name": "Deep House Top 1000, Vol. 1 - Armada Music",
+                    "sharingInfo": {
+                      "shareId": "d2le_VW1QlSvmyTrGSmmZQ",
+                      "shareUrl": "https://open.spotify.com/album/44Qf3GZAszxNO895fKhC51?si=d2le_VW1QlSvmyTrGSmmZQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:44Qf3GZAszxNO895fKhC51"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Sia"
+                          },
+                          "uri": "spotify:artist:5WUlDfRSoLAfcVSX1WnrxN"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0259b5e1694339752a6fd32d36",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485159b5e1694339752a6fd32d36",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27359b5e1694339752a6fd32d36",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "3ZCUD4V3CptIsIByS3QL8q",
+                    "name": "Thunderclouds (Lost Frequencies Remix)",
+                    "sharingInfo": {
+                      "shareId": "PGgzaOsbTyaar8ZfxlG6Tw",
+                      "shareUrl": "https://open.spotify.com/album/3ZCUD4V3CptIsIByS3QL8q?si=PGgzaOsbTyaar8ZfxlG6Tw"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3ZCUD4V3CptIsIByS3QL8q"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Martin Garrix"
+                          },
+                          "uri": "spotify:artist:60d24wfXkVzDSfLS6hyCjZ"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0285df7b8e4cfe789fffe85364",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485185df7b8e4cfe789fffe85364",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27385df7b8e4cfe789fffe85364",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "2vx3BtBMn8Ed3ygEg1OT2t",
+                    "name": "Summer Days (feat. Macklemore & Patrick Stump of Fall Out Boy) [Remixes]",
+                    "sharingInfo": {
+                      "shareId": "1WZC2r4PTPqh89vf3A5acQ",
+                      "shareUrl": "https://open.spotify.com/album/2vx3BtBMn8Ed3ygEg1OT2t?si=1WZC2r4PTPqh89vf3A5acQ"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:2vx3BtBMn8Ed3ygEg1OT2t"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Kelvin Jones"
+                          },
+                          "uri": "spotify:artist:2t1vHqFELDwweQWM6JYxHG"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0267accc241a7c65e57ee2f71b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485167accc241a7c65e57ee2f71b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27367accc241a7c65e57ee2f71b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "4Pj4kafLKfUsRZYKxGCxAy",
+                    "name": "This Too Shall Last",
+                    "sharingInfo": {
+                      "shareId": "3GoJ7QTFQp6Of7J3Ebq7Hw",
+                      "shareUrl": "https://open.spotify.com/album/4Pj4kafLKfUsRZYKxGCxAy?si=3GoJ7QTFQp6Of7J3Ebq7Hw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4Pj4kafLKfUsRZYKxGCxAy"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Sandro Cavazza"
+                          },
+                          "uri": "spotify:artist:5JYo7gm2dkyLLlWHjxS7Dy"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025d2b141ddd714dca16b40a24",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515d2b141ddd714dca16b40a24",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735d2b141ddd714dca16b40a24",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2017
+                    },
+                    "id": "4fDEsXKstecYPcsATDQapY",
+                    "name": "Remixes",
+                    "sharingInfo": {
+                      "shareId": "PiG9a3QaTl2eAG6r3P_gMQ",
+                      "shareUrl": "https://open.spotify.com/album/4fDEsXKstecYPcsATDQapY?si=PiG9a3QaTl2eAG6r3P_gMQ"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4fDEsXKstecYPcsATDQapY"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0227a5246e7c076995f731ba81",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485127a5246e7c076995f731ba81",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27327a5246e7c076995f731ba81",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "0j0d2fVYuqzAZr4B5AM97p",
+                    "name": "Deep House Hits: Winter 2018 \u2013 Armada Music",
+                    "sharingInfo": {
+                      "shareId": "A53kX564QF2IX4vEAgMLnw",
+                      "shareUrl": "https://open.spotify.com/album/0j0d2fVYuqzAZr4B5AM97p?si=A53kX564QF2IX4vEAgMLnw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:0j0d2fVYuqzAZr4B5AM97p"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Coone"
+                          },
+                          "uri": "spotify:artist:1Wt63OMKtv6v2ivHuQLm2C"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c3229612532d9b65aafbfe94",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c3229612532d9b65aafbfe94",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c3229612532d9b65aafbfe94",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2017
+                    },
+                    "id": "34E161xTimghd1dDcApvYg",
+                    "name": "This Is Coone (2016 - 2017)",
+                    "sharingInfo": {
+                      "shareId": "u74ceK-gQAuDb3iYG2K2XA",
+                      "shareUrl": "https://open.spotify.com/album/34E161xTimghd1dDcApvYg?si=u74ceK-gQAuDb3iYG2K2XA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:34E161xTimghd1dDcApvYg"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Alan Walker"
+                          },
+                          "uri": "spotify:artist:7vk5e3vY1uw9plTHJAMwjN"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e027a65d437b61224031366a434",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048517a65d437b61224031366a434",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2737a65d437b61224031366a434",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2017
+                    },
+                    "id": "5D3DpC2bpSQ4M0i1R7TCnK",
+                    "name": "Alone (Remixes)",
+                    "sharingInfo": {
+                      "shareId": "C_sRomFkTJ21XUTFu606ww",
+                      "shareUrl": "https://open.spotify.com/album/5D3DpC2bpSQ4M0i1R7TCnK?si=C_sRomFkTJ21XUTFu606ww"
+                    },
+                    "type": "EP",
+                    "uri": "spotify:album:5D3DpC2bpSQ4M0i1R7TCnK"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02f0a51a0598ed196693aad8b7",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851f0a51a0598ed196693aad8b7",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273f0a51a0598ed196693aad8b7",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "3pFPT2bwqkqjCtOSMGF4iF",
+                    "name": "Best of By Ground Digital",
+                    "sharingInfo": {
+                      "shareId": "_OAjsqo_QaaTQTy2yKtj9g",
+                      "shareUrl": "https://open.spotify.com/album/3pFPT2bwqkqjCtOSMGF4iF?si=_OAjsqo_QaaTQTy2yKtj9g"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3pFPT2bwqkqjCtOSMGF4iF"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Everyone You Know"
+                          },
+                          "uri": "spotify:artist:4UAnAM35NDxEWd5WXKv7jM"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a7d9bfad14baf52b4b5c394e",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a7d9bfad14baf52b4b5c394e",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a7d9bfad14baf52b4b5c394e",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "7LUpWy4h0bZhHTlFc1NKS3",
+                    "name": "She Don't Dance (Lost Frequencies Remix)",
+                    "sharingInfo": {
+                      "shareId": "xNoSY2kgTvuuLxCWDVB_yQ",
+                      "shareUrl": "https://open.spotify.com/album/7LUpWy4h0bZhHTlFc1NKS3?si=xNoSY2kgTvuuLxCWDVB_yQ"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7LUpWy4h0bZhHTlFc1NKS3"
+                  }
+                ],
+                "totalCount": 1
+              }
+            }
+          ],
+          "totalCount": 245
+        },
+        "discoveredOnV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "it's never too early for summer dance hits \ud83d\ude0e\u2600\ufe0f",
+                "id": "37i9dQZF1DWZ7eJRBxKzdO",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002c69d0b9a845acfa88f9794ca",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Summer Dance Hits 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWZ7eJRBxKzdO"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Lost Frequencies. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO4hKra8",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4hKra8-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Lost Frequencies",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO4hKra8"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Summer Mix | Best Of Kygo &amp; Friends | Tropical &amp; Deep House Music Chill Out Mix Playlist.                                                       Label Demos \u25cf  wavemusicllc@gmail.com",
+                "id": "6VjXyFH9Z5HlGPAjRBKR32",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84de9cb0c5bc0d9104ff46ce0a",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Ibiza Summer Mix 2025 \ud83c\udf53 Best Of Tropical Deep House Music Chill Out Mix",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Good Vibes"
+                  }
+                },
+                "uri": "spotify:playlist:6VjXyFH9Z5HlGPAjRBKR32"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Playlista pe\u0142na radiowych przeboj\u00f3w ostatnich miesi\u0119cy.",
+                "id": "37i9dQZF1DX99QlO9EobD7",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002a47c4bc59e75e82d9de599ac",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Hity z radia 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX99QlO9EobD7"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "LOUNGE MUSIC Mix 2025 - Best Of LOUNGE Music  Chill Out Music 2025 - LOUNGE HITS - chill lounge playlist - best soft house music - best lounge songs - best chill songs 2025 - chill playlist - soft house playlist - mix chill- Cafe Del Mar, buddha bar For submissions: submissions@stormmusicgroup.com  ",
+                "id": "3ZrIRwh11hu5L9XC42ohmm",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845d41a25af55b8ee4ce350ee9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Lounge Music 2025 \ud83c\udf79 - Soft House - Ibiza Lounge - Chill House",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Storm Music Group"
+                  }
+                },
+                "uri": "spotify:playlist:3ZrIRwh11hu5L9XC42ohmm"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The perfect Chill music for relaxing in a lounge or at the beach! \ud83c\udf34 Relaxing - Relaxed - Zen - Summer - Winter - Laid-back - No worries - Tranquility - Relajar - Tranquil - Ontspan - Ontspannen - Entspannen - D\u00e9tendre - Relajarse - Rilassarsi - Relaxar - Good Morning - Wake Up - Buenos",
+                "id": "7JabddFr3Q6JPsND4v9Swf",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84cf33878980e0ae7b4b6e5381",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Relax & Chill 2025 \ud83c\udf34",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Doux Music"
+                  }
+                },
+                "uri": "spotify:playlist:7JabddFr3Q6JPsND4v9Swf"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Discover the best House Music to vibe or dance to.\u2502<a href=\"https://www.instagram.com/weareuncommonrecords/\">Instagram</a>",
+                "id": "7bu7BZEusLNJSaAuUUZBKn",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8445022ff58370157cbb0b02a6",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "HOUSE MUSIC 2025 (Top 100)",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "UNCOMMON"
+                  }
+                },
+                "uri": "spotify:playlist:7bu7BZEusLNJSaAuUUZBKn"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Set the mood of your day with these awesome, happy songs! Wake Up, Wach Auf, Wakker Worden, Guten Morgen, Buenos D\u00edas, Ma\u00f1ana, Ochtend, Matin, Morgen, Manh\u00e3, Good Morning, Happy Songs, Happy Music, Happy Playlist, Morning Chill, Morning Music, Morning Motivation, Morning Playlist.",
+                "id": "2TwygCUmV9hogNFqZZ4to2",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84fbe1e1fcedbc2158f211b72f",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Wake Up Happy \u2600\ufe0f Good Morning ",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "PARA\u00cdSO"
+                  }
+                },
+                "uri": "spotify:playlist:2TwygCUmV9hogNFqZZ4to2"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The softer side of dance.",
+                "id": "37i9dQZF1DXccH49bh52dB",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002b517984648b8cfd997a32a79",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Chilled Dance Hits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXccH49bh52dB"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Entdecke die ultimative Playlist mit den hei\u00dfesten und neuesten Hits! Hier findest du alle Top-Songs aus dem Radio und den Charts, einschlie\u00dflich Nina Chuba, Apache207, Miley Cyrus, Harry Styles und vielen anderen.",
+                "id": "1CnDCN10TJZjw6K2H3gNRv",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c90c887497a88a92828e96420",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Hits 2025 \ud83d\udd25 \ud83d\udd25  Aktuelle Charts und die besten Songs 2025 \ud83d\udd1d \ud83d\ude4c",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Filtr Germany"
+                  }
+                },
+                "uri": "spotify:playlist:1CnDCN10TJZjw6K2H3gNRv"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Upbeat dance pop to keep your heart pumping.",
+                "id": "37i9dQZF1DWSJHnPb1f0X3",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002c9708f6f371832b819823be2",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Cardio",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWSJHnPb1f0X3"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Just chill &amp; relax... (Follow us on <a href=\"https://www.instagram.com/electropose/\">Instagram @electropose</a>)",
+                "id": "6IKQrtMc4c00YzONcUt7QH",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da842128d1e7b21f4f57fa1d0174",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Chill  Vibes 2025 \ud83c\udf19",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Electro Pos\u00e9"
+                  }
+                },
+                "uri": "spotify:playlist:6IKQrtMc4c00YzONcUt7QH"
+              }
+            }
+          ],
+          "totalCount": 100
+        },
+        "featuringV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Lost Frequencies. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO4hKra8",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4hKra8-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Lost Frequencies",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO4hKra8"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "With CYRIL, MEDUZA, Ofenbach and more",
+                "id": "37i9dQZF1E4yrWp1fuN2QB",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/7f5Zgnp2spUuuzKplmRkt7/en",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Lost Frequencies Radio",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1E4yrWp1fuN2QB"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The hottest tracks in the North. Cover: PARTYNEXTDOOR, Drake",
+                "id": "37i9dQZF1DWXT8uSSn6PRy",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f0000000264164503d43bca5903446a1d",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Hot Hits Canada",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWXT8uSSn6PRy"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The pop hits you just can't get enough of. Cover: Tate McRae",
+                "id": "37i9dQZF1DXcOFePJj4Rgb",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000026091b2487246698172ce1b20",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Pop Favourites",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXcOFePJj4Rgb"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "it's never too early for summer dance hits \ud83d\ude0e\u2600\ufe0f",
+                "id": "37i9dQZF1DWZ7eJRBxKzdO",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002c69d0b9a845acfa88f9794ca",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Summer Dance Hits 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWZ7eJRBxKzdO"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> to the rhythm and move your feet!",
+                "id": "37i9dQZF1DXaXB8fQg7xif",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002d2c23cff8e4056e5c891216d",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Dance Party",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXaXB8fQg7xif"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Voici les hits du moment. Photo: Alex Warren",
+                "id": "37i9dQZF1DX7LjobXS2hzX",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002d2ede17ec6077bc669dd114e",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "La Hit Liste",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX7LjobXS2hzX"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Get in the zone with these current jams!",
+                "id": "37i9dQZF1DWU13kKnk03AP",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002fc8749d4f07787c827d60bf1",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Daily Lift",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWU13kKnk03AP"
+              }
+            }
+          ],
+          "totalCount": 8
+        },
+        "relatedArtists": {
+          "items": [
+            {
+              "id": "3t5xRXzsuZmMDkQzgOX35S",
+              "profile": {
+                "name": "Robin Schulz"
+              },
+              "uri": "spotify:artist:3t5xRXzsuZmMDkQzgOX35S",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb869ddcc058c5ff2a459ad8d5",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178869ddcc058c5ff2a459ad8d5",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174869ddcc058c5ff2a459ad8d5",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4bL2B6hmLlMWnUEZnorEtG",
+              "profile": {
+                "name": "Felix Jaehn"
+              },
+              "uri": "spotify:artist:4bL2B6hmLlMWnUEZnorEtG",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb7d2bc6ccac87ce7f64c91282",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1787d2bc6ccac87ce7f64c91282",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051747d2bc6ccac87ce7f64c91282",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4AKwRarlmsUlLjIwt38NLw",
+              "profile": {
+                "name": "Ofenbach"
+              },
+              "uri": "spotify:artist:4AKwRarlmsUlLjIwt38NLw",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb23862a6a0c3572e66e7bfb5c",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17823862a6a0c3572e66e7bfb5c",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517423862a6a0c3572e66e7bfb5c",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "23fqKkggKUBHNkbKtXEls4",
+              "profile": {
+                "name": "Kygo"
+              },
+              "uri": "spotify:artist:23fqKkggKUBHNkbKtXEls4",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebe5ea1aa1404629c12ad86658",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178e5ea1aa1404629c12ad86658",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174e5ea1aa1404629c12ad86658",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0u6GtibW46tFX7koQ6uNJZ",
+              "profile": {
+                "name": "Topic"
+              },
+              "uri": "spotify:artist:0u6GtibW46tFX7koQ6uNJZ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb311541bc44662323717a413b",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178311541bc44662323717a413b",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174311541bc44662323717a413b",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+              "profile": {
+                "name": "David Guetta"
+              },
+              "uri": "spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebf150017ca69c8793503c2d4f",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178f150017ca69c8793503c2d4f",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174f150017ca69c8793503c2d4f",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7Io0XduXk7aOHFHA7sLru2",
+              "profile": {
+                "name": "Bonn"
+              },
+              "uri": "spotify:artist:7Io0XduXk7aOHFHA7sLru2",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb9e131b7f4869860ed37d41be",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1789e131b7f4869860ed37d41be",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051749e131b7f4869860ed37d41be",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+              "profile": {
+                "name": "Ti\u00ebsto"
+              },
+              "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebe84e08fb1dfa2bf9b5a61563",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178e84e08fb1dfa2bf9b5a61563",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174e84e08fb1dfa2bf9b5a61563",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2fsk4VlJdNF6G8cCMDrrzB",
+              "profile": {
+                "name": "Norma Jean Martine"
+              },
+              "uri": "spotify:artist:2fsk4VlJdNF6G8cCMDrrzB",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebdf23efd786ca069412c5e7a8",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178df23efd786ca069412c5e7a8",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174df23efd786ca069412c5e7a8",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "11kt6ggsdxvI8MhyeSMKom",
+              "profile": {
+                "name": "CYRIL"
+              },
+              "uri": "spotify:artist:11kt6ggsdxvI8MhyeSMKom",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebd31d570ec87b6320e2f2e120",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178d31d570ec87b6320e2f2e120",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174d31d570ec87b6320e2f2e120",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1h6Cn3P4NGzXbaXidqURXs",
+              "profile": {
+                "name": "Swedish House Mafia"
+              },
+              "uri": "spotify:artist:1h6Cn3P4NGzXbaXidqURXs",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb42d5e423e4083d3e95ae6a80",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17842d5e423e4083d3e95ae6a80",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517442d5e423e4083d3e95ae6a80",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4AVFqumd2ogHFlRbKIjp1t",
+              "profile": {
+                "name": "Alesso"
+              },
+              "uri": "spotify:artist:4AVFqumd2ogHFlRbKIjp1t",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb327e7178289c299c48e12577",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178327e7178289c299c48e12577",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174327e7178289c299c48e12577",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4Q6nIcaBED8qUel8bBx6Cr",
+              "profile": {
+                "name": "Jax Jones"
+              },
+              "uri": "spotify:artist:4Q6nIcaBED8qUel8bBx6Cr",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb09b06c6e39518619ecd56ec5",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17809b06c6e39518619ecd56ec5",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517409b06c6e39518619ecd56ec5",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0xRXCcSX89eobfrshSVdyu",
+              "profile": {
+                "name": "MEDUZA"
+              },
+              "uri": "spotify:artist:0xRXCcSX89eobfrshSVdyu",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb4c49dba58421b29648964acd",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1784c49dba58421b29648964acd",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051744c49dba58421b29648964acd",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "66AE89GQTx88zLYhXn1wFK",
+              "profile": {
+                "name": "Sam Martin"
+              },
+              "uri": "spotify:artist:66AE89GQTx88zLYhXn1wFK",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb927fe864814cda2302f885fd",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178927fe864814cda2302f885fd",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174927fe864814cda2302f885fd",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1bZDq4po4dMIpN74Zendm0",
+              "profile": {
+                "name": "Janieck"
+              },
+              "uri": "spotify:artist:1bZDq4po4dMIpN74Zendm0",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb30ed6acb7d675cad270204c7",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17830ed6acb7d675cad270204c7",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517430ed6acb7d675cad270204c7",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0NGAZxHanS9e0iNHpR8f2W",
+              "profile": {
+                "name": "Alok"
+              },
+              "uri": "spotify:artist:0NGAZxHanS9e0iNHpR8f2W",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebf7d1bdca65e1cefd4e60c379",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178f7d1bdca65e1cefd4e60c379",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174f7d1bdca65e1cefd4e60c379",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6Gk5hoM7eW8NSCYhICMDHw",
+              "profile": {
+                "name": "Zak Abel"
+              },
+              "uri": "spotify:artist:6Gk5hoM7eW8NSCYhICMDHw",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebf30f0f0e7f93877befa196af",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178f30f0f0e7f93877befa196af",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174f30f0f0e7f93877befa196af",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7nDsS0l5ZAzMedVRKPP8F1",
+              "profile": {
+                "name": "Ella Henderson"
+              },
+              "uri": "spotify:artist:7nDsS0l5ZAzMedVRKPP8F1",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb6c6702fe8d62862e6f8bc373",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1786c6702fe8d62862e6f8bc373",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051746c6702fe8d62862e6f8bc373",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+              "profile": {
+                "name": "R3HAB"
+              },
+              "uri": "spotify:artist:6cEuCEZu7PAE9ZSzLLc2oQ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb20dfb8f52ef4926a22e552c8",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17820dfb8f52ef4926a22e552c8",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517420dfb8f52ef4926a22e552c8",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "totalCount": 40
+        }
+      },
+      "relatedVideos": {
+        "__typename": "RelatedVideoPage",
+        "items": [],
+        "totalCount": 0
+      },
+      "saved": false,
+      "sharingInfo": {
+        "shareId": "SrJoY5I_TFuGtFH433W3yA",
+        "shareUrl": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7?si=SrJoY5I_TFuGtFH433W3yA"
+      },
+      "stats": {
+        "followers": 3002831,
+        "monthlyListeners": 25209258,
+        "topCities": {
+          "items": [
+            {
+              "city": "Amsterdam",
+              "country": "NL",
+              "numberOfListeners": 426743,
+              "region": "NH"
+            },
+            {
+              "city": "Brussels",
+              "country": "BE",
+              "numberOfListeners": 355767,
+              "region": "BRU"
+            },
+            {
+              "city": "Sydney",
+              "country": "AU",
+              "numberOfListeners": 328539,
+              "region": "NSW"
+            },
+            {
+              "city": "Warsaw",
+              "country": "PL",
+              "numberOfListeners": 306493,
+              "region": "14"
+            },
+            {
+              "city": "Mexico City",
+              "country": "MX",
+              "numberOfListeners": 289309,
+              "region": "CMX"
+            }
+          ]
+        },
+        "worldRank": 221
+      },
+      "uri": "spotify:artist:7f5Zgnp2spUuuzKplmRkt7",
+      "visualIdentity": {
+        "wideFullBleedImage": {
+          "__typename": "VisualIdentityImage",
+          "extractedColorSet": {
+            "encoreBaseSetTextColor": {
+              "alpha": 255,
+              "blue": 179,
+              "green": 187,
+              "red": 187
+            },
+            "highContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 77,
+                "green": 84,
+                "red": 84
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 45,
+                "green": 51,
+                "red": 51
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 198,
+                "green": 206,
+                "red": 206
+              }
+            },
+            "higherContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 47,
+                "green": 54,
+                "red": 54
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 79,
+                "green": 86,
+                "red": 86
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 96,
+                "green": 215,
+                "red": 30
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 198,
+                "green": 206,
+                "red": 206
+              }
+            },
+            "minContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 146,
+                "green": 153,
+                "red": 153
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 121,
+                "green": 129,
+                "red": 129
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              }
+            }
+          }
+        }
+      },
+      "visuals": {
+        "avatarImage": {
+          "extractedColors": {
+            "colorRaw": {
+              "hex": "#603838"
+            }
+          },
+          "sources": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb6a77aaa2cde6783b1ca727e9",
+              "width": 640
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1786a77aaa2cde6783b1ca727e9",
+              "width": 160
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051746a77aaa2cde6783b1ca727e9",
+              "width": 320
+            }
+          ]
+        },
+        "gallery": {
+          "items": [
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd499ba06d74cbf599d42343e35",
+                  "width": 640
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "watchFeedEntrypoint": null
+    }
+  },
+  "extensions": {}
+}

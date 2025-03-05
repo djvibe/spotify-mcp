@@ -1,0 +1,4649 @@
+{
+  "data": {
+    "artistUnion": {
+      "__typename": "Artist",
+      "discography": {
+        "albums": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2020 Drumcode",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2020 Drumcode",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c0bf0d4998bfb201ee4f16b9",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c0bf0d4998bfb201ee4f16b9",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c0bf0d4998bfb201ee4f16b9",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 14,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2020
+                    },
+                    "id": "18BzrmOh8i9h9VGaJLOtAs",
+                    "label": "Drumcode",
+                    "name": "New Generation",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "mMggVE5HQfK2EO6crooEqQ",
+                      "shareUrl": "https://open.spotify.com/album/18BzrmOh8i9h9VGaJLOtAs?si=mMggVE5HQfK2EO6crooEqQ"
+                    },
+                    "tracks": {
+                      "totalCount": 11
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:18BzrmOh8i9h9VGaJLOtAs"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2017 Drumcode",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2017 Copyright Control",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021ab5225e9fbb329853eb7550",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511ab5225e9fbb329853eb7550",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731ab5225e9fbb329853eb7550",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 13,
+                      "month": 3,
+                      "precision": "DAY",
+                      "year": 2017
+                    },
+                    "id": "5OHzrlhfCC94pfWhiaqvnn",
+                    "label": "Drumcode",
+                    "name": "Where It Begins",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "7nYUrN0wRHeWS9mYwdT1MQ",
+                      "shareUrl": "https://open.spotify.com/album/5OHzrlhfCC94pfWhiaqvnn?si=7nYUrN0wRHeWS9mYwdT1MQ"
+                    },
+                    "tracks": {
+                      "totalCount": 12
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:5OHzrlhfCC94pfWhiaqvnn"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 2
+        },
+        "compilations": {
+          "items": [],
+          "totalCount": 0
+        },
+        "latest": {
+          "copyright": {
+            "items": [
+              {
+                "text": "2025 Drumcode",
+                "type": "C"
+              },
+              {
+                "text": "2025 Drumcode",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02b71c8e9912c886b57c45dbf6",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851b71c8e9912c886b57c45dbf6",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b71c8e9912c886b57c45dbf6",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 28,
+            "month": 2,
+            "precision": "DAY",
+            "year": 2025
+          },
+          "id": "1KrV7mXE0n4n6OncRaEuPB",
+          "label": "Drumcode",
+          "name": "Deadly Valentine",
+          "playability": {
+            "playable": true,
+            "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+            "shareId": "WW2Q_QXlRHm86O6s9APm6g",
+            "shareUrl": "https://open.spotify.com/album/1KrV7mXE0n4n6OncRaEuPB?si=WW2Q_QXlRHm86O6s9APm6g"
+          },
+          "tracks": {
+            "totalCount": 1
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:1KrV7mXE0n4n6OncRaEuPB"
+        },
+        "popularReleasesAlbums": {
+          "items": [
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2024 Nervous Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2024 Nervous Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e023d5709200b8d7b2612210186",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048513d5709200b8d7b2612210186",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733d5709200b8d7b2612210186",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 17,
+                "month": 5,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "001JSP4fD2dw3KA95XFxOa",
+              "label": "Nervous Records",
+              "name": "Last Night (Anyma x Layton Giordani Remix)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "tOjUrqzdQAaIzT0zx_5jfA",
+                "shareUrl": "https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa?si=tOjUrqzdQAaIzT0zx_5jfA"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:001JSP4fD2dw3KA95XFxOa"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2024 Drumcode",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2024 Drumcode",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0288ebf4ac1447fcf595e899ea",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485188ebf4ac1447fcf595e899ea",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27388ebf4ac1447fcf595e899ea",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 19,
+                "month": 1,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "1mvCo6lKqirk2mq56tiMRy",
+              "label": "Drumcode",
+              "name": "When I Push (Edit)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "uXIgMJy0QnGgz26hwGb7Wg",
+                "shareUrl": "https://open.spotify.com/album/1mvCo6lKqirk2mq56tiMRy?si=uXIgMJy0QnGgz26hwGb7Wg"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1mvCo6lKqirk2mq56tiMRy"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2025 Experts Only",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2025 Experts Only",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f2182e14f063386387307259",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f2182e14f063386387307259",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f2182e14f063386387307259",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 24,
+                "month": 1,
+                "precision": "DAY",
+                "year": 2025
+              },
+              "id": "3uKmknD3G3fnCLgcCg70V0",
+              "label": "Experts Only",
+              "name": "Act of God",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "e1yxQP4xTkucaR5nEaVyBw",
+                "shareUrl": "https://open.spotify.com/album/3uKmknD3G3fnCLgcCg70V0?si=e1yxQP4xTkucaR5nEaVyBw"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:3uKmknD3G3fnCLgcCg70V0"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "(P) 2024 Three Six Zero Recordings/Sony Music Entertainment under exclusive license from Dom Dolla Music Pty Ltd",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02bc7519e998907937c892021d",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851bc7519e998907937c892021d",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273bc7519e998907937c892021d",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 19,
+                "month": 7,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "2vcisyP9y8jUFqI7W6x7BN",
+              "label": "Three Six Zero Recordings/Columbia Records",
+              "name": "girl$ (Layton Giordani Remix)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "tJKf3fjwTcy3Gjefl3-CCQ",
+                "shareUrl": "https://open.spotify.com/album/2vcisyP9y8jUFqI7W6x7BN?si=tJKf3fjwTcy3Gjefl3-CCQ"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:2vcisyP9y8jUFqI7W6x7BN"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2022 \u00a9 2022 Drumcode",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2022 \u2117 2022 Drumcode",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02150df7e71d2128b040c815dc",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851150df7e71d2128b040c815dc",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273150df7e71d2128b040c815dc",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 24,
+                "month": 6,
+                "precision": "DAY",
+                "year": 2022
+              },
+              "id": "6PyxW7J95s2e5ZuzoZcG0H",
+              "label": "Drumcode",
+              "name": "Rave (Remix)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "c4gqdnP3QrqJWNmSncHVUg",
+                "shareUrl": "https://open.spotify.com/album/6PyxW7J95s2e5ZuzoZcG0H?si=c4gqdnP3QrqJWNmSncHVUg"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:6PyxW7J95s2e5ZuzoZcG0H"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2020 Drumcode",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2020 Drumcode",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c0bf0d4998bfb201ee4f16b9",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c0bf0d4998bfb201ee4f16b9",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c0bf0d4998bfb201ee4f16b9",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 14,
+                "month": 9,
+                "precision": "DAY",
+                "year": 2020
+              },
+              "id": "18BzrmOh8i9h9VGaJLOtAs",
+              "label": "Drumcode",
+              "name": "New Generation",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "mMggVE5HQfK2EO6crooEqQ",
+                "shareUrl": "https://open.spotify.com/album/18BzrmOh8i9h9VGaJLOtAs?si=mMggVE5HQfK2EO6crooEqQ"
+              },
+              "tracks": {
+                "totalCount": 11
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:18BzrmOh8i9h9VGaJLOtAs"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2023 Drumcode",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2023 Drumcode",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024b71705618bbd16779e630b9",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514b71705618bbd16779e630b9",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734b71705618bbd16779e630b9",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 24,
+                "month": 2,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "0oNJfZFoypJFKQtOHAvPgW",
+              "label": "Drumcode",
+              "name": "Life Moves Fast",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "QHWpD-FuSKyhCW-zeQgPBQ",
+                "shareUrl": "https://open.spotify.com/album/0oNJfZFoypJFKQtOHAvPgW?si=QHWpD-FuSKyhCW-zeQgPBQ"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:0oNJfZFoypJFKQtOHAvPgW"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2024 Drumcode",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2024 Drumcode",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0212643878170a0384000153e5",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485112643878170a0384000153e5",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27312643878170a0384000153e5",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 26,
+                "month": 4,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "77RCWyzeOsqkIH0QFNdrjH",
+              "label": "Drumcode",
+              "name": "New Generation (Space 92 Remix)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "uzXvrQmdSViJ4dh3ebsgMQ",
+                "shareUrl": "https://open.spotify.com/album/77RCWyzeOsqkIH0QFNdrjH?si=uzXvrQmdSViJ4dh3ebsgMQ"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:77RCWyzeOsqkIH0QFNdrjH"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2023 Drumcode",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2023 Drumcode",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020b8b880aa3427bf454283e3d",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510b8b880aa3427bf454283e3d",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730b8b880aa3427bf454283e3d",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 2,
+                "month": 6,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "53kkvZnrWCe8HOFQGr7o3h",
+              "label": "Drumcode",
+              "name": "Phantom",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "FHyCrRnSR3CRuDIu8qDOxQ",
+                "shareUrl": "https://open.spotify.com/album/53kkvZnrWCe8HOFQGr7o3h?si=FHyCrRnSR3CRuDIu8qDOxQ"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:53kkvZnrWCe8HOFQGr7o3h"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2022 Drumcode",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2022 Drumcode",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02c822735b8415aed6046cc23c",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851c822735b8415aed6046cc23c",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c822735b8415aed6046cc23c",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 18,
+                "month": 11,
+                "precision": "DAY",
+                "year": 2022
+              },
+              "id": "6IUAm6HwphfHgl7KJz0X7w",
+              "label": "Drumcode",
+              "name": "Rabbit Hole",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "bFK3OrS-Tu-UoXXiEcDMVg",
+                "shareUrl": "https://open.spotify.com/album/6IUAm6HwphfHgl7KJz0X7w?si=bFK3OrS-Tu-UoXXiEcDMVg"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:6IUAm6HwphfHgl7KJz0X7w"
+            }
+          ],
+          "totalCount": 20
+        },
+        "singles": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2025 Drumcode",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2025 Drumcode",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b71c8e9912c886b57c45dbf6",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b71c8e9912c886b57c45dbf6",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b71c8e9912c886b57c45dbf6",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 28,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "1KrV7mXE0n4n6OncRaEuPB",
+                    "label": "Drumcode",
+                    "name": "Deadly Valentine",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "WW2Q_QXlRHm86O6s9APm6g",
+                      "shareUrl": "https://open.spotify.com/album/1KrV7mXE0n4n6OncRaEuPB?si=WW2Q_QXlRHm86O6s9APm6g"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1KrV7mXE0n4n6OncRaEuPB"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2025 Experts Only",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2025 Experts Only",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02f2182e14f063386387307259",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851f2182e14f063386387307259",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273f2182e14f063386387307259",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 24,
+                      "month": 1,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "3uKmknD3G3fnCLgcCg70V0",
+                    "label": "Experts Only",
+                    "name": "Act of God",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "e1yxQP4xTkucaR5nEaVyBw",
+                      "shareUrl": "https://open.spotify.com/album/3uKmknD3G3fnCLgcCg70V0?si=e1yxQP4xTkucaR5nEaVyBw"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3uKmknD3G3fnCLgcCg70V0"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Armada Music B.V. / Drumcode under exclusive license from BEAT Music Fund",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Armada Music B.V. / Drumcode under exclusive license from BEAT Music Fund",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e022bd29ccabd4771943fc770d0",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048512bd29ccabd4771943fc770d0",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2732bd29ccabd4771943fc770d0",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 4,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "3dX3gMN0GRtPuuLamZrlKN",
+                    "label": "Armada Music",
+                    "name": "Let's Go Dancing",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "iaIxOKxxRY-I2bJP3KpQ9w",
+                      "shareUrl": "https://open.spotify.com/album/3dX3gMN0GRtPuuLamZrlKN?si=iaIxOKxxRY-I2bJP3KpQ9w"
+                    },
+                    "tracks": {
+                      "totalCount": 3
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3dX3gMN0GRtPuuLamZrlKN"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(C) 2024 EpicWin Ltd under exclusive license to AWAL Recordings America, Inc.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "(P) 2024 EpicWin Ltd under exclusive license to AWAL Recordings America, Inc.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ba653792ea55b457285f6b7a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ba653792ea55b457285f6b7a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ba653792ea55b457285f6b7a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 13,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "4gHKBgy4cnSq5dS8qmxlkO",
+                    "label": "EpicWin Ltd",
+                    "name": "Strobe (Layton Giordani Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "ooEfJ-9mSjy6js2DSWv8Yw",
+                      "shareUrl": "https://open.spotify.com/album/4gHKBgy4cnSq5dS8qmxlkO?si=ooEfJ-9mSjy6js2DSWv8Yw"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4gHKBgy4cnSq5dS8qmxlkO"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Factory 93 Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Factory 93 Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021a20c1e92e974954d73b732a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511a20c1e92e974954d73b732a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731a20c1e92e974954d73b732a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 30,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "5LaUQcTL2F4TtqRbIZdxiG",
+                    "label": "Factory 93 Records",
+                    "name": "Better Than U Thought",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "BfdFTLZrSgqIFlwkAJR9xw",
+                      "shareUrl": "https://open.spotify.com/album/5LaUQcTL2F4TtqRbIZdxiG?si=BfdFTLZrSgqIFlwkAJR9xw"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5LaUQcTL2F4TtqRbIZdxiG"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "(P) 2024 Three Six Zero Recordings/Sony Music Entertainment under exclusive license from Dom Dolla Music Pty Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02bc7519e998907937c892021d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851bc7519e998907937c892021d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273bc7519e998907937c892021d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 19,
+                      "month": 7,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "2vcisyP9y8jUFqI7W6x7BN",
+                    "label": "Three Six Zero Recordings/Columbia Records",
+                    "name": "girl$ (Layton Giordani Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "tJKf3fjwTcy3Gjefl3-CCQ",
+                      "shareUrl": "https://open.spotify.com/album/2vcisyP9y8jUFqI7W6x7BN?si=tJKf3fjwTcy3Gjefl3-CCQ"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:2vcisyP9y8jUFqI7W6x7BN"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Drumcode",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Drumcode",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025710080f2b69e06d5b43e8ee",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515710080f2b69e06d5b43e8ee",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735710080f2b69e06d5b43e8ee",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 21,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "7kxCqxCTpTGTLj61xXksz7",
+                    "label": "Drumcode",
+                    "name": "Freaks at Night",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "ebtAZucXR8e7P0pUuRNeYA",
+                      "shareUrl": "https://open.spotify.com/album/7kxCqxCTpTGTLj61xXksz7?si=ebtAZucXR8e7P0pUuRNeYA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7kxCqxCTpTGTLj61xXksz7"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Nervous Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Nervous Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e023d5709200b8d7b2612210186",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048513d5709200b8d7b2612210186",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2733d5709200b8d7b2612210186",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 17,
+                      "month": 5,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "001JSP4fD2dw3KA95XFxOa",
+                    "label": "Nervous Records",
+                    "name": "Last Night (Anyma x Layton Giordani Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "tOjUrqzdQAaIzT0zx_5jfA",
+                      "shareUrl": "https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa?si=tOjUrqzdQAaIzT0zx_5jfA"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:001JSP4fD2dw3KA95XFxOa"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Drumcode",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Drumcode",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0212643878170a0384000153e5",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485112643878170a0384000153e5",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27312643878170a0384000153e5",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 26,
+                      "month": 4,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "77RCWyzeOsqkIH0QFNdrjH",
+                    "label": "Drumcode",
+                    "name": "New Generation (Space 92 Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "uzXvrQmdSViJ4dh3ebsgMQ",
+                      "shareUrl": "https://open.spotify.com/album/77RCWyzeOsqkIH0QFNdrjH?si=uzXvrQmdSViJ4dh3ebsgMQ"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:77RCWyzeOsqkIH0QFNdrjH"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Armada Music B.V. / Drumcode under exclusive license from Yoshitoshi",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Armada Music B.V. / Drumcode under exclusive license from Yoshitoshi",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02badd4980f6c0c9d638f13d04",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851badd4980f6c0c9d638f13d04",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273badd4980f6c0c9d638f13d04",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 5,
+                      "month": 4,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "5iYWRlPNkKIx6tsAxPmnHU",
+                    "label": "Armada Music",
+                    "name": "PATT (Party All The Time) [Adam Beyer, Layton Giordani & Green Velvet Remix]",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "VJifkY4SSgakS5lw4Eqzvw",
+                      "shareUrl": "https://open.spotify.com/album/5iYWRlPNkKIx6tsAxPmnHU?si=VJifkY4SSgakS5lw4Eqzvw"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5iYWRlPNkKIx6tsAxPmnHU"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 35
+        },
+        "topTracks": {
+          "items": [
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e023d5709200b8d7b2612210186"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048513d5709200b8d7b2612210186"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2733d5709200b8d7b2612210186"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:001JSP4fD2dw3KA95XFxOa"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Loofy"
+                      },
+                      "uri": "spotify:artist:6zx3vuOK841XDu7XFozhFv"
+                    },
+                    {
+                      "profile": {
+                        "name": "Anyma"
+                      },
+                      "uri": "spotify:artist:4iBwchw0U0GZv5RfVYSMxN"
+                    },
+                    {
+                      "profile": {
+                        "name": "Layton Giordani"
+                      },
+                      "uri": "spotify:artist:7mC3RkNNTV6p2j9w4F8Ip4"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 256743
+                },
+                "id": "22hOKPKTAegLoLJKM33K4a",
+                "name": "Last Night - Anyma x Layton Giordani Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "23199700",
+                "uri": "spotify:track:22hOKPKTAegLoLJKM33K4a"
+              },
+              "uid": "49b47cd6654c700333aa"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e021a0f0570b3524141317c28b9"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048511a0f0570b3524141317c28b9"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2731a0f0570b3524141317c28b9"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:5GqWIHTVjceZXGpzIc1a2J"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Sharam"
+                      },
+                      "uri": "spotify:artist:7rVEQZBDtYmToQaYOQJCm2"
+                    },
+                    {
+                      "profile": {
+                        "name": "Adam Beyer"
+                      },
+                      "uri": "spotify:artist:1btv9qmIpbp7q1ixCYNdHu"
+                    },
+                    {
+                      "profile": {
+                        "name": "Layton Giordani"
+                      },
+                      "uri": "spotify:artist:7mC3RkNNTV6p2j9w4F8Ip4"
+                    },
+                    {
+                      "profile": {
+                        "name": "Green Velvet"
+                      },
+                      "uri": "spotify:artist:3ABaec4jjl95VqmG1iD4k2"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 183157
+                },
+                "id": "6DFHSmlrZLDZnXV5kTTMF6",
+                "name": "PATT (Party All The Time) - Adam Beyer, Layton Giordani & Green Velvet Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "14358038",
+                "uri": "spotify:track:6DFHSmlrZLDZnXV5kTTMF6"
+              },
+              "uid": "722933c32bc19658fe4b"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0288ebf4ac1447fcf595e899ea"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485188ebf4ac1447fcf595e899ea"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27388ebf4ac1447fcf595e899ea"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:1mvCo6lKqirk2mq56tiMRy"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Eli Brown"
+                      },
+                      "uri": "spotify:artist:5lVNSw2GPci8kebrAQpZqU"
+                    },
+                    {
+                      "profile": {
+                        "name": "Layton Giordani"
+                      },
+                      "uri": "spotify:artist:7mC3RkNNTV6p2j9w4F8Ip4"
+                    },
+                    {
+                      "profile": {
+                        "name": "OFFAIAH"
+                      },
+                      "uri": "spotify:artist:2E1NFr5AeEGUJkLUUsWCAO"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 213582
+                },
+                "id": "5poZz8srlh8P5XjKsHKXj7",
+                "name": "When I Push - Edit",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "12107820",
+                "uri": "spotify:track:5poZz8srlh8P5XjKsHKXj7"
+              },
+              "uid": "3acc3cd81d6c581f3425"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f2182e14f063386387307259"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851f2182e14f063386387307259"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f2182e14f063386387307259"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:3uKmknD3G3fnCLgcCg70V0"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Layton Giordani"
+                      },
+                      "uri": "spotify:artist:7mC3RkNNTV6p2j9w4F8Ip4"
+                    },
+                    {
+                      "profile": {
+                        "name": "Linney"
+                      },
+                      "uri": "spotify:artist:0vomb9Zaob10lPzxBcIiNb"
+                    },
+                    {
+                      "profile": {
+                        "name": "Sarah de Warren"
+                      },
+                      "uri": "spotify:artist:2V431yZGG08uroH2CZAgur"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 232558
+                },
+                "id": "5712EypGa7HP0wusr6zRFj",
+                "name": "Act of God",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1020141",
+                "uri": "spotify:track:5712EypGa7HP0wusr6zRFj"
+              },
+              "uid": "584392f574dc6f9995ec"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02bc7519e998907937c892021d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851bc7519e998907937c892021d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273bc7519e998907937c892021d"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:2vcisyP9y8jUFqI7W6x7BN"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Dom Dolla"
+                      },
+                      "uri": "spotify:artist:205i7E8fNVfojowcQSfK9m"
+                    },
+                    {
+                      "profile": {
+                        "name": "Layton Giordani"
+                      },
+                      "uri": "spotify:artist:7mC3RkNNTV6p2j9w4F8Ip4"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 184477
+                },
+                "id": "3ZzafniLjEBqRM7GeyRcvz",
+                "name": "girl$ - Layton Giordani Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "3906612",
+                "uri": "spotify:track:3ZzafniLjEBqRM7GeyRcvz"
+              },
+              "uid": "56e4004a4f381723eea5"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02746d7e6d61ec804bcaec317a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851746d7e6d61ec804bcaec317a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273746d7e6d61ec804bcaec317a"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:3ey1jQ8gUe2E8KRT8Flfjv"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Layton Giordani"
+                      },
+                      "uri": "spotify:artist:7mC3RkNNTV6p2j9w4F8Ip4"
+                    },
+                    {
+                      "profile": {
+                        "name": "Tiga"
+                      },
+                      "uri": "spotify:artist:5l9wiTZVfqQTfMDOt0HtwC"
+                    },
+                    {
+                      "profile": {
+                        "name": "Audion"
+                      },
+                      "uri": "spotify:artist:1ygSVTF0A998n2Z3nmLei8"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 1
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 228372
+                },
+                "id": "5se4SpUxbStmWGZngKWqLU",
+                "name": "Let's Go Dancing",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1485427",
+                "uri": "spotify:track:5se4SpUxbStmWGZngKWqLU"
+              },
+              "uid": "4af6ab522da9dad93cd8"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02150df7e71d2128b040c815dc"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851150df7e71d2128b040c815dc"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273150df7e71d2128b040c815dc"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6PyxW7J95s2e5ZuzoZcG0H"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Sam Paganini"
+                      },
+                      "uri": "spotify:artist:50ZyjIaVHOy5Xt7FLJ7RZl"
+                    },
+                    {
+                      "profile": {
+                        "name": "Adam Beyer"
+                      },
+                      "uri": "spotify:artist:1btv9qmIpbp7q1ixCYNdHu"
+                    },
+                    {
+                      "profile": {
+                        "name": "Layton Giordani"
+                      },
+                      "uri": "spotify:artist:7mC3RkNNTV6p2j9w4F8Ip4"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 239083
+                },
+                "id": "1xcxd5hIP1hkU3IOebJkuo",
+                "name": "Rave - Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "16722033",
+                "uri": "spotify:track:1xcxd5hIP1hkU3IOebJkuo"
+              },
+              "uid": "ca48f4583d3eda4e6bca"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e024b71705618bbd16779e630b9"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048514b71705618bbd16779e630b9"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734b71705618bbd16779e630b9"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:0oNJfZFoypJFKQtOHAvPgW"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Layton Giordani"
+                      },
+                      "uri": "spotify:artist:7mC3RkNNTV6p2j9w4F8Ip4"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 233673
+                },
+                "id": "2qnLd7v8htk8uHQaoUecLs",
+                "name": "Life Moves Fast",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "3676019",
+                "uri": "spotify:track:2qnLd7v8htk8uHQaoUecLs"
+              },
+              "uid": "181dbda5117c051584ea"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e020b8b880aa3427bf454283e3d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048510b8b880aa3427bf454283e3d"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2730b8b880aa3427bf454283e3d"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:53kkvZnrWCe8HOFQGr7o3h"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Layton Giordani"
+                      },
+                      "uri": "spotify:artist:7mC3RkNNTV6p2j9w4F8Ip4"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 222222
+                },
+                "id": "4kh3BO905A2aAY17lug2eV",
+                "name": "Phantom",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "6408062",
+                "uri": "spotify:track:4kh3BO905A2aAY17lug2eV"
+              },
+              "uid": "8fa0392a28b93155c6c8"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02c822735b8415aed6046cc23c"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851c822735b8415aed6046cc23c"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273c822735b8415aed6046cc23c"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6IUAm6HwphfHgl7KJz0X7w"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Layton Giordani"
+                      },
+                      "uri": "spotify:artist:7mC3RkNNTV6p2j9w4F8Ip4"
+                    },
+                    {
+                      "profile": {
+                        "name": "HI-LO"
+                      },
+                      "uri": "spotify:artist:0ETJQforv5OXgDgidQv9qd"
+                    },
+                    {
+                      "profile": {
+                        "name": "Oliver Heldens"
+                      },
+                      "uri": "spotify:artist:5nki7yRhxgM509M5ADlN1p"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 238736
+                },
+                "id": "4XYMXM0swmIehCu79rEgAV",
+                "name": "Rabbit Hole",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "6457823",
+                "uri": "spotify:track:4XYMXM0swmIehCu79rEgAV"
+              },
+              "uid": "cfae940e7f276c24a754"
+            }
+          ]
+        }
+      },
+      "goods": {
+        "concerts": {
+          "items": [
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Ciudad De La Costa",
+                  "name": "HANGAR 33"
+                },
+                "startDateIsoString": "2025-03-08T22:00-03:00",
+                "title": "Layton Giordani",
+                "uri": "spotify:concert:6Grn5lILatDiK07675ti21"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Mendoza",
+                  "name": "Bodega A16"
+                },
+                "startDateIsoString": "2025-03-14T22:00-03:00",
+                "title": "Layton Giordani",
+                "uri": "spotify:concert:2l5TFeJar3NcAifMAVxIEm"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "C\u00f3rdoba",
+                  "name": "La Estaci\u00f3n"
+                },
+                "startDateIsoString": "2025-03-15T23:00-03:00",
+                "title": "Layton Giordani",
+                "uri": "spotify:concert:0g1ZjP5V7A74OWlvB7Td9s"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Miami",
+                  "name": "Toe Jam Backlot"
+                },
+                "startDateIsoString": "2025-03-26T23:00-04:00",
+                "title": "Max Styler, Layton Giordani",
+                "uri": "spotify:concert:327kSPE2diNBsh7EBYg6ZJ"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Miami",
+                  "name": "National Hotel"
+                },
+                "startDateIsoString": "2025-03-29T13:00-04:00",
+                "title": "Green Velvet, Layton Giordani, Justin Martin, AYYBO, Victor Calderone, Shimza, RaeCola, Cajmere, Monoky",
+                "uri": "spotify:concert:4Oh5JYA07R6sG7noy1jqAw"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Miami",
+                  "name": "Factory Town"
+                },
+                "startDateIsoString": "2025-03-29T22:00-04:00",
+                "title": "Max Styler, Layton Giordani",
+                "uri": "spotify:concert:28AxR1YUYGGWyoKWmynxVi"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Jacksonville",
+                  "name": "Decca Live"
+                },
+                "startDateIsoString": "2025-04-04T22:00-04:00",
+                "title": "Layton Giordani, VAVO",
+                "uri": "spotify:concert:6rZs2lQkxZt6tD35Yg7dbz"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Las Vegas",
+                  "name": "LIV Las Vegas"
+                },
+                "startDateIsoString": "2025-04-05T22:30-07:00",
+                "title": "Layton Giordani",
+                "uri": "spotify:concert:04pifd27bzK2HrwpfWGaGq"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Incheon",
+                  "name": "EDC Korea"
+                },
+                "startDateIsoString": "2025-04-25T22:00+09:00",
+                "title": "Layton Giordani",
+                "uri": "spotify:concert:55HuvAqLh0seqyJniPcNs5"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Las Vegas",
+                  "name": "LIV Beach"
+                },
+                "startDateIsoString": "2025-05-02T11:30-07:00",
+                "title": "Layton Giordani",
+                "uri": "spotify:concert:3mdbxAlL9PN155ZWIxaZhn"
+              }
+            }
+          ],
+          "totalCount": 24
+        },
+        "merch": {
+          "items": []
+        }
+      },
+      "headerImage": {
+        "data": {
+          "__typename": "ImageV2",
+          "sources": [
+            {
+              "maxHeight": 640,
+              "maxWidth": 1494,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67618600000194bac80ac51f5880af26b35a95"
+            },
+            {
+              "maxHeight": 1080,
+              "maxWidth": 1920,
+              "url": "https://i2o.scdn.co/image/ab67618600001667bac80ac51f5880af26b35a95"
+            },
+            {
+              "maxHeight": 641,
+              "maxWidth": 1495,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67618600009d80bac80ac51f5880af26b35a95"
+            },
+            {
+              "maxHeight": 1140,
+              "maxWidth": 2660,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab6761860000eab1bac80ac51f5880af26b35a95"
+            }
+          ]
+        }
+      },
+      "id": "7mC3RkNNTV6p2j9w4F8Ip4",
+      "preRelease": null,
+      "profile": {
+        "biography": {
+          "text": "Layton Giordani continues to reign as a trailblazer in the house and techno world, solidifying his presence at the forefront of the global scene. A New York native, Giordani\u2019s journey into electronic music began in his teens, inspired by the legendary sets of Danny Tenaglia at Pacha NY. This profound experience drove him to pursue a career behind the decks, eventually securing a pivotal residency at Output NY in Brooklyn. Here, Giordani&#39;s talent flourished, catching the eyes of notable figures in the techno scene.\n\nGiordani\u2019s big break came under the mentorship of Adam Beyer, the techno heavyweight behind the label Drumcode. With Beyer\u2019s support, Layton\u2019s debut \u2018Unspoken\u2019 EP on Truesoul, followed quickly by his debut on Drumcode with Rivington, marked his arrival as a rising force in the techno scene. \n\nFast forward to 2024, Giordani released 10 massive tracks, including his remix of \u2018Last Night\u2019 with Anyma which rocketed to #1 overall on Beatport and surpassed 100,000 daily streams on Spotify at its peak. Prior to this, \u2018PATT (Party All The Time)\u2019 with Adam Beyer and Green Velvet also topped the charts. Other notable releases from the year include \u2018Paranoid\u2019, Giordani\u2019s debut on Experts Only, his remix of Dom Dolla\u2019s \u2018girl$\u2019, and first official remix of deadmau5\u2019s \u2018Strobe.\u2019 \n\nThese accolades have quickly made Giordani one of the hottest names in house and techno to keep an eye on for 2025 and beyond.",
+          "type": "AUTOBIOGRAPHY"
+        },
+        "externalLinks": {
+          "items": [
+            {
+              "name": "FACEBOOK",
+              "url": "https://facebook.com/laytongiordani"
+            },
+            {
+              "name": "INSTAGRAM",
+              "url": "https://instagram.com/laytongiordani"
+            },
+            {
+              "name": "TWITTER",
+              "url": "https://twitter.com/laytongiordani"
+            }
+          ]
+        },
+        "name": "Layton Giordani",
+        "pinnedItem": {
+          "backgroundImageV2": null,
+          "comment": "out nowww \u2764\ufe0f\u200d\ud83d\udd25",
+          "itemV2": {
+            "__typename": "AlbumResponseWrapper",
+            "data": {
+              "__typename": "Album",
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02b71c8e9912c886b57c45dbf6",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851b71c8e9912c886b57c45dbf6",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b71c8e9912c886b57c45dbf6",
+                    "width": 640
+                  }
+                ]
+              },
+              "name": "Deadly Valentine",
+              "type": "SINGLE",
+              "uri": "spotify:album:1KrV7mXE0n4n6OncRaEuPB"
+            }
+          },
+          "subtitle": "Single \u2022 New Release",
+          "thumbnailImage": {
+            "data": {
+              "sources": [
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000075a0b71c8e9912c886b57c45dbf6"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d000090d5b71c8e9912c886b57c45dbf6"
+                },
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab67616d0000ab87b71c8e9912c886b57c45dbf6"
+                }
+              ]
+            }
+          },
+          "title": "Deadly Valentine",
+          "type": "ALBUM",
+          "uri": "spotify:album:1KrV7mXE0n4n6OncRaEuPB"
+        },
+        "playlistsV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Layton Giordani. The essential tracks, all in one playlist.",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4mgV36-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "This Is Layton Giordani",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO4mgV36"
+              }
+            }
+          ],
+          "totalCount": 1
+        },
+        "verified": true
+      },
+      "relatedContent": {
+        "appearsOn": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Armin van Buuren"
+                          },
+                          "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0217a981d50d000a4c48f6807a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485117a981d50d000a4c48f6807a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27317a981d50d000a4c48f6807a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "0mvD9eqmYwZz0OZHJwOVjp",
+                    "name": "A State of Trance Year Mix 2024 (Mixed by Armin van Buuren)",
+                    "sharingInfo": {
+                      "shareId": "MgfCs4NlTi2G29hHbw36gg",
+                      "shareUrl": "https://open.spotify.com/album/0mvD9eqmYwZz0OZHJwOVjp?si=MgfCs4NlTi2G29hHbw36gg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:0mvD9eqmYwZz0OZHJwOVjp"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02fcf5f85013aa9c7d6c348728",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851fcf5f85013aa9c7d6c348728",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273fcf5f85013aa9c7d6c348728",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "0l36hakh6eix8OnIF5osST",
+                    "name": "A State of Trance Year Mix 2024 (Selected by Armin van Buuren)",
+                    "sharingInfo": {
+                      "shareId": "IbSQ0YxmRoeEkkqOrKhIuQ",
+                      "shareUrl": "https://open.spotify.com/album/0l36hakh6eix8OnIF5osST?si=IbSQ0YxmRoeEkkqOrKhIuQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:0l36hakh6eix8OnIF5osST"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Armin van Buuren"
+                          },
+                          "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021cf8f6477fd02c8431863ea1",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511cf8f6477fd02c8431863ea1",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731cf8f6477fd02c8431863ea1",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "4mOiFiFmD9rjLUvjgJzL8i",
+                    "name": "A State of Trance Radio Top 50 - 2024, Vol, 2",
+                    "sharingInfo": {
+                      "shareId": "hUBhkPBTTAWTNodv6Y9gXw",
+                      "shareUrl": "https://open.spotify.com/album/4mOiFiFmD9rjLUvjgJzL8i?si=hUBhkPBTTAWTNodv6Y9gXw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4mOiFiFmD9rjLUvjgJzL8i"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0254d100c9fc76f5916804378a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485154d100c9fc76f5916804378a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27354d100c9fc76f5916804378a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "38ezuNxMBVB0FsiF29Wo3P",
+                    "name": "Armada Music Year Mix 2024",
+                    "sharingInfo": {
+                      "shareId": "2KAkFCZdQAW2OZLsDGgB3A",
+                      "shareUrl": "https://open.spotify.com/album/38ezuNxMBVB0FsiF29Wo3P?si=2KAkFCZdQAW2OZLsDGgB3A"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:38ezuNxMBVB0FsiF29Wo3P"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "deadmau5"
+                          },
+                          "uri": "spotify:artist:2CIMQHirSU0MQqyYHq0eOx"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02bca5d19eda3243dc3d88851d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851bca5d19eda3243dc3d88851d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273bca5d19eda3243dc3d88851d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "7ynt5ILHydfzqMTBhEZqBf",
+                    "name": "Strobe (2024 Remixes)",
+                    "sharingInfo": {
+                      "shareId": "VYYpGwY2T6m0IzekE6uVBQ",
+                      "shareUrl": "https://open.spotify.com/album/7ynt5ILHydfzqMTBhEZqBf?si=VYYpGwY2T6m0IzekE6uVBQ"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7ynt5ILHydfzqMTBhEZqBf"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02930c51d1e42bb27df5bb68aa",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851930c51d1e42bb27df5bb68aa",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273930c51d1e42bb27df5bb68aa",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2025
+                    },
+                    "id": "75V2d2Kscyr1GffXyCVASq",
+                    "name": "Drumcode Presents: 2024",
+                    "sharingInfo": {
+                      "shareId": "nIkOdJoCRr60Y-WUUe7Ktw",
+                      "shareUrl": "https://open.spotify.com/album/75V2d2Kscyr1GffXyCVASq?si=nIkOdJoCRr60Y-WUUe7Ktw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:75V2d2Kscyr1GffXyCVASq"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Amelie Lens"
+                          },
+                          "uri": "spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0228d78ee0f5758474fd8ae579",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485128d78ee0f5758474fd8ae579",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27328d78ee0f5758474fd8ae579",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "2TGeXmcebG4mLWM5t2t1Tg",
+                    "name": "Global Underground #44: Amelie Lens - Antwerp (DJ Mix)",
+                    "sharingInfo": {
+                      "shareId": "AMnod-hVSBCXIU5OWzBVxg",
+                      "shareUrl": "https://open.spotify.com/album/2TGeXmcebG4mLWM5t2t1Tg?si=AMnod-hVSBCXIU5OWzBVxg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2TGeXmcebG4mLWM5t2t1Tg"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Armin van Buuren"
+                          },
+                          "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025794c9492297ece30ecbd43c",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515794c9492297ece30ecbd43c",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735794c9492297ece30ecbd43c",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "5y9UMEZY5e47d66v1GDTm9",
+                    "name": "Live at Ultra Music Festival Miami 2024 (Mainstage) [Highlights]",
+                    "sharingInfo": {
+                      "shareId": "RtNSfV_oQA2gez9FxPHI7Q",
+                      "shareUrl": "https://open.spotify.com/album/5y9UMEZY5e47d66v1GDTm9?si=RtNSfV_oQA2gez9FxPHI7Q"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:5y9UMEZY5e47d66v1GDTm9"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Armin van Buuren ASOT Radio"
+                          },
+                          "uri": "spotify:artist:25mFVpuABa9GkGcj9eOPce"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02badb8f3f8b1ab150364dbd5d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851badb8f3f8b1ab150364dbd5d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273badb8f3f8b1ab150364dbd5d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "6LdnqjXafgAXkslvzLt9Rz",
+                    "name": "ASOT 1199 - A State of Trance Episode 1199 [Including Armin Anthems (Incl. Bonus Commentary) [Ultimate Singles Collected]]",
+                    "sharingInfo": {
+                      "shareId": "lZOQP9QZQT6uFltrJO-pGw",
+                      "shareUrl": "https://open.spotify.com/album/6LdnqjXafgAXkslvzLt9Rz?si=lZOQP9QZQT6uFltrJO-pGw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6LdnqjXafgAXkslvzLt9Rz"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "OFFAIAH"
+                          },
+                          "uri": "spotify:artist:2E1NFr5AeEGUJkLUUsWCAO"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0260cd819b7701958d907dbc74",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485160cd819b7701958d907dbc74",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27360cd819b7701958d907dbc74",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "1uHzlMAyLadVdQkTv4KuFo",
+                    "name": "Armada Subjekt Sessions - ADE 2024 (Mixed by OFFAIAH)",
+                    "sharingInfo": {
+                      "shareId": "7za-SCl3SHOrKNeQPizINA",
+                      "shareUrl": "https://open.spotify.com/album/1uHzlMAyLadVdQkTv4KuFo?si=7za-SCl3SHOrKNeQPizINA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:1uHzlMAyLadVdQkTv4KuFo"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Armin van Buuren"
+                          },
+                          "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020732cfba5911bcc856c3feac",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510732cfba5911bcc856c3feac",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730732cfba5911bcc856c3feac",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "7jnx3HuMtf4wJfJzYeNyDX",
+                    "name": "Live at Tomorrowland Winter 2024 (Mainstage) [Highlights]",
+                    "sharingInfo": {
+                      "shareId": "aoUdj70KQvKgE_vfE2FghA",
+                      "shareUrl": "https://open.spotify.com/album/7jnx3HuMtf4wJfJzYeNyDX?si=aoUdj70KQvKgE_vfE2FghA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:7jnx3HuMtf4wJfJzYeNyDX"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02df4ac9c2b9aa977447b4ff33",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851df4ac9c2b9aa977447b4ff33",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273df4ac9c2b9aa977447b4ff33",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "7ASFtJrUmj8hKixH2mShW1",
+                    "name": "A-Sides, Vol. 8",
+                    "sharingInfo": {
+                      "shareId": "FOhBlsjSRiSXb-qJXtwEvw",
+                      "shareUrl": "https://open.spotify.com/album/7ASFtJrUmj8hKixH2mShW1?si=FOhBlsjSRiSXb-qJXtwEvw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:7ASFtJrUmj8hKixH2mShW1"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025ddad7bf882179ded8bba69f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515ddad7bf882179ded8bba69f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735ddad7bf882179ded8bba69f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2016
+                    },
+                    "id": "2PnItJrQA4ghuEDI2szVRM",
+                    "name": "A-Sides, Vol. 5 (20 Years 20 Tracks)",
+                    "sharingInfo": {
+                      "shareId": "7TWaye-vRnyai8n4ODCJKA",
+                      "shareUrl": "https://open.spotify.com/album/2PnItJrQA4ghuEDI2szVRM?si=7TWaye-vRnyai8n4ODCJKA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:2PnItJrQA4ghuEDI2szVRM"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02f623bde481334936bd373d62",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851f623bde481334936bd373d62",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273f623bde481334936bd373d62",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "1NrtwNRJLUQKOBLuYPjrfD",
+                    "name": "Drumcode Presents: 2023",
+                    "sharingInfo": {
+                      "shareId": "-fcmJ-soRaek6shDJqW5EA",
+                      "shareUrl": "https://open.spotify.com/album/1NrtwNRJLUQKOBLuYPjrfD?si=-fcmJ-soRaek6shDJqW5EA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:1NrtwNRJLUQKOBLuYPjrfD"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02cbb901c78a81c3a290bcfc7d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851cbb901c78a81c3a290bcfc7d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273cbb901c78a81c3a290bcfc7d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "3hTxXskZ0EIua2ecWiSAGm",
+                    "name": "Drumcode Presents: 2022",
+                    "sharingInfo": {
+                      "shareId": "qQbQL4UuSn6NSvxrCdFCAA",
+                      "shareUrl": "https://open.spotify.com/album/3hTxXskZ0EIua2ecWiSAGm?si=qQbQL4UuSn6NSvxrCdFCAA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3hTxXskZ0EIua2ecWiSAGm"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Green Velvet"
+                          },
+                          "uri": "spotify:artist:3ABaec4jjl95VqmG1iD4k2"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02cb2adbbd0307e7701336ac7a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851cb2adbbd0307e7701336ac7a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273cb2adbbd0307e7701336ac7a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "4JXmDTP1ipG47bDP40qgG3",
+                    "name": "La La Land (Layton Giordani Remix)",
+                    "sharingInfo": {
+                      "shareId": "oRyNj-LKSAK8v3UG7IpJtw",
+                      "shareUrl": "https://open.spotify.com/album/4JXmDTP1ipG47bDP40qgG3?si=oRyNj-LKSAK8v3UG7IpJtw"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4JXmDTP1ipG47bDP40qgG3"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021c8e542d19d2433b8cdf2992",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511c8e542d19d2433b8cdf2992",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731c8e542d19d2433b8cdf2992",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "76s0BS7uSRYrDospSE4fSf",
+                    "name": "A-Sides, Vol. 11",
+                    "sharingInfo": {
+                      "shareId": "zir7Hrx-SGm8i8vzL9fCPA",
+                      "shareUrl": "https://open.spotify.com/album/76s0BS7uSRYrDospSE4fSf?si=zir7Hrx-SGm8i8vzL9fCPA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:76s0BS7uSRYrDospSE4fSf"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Gabriel Ananda"
+                          },
+                          "uri": "spotify:artist:3YpEUCjdLuPmBspkmoPYnX"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e028c5b29458c414779eed7ca78",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048518c5b29458c414779eed7ca78",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2738c5b29458c414779eed7ca78",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2016
+                    },
+                    "id": "4iuZJ7guaYzuaUzOnqASfG",
+                    "name": "Doppelwhipper (Remixes)",
+                    "sharingInfo": {
+                      "shareId": "-MITrdKPR0mqKDxovCDbKQ",
+                      "shareUrl": "https://open.spotify.com/album/4iuZJ7guaYzuaUzOnqASfG?si=-MITrdKPR0mqKDxovCDbKQ"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4iuZJ7guaYzuaUzOnqASfG"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Insomniac Music Group"
+                          },
+                          "uri": "spotify:artist:5OikDRVEPtkPGRlhpwynSo"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024d575b2c336d272d40bfbc5e",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514d575b2c336d272d40bfbc5e",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734d575b2c336d272d40bfbc5e",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2025
+                    },
+                    "id": "4619DAiYDLuEDwSyNdpW8m",
+                    "name": "EDC Mexico 2025",
+                    "sharingInfo": {
+                      "shareId": "3xtdhpISSkC01_omagugtg",
+                      "shareUrl": "https://open.spotify.com/album/4619DAiYDLuEDwSyNdpW8m?si=3xtdhpISSkC01_omagugtg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:4619DAiYDLuEDwSyNdpW8m"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02df6606febc80f0e40a252ac4",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851df6606febc80f0e40a252ac4",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273df6606febc80f0e40a252ac4",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "67TLrVczX40K4Z1hpOr9xj",
+                    "name": "Armada Music - ADE 2024",
+                    "sharingInfo": {
+                      "shareId": "KSWaZS8jR26Rll6MO0xPZA",
+                      "shareUrl": "https://open.spotify.com/album/67TLrVczX40K4Z1hpOr9xj?si=KSWaZS8jR26Rll6MO0xPZA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:67TLrVczX40K4Z1hpOr9xj"
+                  }
+                ],
+                "totalCount": 1
+              }
+            }
+          ],
+          "totalCount": 31
+        },
+        "discoveredOnV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Welcome to the dark side of the club.",
+                "id": "37i9dQZF1DX6J5NfMJS675",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f0000000274fa5700b2400c534df37a66",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "TECHNO BUNKER",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX6J5NfMJS675"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "it's never too early for summer dance hits \ud83d\ude0e\u2600\ufe0f",
+                "id": "37i9dQZF1DWZ7eJRBxKzdO",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002c69d0b9a845acfa88f9794ca",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Summer Dance Hits 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWZ7eJRBxKzdO"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Pumping tracks for pumping iron!",
+                "id": "37i9dQZF1DXdxcBWuJkbcy",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002636a699fcada8d04339c7803",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Gym Hits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXdxcBWuJkbcy"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "High energy Techno to boost your workout.",
+                "id": "37i9dQZF1DX36TRAnIL92N",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f0000000260d5f249b605abe1c449de2d",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Techno Workout",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX36TRAnIL92N"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Tap it back or go for a spin with these uptempo tracks!",
+                "id": "37i9dQZF1DX32NsLKyzScr",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002ecbc3f66c5912d783dee45b7",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Power Hour",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX32NsLKyzScr"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "A hypnotic journey through Melodic Techno. Photographer: Kevin Mazur via Getty Images",
+                "id": "37i9dQZF1DX9gPDOAK0Yqv",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000025c820da003375796b71df840",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Melodic Techno Elements",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX9gPDOAK0Yqv"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
+                "id": "37i9dQZF1DX6GJXiuZRisr",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002c10f679b1fe5266e9c7eaa8f",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Night Rider",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX6GJXiuZRisr"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Home is where the main stage is \ud83d\udc97 with Martin Garrix",
+                "id": "37i9dQZF1DX1kCIzMYtzum",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000024cf1707f40fc4e4eeded35e9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "EDM 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX1kCIzMYtzum"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Listen to the best Techno tracks of 2024. Cover: Lilly Palmer ",
+                "id": "37i9dQZF1DX0doVvLdFSE8",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000025529a1389236ed96862ec774",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "TECHNO BUNKER presents: Best Songs of 2024",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX0doVvLdFSE8"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is our playground! \ud83e\udea9\u200a Cover: Keinemusik",
+                "id": "37i9dQZF1DWVCHIm2MEeIy",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002870dcc839d8321d006a01d17",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Electronic Circus",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWVCHIm2MEeIy"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
+                "id": "37i9dQZF1DWTiY3QffFUdg",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002adb422be0766b5053b82be90",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "techno party",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWTiY3QffFUdg"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Chill techno, melodic house and tech house.",
+                "id": "37i9dQZF1DX0r3x8OtiwEM",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002cb6e7e735ef83e0ed9ac6ddf",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Lowkey Tech",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX0r3x8OtiwEM"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Layton Giordani. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO4mgV36",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4mgV36-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Layton Giordani",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO4mgV36"
+              }
+            }
+          ],
+          "totalCount": 100
+        },
+        "featuringV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Layton Giordani. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO4mgV36",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4mgV36-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Layton Giordani",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO4mgV36"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "With Anyma, Kevin de Vries, Reb\u016bke and more",
+                "id": "37i9dQZF1E4lG9kV0odbLD",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/7mC3RkNNTV6p2j9w4F8Ip4/en",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Layton Giordani Radio",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1E4lG9kV0odbLD"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Home is where the main stage is \ud83d\udc97 with Martin Garrix",
+                "id": "37i9dQZF1DX1kCIzMYtzum",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000024cf1707f40fc4e4eeded35e9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "EDM 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX1kCIzMYtzum"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Ride the bassline. Cover: HNTR",
+                "id": "37i9dQZF1DWZCdOD1jAvLL",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002f1a0774f70194eed7dad5a35",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Bangers",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWZCdOD1jAvLL"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Pumping tracks for pumping iron!",
+                "id": "37i9dQZF1DXdxcBWuJkbcy",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002636a699fcada8d04339c7803",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Gym Hits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXdxcBWuJkbcy"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
+                "id": "37i9dQZF1DX6GJXiuZRisr",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002c10f679b1fe5266e9c7eaa8f",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Night Rider",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX6GJXiuZRisr"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Welcome to the dark side of the club.",
+                "id": "37i9dQZF1DX6J5NfMJS675",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f0000000274fa5700b2400c534df37a66",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "TECHNO BUNKER",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX6J5NfMJS675"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "House music lives here. United under one roof, featuring Westend.",
+                "id": "37i9dQZF1DXa8NOEUWPn9W",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000027453f9ecfb3a16da65cd7ba6",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Housewerk",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXa8NOEUWPn9W"
+              }
+            }
+          ],
+          "totalCount": 8
+        },
+        "relatedArtists": {
+          "items": [
+            {
+              "id": "113reBz1jA6rVxbXl55mlj",
+              "profile": {
+                "name": "Reb\u016bke"
+              },
+              "uri": "spotify:artist:113reBz1jA6rVxbXl55mlj",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb746a3cb382c1127949139842",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178746a3cb382c1127949139842",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174746a3cb382c1127949139842",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1btv9qmIpbp7q1ixCYNdHu",
+              "profile": {
+                "name": "Adam Beyer"
+              },
+              "uri": "spotify:artist:1btv9qmIpbp7q1ixCYNdHu",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb5af01ec674f7a7c61d22c527",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1785af01ec674f7a7c61d22c527",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051745af01ec674f7a7c61d22c527",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6htWLP8aiuf19FYMA4VQAZ",
+              "profile": {
+                "name": "Massano"
+              },
+              "uri": "spotify:artist:6htWLP8aiuf19FYMA4VQAZ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb4c500573f0fceb7a0ac018ac",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1784c500573f0fceb7a0ac018ac",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051744c500573f0fceb7a0ac018ac",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4OG9hOPsfAEziKvOJj2SG7",
+              "profile": {
+                "name": "GENESI"
+              },
+              "uri": "spotify:artist:4OG9hOPsfAEziKvOJj2SG7",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebed4038d1c60ea4669579b94a",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178ed4038d1c60ea4669579b94a",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174ed4038d1c60ea4669579b94a",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "11aPF3sc8lDWNqPVInm4Zx",
+              "profile": {
+                "name": "Kevin de Vries"
+              },
+              "uri": "spotify:artist:11aPF3sc8lDWNqPVInm4Zx",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebfca0470ef4050a23e8be83a2",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178fca0470ef4050a23e8be83a2",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174fca0470ef4050a23e8be83a2",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0ETJQforv5OXgDgidQv9qd",
+              "profile": {
+                "name": "HI-LO"
+              },
+              "uri": "spotify:artist:0ETJQforv5OXgDgidQv9qd",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb0edb4d8f49be14cca268cdbe",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1780edb4d8f49be14cca268cdbe",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051740edb4d8f49be14cca268cdbe",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3BkRu2TGd2I1uBxZKddfg1",
+              "profile": {
+                "name": "ARTBAT"
+              },
+              "uri": "spotify:artist:3BkRu2TGd2I1uBxZKddfg1",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb111dd7f3a44a7c5b9c1aeb06",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178111dd7f3a44a7c5b9c1aeb06",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174111dd7f3a44a7c5b9c1aeb06",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1Xv1qZHJ1hnRlWHRTZ3uci",
+              "profile": {
+                "name": "DANNY AVILA"
+              },
+              "uri": "spotify:artist:1Xv1qZHJ1hnRlWHRTZ3uci",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebdbb2c759ca4e91e3e8d19531",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178dbb2c759ca4e91e3e8d19531",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174dbb2c759ca4e91e3e8d19531",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5lVNSw2GPci8kebrAQpZqU",
+              "profile": {
+                "name": "Eli Brown"
+              },
+              "uri": "spotify:artist:5lVNSw2GPci8kebrAQpZqU",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb0f9b9210b2276c1268ece518",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1780f9b9210b2276c1268ece518",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051740f9b9210b2276c1268ece518",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6TVdVlY6irsNPkMHT2HkfD",
+              "profile": {
+                "name": "Space 92"
+              },
+              "uri": "spotify:artist:6TVdVlY6irsNPkMHT2HkfD",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebf00514654adbd407b177698e",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178f00514654adbd407b177698e",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174f00514654adbd407b177698e",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5Ho1vKl1Uz8bJlk4vbmvmf",
+              "profile": {
+                "name": "Amelie Lens"
+              },
+              "uri": "spotify:artist:5Ho1vKl1Uz8bJlk4vbmvmf",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb61ad1f6f29edbabf3db5022f",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17861ad1f6f29edbabf3db5022f",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517461ad1f6f29edbabf3db5022f",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4xG5i2Smlt6o5QxuGp9LqM",
+              "profile": {
+                "name": "Son of Son"
+              },
+              "uri": "spotify:artist:4xG5i2Smlt6o5QxuGp9LqM",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebf11439ce3c85076a8ef24e32",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178f11439ce3c85076a8ef24e32",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174f11439ce3c85076a8ef24e32",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1Hu2YwTv9wmxC8sppVVUA4",
+              "profile": {
+                "name": "Sam WOLFE"
+              },
+              "uri": "spotify:artist:1Hu2YwTv9wmxC8sppVVUA4",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eba7d068d281d997ec2cdaf5f9",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178a7d068d281d997ec2cdaf5f9",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174a7d068d281d997ec2cdaf5f9",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1lJhME1ZpzsEa5M0wW6Mso",
+              "profile": {
+                "name": "Charlotte de Witte"
+              },
+              "uri": "spotify:artist:1lJhME1ZpzsEa5M0wW6Mso",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb65d29423ea2e01a900a98fb6",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17865d29423ea2e01a900a98fb6",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517465d29423ea2e01a900a98fb6",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4iBwchw0U0GZv5RfVYSMxN",
+              "profile": {
+                "name": "Anyma"
+              },
+              "uri": "spotify:artist:4iBwchw0U0GZv5RfVYSMxN",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb7f93152e853393d8c7cc71a0",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1787f93152e853393d8c7cc71a0",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051747f93152e853393d8c7cc71a0",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1NaQOKgddaJipUtmptb7GI",
+              "profile": {
+                "name": "Argy"
+              },
+              "uri": "spotify:artist:1NaQOKgddaJipUtmptb7GI",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb6af308cbf977d9d0d4c4d820",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1786af308cbf977d9d0d4c4d820",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051746af308cbf977d9d0d4c4d820",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1ChtRJ3f4rbv4vtz87i6CD",
+              "profile": {
+                "name": "Cassian"
+              },
+              "uri": "spotify:artist:1ChtRJ3f4rbv4vtz87i6CD",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb7a962fd922a918f6fbddc2d2",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1787a962fd922a918f6fbddc2d2",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051747a962fd922a918f6fbddc2d2",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "29TpNOsTNYbLb6Xa10H0PR",
+              "profile": {
+                "name": "Miss Monique"
+              },
+              "uri": "spotify:artist:29TpNOsTNYbLb6Xa10H0PR",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebb8028862eeb5ccaf303d71ce",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178b8028862eeb5ccaf303d71ce",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174b8028862eeb5ccaf303d71ce",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4h8IEOdrg60WM5XGyNOCVU",
+              "profile": {
+                "name": "Lilly Palmer"
+              },
+              "uri": "spotify:artist:4h8IEOdrg60WM5XGyNOCVU",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb425eaae624b2e219776d0b1d",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178425eaae624b2e219776d0b1d",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174425eaae624b2e219776d0b1d",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3NKKngINK1tP6BFy0WOyWk",
+              "profile": {
+                "name": "Max Styler"
+              },
+              "uri": "spotify:artist:3NKKngINK1tP6BFy0WOyWk",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb0abd0b9d436c260d193a1ede",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1780abd0b9d436c260d193a1ede",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051740abd0b9d436c260d193a1ede",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "totalCount": 40
+        }
+      },
+      "relatedVideos": {
+        "__typename": "RelatedVideoPage",
+        "items": [],
+        "totalCount": 0
+      },
+      "saved": false,
+      "sharingInfo": {
+        "shareId": "J7NluiXFRSG5XwRPX2Kf5A",
+        "shareUrl": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4?si=J7NluiXFRSG5XwRPX2Kf5A"
+      },
+      "stats": {
+        "followers": 96461,
+        "monthlyListeners": 2277663,
+        "topCities": {
+          "items": [
+            {
+              "city": "Mexico City",
+              "country": "MX",
+              "numberOfListeners": 33141,
+              "region": "CMX"
+            },
+            {
+              "city": "Melbourne",
+              "country": "AU",
+              "numberOfListeners": 31791,
+              "region": "VIC"
+            },
+            {
+              "city": "Los Angeles",
+              "country": "US",
+              "numberOfListeners": 29496,
+              "region": "CA"
+            },
+            {
+              "city": "Amsterdam",
+              "country": "NL",
+              "numberOfListeners": 28922,
+              "region": "NH"
+            },
+            {
+              "city": "Sydney",
+              "country": "AU",
+              "numberOfListeners": 28246,
+              "region": "NSW"
+            }
+          ]
+        },
+        "worldRank": 0
+      },
+      "uri": "spotify:artist:7mC3RkNNTV6p2j9w4F8Ip4",
+      "visualIdentity": {
+        "wideFullBleedImage": {
+          "__typename": "VisualIdentityImage",
+          "extractedColorSet": {
+            "encoreBaseSetTextColor": {
+              "alpha": 255,
+              "blue": 197,
+              "green": 188,
+              "red": 179
+            },
+            "highContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 80,
+                "green": 72,
+                "red": 64
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 38,
+                "green": 31,
+                "red": 24
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 216,
+                "green": 207,
+                "red": 197
+              }
+            },
+            "higherContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 62,
+                "green": 54,
+                "red": 46
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 95,
+                "green": 87,
+                "red": 79
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 96,
+                "green": 215,
+                "red": 30
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 216,
+                "green": 207,
+                "red": 197
+              }
+            },
+            "minContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 80,
+                "green": 72,
+                "red": 64
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 38,
+                "green": 31,
+                "red": 24
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              }
+            }
+          }
+        }
+      },
+      "visuals": {
+        "avatarImage": {
+          "extractedColors": {
+            "colorRaw": {
+              "hex": "#303838"
+            }
+          },
+          "sources": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5eb6c6952edf91019d3d9ce777e",
+              "width": 640
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f1786c6952edf91019d3d9ce777e",
+              "width": 160
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab676161000051746c6952edf91019d3d9ce777e",
+              "width": 320
+            }
+          ]
+        },
+        "gallery": {
+          "items": [
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4fcca0bd232eb8f84198f1b24",
+                  "width": 640
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "watchFeedEntrypoint": null
+    }
+  },
+  "extensions": {}
+}

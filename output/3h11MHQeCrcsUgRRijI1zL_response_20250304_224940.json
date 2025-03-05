@@ -1,0 +1,5226 @@
+{
+  "data": {
+    "artistUnion": {
+      "__typename": "Artist",
+      "discography": {
+        "albums": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2021 Toolroom Productions Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2021 Toolroom Productions Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02f40fa1177abcfe6f542f131b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851f40fa1177abcfe6f542f131b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273f40fa1177abcfe6f542f131b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 25,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 2021
+                    },
+                    "id": "186HTycU1jAk9PociChcpO",
+                    "label": "Toolroom",
+                    "name": "Untold Business",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "DtZqAeZjRfyz88ngaCXpWg",
+                      "shareUrl": "https://open.spotify.com/album/186HTycU1jAk9PociChcpO?si=DtZqAeZjRfyz88ngaCXpWg"
+                    },
+                    "tracks": {
+                      "totalCount": 13
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:186HTycU1jAk9PociChcpO"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 1
+        },
+        "compilations": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0248e0bd94a26a05b0d9395288",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485148e0bd94a26a05b0d9395288",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27348e0bd94a26a05b0d9395288",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 21,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "0MCYMHmQbTnHcJsTC62BIb",
+                    "label": "Toolroom",
+                    "name": "Toolroom Radio EP760 - Presented by Mark Knight",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "hU6VUaPCRfSLjf0_7I9pMg",
+                      "shareUrl": "https://open.spotify.com/album/0MCYMHmQbTnHcJsTC62BIb?si=hU6VUaPCRfSLjf0_7I9pMg"
+                    },
+                    "tracks": {
+                      "totalCount": 20
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:0MCYMHmQbTnHcJsTC62BIb"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025ee495d60ee5e08d76f1cf9f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515ee495d60ee5e08d76f1cf9f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735ee495d60ee5e08d76f1cf9f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 7,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "2fURZ1TYIMxQxAF3TEPVh4",
+                    "label": "Toolroom",
+                    "name": "Toolroom Radio EP758 - Presented by Mark Knight",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "GYd7ehftRH2QEME9bMByrw",
+                      "shareUrl": "https://open.spotify.com/album/2fURZ1TYIMxQxAF3TEPVh4?si=GYd7ehftRH2QEME9bMByrw"
+                    },
+                    "tracks": {
+                      "totalCount": 25
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:2fURZ1TYIMxQxAF3TEPVh4"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e023ac27f295ad26c2ab29b3346",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048513ac27f295ad26c2ab29b3346",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2733ac27f295ad26c2ab29b3346",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 16,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "5abIhALDWF945AvcnGBpMg",
+                    "label": "Toolroom",
+                    "name": "Toolroom Radio EP755 - Presented by Mark Knight",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "m6HtuFfZSx2L6Zm-fi-3dw",
+                      "shareUrl": "https://open.spotify.com/album/5abIhALDWF945AvcnGBpMg?si=m6HtuFfZSx2L6Zm-fi-3dw"
+                    },
+                    "tracks": {
+                      "totalCount": 24
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:5abIhALDWF945AvcnGBpMg"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024ab052cb3a743af6445612fd",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514ab052cb3a743af6445612fd",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734ab052cb3a743af6445612fd",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 2,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "1S6UONcdGwRXG3NObpDyH2",
+                    "label": "Toolroom",
+                    "name": "Toolroom Radio EP753 - Presented by Mark Knight",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "6zsm8FfvQFSthS3cSEzOzQ",
+                      "shareUrl": "https://open.spotify.com/album/1S6UONcdGwRXG3NObpDyH2?si=6zsm8FfvQFSthS3cSEzOzQ"
+                    },
+                    "tracks": {
+                      "totalCount": 23
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:1S6UONcdGwRXG3NObpDyH2"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02eb8675678c1c6cde30f2d5b7",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851eb8675678c1c6cde30f2d5b7",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273eb8675678c1c6cde30f2d5b7",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 19,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "3jmDQ0i8OldiDh3PfhNyZS",
+                    "label": "Toolroom",
+                    "name": "Toolroom Radio EP751 - Presented by Mark Knight",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "viQ9vvBLSeKsbNRLaYzYzg",
+                      "shareUrl": "https://open.spotify.com/album/3jmDQ0i8OldiDh3PfhNyZS?si=viQ9vvBLSeKsbNRLaYzYzg"
+                    },
+                    "tracks": {
+                      "totalCount": 22
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3jmDQ0i8OldiDh3PfhNyZS"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0255bc7f58c4c3d894db84726f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485155bc7f58c4c3d894db84726f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27355bc7f58c4c3d894db84726f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 5,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "67MeqwPHuhgagcbuw6wyMH",
+                    "label": "Toolroom",
+                    "name": "Toolroom Radio EP749 - Presented by Mark Knight",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "Tc2sbOOSQTeGY3-EBEQTYA",
+                      "shareUrl": "https://open.spotify.com/album/67MeqwPHuhgagcbuw6wyMH?si=Tc2sbOOSQTeGY3-EBEQTYA"
+                    },
+                    "tracks": {
+                      "totalCount": 22
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:67MeqwPHuhgagcbuw6wyMH"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a4b4b207c4cde3c471d5df21",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a4b4b207c4cde3c471d5df21",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a4b4b207c4cde3c471d5df21",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 8,
+                      "month": 7,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "36503ufvHfFxeX1r8gw7O4",
+                    "label": "Toolroom",
+                    "name": "Toolroom Radio EP745 - Presented by Mark Knight",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "LYYmoXB_Q0OjNVoLqpcPuQ",
+                      "shareUrl": "https://open.spotify.com/album/36503ufvHfFxeX1r8gw7O4?si=LYYmoXB_Q0OjNVoLqpcPuQ"
+                    },
+                    "tracks": {
+                      "totalCount": 23
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:36503ufvHfFxeX1r8gw7O4"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0259dabc52401905d48ff0452e",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485159dabc52401905d48ff0452e",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27359dabc52401905d48ff0452e",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 24,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "2A5RwBLB6LGE7AiAwSogJR",
+                    "label": "Toolroom",
+                    "name": "Toolroom Radio EP743 - Presented by Mark Knight",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "s4ICj4IYTrSmQVEIN2ai6Q",
+                      "shareUrl": "https://open.spotify.com/album/2A5RwBLB6LGE7AiAwSogJR?si=s4ICj4IYTrSmQVEIN2ai6Q"
+                    },
+                    "tracks": {
+                      "totalCount": 22
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:2A5RwBLB6LGE7AiAwSogJR"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02099cb7a19b78bf02a5cc8a3f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851099cb7a19b78bf02a5cc8a3f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273099cb7a19b78bf02a5cc8a3f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 10,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "77ld98YQT1me4yH2h0n86B",
+                    "label": "Toolroom",
+                    "name": "Toolroom Radio EP741 - Presented by Mark Knight",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "OZhBSmFqQUWcQ48PbfIUZg",
+                      "shareUrl": "https://open.spotify.com/album/77ld98YQT1me4yH2h0n86B?si=OZhBSmFqQUWcQ48PbfIUZg"
+                    },
+                    "tracks": {
+                      "totalCount": 22
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:77ld98YQT1me4yH2h0n86B"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d703f6c6e24b20d195543acd",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d703f6c6e24b20d195543acd",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d703f6c6e24b20d195543acd",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 27,
+                      "month": 5,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "4wluQmoMH5EJRWJrL6YZ6S",
+                    "label": "Toolroom",
+                    "name": "Toolroom Radio EP739 - Presented by Mark Knight",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "dR3e_WAFRh6pTxzU0AKSHQ",
+                      "shareUrl": "https://open.spotify.com/album/4wluQmoMH5EJRWJrL6YZ6S?si=dR3e_WAFRh6pTxzU0AKSHQ"
+                    },
+                    "tracks": {
+                      "totalCount": 23
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:4wluQmoMH5EJRWJrL6YZ6S"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 280
+        },
+        "latest": {
+          "copyright": {
+            "items": [
+              {
+                "text": "2025 Fool's Paradise",
+                "type": "C"
+              },
+              {
+                "text": "2025 Fool's Paradise",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e02f5ee23ebf31199404e4975fa",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d00004851f5ee23ebf31199404e4975fa",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f5ee23ebf31199404e4975fa",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 14,
+            "month": 2,
+            "precision": "DAY",
+            "year": 2025
+          },
+          "id": "6Qxp7Eabeeb3uxhKhyR5M3",
+          "label": "Fool's Paradise",
+          "name": "Fighting Love",
+          "playability": {
+            "playable": true,
+            "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+            "shareId": "YjWI3mEXRkeEKabfTMxa5g",
+            "shareUrl": "https://open.spotify.com/album/6Qxp7Eabeeb3uxhKhyR5M3?si=YjWI3mEXRkeEKabfTMxa5g"
+          },
+          "tracks": {
+            "totalCount": 2
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:6Qxp7Eabeeb3uxhKhyR5M3"
+        },
+        "popularReleasesAlbums": {
+          "items": [
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2022 Vicious, a division of Vicious Recordings Pty Ltd",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2022 Vicious, a division of Vicious Recordings Pty Ltd",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e020acda42b6bb107263bee9edc",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048510acda42b6bb107263bee9edc",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2730acda42b6bb107263bee9edc",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 15,
+                "month": 7,
+                "precision": "DAY",
+                "year": 2022
+              },
+              "id": "3P4T0xEYwLZiB9xhzM0tzF",
+              "label": "Vicious",
+              "name": "My Feelings For You (Mark Knight Remix)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "liAihHYrQl6NttofNX4wFg",
+                "shareUrl": "https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF?si=liAihHYrQl6NttofNX4wFg"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:3P4T0xEYwLZiB9xhzM0tzF"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2022 Toolroom Productions Ltd",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2022 Toolroom Productions Ltd",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e021722df4343143f7252588c69",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048511722df4343143f7252588c69",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731722df4343143f7252588c69",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 12,
+                "month": 8,
+                "precision": "DAY",
+                "year": 2022
+              },
+              "id": "1RPFQ2LTLiHL7hxRwL8RZc",
+              "label": "Toolroom",
+              "name": "The Music Began To Play",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "TmUDJWU1TlO71t3hhFstew",
+                "shareUrl": "https://open.spotify.com/album/1RPFQ2LTLiHL7hxRwL8RZc?si=TmUDJWU1TlO71t3hhFstew"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1RPFQ2LTLiHL7hxRwL8RZc"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2021 Toolroom Productions Ltd",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2021 Toolroom Productions Ltd",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f40fa1177abcfe6f542f131b",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f40fa1177abcfe6f542f131b",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f40fa1177abcfe6f542f131b",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 25,
+                "month": 6,
+                "precision": "DAY",
+                "year": 2021
+              },
+              "id": "186HTycU1jAk9PociChcpO",
+              "label": "Toolroom",
+              "name": "Untold Business",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "DtZqAeZjRfyz88ngaCXpWg",
+                "shareUrl": "https://open.spotify.com/album/186HTycU1jAk9PociChcpO?si=DtZqAeZjRfyz88ngaCXpWg"
+              },
+              "tracks": {
+                "totalCount": 13
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:186HTycU1jAk9PociChcpO"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "TOOLROOM PRODUCTIONS",
+                    "type": "C"
+                  },
+                  {
+                    "text": "TOOLROOM PRODUCTIONS",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d3b759e231f8216610a168dc",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d3b759e231f8216610a168dc",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d3b759e231f8216610a168dc",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 10,
+                "month": 8,
+                "precision": "DAY",
+                "year": 2008
+              },
+              "id": "4Tx7Iuv23M7FuhPUO8LN8b",
+              "label": "Toolroom Records",
+              "name": "Man With The Red Face",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "vmwDeRXyRE-fNUKWrYKlPw",
+                "shareUrl": "https://open.spotify.com/album/4Tx7Iuv23M7FuhPUO8LN8b?si=vmwDeRXyRE-fNUKWrYKlPw"
+              },
+              "tracks": {
+                "totalCount": 8
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:4Tx7Iuv23M7FuhPUO8LN8b"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "\u00a9 2024 Spinnin Records",
+                    "type": "C"
+                  },
+                  {
+                    "text": "\u2117 2024 Spinnin Records",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028761e1b80d017942698fbbff",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518761e1b80d017942698fbbff",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738761e1b80d017942698fbbff",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 14,
+                "month": 6,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "7hg20oE5SyyQf7JN8YA1Dq",
+              "label": "Spinnin' Records",
+              "name": "Move On Up (Mark Knight Remix)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "CLesQskBTsOOKReBn-tUuA",
+                "shareUrl": "https://open.spotify.com/album/7hg20oE5SyyQf7JN8YA1Dq?si=CLesQskBTsOOKReBn-tUuA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:7hg20oE5SyyQf7JN8YA1Dq"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2024 Toolroom Productions Ltd",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2024 Toolroom Productions Ltd",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e029deefb68fd3751b18c931194",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048519deefb68fd3751b18c931194",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2739deefb68fd3751b18c931194",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 5,
+                "month": 7,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "6BZhpKcbowbpVSp9UGMNQ8",
+              "label": "Toolroom",
+              "name": "You Take Me Higher",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "ibr6PguUSqWUkR0otHsphg",
+                "shareUrl": "https://open.spotify.com/album/6BZhpKcbowbpVSp9UGMNQ8?si=ibr6PguUSqWUkR0otHsphg"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:6BZhpKcbowbpVSp9UGMNQ8"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2023 Toolroom Productions Ltd",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2023 Toolroom Productions Ltd",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0209391db594acb106967e1975",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485109391db594acb106967e1975",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27309391db594acb106967e1975",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 18,
+                "month": 8,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "6pmioyGNR4NW5yMx5AU0JB",
+              "label": "Toolroom",
+              "name": "Lady (Hear Me Tonight)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "HpmqPkzWQTGK3D673mpGWw",
+                "shareUrl": "https://open.spotify.com/album/6pmioyGNR4NW5yMx5AU0JB?si=HpmqPkzWQTGK3D673mpGWw"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:6pmioyGNR4NW5yMx5AU0JB"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2025 Fool's Paradise",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2025 Fool's Paradise",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02f5ee23ebf31199404e4975fa",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851f5ee23ebf31199404e4975fa",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273f5ee23ebf31199404e4975fa",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 14,
+                "month": 2,
+                "precision": "DAY",
+                "year": 2025
+              },
+              "id": "6Qxp7Eabeeb3uxhKhyR5M3",
+              "label": "Fool's Paradise",
+              "name": "Fighting Love",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "YjWI3mEXRkeEKabfTMxa5g",
+                "shareUrl": "https://open.spotify.com/album/6Qxp7Eabeeb3uxhKhyR5M3?si=YjWI3mEXRkeEKabfTMxa5g"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:6Qxp7Eabeeb3uxhKhyR5M3"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2016 Toolroom Productions",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2016 Toolroom Productions",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e022782455d1dd520211addf6a2",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048512782455d1dd520211addf6a2",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2732782455d1dd520211addf6a2",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 19,
+                "month": 8,
+                "precision": "DAY",
+                "year": 2016
+              },
+              "id": "0TTBM5v5UlHoEdBTX4Rszp",
+              "label": "Toolroom",
+              "name": "Yebisah",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "FJ9mhkxsQKO-HODqD2wKdw",
+                "shareUrl": "https://open.spotify.com/album/0TTBM5v5UlHoEdBTX4Rszp?si=FJ9mhkxsQKO-HODqD2wKdw"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:0TTBM5v5UlHoEdBTX4Rszp"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "TOOLROOM PRODUCTIONS",
+                    "type": "C"
+                  },
+                  {
+                    "text": "TOOLROOM PRODUCTIONS",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0280d54f578dd1333b45fa6ddc",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485180d54f578dd1333b45fa6ddc",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27380d54f578dd1333b45fa6ddc",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 29,
+                "month": 9,
+                "precision": "DAY",
+                "year": 2009
+              },
+              "id": "2ycuBJM7w1is7k3pe7eR7D",
+              "label": "Toolroom Records",
+              "name": "Downpipe",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "bsW-vwjjSX2eByNc7bohmw",
+                "shareUrl": "https://open.spotify.com/album/2ycuBJM7w1is7k3pe7eR7D?si=bsW-vwjjSX2eByNc7bohmw"
+              },
+              "tracks": {
+                "totalCount": 3
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:2ycuBJM7w1is7k3pe7eR7D"
+            }
+          ],
+          "totalCount": 20
+        },
+        "singles": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2025 Fool's Paradise",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2025 Fool's Paradise",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02f5ee23ebf31199404e4975fa",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851f5ee23ebf31199404e4975fa",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273f5ee23ebf31199404e4975fa",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 14,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "6Qxp7Eabeeb3uxhKhyR5M3",
+                    "label": "Fool's Paradise",
+                    "name": "Fighting Love",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "YjWI3mEXRkeEKabfTMxa5g",
+                      "shareUrl": "https://open.spotify.com/album/6Qxp7Eabeeb3uxhKhyR5M3?si=YjWI3mEXRkeEKabfTMxa5g"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:6Qxp7Eabeeb3uxhKhyR5M3"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2025 Toolroom Productions Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2025 Toolroom Productions Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029e795e36245dc1eb39a19aae",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519e795e36245dc1eb39a19aae",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739e795e36245dc1eb39a19aae",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 31,
+                      "month": 1,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "6pfnXr9tjrAp1cWW1kiBU2",
+                    "label": "Toolroom",
+                    "name": "Got A Man",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "jcQgWkP6S1eaKnkNxL1Hkg",
+                      "shareUrl": "https://open.spotify.com/album/6pfnXr9tjrAp1cWW1kiBU2?si=jcQgWkP6S1eaKnkNxL1Hkg"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:6pfnXr9tjrAp1cWW1kiBU2"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e022eef9e755b80f9a5a761c107",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048512eef9e755b80f9a5a761c107",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2732eef9e755b80f9a5a761c107",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 29,
+                      "month": 11,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "6c69kxdg4BMAS50DqA1lL2",
+                    "label": "Toolroom",
+                    "name": "Go Deep",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "fQuYNUo7TSmQ0Kk-a76gfw",
+                      "shareUrl": "https://open.spotify.com/album/6c69kxdg4BMAS50DqA1lL2?si=fQuYNUo7TSmQ0Kk-a76gfw"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:6c69kxdg4BMAS50DqA1lL2"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Fool's Paradise",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Fool's Paradise",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029856d23eed81cc46d3105ac8",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519856d23eed81cc46d3105ac8",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739856d23eed81cc46d3105ac8",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 30,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "3cfFhNe4edaIlCzgr8Vi0R",
+                    "label": "Fool's Paradise",
+                    "name": "Do It Y'all",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "p0kWTtn3S5aWMwgIxZU83w",
+                      "shareUrl": "https://open.spotify.com/album/3cfFhNe4edaIlCzgr8Vi0R?si=p0kWTtn3S5aWMwgIxZU83w"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:3cfFhNe4edaIlCzgr8Vi0R"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029deefb68fd3751b18c931194",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519deefb68fd3751b18c931194",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739deefb68fd3751b18c931194",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 5,
+                      "month": 7,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "6BZhpKcbowbpVSp9UGMNQ8",
+                    "label": "Toolroom",
+                    "name": "You Take Me Higher",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "ibr6PguUSqWUkR0otHsphg",
+                      "shareUrl": "https://open.spotify.com/album/6BZhpKcbowbpVSp9UGMNQ8?si=ibr6PguUSqWUkR0otHsphg"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:6BZhpKcbowbpVSp9UGMNQ8"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "\u00a9 2024 Spinnin Records",
+                          "type": "C"
+                        },
+                        {
+                          "text": "\u2117 2024 Spinnin Records",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e028761e1b80d017942698fbbff",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048518761e1b80d017942698fbbff",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2738761e1b80d017942698fbbff",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 14,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "7hg20oE5SyyQf7JN8YA1Dq",
+                    "label": "Spinnin' Records",
+                    "name": "Move On Up (Mark Knight Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "CLesQskBTsOOKReBn-tUuA",
+                      "shareUrl": "https://open.spotify.com/album/7hg20oE5SyyQf7JN8YA1Dq?si=CLesQskBTsOOKReBn-tUuA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7hg20oE5SyyQf7JN8YA1Dq"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b3ef4909237c0412c0b9eedb",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b3ef4909237c0412c0b9eedb",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b3ef4909237c0412c0b9eedb",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 17,
+                      "month": 5,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "5bgCadU3KZO4DCrE3Gi79i",
+                    "label": "Toolroom",
+                    "name": "I Got All This Love",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "bsjxZ2PxTAyVsCD_uyYRNA",
+                      "shareUrl": "https://open.spotify.com/album/5bgCadU3KZO4DCrE3Gi79i?si=bsjxZ2PxTAyVsCD_uyYRNA"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5bgCadU3KZO4DCrE3Gi79i"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Armada Music B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Armada Music B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024dded721ca790b688139f464",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514dded721ca790b688139f464",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734dded721ca790b688139f464",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 19,
+                      "month": 4,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "4VnqzvnazFMnoZeQ7aOMmp",
+                    "label": "Armada Subjekt",
+                    "name": "Release Me (CID Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "155QxTb-RWyDgTdVGIDw_w",
+                      "shareUrl": "https://open.spotify.com/album/4VnqzvnazFMnoZeQ7aOMmp?si=155QxTb-RWyDgTdVGIDw_w"
+                    },
+                    "tracks": {
+                      "totalCount": 3
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4VnqzvnazFMnoZeQ7aOMmp"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Toolroom Productions Ltd",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Ministry Of Pies",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02212b4f3938a5673428f6af01",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851212b4f3938a5673428f6af01",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273212b4f3938a5673428f6af01",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 15,
+                      "month": 3,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "5pXdnM7WliDR9IbmqG0F3u",
+                    "label": "Toolroom",
+                    "name": "Get Down (Mark Knight Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "tlvbscxwS2qkTFcM5brXkw",
+                      "shareUrl": "https://open.spotify.com/album/5pXdnM7WliDR9IbmqG0F3u?si=tlvbscxwS2qkTFcM5brXkw"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5pXdnM7WliDR9IbmqG0F3u"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2023 New State Music",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2023 New State Music",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02eb5d2bb6287ec3c21db702f9",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851eb5d2bb6287ec3c21db702f9",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273eb5d2bb6287ec3c21db702f9",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 2,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "5Eq1AtWEm9cCXiM279vyQk",
+                    "label": "New State Music",
+                    "name": "Things Can Only Get Better (Mark Knight Remixes)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "SYy8e3iHTVGM1wszzUvSBA",
+                      "shareUrl": "https://open.spotify.com/album/5Eq1AtWEm9cCXiM279vyQk?si=SYy8e3iHTVGM1wszzUvSBA"
+                    },
+                    "tracks": {
+                      "totalCount": 3
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:5Eq1AtWEm9cCXiM279vyQk"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 118
+        },
+        "topTracks": {
+          "items": [
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e020acda42b6bb107263bee9edc"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048510acda42b6bb107263bee9edc"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2730acda42b6bb107263bee9edc"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:3P4T0xEYwLZiB9xhzM0tzF"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Avicii"
+                      },
+                      "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+                    },
+                    {
+                      "profile": {
+                        "name": "Sebastien Drums"
+                      },
+                      "uri": "spotify:artist:0lHsjYcb3lGjkJQQqC6HVt"
+                    },
+                    {
+                      "profile": {
+                        "name": "Mark Knight"
+                      },
+                      "uri": "spotify:artist:3h11MHQeCrcsUgRRijI1zL"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 224515
+                },
+                "id": "2hLczPN5CH5qhc6J4WBJHs",
+                "name": "My Feelings For You - Mark Knight Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "36840704",
+                "uri": "spotify:track:2hLczPN5CH5qhc6J4WBJHs"
+              },
+              "uid": "1ba69a0cea6ca939fbe5"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e021722df4343143f7252588c69"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048511722df4343143f7252588c69"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2731722df4343143f7252588c69"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:1RPFQ2LTLiHL7hxRwL8RZc"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Mark Knight"
+                      },
+                      "uri": "spotify:artist:3h11MHQeCrcsUgRRijI1zL"
+                    },
+                    {
+                      "profile": {
+                        "name": "Armand Van Helden"
+                      },
+                      "uri": "spotify:artist:3cQA9WH8liZfeja1DxcDYE"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 145984
+                },
+                "id": "5jOhS3S7vTj9yQ4UmEk8qj",
+                "name": "The Music Began To Play",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "32922886",
+                "uri": "spotify:track:5jOhS3S7vTj9yQ4UmEk8qj"
+              },
+              "uid": "a104ad953c17965989cf"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e1e247827dcf295c670b361a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851e1e247827dcf295c670b361a"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e1e247827dcf295c670b361a"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:3uoi0WSv99nejC8O0PYoB2"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Florence + The Machine"
+                      },
+                      "uri": "spotify:artist:1moxjboGR7GNWYIMWsRjgG"
+                    },
+                    {
+                      "profile": {
+                        "name": "Swedish House Mafia"
+                      },
+                      "uri": "spotify:artist:1h6Cn3P4NGzXbaXidqURXs"
+                    },
+                    {
+                      "profile": {
+                        "name": "Mark Knight"
+                      },
+                      "uri": "spotify:artist:3h11MHQeCrcsUgRRijI1zL"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 264574
+                },
+                "id": "70m0QxEfeSeeYlqDbZ1e6a",
+                "name": "You Got The Love (Mark Knight Remix) / One",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "7916373",
+                "uri": "spotify:track:70m0QxEfeSeeYlqDbZ1e6a"
+              },
+              "uid": "9e4833640a736f4ce5e6"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d3b759e231f8216610a168dc"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851d3b759e231f8216610a168dc"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d3b759e231f8216610a168dc"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:4Tx7Iuv23M7FuhPUO8LN8b"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Mark Knight"
+                      },
+                      "uri": "spotify:artist:3h11MHQeCrcsUgRRijI1zL"
+                    },
+                    {
+                      "profile": {
+                        "name": "Funkagenda"
+                      },
+                      "uri": "spotify:artist:2bElZdbJcj6B8WIP2fiKsG"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 235039
+                },
+                "id": "5FDn1oWUD5BXL2HCfmCk2F",
+                "name": "Man With The Red Face - Radio Edit",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "25572324",
+                "uri": "spotify:track:5FDn1oWUD5BXL2HCfmCk2F"
+              },
+              "uid": "f50f11fbc34b77576ba9"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e028761e1b80d017942698fbbff"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048518761e1b80d017942698fbbff"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2738761e1b80d017942698fbbff"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:7hg20oE5SyyQf7JN8YA1Dq"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Curtis Mayfield"
+                      },
+                      "uri": "spotify:artist:2AV6XDIs32ofIJhkkDevjm"
+                    },
+                    {
+                      "profile": {
+                        "name": "Mark Knight"
+                      },
+                      "uri": "spotify:artist:3h11MHQeCrcsUgRRijI1zL"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 149047
+                },
+                "id": "39pkyUMcOfKfjx3xhCeiVM",
+                "name": "Move On Up (Mark Knight Remix)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1567492",
+                "uri": "spotify:track:39pkyUMcOfKfjx3xhCeiVM"
+              },
+              "uid": "e9b767bcfe6a509d4572"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f40fa1177abcfe6f542f131b"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851f40fa1177abcfe6f542f131b"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f40fa1177abcfe6f542f131b"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:186HTycU1jAk9PociChcpO"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Mark Knight"
+                      },
+                      "uri": "spotify:artist:3h11MHQeCrcsUgRRijI1zL"
+                    },
+                    {
+                      "profile": {
+                        "name": "Rene Amesz"
+                      },
+                      "uri": "spotify:artist:0s122QsNac4WSqoVsFD60m"
+                    },
+                    {
+                      "profile": {
+                        "name": "Tasty Lopez"
+                      },
+                      "uri": "spotify:artist:6bGjAU1yRMvrVDQsN9Awc0"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 205645
+                },
+                "id": "2DJjMZfgND6WARNaxVCkI3",
+                "name": "All 4 Love (feat. Tasty Lopez)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "20896664",
+                "uri": "spotify:track:2DJjMZfgND6WARNaxVCkI3"
+              },
+              "uid": "915c12507277653d55cc"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0209391db594acb106967e1975"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485109391db594acb106967e1975"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27309391db594acb106967e1975"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6pmioyGNR4NW5yMx5AU0JB"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Mark Knight"
+                      },
+                      "uri": "spotify:artist:3h11MHQeCrcsUgRRijI1zL"
+                    },
+                    {
+                      "profile": {
+                        "name": "James Hurr"
+                      },
+                      "uri": "spotify:artist:2g9i2kA0jUr6sfAT28l2vL"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 134880
+                },
+                "id": "0Jag248wCds9vbWJkIorce",
+                "name": "Lady (Hear Me Tonight)",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "5193471",
+                "uri": "spotify:track:0Jag248wCds9vbWJkIorce"
+              },
+              "uid": "f53a1ab0b14f171f82d7"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e029deefb68fd3751b18c931194"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048519deefb68fd3751b18c931194"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2739deefb68fd3751b18c931194"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6BZhpKcbowbpVSp9UGMNQ8"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Mark Knight"
+                      },
+                      "uri": "spotify:artist:3h11MHQeCrcsUgRRijI1zL"
+                    },
+                    {
+                      "profile": {
+                        "name": "James Hurr"
+                      },
+                      "uri": "spotify:artist:2g9i2kA0jUr6sfAT28l2vL"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 187142
+                },
+                "id": "64lDlWh45oGS2GofvC8Vp4",
+                "name": "You Take Me Higher",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1392639",
+                "uri": "spotify:track:64lDlWh45oGS2GofvC8Vp4"
+              },
+              "uid": "eec6eb0bef18d6293385"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f5ee23ebf31199404e4975fa"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851f5ee23ebf31199404e4975fa"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f5ee23ebf31199404e4975fa"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6Qxp7Eabeeb3uxhKhyR5M3"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Mark Knight"
+                      },
+                      "uri": "spotify:artist:3h11MHQeCrcsUgRRijI1zL"
+                    },
+                    {
+                      "profile": {
+                        "name": "Mark Dedross"
+                      },
+                      "uri": "spotify:artist:6MsLcUe13ynvSGDcCNswtZ"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 188640
+                },
+                "id": "7Cb0qIfh54PuAkAob4ohh5",
+                "name": "Fighting Love",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "102980",
+                "uri": "spotify:track:7Cb0qIfh54PuAkAob4ohh5"
+              },
+              "uid": "6d1ec8347ad66ed3e128"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e022782455d1dd520211addf6a2"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048512782455d1dd520211addf6a2"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2732782455d1dd520211addf6a2"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:0TTBM5v5UlHoEdBTX4Rszp"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Mark Knight"
+                      },
+                      "uri": "spotify:artist:3h11MHQeCrcsUgRRijI1zL"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 201290
+                },
+                "id": "5MYzarVq7dyU7G8z8NQKF2",
+                "name": "Yebisah",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "16920787",
+                "uri": "spotify:track:5MYzarVq7dyU7G8z8NQKF2"
+              },
+              "uid": "1264ac3cba97532d05ce"
+            }
+          ]
+        }
+      },
+      "goods": {
+        "concerts": {
+          "items": [
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Miami Beach",
+                  "name": "Surfcomber Hotel"
+                },
+                "startDateIsoString": "2025-03-30T12:00-04:00",
+                "title": "Mark Knight, Tony Romera, Gene Farris, SIDEPIECE, Martin Ikin",
+                "uri": "spotify:concert:5YOMLqFQ6sskeDwEIcYSwz"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Washington",
+                  "name": "Soundcheck"
+                },
+                "startDateIsoString": "2025-04-26T22:00-04:00",
+                "title": "Mark Knight",
+                "uri": "spotify:concert:307gB2HmpEVC56g84MrUux"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "New York",
+                  "name": "The Roof at Superior Ingredients"
+                },
+                "startDateIsoString": "2025-04-27T14:00-04:00",
+                "title": "Mark Knight",
+                "uri": "spotify:concert:5QYP6EebyauBawT0xZaydP"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Peterborough",
+                  "name": "The Nene Flyover Peterborough"
+                },
+                "startDateIsoString": "2025-05-03T12:00+01:00",
+                "title": "Gok Wan, Mark Knight",
+                "uri": "spotify:concert:1qFu2DvydYmX78jqjhtcC8"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Peterborough",
+                  "name": "The Nene Flyover"
+                },
+                "startDateIsoString": "2025-05-03T12:00+01:00",
+                "title": "Mark Knight",
+                "uri": "spotify:concert:5j7MUkP0hvukNlNWqEHIoX"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Peterborough",
+                  "name": "The Nene Flyover"
+                },
+                "startDateIsoString": "2025-05-04T12:00+01:00",
+                "title": "Mark Knight",
+                "uri": "spotify:concert:07oAU3i9fwWR9SEw5rKLDI"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Brighton",
+                  "name": "Brighton Hove Lawns"
+                },
+                "startDateIsoString": "2025-06-14T13:00+01:00",
+                "title": "Soul II Soul, Roger Sanchez, Mark Knight, Mas Que Nada Brothers, Jon Pleased Wimmin, Danny Rampling",
+                "uri": "spotify:concert:3T8qm4LzLxRs0lLhaiDPEc"
+              }
+            }
+          ],
+          "totalCount": 7
+        },
+        "merch": {
+          "items": []
+        }
+      },
+      "headerImage": {
+        "data": {
+          "__typename": "ImageV2",
+          "sources": [
+            {
+              "maxHeight": 640,
+              "maxWidth": 1494,
+              "url": "https://image-cdn-fa.spotifycdn.com/image/ab67618600000194e19ca0d3c0bfc7d75ca2f766"
+            },
+            {
+              "maxHeight": 1080,
+              "maxWidth": 1920,
+              "url": "https://i2o.scdn.co/image/ab67618600001667e19ca0d3c0bfc7d75ca2f766"
+            },
+            {
+              "maxHeight": 641,
+              "maxWidth": 1495,
+              "url": "https://image-cdn-fa.spotifycdn.com/image/ab67618600009d80e19ca0d3c0bfc7d75ca2f766"
+            },
+            {
+              "maxHeight": 1140,
+              "maxWidth": 2660,
+              "url": "https://image-cdn-fa.spotifycdn.com/image/ab6761860000eab1e19ca0d3c0bfc7d75ca2f766"
+            }
+          ]
+        }
+      },
+      "id": "3h11MHQeCrcsUgRRijI1zL",
+      "preRelease": null,
+      "profile": {
+        "biography": {
+          "text": "DJ, Grammy-nominated producer and label owner Mark Knight is one of the most celebrated electronic artists of his generation with an impressive 120 Million + global streams to his name. His career has spanned close to two decades, with releases on a diverse range of world-leading labels such as Sony, Warner &amp; Ministry of Sound, through to cool independents such as Cooking Vinyl, BBE, Elrow and of course Toolroom. \n\nArmed with a musical library that knows no boundaries and a consistent run of chart-topping hits, the success of Mark Knight\u2019s recording career is matched only by the credibility and integrity maintained throughout his discography to date. Anthems such as \u2018Man With The Red Face,\u2019 \u2018Alright\u2019 &amp; \u2018Downpipe\u2019 and working closely alongside bands such as Faithless, Underworld &amp; Florence &amp; The Machine have sealed a diverse musical heritage for the accomplished producer. \n\nAside from his industry-leading production work on the underground dance scene he has also written and produced music for a range of global superstars including Calvin Harris, Black Eyed Peas, Dido, David Guetta, J Lo, Flo Rider, Icona Pop and more. \n\nMark Knight also continues to grow across international radio with Toolroom Radio now reaching over 15 million people in 60 countries across the world each and every week. \n\n2020 is set to highlight Mark Knight\u2019s more soulful house roots and follows his desire to create timeless dance records that stand the test of time. \n\nListen to <a href=\"spotify:playlist:6J1r02xyO2qkMA9dDNZytJ\" data-name=\"Toolroom Tech House\">Toolroom Tech House</a> now!",
+          "type": "AUTOBIOGRAPHY"
+        },
+        "externalLinks": {
+          "items": [
+            {
+              "name": "FACEBOOK",
+              "url": "https://facebook.com/djmarkknight"
+            },
+            {
+              "name": "INSTAGRAM",
+              "url": "https://instagram.com/djmarkknight"
+            },
+            {
+              "name": "TWITTER",
+              "url": "https://twitter.com/djmarkknight"
+            }
+          ]
+        },
+        "name": "Mark Knight",
+        "pinnedItem": null,
+        "playlistsV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Catch the latest Toolroom Radio Episodes here! Updated every Monday! ",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c116b5dccac68241394429b0c",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Toolroom Radio",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Mark Knight"
+                  }
+                },
+                "uri": "spotify:playlist:7uR4OEyshxdHs9PcPiTurx"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Mark Knight here with my favourite Killer Cuts of right now! House | Tech House | Piano House | Disco | Disco House | Melodic | Electronic | Techno | Rave | Club Music | Toolroom | Workout Music | Gym | Running | Anthems | Dance ",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847ce1b578d4e95893dc35088d",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Killer Cuts by Mark Knight",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Mark Knight"
+                  }
+                },
+                "uri": "spotify:playlist:1TMcTavc7NLhINUNtoN8Pr"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "All of Mark Knight's releases all in one place! Check out Mark Knights Killer Cuts <a href=\"https://open.spotify.com/user/markknightofficial/playlist/1TMcTavc7NLhINUNtoN8Pr?si=w2AhqlCNS0Gjs23uvy0icw\">here</a>:",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d4ac0801f8198f9eed78e667",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Mark Knight - New Releases",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Mark Knight"
+                  }
+                },
+                "uri": "spotify:playlist:0UGpqDJ4mlj0kDiyf6bvnK"
+              }
+            }
+          ],
+          "totalCount": 3
+        },
+        "verified": true
+      },
+      "relatedContent": {
+        "appearsOn": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e1e247827dcf295c670b361a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e1e247827dcf295c670b361a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e1e247827dcf295c670b361a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "3uoi0WSv99nejC8O0PYoB2",
+                    "name": "EDM Party",
+                    "sharingInfo": {
+                      "shareId": "eR8I_NTXRQuVgrWbTEZtmA",
+                      "shareUrl": "https://open.spotify.com/album/3uoi0WSv99nejC8O0PYoB2?si=eR8I_NTXRQuVgrWbTEZtmA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3uoi0WSv99nejC8O0PYoB2"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0254d100c9fc76f5916804378a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485154d100c9fc76f5916804378a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27354d100c9fc76f5916804378a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "38ezuNxMBVB0FsiF29Wo3P",
+                    "name": "Armada Music Year Mix 2024",
+                    "sharingInfo": {
+                      "shareId": "aIEA2kNURTW6QEw-p7Sk6w",
+                      "shareUrl": "https://open.spotify.com/album/38ezuNxMBVB0FsiF29Wo3P?si=aIEA2kNURTW6QEw-p7Sk6w"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:38ezuNxMBVB0FsiF29Wo3P"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Dido"
+                          },
+                          "uri": "spotify:artist:2mpeljBig2IXLXRAFO9AAs"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02461218e7154ca72a627414db",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851461218e7154ca72a627414db",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273461218e7154ca72a627414db",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "4odcw3SqimWSGYFPqDietV",
+                    "name": "Still on My Mind (Deluxe Edition)",
+                    "sharingInfo": {
+                      "shareId": "FluiQ9SyT6imSYLJe6bBfg",
+                      "shareUrl": "https://open.spotify.com/album/4odcw3SqimWSGYFPqDietV?si=FluiQ9SyT6imSYLJe6bBfg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4odcw3SqimWSGYFPqDietV"
+                  },
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Dido"
+                          },
+                          "uri": "spotify:artist:2mpeljBig2IXLXRAFO9AAs"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021a0bb7710a86d0b107745714",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511a0bb7710a86d0b107745714",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731a0bb7710a86d0b107745714",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "4OPABBkIMIfG2HGXC9yLev",
+                    "name": "Still on My Mind (Deluxe Edition)",
+                    "sharingInfo": {
+                      "shareId": "980qgXw-QOqb-9j5kTLLaA",
+                      "shareUrl": "https://open.spotify.com/album/4OPABBkIMIfG2HGXC9yLev?si=980qgXw-QOqb-9j5kTLLaA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4OPABBkIMIfG2HGXC9yLev"
+                  }
+                ],
+                "totalCount": 2
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Joey Negro"
+                          },
+                          "uri": "spotify:artist:4lxMXxZW5ZWKrtBlMOIUuY"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e022e432b861303f02cb2d680db",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048512e432b861303f02cb2d680db",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2732e432b861303f02cb2d680db",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2004
+                    },
+                    "id": "2wQ86EJaVOc0b4iZRh1LUM",
+                    "name": "The Many Faces of Joey Negro Vol. 1",
+                    "sharingInfo": {
+                      "shareId": "R7jLEnRbRs2P68Z6QTllLQ",
+                      "shareUrl": "https://open.spotify.com/album/2wQ86EJaVOc0b4iZRh1LUM?si=R7jLEnRbRs2P68Z6QTllLQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2wQ86EJaVOc0b4iZRh1LUM"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "ESSEL"
+                          },
+                          "uri": "spotify:artist:2ucdZN7GyBGxIKHIzksnXc"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ad46eb397ac01962bd8cbd9d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ad46eb397ac01962bd8cbd9d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ad46eb397ac01962bd8cbd9d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2025
+                    },
+                    "id": "3eB0gh8KBuXiALBHIVVTWk",
+                    "name": "Toolroom Radio EP774 - Presented by ESSEL",
+                    "sharingInfo": {
+                      "shareId": "794OaGCRTDOrgE1xsLl62g",
+                      "shareUrl": "https://open.spotify.com/album/3eB0gh8KBuXiALBHIVVTWk?si=794OaGCRTDOrgE1xsLl62g"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3eB0gh8KBuXiALBHIVVTWk"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Erick Morillo"
+                          },
+                          "uri": "spotify:artist:4DE0cYxMnEEmfKLwDkYwxb"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0233007d120e966d0c1a01c38b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485133007d120e966d0c1a01c38b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27333007d120e966d0c1a01c38b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2017
+                    },
+                    "id": "4JpnpOay7vT3Xj2y3YNUX4",
+                    "name": "Subliminal Sessions 2017 (Mixed by Erick Morillo)",
+                    "sharingInfo": {
+                      "shareId": "t-0L6yZcS5u0eJhilWDHgA",
+                      "shareUrl": "https://open.spotify.com/album/4JpnpOay7vT3Xj2y3YNUX4?si=t-0L6yZcS5u0eJhilWDHgA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4JpnpOay7vT3Xj2y3YNUX4"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02881f8521ea75c357111b2372",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851881f8521ea75c357111b2372",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273881f8521ea75c357111b2372",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2014
+                    },
+                    "id": "5ibzTdYFvMukXN8J6ZEzvF",
+                    "name": "Armada Deep House Selection, Vol. 3 (The Finest Deep House Tunes)",
+                    "sharingInfo": {
+                      "shareId": "ZzZjnj6gRyGtlZM4yRkHiw",
+                      "shareUrl": "https://open.spotify.com/album/5ibzTdYFvMukXN8J6ZEzvF?si=ZzZjnj6gRyGtlZM4yRkHiw"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:5ibzTdYFvMukXN8J6ZEzvF"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Illyus & Barrientos"
+                          },
+                          "uri": "spotify:artist:6n5ccknvteaKfN4WA2qf3C"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02cc93fd6ccee9cf34b849f4bb",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851cc93fd6ccee9cf34b849f4bb",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273cc93fd6ccee9cf34b849f4bb",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2025
+                    },
+                    "id": "1fDc1NmqKMpoNTZ4wiTdfb",
+                    "name": "Toolroom Radio EP776 - Presented by Illyus & Barrientos",
+                    "sharingInfo": {
+                      "shareId": "vKfboO2yQVKU8taVSslgQQ",
+                      "shareUrl": "https://open.spotify.com/album/1fDc1NmqKMpoNTZ4wiTdfb?si=vKfboO2yQVKU8taVSslgQQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:1fDc1NmqKMpoNTZ4wiTdfb"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Yves Murasca"
+                          },
+                          "uri": "spotify:artist:3SCsY2dcAOmDq5BJhz2Z1O"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e022b3c9711707606b8e168bab5",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048512b3c9711707606b8e168bab5",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2732b3c9711707606b8e168bab5",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "2mMWD2MhAt1rfgTcAP24cP",
+                    "name": "D\u00e9epalma Ibiza Winter Moods, Vol. 4",
+                    "sharingInfo": {
+                      "shareId": "fNcIXLxlTyCKz6fVmycowA",
+                      "shareUrl": "https://open.spotify.com/album/2mMWD2MhAt1rfgTcAP24cP?si=fNcIXLxlTyCKz6fVmycowA"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:2mMWD2MhAt1rfgTcAP24cP"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Milk & Sugar"
+                          },
+                          "uri": "spotify:artist:159cwGtgCzNpyHWY6tzihH"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02fbe6957b8ed0000e0af13431",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851fbe6957b8ed0000e0af13431",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273fbe6957b8ed0000e0af13431",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "7iahULtjtnQebQgYCsQHvD",
+                    "name": "Milk & Sugar House Nation Ibiza 2021",
+                    "sharingInfo": {
+                      "shareId": "kutxtgKFSiiL-qjqQVUu-Q",
+                      "shareUrl": "https://open.spotify.com/album/7iahULtjtnQebQgYCsQHvD?si=kutxtgKFSiiL-qjqQVUu-Q"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:7iahULtjtnQebQgYCsQHvD"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Maxinne"
+                          },
+                          "uri": "spotify:artist:3sv9dCyzqOsGcJHPl5seiq"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e023f4a5d8b0dd76b2d01bf6482",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048513f4a5d8b0dd76b2d01bf6482",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2733f4a5d8b0dd76b2d01bf6482",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "7lxnv0bArIIsZGTDULr7bE",
+                    "name": "Red Alert",
+                    "sharingInfo": {
+                      "shareId": "rCxN2iJgS4mnL7KXV6piHQ",
+                      "shareUrl": "https://open.spotify.com/album/7lxnv0bArIIsZGTDULr7bE?si=rCxN2iJgS4mnL7KXV6piHQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:7lxnv0bArIIsZGTDULr7bE"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "OFFAIAH"
+                          },
+                          "uri": "spotify:artist:2E1NFr5AeEGUJkLUUsWCAO"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0260cd819b7701958d907dbc74",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485160cd819b7701958d907dbc74",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27360cd819b7701958d907dbc74",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "1uHzlMAyLadVdQkTv4KuFo",
+                    "name": "Armada Subjekt Sessions - ADE 2024 (Mixed by OFFAIAH)",
+                    "sharingInfo": {
+                      "shareId": "qh9rz6daTN-9Opy0Qw8AbQ",
+                      "shareUrl": "https://open.spotify.com/album/1uHzlMAyLadVdQkTv4KuFo?si=qh9rz6daTN-9Opy0Qw8AbQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:1uHzlMAyLadVdQkTv4KuFo"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025d2499e3b011b884970b678f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515d2499e3b011b884970b678f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735d2499e3b011b884970b678f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2015
+                    },
+                    "id": "3x8lccQT5jbvqHi8IdUs1h",
+                    "name": "Armada Deep House Selection, Vol. 7 (The Finest Deep House Tunes)",
+                    "sharingInfo": {
+                      "shareId": "m0IaXQLLSTWCEypvNRx3uQ",
+                      "shareUrl": "https://open.spotify.com/album/3x8lccQT5jbvqHi8IdUs1h?si=m0IaXQLLSTWCEypvNRx3uQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:3x8lccQT5jbvqHi8IdUs1h"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "ESSEL"
+                          },
+                          "uri": "spotify:artist:2ucdZN7GyBGxIKHIzksnXc"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b50cdb49261719588d3b1f1e",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b50cdb49261719588d3b1f1e",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b50cdb49261719588d3b1f1e",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2025
+                    },
+                    "id": "0wOwGDXpqSdh2Gct3YBGKG",
+                    "name": "Toolroom Radio EP778: ESSEL",
+                    "sharingInfo": {
+                      "shareId": "iWUbTmIwTRaZfcF937ZlAg",
+                      "shareUrl": "https://open.spotify.com/album/0wOwGDXpqSdh2Gct3YBGKG?si=iWUbTmIwTRaZfcF937ZlAg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:0wOwGDXpqSdh2Gct3YBGKG"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02cca7b7c11bc8174363c4b30b",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851cca7b7c11bc8174363c4b30b",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273cca7b7c11bc8174363c4b30b",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "1TwuxzEcA0dITsKKNtUO6F",
+                    "name": "Armada Music Year Mix 2021, Vol. 2",
+                    "sharingInfo": {
+                      "shareId": "z37beszpR_-dMpBHwHQCkg",
+                      "shareUrl": "https://open.spotify.com/album/1TwuxzEcA0dITsKKNtUO6F?si=z37beszpR_-dMpBHwHQCkg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:1TwuxzEcA0dITsKKNtUO6F"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021f4b496e452ed5b00893ae6c",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511f4b496e452ed5b00893ae6c",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731f4b496e452ed5b00893ae6c",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2014
+                    },
+                    "id": "6EHABbF8ODgk65BE7K8CMM",
+                    "name": "Sensation Welcome to the Pleasuredome",
+                    "sharingInfo": {
+                      "shareId": "tH2l8cLqROC7Kv4CAOgsqQ",
+                      "shareUrl": "https://open.spotify.com/album/6EHABbF8ODgk65BE7K8CMM?si=tH2l8cLqROC7Kv4CAOgsqQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:6EHABbF8ODgk65BE7K8CMM"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Danny Rhys"
+                          },
+                          "uri": "spotify:artist:2M6Re1FK8R8PfaKrlpF19S"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02698f8238f35f5e7c086daf92",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851698f8238f35f5e7c086daf92",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273698f8238f35f5e7c086daf92",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2025
+                    },
+                    "id": "4TYskp9WfwfFHUAjGTcn4F",
+                    "name": "Toolroom Radio EP775 - Presented by Danny Rhys, Pete Griffiths",
+                    "sharingInfo": {
+                      "shareId": "_XAKlu_CSQGDoQop9OJQ8A",
+                      "shareUrl": "https://open.spotify.com/album/4TYskp9WfwfFHUAjGTcn4F?si=_XAKlu_CSQGDoQop9OJQ8A"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:4TYskp9WfwfFHUAjGTcn4F"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Armin van Buuren ASOT Radio"
+                          },
+                          "uri": "spotify:artist:25mFVpuABa9GkGcj9eOPce"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e028ab6ce30f24939e791dffafb",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048518ab6ce30f24939e791dffafb",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2738ab6ce30f24939e791dffafb",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2013
+                    },
+                    "id": "1vlNn8o2r1VMNM1Z0GxiUM",
+                    "name": "A State Of Trance Year Mix 2013 (Mixed by Armin van Buuren)",
+                    "sharingInfo": {
+                      "shareId": "uH7y6X6yTeWCg3_1pBlcyQ",
+                      "shareUrl": "https://open.spotify.com/album/1vlNn8o2r1VMNM1Z0GxiUM?si=uH7y6X6yTeWCg3_1pBlcyQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:1vlNn8o2r1VMNM1Z0GxiUM"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Beverley Knight"
+                          },
+                          "uri": "spotify:artist:30AzZL0valZQ62OIQiFWvk"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0281dc4a77ad7b2b697456b80c",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485181dc4a77ad7b2b697456b80c",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27381dc4a77ad7b2b697456b80c",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2023
+                    },
+                    "id": "34zBuaI0qXuvCD9WrG0NbC",
+                    "name": "The Fifth Chapter",
+                    "sharingInfo": {
+                      "shareId": "V2fkO4RBT4K1D6rAVcdNrA",
+                      "shareUrl": "https://open.spotify.com/album/34zBuaI0qXuvCD9WrG0NbC?si=V2fkO4RBT4K1D6rAVcdNrA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:34zBuaI0qXuvCD9WrG0NbC"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "ESSEL"
+                          },
+                          "uri": "spotify:artist:2ucdZN7GyBGxIKHIzksnXc"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025a0afa181c741e00a918c3d7",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515a0afa181c741e00a918c3d7",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735a0afa181c741e00a918c3d7",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "38yvUBaQfzVDsRM3yP4ps3",
+                    "name": "Toolroom Radio EP770 - Presented by ESSEL",
+                    "sharingInfo": {
+                      "shareId": "DKd-wkINSh6gtlnQWOx_oQ",
+                      "shareUrl": "https://open.spotify.com/album/38yvUBaQfzVDsRM3yP4ps3?si=DKd-wkINSh6gtlnQWOx_oQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:38yvUBaQfzVDsRM3yP4ps3"
+                  }
+                ],
+                "totalCount": 1
+              }
+            }
+          ],
+          "totalCount": 307
+        },
+        "discoveredOnV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
+                "id": "37i9dQZF1DWSf2RDTDayIx",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002518096c62a9e453db38093db",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Happy Beats",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWSf2RDTDayIx"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Discover the best House Music to vibe or dance to.\u2502<a href=\"https://www.instagram.com/weareuncommonrecords/\">Instagram</a>",
+                "id": "7bu7BZEusLNJSaAuUUZBKn",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8445022ff58370157cbb0b02a6",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "HOUSE MUSIC 2025 (Top 100)",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "UNCOMMON"
+                  }
+                },
+                "uri": "spotify:playlist:7bu7BZEusLNJSaAuUUZBKn"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Avicii. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DXcXBWjiVEM8R",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002331d69cf9b3156603d0547ec",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Avicii",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXcXBWjiVEM8R"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Deep House &amp; Lounge Music, Cafe del Marina, lounge hits. Chillout, Summer Chill Hits. Beach Music - New Years music - Chill music - Cafe del mar ibiza - Hotel Costas -Soft House - Covers - Summer Vibes - (Bar &amp; Caf\u00e9) Summer  Beach Lounge Music, Ibiza, sunset vibes, Background Music, Friday vibes",
+                "id": "4FhyjgN9pPGzTbUVuzqOUW",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84b0b7f210f4aa703eb307c098",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "IBIZA Summer Mix 2025 \ud83c\udf34 Deep House - Tech House - Afrohouse - Sunset Vibes - Beach Lounge - Chillout",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "LoudKult"
+                  }
+                },
+                "uri": "spotify:playlist:4FhyjgN9pPGzTbUVuzqOUW"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Start your run with the <a href=\"https://www.nike.com/nrc-app/?deeplink=true\">Nike Run Club app.</a>",
+                "id": "1H5JvGH5vahRJKC06OFENH",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da849952cbde3cf3d3757eff1bc2",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Nike Run Club",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Nike Run Club"
+                  }
+                },
+                "uri": "spotify:playlist:1H5JvGH5vahRJKC06OFENH"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "The best disco house, jackin' house &amp; funk house tracks right now. Weekly updated.",
+                "id": "4VK2paqKTYdrhOS4wLGRL3",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84992e9b9bb05a68c1b3c9d979",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Funky Disco House \u2728 Disco House & Funky Groove Mix \u26a1\ufe0f",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Klangspot Recordings"
+                  }
+                },
+                "uri": "spotify:playlist:4VK2paqKTYdrhOS4wLGRL3"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Vibes of Cafe del mar, Buddha Bar, Nassau Beach Club, Hotel Costes, Nikki Beach, Ibiza Rocks &amp; Lounge Bars. Whether lounge- chilling at the beach or getting ready for Amnesia or Ushuaia, this playlist will get you in the mood for an endless summer",
+                "id": "2STxNfD9PhQcaJfx0I5qEw",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f771a3c83ce479f976adf7bb",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Ibiza Chillout 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Rooftop Sessions"
+                  }
+                },
+                "uri": "spotify:playlist:2STxNfD9PhQcaJfx0I5qEw"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Eletr\u00f4nicas 2025 as Melhores - Eletr\u00f4nicas 2025 Mais Tocadas - Eletr\u00f4nicas Antigas - Eletr\u00f4nicas Frita\u00e7\u00e3o - Eletr\u00f4nicas Brasileiras - Eletr\u00f4nicas Pancada - Mix Eletr\u00f4nico - M\u00f9sicas Eletr\u00f4nicas - Pancad\u00e3o Eletr\u00f4nico - Eletr\u00f4nicas Remix - Top Eletr\u00f4nicas - Elet\u00f4nicas Academia",
+                "id": "2VA1NivaAUcYnga31PBBoP",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8478503bc95b7e9f99304b0e9f",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "ELETR\u00d4NICAS  2025 \ud83d\udd25 - ATUALIZADA",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Ana Clara"
+                  }
+                },
+                "uri": "spotify:playlist:2VA1NivaAUcYnga31PBBoP"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Mark Knight. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO1TGajA",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO1TGajA-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Mark Knight",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO1TGajA"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Epic tracks from the biggest festival in the world! Tomorrowland playlist - best Tomorrowland tracks - EDM remixes - festival anthems - Tomorrowland DJ mixes - dance music hits - Tomorrowland Winter 2024 remixes - top electronic dance music - rave party tracks - popular Tommorrowland songs",
+                "id": "5Q8eXdMavAtnEl1ofHRzR1",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c80f05e8394c7585866de8b22",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Tomorrowland Remixes 2025 \ud83c\udf1f Tomorowland Best Remixes & Mashups",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Bass Bender"
+                  }
+                },
+                "uri": "spotify:playlist:5Q8eXdMavAtnEl1ofHRzR1"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Electronic mixes and mashups for happy brains with lots of dopamine",
+                "id": "0HSwn1caqoTGGG3YpcE9mk",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da847af61c7224ea738253b44034",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "ADHD Happy Brain  \ud83e\udde0 Upbeat Mix 2025\ud83d\udd25",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "vyllyb"
+                  }
+                },
+                "uri": "spotify:playlist:0HSwn1caqoTGGG3YpcE9mk"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Let's dance! \u2502<a href=\"https://www.instagram.com/weareuncommonrecords/\">Instagram</a>",
+                "id": "3z9BoYFsLaWal4jdXrOMkZ",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72cc827b5069c4586ec80b37466",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "IBIZA PARTY 2025 \ud83c\udf34\u2600\ufe0f",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "UNCOMMON"
+                  }
+                },
+                "uri": "spotify:playlist:3z9BoYFsLaWal4jdXrOMkZ"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "A happy place \ud83e\udea9\ud83e\udea9",
+                "id": "37i9dQZF1DX9ZAByPehUEa",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000029d3fb2ad15e330738b86f4ee",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "DISCOLAND",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX9ZAByPehUEa"
+              }
+            }
+          ],
+          "totalCount": 100
+        },
+        "featuringV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Mark Knight. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO1TGajA",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO1TGajA-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Mark Knight",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO1TGajA"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "With CHANEY, ESSEL, Rene Amesz and more",
+                "id": "37i9dQZF1E4zZrPPFeAKdM",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/3h11MHQeCrcsUgRRijI1zL/en",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Mark Knight Radio",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1E4zZrPPFeAKdM"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
+                "id": "37i9dQZF1DWSf2RDTDayIx",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002518096c62a9e453db38093db",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Happy Beats",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWSf2RDTDayIx"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Avicii. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DXcXBWjiVEM8R",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002331d69cf9b3156603d0547ec",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Avicii",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DXcXBWjiVEM8R"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "A happy place \ud83e\udea9\ud83e\udea9",
+                "id": "37i9dQZF1DX9ZAByPehUEa",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000029d3fb2ad15e330738b86f4ee",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "DISCOLAND",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX9ZAByPehUEa"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "<a href=\"https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl?si=_UdwKKPTRn6ORelUY3c2QQ\"> Barry Can't Swim</a>'s favourite tracks. Updated regularly. Curated by Barry Can't Swim. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
+                "id": "37i9dQZF1DWVbfVJ3tB3QO",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002c8625221c2b739f20c027273",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Barry Can't Swim's track IDs",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DWVbfVJ3tB3QO"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Listen to <a href=\"spotify:artist:3ABaec4jjl95VqmG1iD4k2\">Green Velvet</a>'s favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
+                "id": "37i9dQZF1DX9iI5CD4auV5",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000026bc9aef9d603bf96eb904e94",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Green Velvet's track IDs",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX9iI5CD4auV5"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "<a href=\"spotify:artist:4Jh6PxSFH7CrZrQpDivlYf\">Amine K</a>'s favorite tracks. Updated regularly. Curated by Amine K. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
+                "id": "37i9dQZF1DX0jCZIphUeEF",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f000000021de2c1968534930a510b6928",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Amine K's track IDs",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX0jCZIphUeEF"
+              }
+            }
+          ],
+          "totalCount": 8
+        },
+        "relatedArtists": {
+          "items": [
+            {
+              "id": "3cnAJv9gydgm52KFIsdvO8",
+              "profile": {
+                "name": "Ferreck Dawn"
+              },
+              "uri": "spotify:artist:3cnAJv9gydgm52KFIsdvO8",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb89d054d54eef3dec01a36a83",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17889d054d54eef3dec01a36a83",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517489d054d54eef3dec01a36a83",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2ucdZN7GyBGxIKHIzksnXc",
+              "profile": {
+                "name": "ESSEL"
+              },
+              "uri": "spotify:artist:2ucdZN7GyBGxIKHIzksnXc",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebd059be72413f35ef0d574e1c",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178d059be72413f35ef0d574e1c",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174d059be72413f35ef0d574e1c",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2GVtgxcx7jg5xVCZsIHSGN",
+              "profile": {
+                "name": "Dombresky"
+              },
+              "uri": "spotify:artist:2GVtgxcx7jg5xVCZsIHSGN",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb42c9aca5d99bc2737e17046e",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17842c9aca5d99bc2737e17046e",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517442c9aca5d99bc2737e17046e",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0oO1IaDOBSeI96HbnCa5pZ",
+              "profile": {
+                "name": "Solardo"
+              },
+              "uri": "spotify:artist:0oO1IaDOBSeI96HbnCa5pZ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eba19a5c7ea33af0f3572c2fdb",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178a19a5c7ea33af0f3572c2fdb",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174a19a5c7ea33af0f3572c2fdb",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4admDxmnri5Zco0xYrJ0ji",
+              "profile": {
+                "name": "Jamie Jones"
+              },
+              "uri": "spotify:artist:4admDxmnri5Zco0xYrJ0ji",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb5c0685effe8297fb4943a82f",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1785c0685effe8297fb4943a82f",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051745c0685effe8297fb4943a82f",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "583EYzsIVCz1HsEKZbuJ1k",
+              "profile": {
+                "name": "Junior Jack"
+              },
+              "uri": "spotify:artist:583EYzsIVCz1HsEKZbuJ1k",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebcfda9b9ed12daa9d6c57c9a6",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178cfda9b9ed12daa9d6c57c9a6",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174cfda9b9ed12daa9d6c57c9a6",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "04L4Y7Hkc1fULKhFbTnSSs",
+              "profile": {
+                "name": "ATFC"
+              },
+              "uri": "spotify:artist:04L4Y7Hkc1fULKhFbTnSSs",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebadd51887d097fdfaecf59119",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178add51887d097fdfaecf59119",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174add51887d097fdfaecf59119",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5kA0fIY29Fnfu4U2I2xvki",
+              "profile": {
+                "name": "David Penn"
+              },
+              "uri": "spotify:artist:5kA0fIY29Fnfu4U2I2xvki",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb5d43ff2e91ed955eeae55405",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1785d43ff2e91ed955eeae55405",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051745d43ff2e91ed955eeae55405",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "132Hhe61bhvXtkygENHZHA",
+              "profile": {
+                "name": "Wh0"
+              },
+              "uri": "spotify:artist:132Hhe61bhvXtkygENHZHA",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebeaff185f7acf5f894990e20e",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178eaff185f7acf5f894990e20e",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174eaff185f7acf5f894990e20e",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0FBRY66KVaAiddGVefikLB",
+              "profile": {
+                "name": "WEISS"
+              },
+              "uri": "spotify:artist:0FBRY66KVaAiddGVefikLB",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb10394fcf499c064983700a27",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17810394fcf499c064983700a27",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517410394fcf499c064983700a27",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2dUjApyXX9UqIsFGzoHyhX",
+              "profile": {
+                "name": "CHANEY"
+              },
+              "uri": "spotify:artist:2dUjApyXX9UqIsFGzoHyhX",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebfbd91cf8156e12ed2a1ba245",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178fbd91cf8156e12ed2a1ba245",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174fbd91cf8156e12ed2a1ba245",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "2LhJEX3HxU9pJFLa8RkvUC",
+              "profile": {
+                "name": "Maur"
+              },
+              "uri": "spotify:artist:2LhJEX3HxU9pJFLa8RkvUC",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebedf6ded0e71b723e1834b3dd",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178edf6ded0e71b723e1834b3dd",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174edf6ded0e71b723e1834b3dd",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0vSfjPjAbekoehCpmy1RV1",
+              "profile": {
+                "name": "Shakedown"
+              },
+              "uri": "spotify:artist:0vSfjPjAbekoehCpmy1RV1",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb0e8ba9f6a3f505c77c013889",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1780e8ba9f6a3f505c77c013889",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051740e8ba9f6a3f505c77c013889",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7gLis8CQkAQ7fJJNTWQNU1",
+              "profile": {
+                "name": "Crazibiza"
+              },
+              "uri": "spotify:artist:7gLis8CQkAQ7fJJNTWQNU1",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebdb3dc9a9d45a529acebf38a9",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178db3dc9a9d45a529acebf38a9",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174db3dc9a9d45a529acebf38a9",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "38jpuy3yt3QIxQ8Fn1HTeJ",
+              "profile": {
+                "name": "Mat.Joe"
+              },
+              "uri": "spotify:artist:38jpuy3yt3QIxQ8Fn1HTeJ",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb47e36ec0db549055e6fbf2eb",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17847e36ec0db549055e6fbf2eb",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517447e36ec0db549055e6fbf2eb",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6tCJN1fQNdFCEaOa8Da9Wf",
+              "profile": {
+                "name": "JADED"
+              },
+              "uri": "spotify:artist:6tCJN1fQNdFCEaOa8Da9Wf",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebb44b02aeabf1421f8b7d1257",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178b44b02aeabf1421f8b7d1257",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174b44b02aeabf1421f8b7d1257",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "3dE92yGWcrboP1kC5SWyqu",
+              "profile": {
+                "name": "Todd Terry"
+              },
+              "uri": "spotify:artist:3dE92yGWcrboP1kC5SWyqu",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebf63b298ebe9513d6c7917fd9",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178f63b298ebe9513d6c7917fd9",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174f63b298ebe9513d6c7917fd9",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "36AJmodiIrwV9U3QOiLMYM",
+              "profile": {
+                "name": "Harry Romero"
+              },
+              "uri": "spotify:artist:36AJmodiIrwV9U3QOiLMYM",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb7d388752b94a44338aa99969",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1787d388752b94a44338aa99969",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051747d388752b94a44338aa99969",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4bYwbb6k4ujHD2NXRxSwRP",
+              "profile": {
+                "name": "Robbie Rivera"
+              },
+              "uri": "spotify:artist:4bYwbb6k4ujHD2NXRxSwRP",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb5570206c30efddc126c557f7",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1785570206c30efddc126c557f7",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051745570206c30efddc126c557f7",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0MGTHZpAGf7isSfw8yMIoi",
+              "profile": {
+                "name": "Dennis Ferrer"
+              },
+              "uri": "spotify:artist:0MGTHZpAGf7isSfw8yMIoi",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb32bb268d7a099f3024ba2909",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17832bb268d7a099f3024ba2909",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517432bb268d7a099f3024ba2909",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "totalCount": 40
+        }
+      },
+      "relatedVideos": {
+        "__typename": "RelatedVideoPage",
+        "items": [],
+        "totalCount": 0
+      },
+      "saved": false,
+      "sharingInfo": {
+        "shareId": "axeweqHbT5yyVwWlXH1kDQ",
+        "shareUrl": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL?si=axeweqHbT5yyVwWlXH1kDQ"
+      },
+      "stats": {
+        "followers": 154833,
+        "monthlyListeners": 1592607,
+        "topCities": {
+          "items": [
+            {
+              "city": "London",
+              "country": "GB",
+              "numberOfListeners": 40144,
+              "region": "ENG"
+            },
+            {
+              "city": "Sydney",
+              "country": "AU",
+              "numberOfListeners": 32048,
+              "region": "NSW"
+            },
+            {
+              "city": "Melbourne",
+              "country": "AU",
+              "numberOfListeners": 27713,
+              "region": "VIC"
+            },
+            {
+              "city": "Amsterdam",
+              "country": "NL",
+              "numberOfListeners": 23178,
+              "region": "NH"
+            },
+            {
+              "city": "Santiago",
+              "country": "CL",
+              "numberOfListeners": 18369,
+              "region": "RM"
+            }
+          ]
+        },
+        "worldRank": 0
+      },
+      "uri": "spotify:artist:3h11MHQeCrcsUgRRijI1zL",
+      "visualIdentity": {
+        "wideFullBleedImage": {
+          "__typename": "VisualIdentityImage",
+          "extractedColorSet": {
+            "encoreBaseSetTextColor": {
+              "alpha": 255,
+              "blue": 187,
+              "green": 187,
+              "red": 187
+            },
+            "highContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 83,
+                "green": 83,
+                "red": 83
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 51,
+                "green": 51,
+                "red": 51
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 205,
+                "green": 205,
+                "red": 205
+              }
+            },
+            "higherContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 53,
+                "green": 53,
+                "red": 53
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 86,
+                "green": 86,
+                "red": 86
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 96,
+                "green": 215,
+                "red": 30
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 205,
+                "green": 205,
+                "red": 205
+              }
+            },
+            "minContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 83,
+                "green": 83,
+                "red": 83
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 51,
+                "green": 51,
+                "red": 51
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              }
+            }
+          }
+        }
+      },
+      "visuals": {
+        "avatarImage": {
+          "extractedColors": {
+            "colorRaw": {
+              "hex": "#909898"
+            }
+          },
+          "sources": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebc64ae41684ffb7dec7eeb685",
+              "width": 640
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178c64ae41684ffb7dec7eeb685",
+              "width": 160
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174c64ae41684ffb7dec7eeb685",
+              "width": 320
+            }
+          ]
+        },
+        "gallery": {
+          "items": [
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/12f2e1ac4643d41d99cf54df9e5c782fbf58eb1a",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/20293b2d86c94c644bbccf8c0aada01c09bc1229",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/46231a26d520e020f30465754b9444166bc4523d",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/74484d783d0fb7bd9f1e6e7cd8964a2d70d7c5bc",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/6be231cdd4c0538402d56cb5a942b87ac314d9bd",
+                  "width": 640
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "watchFeedEntrypoint": null
+    }
+  },
+  "extensions": {}
+}

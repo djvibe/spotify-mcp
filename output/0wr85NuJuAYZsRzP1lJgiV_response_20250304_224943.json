@@ -1,0 +1,4678 @@
+{
+  "data": {
+    "artistUnion": {
+      "__typename": "Artist",
+      "discography": {
+        "albums": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2015 Be Yourself Catalogue B.V",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2015 Lose Control Music",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021ac7b41362dad877e3456d85",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511ac7b41362dad877e3456d85",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731ac7b41362dad877e3456d85",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 12,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 2015
+                    },
+                    "id": "3zFtzWNwgttUFSxqktYZTZ",
+                    "label": "Lose Control Music",
+                    "name": "Lose Control",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "fdan6WrsTwK5untPFI6uEg",
+                      "shareUrl": "https://open.spotify.com/album/3zFtzWNwgttUFSxqktYZTZ?si=fdan6WrsTwK5untPFI6uEg"
+                    },
+                    "tracks": {
+                      "totalCount": 14
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3zFtzWNwgttUFSxqktYZTZ"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "cloud 9 dance",
+                          "type": "C"
+                        },
+                        {
+                          "text": "cloud 9 dance",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0267c7b722fb1f6971b9b0f4f6",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485167c7b722fb1f6971b9b0f4f6",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27367c7b722fb1f6971b9b0f4f6",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 11,
+                      "month": 7,
+                      "precision": "DAY",
+                      "year": 2008
+                    },
+                    "id": "42CUJdPapdU3wekfWmt1Ro",
+                    "label": "Cloud 9 Dance",
+                    "name": "Project One",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "_MKHQsQmTiqqkqAPNgHKxw",
+                      "shareUrl": "https://open.spotify.com/album/42CUJdPapdU3wekfWmt1Ro?si=_MKHQsQmTiqqkqAPNgHKxw"
+                    },
+                    "tracks": {
+                      "totalCount": 13
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:42CUJdPapdU3wekfWmt1Ro"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 2
+        },
+        "compilations": {
+          "items": [],
+          "totalCount": 0
+        },
+        "latest": {
+          "copyright": {
+            "items": [
+              {
+                "text": "2025 Be Yourself Catalogue B.V.",
+                "type": "C"
+              },
+              {
+                "text": "2025 Art Of Creation",
+                "type": "P"
+              }
+            ]
+          },
+          "coverArt": {
+            "sources": [
+              {
+                "height": 300,
+                "url": "https://i.scdn.co/image/ab67616d00001e024587df56876b3706013d8451",
+                "width": 300
+              },
+              {
+                "height": 64,
+                "url": "https://i.scdn.co/image/ab67616d000048514587df56876b3706013d8451",
+                "width": 64
+              },
+              {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734587df56876b3706013d8451",
+                "width": 640
+              }
+            ]
+          },
+          "date": {
+            "day": 28,
+            "month": 2,
+            "precision": "DAY",
+            "year": 2025
+          },
+          "id": "6RmTDMfzE27rfRgpP5RHa4",
+          "label": "Art of Creation",
+          "name": "Created By Legends",
+          "playability": {
+            "playable": true,
+            "reason": "PLAYABLE"
+          },
+          "sharingInfo": {
+            "shareId": "y167zz7dTx2wtbUvIjNvTg",
+            "shareUrl": "https://open.spotify.com/album/6RmTDMfzE27rfRgpP5RHa4?si=y167zz7dTx2wtbUvIjNvTg"
+          },
+          "tracks": {
+            "totalCount": 1
+          },
+          "type": "SINGLE",
+          "uri": "spotify:album:6RmTDMfzE27rfRgpP5RHa4"
+        },
+        "popularReleasesAlbums": {
+          "items": [
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2012 Be Yourself Catalogue B.V.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2012 Be Yourself Catalogue B.V. / Q-dance",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02d2cb2c655c141aa8e7fff4f0",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851d2cb2c655c141aa8e7fff4f0",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273d2cb2c655c141aa8e7fff4f0",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 5,
+                "month": 11,
+                "precision": "DAY",
+                "year": 2012
+              },
+              "id": "2LAZd5AdhXLIJIKaLRNqPa",
+              "label": "Q-dance Records",
+              "name": "Year of Summer",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "ZbXTD4AvRjKc8cBaBcS9Ng",
+                "shareUrl": "https://open.spotify.com/album/2LAZd5AdhXLIJIKaLRNqPa?si=ZbXTD4AvRjKc8cBaBcS9Ng"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:2LAZd5AdhXLIJIKaLRNqPa"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2025 Be Yourself Catalogue B.V.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2025 Art Of Creation",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e028e198a4dfe41028b9e391d96",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048518e198a4dfe41028b9e391d96",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2738e198a4dfe41028b9e391d96",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 24,
+                "month": 1,
+                "precision": "DAY",
+                "year": 2025
+              },
+              "id": "7sEEbusU23OvQIgPvwAgki",
+              "label": "Art of Creation",
+              "name": "Sunrise",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "DyN7q-CEQJmDS_03i4hDOw",
+                "shareUrl": "https://open.spotify.com/album/7sEEbusU23OvQIgPvwAgki?si=DyN7q-CEQJmDS_03i4hDOw"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:7sEEbusU23OvQIgPvwAgki"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2023 Be Yourself Catalogue B.V.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2023 I AM HARDSTYLE",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a71cbef3c2a5324f35ac0268",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a71cbef3c2a5324f35ac0268",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a71cbef3c2a5324f35ac0268",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 1,
+                "month": 9,
+                "precision": "DAY",
+                "year": 2023
+              },
+              "id": "0HY3yiWBKTwR9DxEgVYSZY",
+              "label": "I AM HARDSTYLE",
+              "name": "Lose My Mind (Sub Zero Project Remix)",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "YnKUp-yETq60YBNCf0BNtQ",
+                "shareUrl": "https://open.spotify.com/album/0HY3yiWBKTwR9DxEgVYSZY?si=YnKUp-yETq60YBNCf0BNtQ"
+              },
+              "tracks": {
+                "totalCount": 2
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:0HY3yiWBKTwR9DxEgVYSZY"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2024 Be Yourself Catalogue B.V.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2024 Art Of Creation",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02abd6840ee6940eacada19e99",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851abd6840ee6940eacada19e99",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273abd6840ee6940eacada19e99",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 20,
+                "month": 12,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "1uhSs6sPkJrGNyWiVEOKGV",
+              "label": "Art of Creation",
+              "name": "Hollow",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "Uj6pi9t5Q7mWLDOyRQHK3g",
+                "shareUrl": "https://open.spotify.com/album/1uhSs6sPkJrGNyWiVEOKGV?si=Uj6pi9t5Q7mWLDOyRQHK3g"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1uhSs6sPkJrGNyWiVEOKGV"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2015 Be Yourself Catalogue B.V",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2015 Lose Control Music",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e021ac7b41362dad877e3456d85",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048511ac7b41362dad877e3456d85",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731ac7b41362dad877e3456d85",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 12,
+                "month": 6,
+                "precision": "DAY",
+                "year": 2015
+              },
+              "id": "3zFtzWNwgttUFSxqktYZTZ",
+              "label": "Lose Control Music",
+              "name": "Lose Control",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "fdan6WrsTwK5untPFI6uEg",
+                "shareUrl": "https://open.spotify.com/album/3zFtzWNwgttUFSxqktYZTZ?si=fdan6WrsTwK5untPFI6uEg"
+              },
+              "tracks": {
+                "totalCount": 14
+              },
+              "type": "ALBUM",
+              "uri": "spotify:album:3zFtzWNwgttUFSxqktYZTZ"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2025 Be Yourself Catalogue B.V.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2025 Art Of Creation",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e024587df56876b3706013d8451",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048514587df56876b3706013d8451",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2734587df56876b3706013d8451",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 28,
+                "month": 2,
+                "precision": "DAY",
+                "year": 2025
+              },
+              "id": "6RmTDMfzE27rfRgpP5RHa4",
+              "label": "Art of Creation",
+              "name": "Created By Legends",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "y167zz7dTx2wtbUvIjNvTg",
+                "shareUrl": "https://open.spotify.com/album/6RmTDMfzE27rfRgpP5RHa4?si=y167zz7dTx2wtbUvIjNvTg"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:6RmTDMfzE27rfRgpP5RHa4"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2022 Q-dance Music B.V. / Q-dance Records / Q-dance.com",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2022 Q-dance Music B.V. / Q-dance Records / Q-dance.com",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0288aa0ded20e6cf19099c3c87",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d0000485188aa0ded20e6cf19099c3c87",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27388aa0ded20e6cf19099c3c87",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 19,
+                "month": 8,
+                "precision": "DAY",
+                "year": 2022
+              },
+              "id": "20DvWlvfSACdNryy0LwYjM",
+              "label": "Q-dance Records",
+              "name": "WKND!",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "Q1oGDCT_Tx2rUxubM6L46Q",
+                "shareUrl": "https://open.spotify.com/album/20DvWlvfSACdNryy0LwYjM?si=Q1oGDCT_Tx2rUxubM6L46Q"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:20DvWlvfSACdNryy0LwYjM"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2024 Be Yourself Catalogue B.V.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2024 Art Of Creation",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a3f59286002fe4470259c5f2",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a3f59286002fe4470259c5f2",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a3f59286002fe4470259c5f2",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 25,
+                "month": 10,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "0QnuiUgPMOGPtJ3AYvPMvG",
+              "label": "Art of Creation",
+              "name": "Defiance",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "-ip2W3Y8SEOhh8ZJQhXWaA",
+                "shareUrl": "https://open.spotify.com/album/0QnuiUgPMOGPtJ3AYvPMvG?si=-ip2W3Y8SEOhh8ZJQhXWaA"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:0QnuiUgPMOGPtJ3AYvPMvG"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2024 Be Yourself Catalogue B.V.",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2024 Art Of Creation",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e026b6356850156b13dd6ed8071",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d000048516b6356850156b13dd6ed8071",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2736b6356850156b13dd6ed8071",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 30,
+                "month": 8,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "7zY6hCEcLzK3WDmYTBVNhX",
+              "label": "Art of Creation",
+              "name": "Favourite Song",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "lsJ61fJZSNqvZJAgp1jaNQ",
+                "shareUrl": "https://open.spotify.com/album/7zY6hCEcLzK3WDmYTBVNhX?si=lsJ61fJZSNqvZJAgp1jaNQ"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:7zY6hCEcLzK3WDmYTBVNhX"
+            },
+            {
+              "copyright": {
+                "items": [
+                  {
+                    "text": "2024 Q-dance Music B.V. / Defqon.1 Records / Q-dance.com",
+                    "type": "C"
+                  },
+                  {
+                    "text": "2024 Q-dance Music B.V. / Defqon.1 Records / Q-dance.com",
+                    "type": "P"
+                  }
+                ]
+              },
+              "coverArt": {
+                "sources": [
+                  {
+                    "height": 300,
+                    "url": "https://i.scdn.co/image/ab67616d00001e02a2cb3ae648a3a642aad4ac7c",
+                    "width": 300
+                  },
+                  {
+                    "height": 64,
+                    "url": "https://i.scdn.co/image/ab67616d00004851a2cb3ae648a3a642aad4ac7c",
+                    "width": 64
+                  },
+                  {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273a2cb3ae648a3a642aad4ac7c",
+                    "width": 640
+                  }
+                ]
+              },
+              "date": {
+                "day": 12,
+                "month": 7,
+                "precision": "DAY",
+                "year": 2024
+              },
+              "id": "1HVwxjRTjijCJfMWQLfGCA",
+              "label": "Defqon.1 Records",
+              "name": "The Showdown",
+              "playability": {
+                "playable": true,
+                "reason": "PLAYABLE"
+              },
+              "sharingInfo": {
+                "shareId": "AG_Sg_2qRS-XGjINoKxSAg",
+                "shareUrl": "https://open.spotify.com/album/1HVwxjRTjijCJfMWQLfGCA?si=AG_Sg_2qRS-XGjINoKxSAg"
+              },
+              "tracks": {
+                "totalCount": 1
+              },
+              "type": "SINGLE",
+              "uri": "spotify:album:1HVwxjRTjijCJfMWQLfGCA"
+            }
+          ],
+          "totalCount": 20
+        },
+        "singles": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2025 Be Yourself Catalogue B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2025 Art Of Creation",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024587df56876b3706013d8451",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514587df56876b3706013d8451",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734587df56876b3706013d8451",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 28,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "6RmTDMfzE27rfRgpP5RHa4",
+                    "label": "Art of Creation",
+                    "name": "Created By Legends",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "y167zz7dTx2wtbUvIjNvTg",
+                      "shareUrl": "https://open.spotify.com/album/6RmTDMfzE27rfRgpP5RHa4?si=y167zz7dTx2wtbUvIjNvTg"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:6RmTDMfzE27rfRgpP5RHa4"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2025 Be Yourself Catalogue B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2025 Art Of Creation",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e028e198a4dfe41028b9e391d96",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048518e198a4dfe41028b9e391d96",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2738e198a4dfe41028b9e391d96",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 24,
+                      "month": 1,
+                      "precision": "DAY",
+                      "year": 2025
+                    },
+                    "id": "7sEEbusU23OvQIgPvwAgki",
+                    "label": "Art of Creation",
+                    "name": "Sunrise",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "DyN7q-CEQJmDS_03i4hDOw",
+                      "shareUrl": "https://open.spotify.com/album/7sEEbusU23OvQIgPvwAgki?si=DyN7q-CEQJmDS_03i4hDOw"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7sEEbusU23OvQIgPvwAgki"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Be Yourself Catalogue B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Art Of Creation",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02abd6840ee6940eacada19e99",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851abd6840ee6940eacada19e99",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273abd6840ee6940eacada19e99",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 20,
+                      "month": 12,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "1uhSs6sPkJrGNyWiVEOKGV",
+                    "label": "Art of Creation",
+                    "name": "Hollow",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "Uj6pi9t5Q7mWLDOyRQHK3g",
+                      "shareUrl": "https://open.spotify.com/album/1uhSs6sPkJrGNyWiVEOKGV?si=Uj6pi9t5Q7mWLDOyRQHK3g"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1uhSs6sPkJrGNyWiVEOKGV"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Be Yourself Catalogue B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Art Of Creation",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a3f59286002fe4470259c5f2",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a3f59286002fe4470259c5f2",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a3f59286002fe4470259c5f2",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 25,
+                      "month": 10,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "0QnuiUgPMOGPtJ3AYvPMvG",
+                    "label": "Art of Creation",
+                    "name": "Defiance",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "-ip2W3Y8SEOhh8ZJQhXWaA",
+                      "shareUrl": "https://open.spotify.com/album/0QnuiUgPMOGPtJ3AYvPMvG?si=-ip2W3Y8SEOhh8ZJQhXWaA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:0QnuiUgPMOGPtJ3AYvPMvG"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Be Yourself Catalogue B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Art Of Creation",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e024619a072d9d0811b65d9c508",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048514619a072d9d0811b65d9c508",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2734619a072d9d0811b65d9c508",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 20,
+                      "month": 9,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "4uOY94Zo1KDjq76aVckmnF",
+                    "label": "Art of Creation",
+                    "name": "Games Of Destiny (Knockout Outdoor 2024 Anthem) [feat. Adriana Stone]",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "7V_voPGXSXK_n9FWhfuBLA",
+                      "shareUrl": "https://open.spotify.com/album/4uOY94Zo1KDjq76aVckmnF?si=7V_voPGXSXK_n9FWhfuBLA"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:4uOY94Zo1KDjq76aVckmnF"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Be Yourself Catalogue B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Art Of Creation",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e026b6356850156b13dd6ed8071",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048516b6356850156b13dd6ed8071",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2736b6356850156b13dd6ed8071",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 30,
+                      "month": 8,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "7zY6hCEcLzK3WDmYTBVNhX",
+                    "label": "Art of Creation",
+                    "name": "Favourite Song",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "lsJ61fJZSNqvZJAgp1jaNQ",
+                      "shareUrl": "https://open.spotify.com/album/7zY6hCEcLzK3WDmYTBVNhX?si=lsJ61fJZSNqvZJAgp1jaNQ"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7zY6hCEcLzK3WDmYTBVNhX"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Q-dance Music B.V. / Defqon.1 Records / Q-dance.com",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Q-dance Music B.V. / Defqon.1 Records / Q-dance.com",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a2cb3ae648a3a642aad4ac7c",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a2cb3ae648a3a642aad4ac7c",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a2cb3ae648a3a642aad4ac7c",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 12,
+                      "month": 7,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "1HVwxjRTjijCJfMWQLfGCA",
+                    "label": "Defqon.1 Records",
+                    "name": "The Showdown",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "AG_Sg_2qRS-XGjINoKxSAg",
+                      "shareUrl": "https://open.spotify.com/album/1HVwxjRTjijCJfMWQLfGCA?si=AG_Sg_2qRS-XGjINoKxSAg"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:1HVwxjRTjijCJfMWQLfGCA"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Be Yourself Catalogue B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Art Of Creation",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0257e9e758d3f6e2f2a51fd666",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485157e9e758d3f6e2f2a51fd666",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27357e9e758d3f6e2f2a51fd666",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 21,
+                      "month": 6,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "61r4yBIIS5SWBXHjgB2Juk",
+                    "label": "Art of Creation",
+                    "name": "Run With The Wolves (Aftershock Remix)",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "-owm7ePJRDmHv0N5QA6K2w",
+                      "shareUrl": "https://open.spotify.com/album/61r4yBIIS5SWBXHjgB2Juk?si=-owm7ePJRDmHv0N5QA6K2w"
+                    },
+                    "tracks": {
+                      "totalCount": 2
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:61r4yBIIS5SWBXHjgB2Juk"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 Be Yourself Catalogue B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 Art Of Creation",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029728dee8eb11c26f81116c9f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519728dee8eb11c26f81116c9f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739728dee8eb11c26f81116c9f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 8,
+                      "month": 3,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "7oRcXe3JASaRmTBvwoF05V",
+                    "label": "Art of Creation",
+                    "name": "King For A Day",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "JkieWK4URqmC-1nnBgw0ww",
+                      "shareUrl": "https://open.spotify.com/album/7oRcXe3JASaRmTBvwoF05V?si=JkieWK4URqmC-1nnBgw0ww"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7oRcXe3JASaRmTBvwoF05V"
+                  }
+                ]
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "copyright": {
+                      "items": [
+                        {
+                          "text": "2024 SKINK Records, De Muziekfabriek B.V.",
+                          "type": "C"
+                        },
+                        {
+                          "text": "2024 SKINK Records, De Muziekfabriek B.V.",
+                          "type": "P"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025d0c84b49dd17dd1f943b1d1",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515d0c84b49dd17dd1f943b1d1",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735d0c84b49dd17dd1f943b1d1",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "day": 15,
+                      "month": 2,
+                      "precision": "DAY",
+                      "year": 2024
+                    },
+                    "id": "7F9Cixkjjg0nsLYKi5oZc2",
+                    "label": "Skink",
+                    "name": "XTC",
+                    "playability": {
+                      "playable": true,
+                      "reason": "PLAYABLE"
+                    },
+                    "sharingInfo": {
+                      "shareId": "Sj6xik3TQXCxfBivBXP0aw",
+                      "shareUrl": "https://open.spotify.com/album/7F9Cixkjjg0nsLYKi5oZc2?si=Sj6xik3TQXCxfBivBXP0aw"
+                    },
+                    "tracks": {
+                      "totalCount": 1
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:7F9Cixkjjg0nsLYKi5oZc2"
+                  }
+                ]
+              }
+            }
+          ],
+          "totalCount": 99
+        },
+        "topTracks": {
+          "items": [
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d2cb2c655c141aa8e7fff4f0"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851d2cb2c655c141aa8e7fff4f0"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d2cb2c655c141aa8e7fff4f0"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:2LAZd5AdhXLIJIKaLRNqPa"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Wildstylez"
+                      },
+                      "uri": "spotify:artist:0wr85NuJuAYZsRzP1lJgiV"
+                    },
+                    {
+                      "profile": {
+                        "name": "Niels Geusebroek"
+                      },
+                      "uri": "spotify:artist:7D22FhEGzT4jxbjWryB63l"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 174400
+                },
+                "id": "3iKcDwqwMf6O547uQcyjaO",
+                "name": "Year Of Summer - Radio Edit",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "74434726",
+                "uri": "spotify:track:3iKcDwqwMf6O547uQcyjaO"
+              },
+              "uid": "3620eda306cff8a1141b"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02cc45d2d52835e90997469c53"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851cc45d2d52835e90997469c53"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273cc45d2d52835e90997469c53"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:0BidOfPtcFpsyM8rxSF9vu"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Brennan Heart"
+                      },
+                      "uri": "spotify:artist:5QySqc6yAFDx9m7fedFZmC"
+                    },
+                    {
+                      "profile": {
+                        "name": "Wildstylez"
+                      },
+                      "uri": "spotify:artist:0wr85NuJuAYZsRzP1lJgiV"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 183200
+                },
+                "id": "1FKUPb2HdRzrwpbhF5gqsk",
+                "name": "Lose My Mind - Radio Edit",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "65159177",
+                "uri": "spotify:track:1FKUPb2HdRzrwpbhF5gqsk"
+              },
+              "uid": "45fa97efa69845a57830"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e028e198a4dfe41028b9e391d96"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048518e198a4dfe41028b9e391d96"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2738e198a4dfe41028b9e391d96"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:7sEEbusU23OvQIgPvwAgki"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Wildstylez"
+                      },
+                      "uri": "spotify:artist:0wr85NuJuAYZsRzP1lJgiV"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 236129
+                },
+                "id": "6V0EipATIRmZdKqk6EVhQm",
+                "name": "Sunrise",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "456080",
+                "uri": "spotify:track:6V0EipATIRmZdKqk6EVhQm"
+              },
+              "uid": "8a3a66e886549a9d527c"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a71cbef3c2a5324f35ac0268"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851a71cbef3c2a5324f35ac0268"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a71cbef3c2a5324f35ac0268"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:0HY3yiWBKTwR9DxEgVYSZY"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Brennan Heart"
+                      },
+                      "uri": "spotify:artist:5QySqc6yAFDx9m7fedFZmC"
+                    },
+                    {
+                      "profile": {
+                        "name": "Wildstylez"
+                      },
+                      "uri": "spotify:artist:0wr85NuJuAYZsRzP1lJgiV"
+                    },
+                    {
+                      "profile": {
+                        "name": "Sub Zero Project"
+                      },
+                      "uri": "spotify:artist:4f0OXMMSxr0r8Ztx6CdpAl"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 253012
+                },
+                "id": "6FQTEo5HfXoMzXV513unv9",
+                "name": "Lose My Mind - Sub Zero Project Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "5385387",
+                "uri": "spotify:track:6FQTEo5HfXoMzXV513unv9"
+              },
+              "uid": "971bb8ed49db6d4e1cfa"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02abd6840ee6940eacada19e99"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851abd6840ee6940eacada19e99"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273abd6840ee6940eacada19e99"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:1uhSs6sPkJrGNyWiVEOKGV"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Wildstylez"
+                      },
+                      "uri": "spotify:artist:0wr85NuJuAYZsRzP1lJgiV"
+                    },
+                    {
+                      "profile": {
+                        "name": "Atmozfears"
+                      },
+                      "uri": "spotify:artist:0MBGxwmCdXdO26ojaNcT64"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 171870
+                },
+                "id": "3pm9zDurEHGygOM3p8uF8W",
+                "name": "Hollow",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "747009",
+                "uri": "spotify:track:3pm9zDurEHGygOM3p8uF8W"
+              },
+              "uid": "f6c874a0c9c1f759dac1"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02380dc6c09eb824367221d6f9"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851380dc6c09eb824367221d6f9"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273380dc6c09eb824367221d6f9"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:3h7gRScWRjGZKh8AusmieE"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Armin van Buuren"
+                      },
+                      "uri": "spotify:artist:0SfsnGyD8FpIN4U4WCkBZ5"
+                    },
+                    {
+                      "profile": {
+                        "name": "Vini Vici"
+                      },
+                      "uri": "spotify:artist:29zsVzEH33dD5QqxeL8dvy"
+                    },
+                    {
+                      "profile": {
+                        "name": "Hilight Tribe"
+                      },
+                      "uri": "spotify:artist:62RdOEwjfXjFOQpKdufMR7"
+                    },
+                    {
+                      "profile": {
+                        "name": "Wildstylez"
+                      },
+                      "uri": "spotify:artist:0wr85NuJuAYZsRzP1lJgiV"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 236000
+                },
+                "id": "5DOL2R736GPvEL6yE05n4R",
+                "name": "Great Spirit - Wildstylez Remix",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "27380816",
+                "uri": "spotify:track:5DOL2R736GPvEL6yE05n4R"
+              },
+              "uid": "c349ae5ebe57c4a6a70f"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e024587df56876b3706013d8451"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d000048514587df56876b3706013d8451"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734587df56876b3706013d8451"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:6RmTDMfzE27rfRgpP5RHa4"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Wildstylez"
+                      },
+                      "uri": "spotify:artist:0wr85NuJuAYZsRzP1lJgiV"
+                    },
+                    {
+                      "profile": {
+                        "name": "Jay Reeve"
+                      },
+                      "uri": "spotify:artist:5AVdeI8lS5HS9VGV8AUyS4"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 221176
+                },
+                "id": "18cS9a6ZBrENeIwZrYOLwh",
+                "name": "Created By Legends",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "129600",
+                "uri": "spotify:track:18cS9a6ZBrENeIwZrYOLwh"
+              },
+              "uid": "e1072000a5601dc0ad6e"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0285acefcd3019da595d8bca21"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485185acefcd3019da595d8bca21"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27385acefcd3019da595d8bca21"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:0Lwh23vnViC5aJSqsNIcaZ"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Hardwell"
+                      },
+                      "uri": "spotify:artist:6BrvowZBreEkXzJQMpL174"
+                    },
+                    {
+                      "profile": {
+                        "name": "Wildstylez"
+                      },
+                      "uri": "spotify:artist:0wr85NuJuAYZsRzP1lJgiV"
+                    },
+                    {
+                      "profile": {
+                        "name": "KiFi"
+                      },
+                      "uri": "spotify:artist:4C26PDH7q4oJazjcHlSekc"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 196216
+                },
+                "id": "5K4InCkZlFv2SXvR20BXb2",
+                "name": "Shine A Light",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "32978801",
+                "uri": "spotify:track:5K4InCkZlFv2SXvR20BXb2"
+              },
+              "uid": "6b5759decf44927c971d"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e0288aa0ded20e6cf19099c3c87"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000485188aa0ded20e6cf19099c3c87"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b27388aa0ded20e6cf19099c3c87"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:20DvWlvfSACdNryy0LwYjM"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Brennan Heart"
+                      },
+                      "uri": "spotify:artist:5QySqc6yAFDx9m7fedFZmC"
+                    },
+                    {
+                      "profile": {
+                        "name": "Wildstylez"
+                      },
+                      "uri": "spotify:artist:0wr85NuJuAYZsRzP1lJgiV"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 235200
+                },
+                "id": "1ygSgiHkoCLWE4uVDCoJO2",
+                "name": "WKND!",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "9609701",
+                "uri": "spotify:track:1ygSgiHkoCLWE4uVDCoJO2"
+              },
+              "uid": "615c193157ef97dbc319"
+            },
+            {
+              "track": {
+                "albumOfTrack": {
+                  "coverArt": {
+                    "sources": [
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a3f59286002fe4470259c5f2"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d00004851a3f59286002fe4470259c5f2"
+                      },
+                      {
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a3f59286002fe4470259c5f2"
+                      }
+                    ]
+                  },
+                  "uri": "spotify:album:0QnuiUgPMOGPtJ3AYvPMvG"
+                },
+                "artists": {
+                  "items": [
+                    {
+                      "profile": {
+                        "name": "Wildstylez"
+                      },
+                      "uri": "spotify:artist:0wr85NuJuAYZsRzP1lJgiV"
+                    },
+                    {
+                      "profile": {
+                        "name": "Sound Rush"
+                      },
+                      "uri": "spotify:artist:7IFPeV5Ew63S7Hid0AjNgK"
+                    }
+                  ]
+                },
+                "associationsV3": {
+                  "videoAssociations": {
+                    "totalCount": 0
+                  }
+                },
+                "contentRating": {
+                  "label": "NONE"
+                },
+                "discNumber": 1,
+                "duration": {
+                  "totalMilliseconds": 204774
+                },
+                "id": "05uemG3jbWdpnyPKuqyL2p",
+                "name": "Defiance",
+                "playability": {
+                  "playable": true,
+                  "reason": "PLAYABLE"
+                },
+                "playcount": "1029203",
+                "uri": "spotify:track:05uemG3jbWdpnyPKuqyL2p"
+              },
+              "uid": "0cd7f01d7acf36330300"
+            }
+          ]
+        }
+      },
+      "goods": {
+        "concerts": {
+          "items": [
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Zaandam",
+                  "name": "Hemkade 48"
+                },
+                "startDateIsoString": "2025-03-29T15:00+01:00",
+                "title": "Wildstylez, Audiotricz",
+                "uri": "spotify:concert:0MHDA4u54QojhkHJHxbM2Z"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Irnsum",
+                  "name": "Eetcafe De 2 Gemeenten"
+                },
+                "startDateIsoString": "2025-03-29T22:00+01:00",
+                "title": "Wildstylez",
+                "uri": "spotify:concert:1huWPQx04BbDDJueSWblx4"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Haaren",
+                  "name": "Stichting Vriendenkring Haaren 1940-1945"
+                },
+                "startDateIsoString": "2025-04-11T17:00+02:00",
+                "title": "Wildstylez, Aversion, Cardination, Collusion, Crypsis, Dj Thera, Dr. Peacock, Devin Wild, Dual Damage, Element, GPF, Hard Destiny, Heavy Resistance, Kruelty, Primeshock, Radical Redemption, Sickmode, The Straikerz",
+                "uri": "spotify:concert:6dsf1heEMqspFIeQwdCVkO"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Lillestr\u00f8m",
+                  "name": "NOVA Spektrum"
+                },
+                "startDateIsoString": "2025-05-02T17:00+02:00",
+                "title": "Wildstylez",
+                "uri": "spotify:concert:3srslgdpFjAfj3OWXBwzyy"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Wijchen",
+                  "name": "Berendonck"
+                },
+                "startDateIsoString": "2025-05-24T17:00+02:00",
+                "title": "Wildstylez, Aversion, Cardination, Hard Destiny, Kruelty",
+                "uri": "spotify:concert:0BikmSR6bGQfNJRSE4OKpx"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Helsinki",
+                  "name": "Helsinki Ice Hall"
+                },
+                "startDateIsoString": "2025-05-24T20:00+03:00",
+                "title": "Wildstylez",
+                "uri": "spotify:concert:5agwdVaPPF2l212cnYSl45"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Erp",
+                  "name": "Festivalterrein De Roost"
+                },
+                "startDateIsoString": "2025-06-08T17:00+02:00",
+                "title": "Wildstylez",
+                "uri": "spotify:concert:6fhiuCdcRigKhkrnjITzu2"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Neustadt-glewe",
+                  "name": "Flugplatz Neustadt-Glewe"
+                },
+                "startDateIsoString": "2025-07-09T17:00+02:00",
+                "title": "Armin van Buuren, GPF, Mausio, Noel Holler, Wildstylez",
+                "uri": "spotify:concert:6NznLSAc7Dr4ILuaKZJerx"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Provinsi Papua",
+                  "name": "Autotron Rosmalen"
+                },
+                "startDateIsoString": "2025-07-12T13:00+09:00",
+                "title": "Wildstylez",
+                "uri": "spotify:concert:3MaV4KNSKFNGPrncBt9QDR"
+              }
+            },
+            {
+              "data": {
+                "__typename": "ConcertV2",
+                "festival": false,
+                "location": {
+                  "city": "Boom",
+                  "name": "Provincial Recreation Domain De Schorre"
+                },
+                "startDateIsoString": "2025-07-18T17:00+02:00",
+                "title": "Armin van Buuren, AK SPORTS, Andromedik, Crankdat, DJ Gigola, Dual Damage, John Newman, Pirapus, Sacha Malice, Sonny Fodera, Wildstylez",
+                "uri": "spotify:concert:2XEd6FPvPSQxn7PrkGHuWz"
+              }
+            }
+          ],
+          "totalCount": 12
+        },
+        "merch": {
+          "items": []
+        }
+      },
+      "headerImage": {
+        "data": {
+          "__typename": "ImageV2",
+          "sources": [
+            {
+              "maxHeight": 640,
+              "maxWidth": 1494,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67618600000194407827da80dd78391fe40b76"
+            },
+            {
+              "maxHeight": 1080,
+              "maxWidth": 1920,
+              "url": "https://i2o.scdn.co/image/ab67618600001667407827da80dd78391fe40b76"
+            },
+            {
+              "maxHeight": 641,
+              "maxWidth": 1495,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab67618600009d80407827da80dd78391fe40b76"
+            },
+            {
+              "maxHeight": 1140,
+              "maxWidth": 2660,
+              "url": "https://image-cdn-ak.spotifycdn.com/image/ab6761860000eab1407827da80dd78391fe40b76"
+            }
+          ]
+        }
+      },
+      "id": "0wr85NuJuAYZsRzP1lJgiV",
+      "preRelease": null,
+      "profile": {
+        "biography": {
+          "text": "Wildstylez has been at the pinnacle of the hardstyle scene for over a decade. He is a creative mastermind, a technical genius, a founding member of Project One - his timeless and eternal collaboration with Headhunterz - and he is already regarded as one of the all-time-greats of the genre. Through the years he has innovated, revolutionized and set countless benchmarks, all to delight his adoring fanbase. With countless gigs in his schedule and copious amounts of new music still to come, Wildstylez is set to remain at the very peak of the hardstyle mountain.",
+          "type": "AUTOBIOGRAPHY"
+        },
+        "externalLinks": {
+          "items": [
+            {
+              "name": "FACEBOOK",
+              "url": "https://facebook.com/wildstylez"
+            },
+            {
+              "name": "INSTAGRAM",
+              "url": "https://instagram.com/wildstylez"
+            },
+            {
+              "name": "TWITTER",
+              "url": "https://twitter.com/wildstylez"
+            }
+          ]
+        },
+        "name": "Wildstylez",
+        "pinnedItem": {
+          "backgroundImageV2": {
+            "data": {
+              "__typename": "ImageV2",
+              "sources": [
+                {
+                  "url": "https://image-cdn-ak.spotifycdn.com/image/ab676170000059107a642dcd6d37cc0d255a15b5"
+                }
+              ]
+            }
+          },
+          "comment": "Get ready for Timeless.. \ud83d\udd70\ufe0f",
+          "itemV2": {
+            "__typename": "PlaylistResponseWrapper",
+            "data": {
+              "__typename": "Playlist",
+              "images": {
+                "items": [
+                  {
+                    "sources": [
+                      {
+                        "height": null,
+                        "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c5f21fb2145783ec75d4b16fb",
+                        "width": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              "name": "Wildstylez - Sunrise",
+              "uri": "spotify:playlist:2oWi4EKDkqcyVWfN2tVQeq"
+            }
+          },
+          "subtitle": "Playlist",
+          "thumbnailImage": {
+            "data": {
+              "sources": [
+                {
+                  "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c000097ac5f21fb2145783ec75d4b16fb"
+                },
+                {
+                  "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c5f21fb2145783ec75d4b16fb"
+                },
+                {
+                  "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000dec55f21fb2145783ec75d4b16fb"
+                }
+              ]
+            }
+          },
+          "title": "Wildstylez - Sunrise",
+          "type": "PLAYLIST",
+          "uri": "spotify:playlist:2oWi4EKDkqcyVWfN2tVQeq"
+        },
+        "playlistsV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Your weekly updated source for pure and perfect hardstyle that resonates with the soul. Immerse into a digital sense of diversity and electronic craftmanship with Art of Hardstyle. \ud83d\udc9b Cover: Wildstylez &amp; Jay Reeve",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da844eb79c7c372d643c2cf114a0",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "Art of Hardstyle | Wildstylez & Jay Reeve takeover",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Art of Creation"
+                  }
+                },
+                "uri": "spotify:playlist:1EFTuRQGjRX3rXmdNvYeIx"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Wildstylez. The essential tracks, all in one playlist.",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO0f2vzG-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "This Is Wildstylez",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO0f2vzG"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Your destination for the best Hardstyle.  With tracks from Brennan Heart, Wildstylez, Headhunterz and many more. For more playlists, go <a href=\"https://open.spotify.com/user/derailedtraxx?si=ikXPk8AHRdeVfqPSSNyOfQ\">here</a>",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da844bfa8928da794d892d7cfa95",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "name": "The Sound Of Hardstyle  ",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "The Sound Of Hardstyle"
+                  }
+                },
+                "uri": "spotify:playlist:1P6ue4O5NIFkfDgF9GFrkU"
+              }
+            }
+          ],
+          "totalCount": 3
+        },
+        "verified": true
+      },
+      "relatedContent": {
+        "appearsOn": {
+          "items": [
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Brennan Heart"
+                          },
+                          "uri": "spotify:artist:5QySqc6yAFDx9m7fedFZmC"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02cc45d2d52835e90997469c53",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851cc45d2d52835e90997469c53",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273cc45d2d52835e90997469c53",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2021
+                    },
+                    "id": "0BidOfPtcFpsyM8rxSF9vu",
+                    "name": "Brennan Heart 20 Years",
+                    "sharingInfo": {
+                      "shareId": "Gs99b7o9RcSnEk7Ldg4i1g",
+                      "shareUrl": "https://open.spotify.com/album/0BidOfPtcFpsyM8rxSF9vu?si=Gs99b7o9RcSnEk7Ldg4i1g"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:0BidOfPtcFpsyM8rxSF9vu"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02764d099111da8072cd1a32cb",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851764d099111da8072cd1a32cb",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273764d099111da8072cd1a32cb",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2020
+                    },
+                    "id": "5Z1gtJYamym9mqFEuhgMVq",
+                    "name": "DEDIQATED - 20 Years Of Q-dance",
+                    "sharingInfo": {
+                      "shareId": "M8M_YWY2QR6i4B2azwhJVQ",
+                      "shareUrl": "https://open.spotify.com/album/5Z1gtJYamym9mqFEuhgMVq?si=M8M_YWY2QR6i4B2azwhJVQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:5Z1gtJYamym9mqFEuhgMVq"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Headhunterz"
+                          },
+                          "uri": "spotify:artist:6C0KWmCdqrLU2LzzWBPbOy"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b15a115bd64cd6ae2ecd9aef",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b15a115bd64cd6ae2ecd9aef",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b15a115bd64cd6ae2ecd9aef",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "6cPSD583Rf7B8ZoIZ2bbEH",
+                    "name": "The Return Of Headhunterz",
+                    "sharingInfo": {
+                      "shareId": "JdjNB-B_QgeOFNIRt7Ojqg",
+                      "shareUrl": "https://open.spotify.com/album/6cPSD583Rf7B8ZoIZ2bbEH?si=JdjNB-B_QgeOFNIRt7Ojqg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:6cPSD583Rf7B8ZoIZ2bbEH"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Brennan Heart"
+                          },
+                          "uri": "spotify:artist:5QySqc6yAFDx9m7fedFZmC"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e022364c9f4614ed64297310ab8",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048512364c9f4614ed64297310ab8",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2732364c9f4614ed64297310ab8",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2019
+                    },
+                    "id": "5jVqEmzWDbBcZml7XNcjvu",
+                    "name": "Show Your True Colors",
+                    "sharingInfo": {
+                      "shareId": "HTzrsFoATE6kzwKOpbfFyw",
+                      "shareUrl": "https://open.spotify.com/album/5jVqEmzWDbBcZml7XNcjvu?si=HTzrsFoATE6kzwKOpbfFyw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:5jVqEmzWDbBcZml7XNcjvu"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "SCANTRAXX"
+                          },
+                          "uri": "spotify:artist:52lKMhQlx5f7tM11qGkhKs"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0236ad396de49dac2cbf514583",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485136ad396de49dac2cbf514583",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27336ad396de49dac2cbf514583",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2025
+                    },
+                    "id": "7eAoMyGSVxv7Kv6GW0e4uJ",
+                    "name": "Back To The Rootz #15 - Hardstyle Classics Compilation",
+                    "sharingInfo": {
+                      "shareId": "9icuf0iWRfiVoFC_QyvJkQ",
+                      "shareUrl": "https://open.spotify.com/album/7eAoMyGSVxv7Kv6GW0e4uJ?si=9icuf0iWRfiVoFC_QyvJkQ"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:7eAoMyGSVxv7Kv6GW0e4uJ"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Noisecontrollers"
+                          },
+                          "uri": "spotify:artist:6qJ61DomA73g7jQEKESw9Z"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02a5a81d04457fd21c27755e2f",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851a5a81d04457fd21c27755e2f",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273a5a81d04457fd21c27755e2f",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2015
+                    },
+                    "id": "0jzZ6Ta4IrSxwQhI1Mk1Lw",
+                    "name": "10 Years Noisecontrollers",
+                    "sharingInfo": {
+                      "shareId": "xVpMiqSTQtKF7pLzL93yAg",
+                      "shareUrl": "https://open.spotify.com/album/0jzZ6Ta4IrSxwQhI1Mk1Lw?si=xVpMiqSTQtKF7pLzL93yAg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:0jzZ6Ta4IrSxwQhI1Mk1Lw"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Brennan Heart"
+                          },
+                          "uri": "spotify:artist:5QySqc6yAFDx9m7fedFZmC"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ea4c984cbcf1b9b9f7c10422",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ea4c984cbcf1b9b9f7c10422",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ea4c984cbcf1b9b9f7c10422",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2016
+                    },
+                    "id": "5eMbtMXhEkxu9zVlvU3nev",
+                    "name": "I AM HARDSTYLE (The Album)",
+                    "sharingInfo": {
+                      "shareId": "TBkP_vGMTKuU1cFucXhUBQ",
+                      "shareUrl": "https://open.spotify.com/album/5eMbtMXhEkxu9zVlvU3nev?si=TBkP_vGMTKuU1cFucXhUBQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:5eMbtMXhEkxu9zVlvU3nev"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Ti\u00ebsto"
+                          },
+                          "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029b9b37b704218014e610c263",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519b9b37b704218014e610c263",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739b9b37b704218014e610c263",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "2rCBDFnr6sMOrei4zh2kvS",
+                    "name": "Drifting (Remixes)",
+                    "sharingInfo": {
+                      "shareId": "xzYN3BI7TZKmRWDlV6pdFA",
+                      "shareUrl": "https://open.spotify.com/album/2rCBDFnr6sMOrei4zh2kvS?si=xzYN3BI7TZKmRWDlV6pdFA"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:2rCBDFnr6sMOrei4zh2kvS"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Showtek"
+                          },
+                          "uri": "spotify:artist:3gk0OYeLFWYupGFRHqLSR7"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e023f33e190ef5e7e872aed7ccd",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048513f33e190ef5e7e872aed7ccd",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2733f33e190ef5e7e872aed7ccd",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2024
+                    },
+                    "id": "2IUxfPuDJcugI2bwbt6fLv",
+                    "name": "360 Blue",
+                    "sharingInfo": {
+                      "shareId": "TLAnkFCVTuSfLyfu_vJLpQ",
+                      "shareUrl": "https://open.spotify.com/album/2IUxfPuDJcugI2bwbt6fLv?si=TLAnkFCVTuSfLyfu_vJLpQ"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2IUxfPuDJcugI2bwbt6fLv"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Various Artists"
+                          },
+                          "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02dcbbfc4e5acd79790bd8b0a3",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851dcbbfc4e5acd79790bd8b0a3",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273dcbbfc4e5acd79790bd8b0a3",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2017
+                    },
+                    "id": "4wFrgPwlJau4Zthm0bCqdu",
+                    "name": "The Qontinent 2017",
+                    "sharingInfo": {
+                      "shareId": "tRpOGAeqS8qi4CIKtQqqow",
+                      "shareUrl": "https://open.spotify.com/album/4wFrgPwlJau4Zthm0bCqdu?si=tRpOGAeqS8qi4CIKtQqqow"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:4wFrgPwlJau4Zthm0bCqdu"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Endymion"
+                          },
+                          "uri": "spotify:artist:1dWCpNKvuNDv2rE4gCVNwj"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e025c98bebdce8caf2c708e8a66",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048515c98bebdce8caf2c708e8a66",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2735c98bebdce8caf2c708e8a66",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "2XwAqqs1Y47TsPLvlvJxOU",
+                    "name": "Invincible",
+                    "sharingInfo": {
+                      "shareId": "24UMN0t0T1GrCxcFfE-nfw",
+                      "shareUrl": "https://open.spotify.com/album/2XwAqqs1Y47TsPLvlvJxOU?si=24UMN0t0T1GrCxcFfE-nfw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:2XwAqqs1Y47TsPLvlvJxOU"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Zatox"
+                          },
+                          "uri": "spotify:artist:27Z5l2Kfy1IaYZMg5INWqO"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02b28fc8b85c9fbadb8e60db66",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851b28fc8b85c9fbadb8e60db66",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273b28fc8b85c9fbadb8e60db66",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2011
+                    },
+                    "id": "5H96eR0bB7jpPSOSguahg8",
+                    "name": "Qlimax - 2011",
+                    "sharingInfo": {
+                      "shareId": "GBqAHKa0SnKG0agYIaQCLw",
+                      "shareUrl": "https://open.spotify.com/album/5H96eR0bB7jpPSOSguahg8?si=GBqAHKa0SnKG0agYIaQCLw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:5H96eR0bB7jpPSOSguahg8"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Jebroer"
+                          },
+                          "uri": "spotify:artist:7jp5R1aY7kmwBYX3jIu9yk"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0206e996c787b9e40071c9e199",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485106e996c787b9e40071c9e199",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27306e996c787b9e40071c9e199",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "4iVjch9WBNAb3vXjKcgaHV",
+                    "name": "Jebroer Gaat Hard!",
+                    "sharingInfo": {
+                      "shareId": "gs93yCZFQ42hDAh4gobJ0g",
+                      "shareUrl": "https://open.spotify.com/album/4iVjch9WBNAb3vXjKcgaHV?si=gs93yCZFQ42hDAh4gobJ0g"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4iVjch9WBNAb3vXjKcgaHV"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "SCANTRAXX"
+                          },
+                          "uri": "spotify:artist:52lKMhQlx5f7tM11qGkhKs"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e023fafc62aa2605392ae9a48bc",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048513fafc62aa2605392ae9a48bc",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2733fafc62aa2605392ae9a48bc",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2022
+                    },
+                    "id": "613XjfHlEMgLlRUFkDmt9a",
+                    "name": "Scantraxx 20YRS Legacy (2008 - 2012)",
+                    "sharingInfo": {
+                      "shareId": "ISlIKvkaSPie0cvJdjZxAg",
+                      "shareUrl": "https://open.spotify.com/album/613XjfHlEMgLlRUFkDmt9a?si=ISlIKvkaSPie0cvJdjZxAg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:613XjfHlEMgLlRUFkDmt9a"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Headhunterz"
+                          },
+                          "uri": "spotify:artist:6C0KWmCdqrLU2LzzWBPbOy"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02632d52cb92435cbe0bac551d",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851632d52cb92435cbe0bac551d",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273632d52cb92435cbe0bac551d",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2010
+                    },
+                    "id": "2GoS20DKbYGlSrqxaFy5aZ",
+                    "name": "Studio Sessions",
+                    "sharingInfo": {
+                      "shareId": "60iWKillQbqINomD7xrkdw",
+                      "shareUrl": "https://open.spotify.com/album/2GoS20DKbYGlSrqxaFy5aZ?si=60iWKillQbqINomD7xrkdw"
+                    },
+                    "type": "SINGLE",
+                    "uri": "spotify:album:2GoS20DKbYGlSrqxaFy5aZ"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Project One"
+                          },
+                          "uri": "spotify:artist:7fMJN4fdEwmFWd8uz5pnKx"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02241a60e9f58da5b1cb6eb0ab",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851241a60e9f58da5b1cb6eb0ab",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273241a60e9f58da5b1cb6eb0ab",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2017
+                    },
+                    "id": "4f31rfa3gQCRf3O1qYdY9Q",
+                    "name": "EP I",
+                    "sharingInfo": {
+                      "shareId": "Y9rag2ulROaEYViJC2zFQg",
+                      "shareUrl": "https://open.spotify.com/album/4f31rfa3gQCRf3O1qYdY9Q?si=Y9rag2ulROaEYViJC2zFQg"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4f31rfa3gQCRf3O1qYdY9Q"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "SCANTRAXX"
+                          },
+                          "uri": "spotify:artist:52lKMhQlx5f7tM11qGkhKs"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02346589831ec66fe6ee904ed3",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851346589831ec66fe6ee904ed3",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273346589831ec66fe6ee904ed3",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2025
+                    },
+                    "id": "3LUA87DLF1WjTHMU2sMgy2",
+                    "name": "Back To The Rootz #14 | The Raw Classics Warm-up Special",
+                    "sharingInfo": {
+                      "shareId": "NhqxA6OsSU6zpwxHghyRkw",
+                      "shareUrl": "https://open.spotify.com/album/3LUA87DLF1WjTHMU2sMgy2?si=NhqxA6OsSU6zpwxHghyRkw"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:3LUA87DLF1WjTHMU2sMgy2"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Hardwell"
+                          },
+                          "uri": "spotify:artist:6BrvowZBreEkXzJQMpL174"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ed8772652d3da639cd9ded05",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ed8772652d3da639cd9ded05",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ed8772652d3da639cd9ded05",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "7BQEGjIXPweLF3gH80n8VD",
+                    "name": "Hardwell presents Revealed Vol. 9",
+                    "sharingInfo": {
+                      "shareId": "4Pe6J6XwQUC6ag8UA1sd8Q",
+                      "shareUrl": "https://open.spotify.com/album/7BQEGjIXPweLF3gH80n8VD?si=4Pe6J6XwQUC6ag8UA1sd8Q"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:7BQEGjIXPweLF3gH80n8VD"
+                  },
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Hardwell"
+                          },
+                          "uri": "spotify:artist:6BrvowZBreEkXzJQMpL174"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02908e51aaec88a5afa16451e9",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851908e51aaec88a5afa16451e9",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273908e51aaec88a5afa16451e9",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2018
+                    },
+                    "id": "44fCUDp6JC7s3J6bewEUo1",
+                    "name": "Hardwell presents Revealed Vol. 9",
+                    "sharingInfo": {
+                      "shareId": "j3GxmM-ZSSyfyhl8Xz0pAg",
+                      "shareUrl": "https://open.spotify.com/album/44fCUDp6JC7s3J6bewEUo1?si=j3GxmM-ZSSyfyhl8Xz0pAg"
+                    },
+                    "type": "COMPILATION",
+                    "uri": "spotify:album:44fCUDp6JC7s3J6bewEUo1"
+                  }
+                ],
+                "totalCount": 2
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Seb B"
+                          },
+                          "uri": "spotify:artist:3eGvGUx0CfQu04i5Ys7h38"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0207cd9b6ea2e7b8dddb4e5067",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485107cd9b6ea2e7b8dddb4e5067",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27307cd9b6ea2e7b8dddb4e5067",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2011
+                    },
+                    "id": "4bf6Lx8aLiYm3M0v01Abx2",
+                    "name": "La Bush Temple of House",
+                    "sharingInfo": {
+                      "shareId": "s4LKWLqYSNK96Lq3QQOCkA",
+                      "shareUrl": "https://open.spotify.com/album/4bf6Lx8aLiYm3M0v01Abx2?si=s4LKWLqYSNK96Lq3QQOCkA"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:4bf6Lx8aLiYm3M0v01Abx2"
+                  }
+                ],
+                "totalCount": 1
+              }
+            },
+            {
+              "releases": {
+                "items": [
+                  {
+                    "artists": {
+                      "items": [
+                        {
+                          "profile": {
+                            "name": "Headhunterz"
+                          },
+                          "uri": "spotify:artist:6C0KWmCdqrLU2LzzWBPbOy"
+                        }
+                      ]
+                    },
+                    "coverArt": {
+                      "sources": [
+                        {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029a76e1c788a6c56cf3f4781a",
+                          "width": 300
+                        },
+                        {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519a76e1c788a6c56cf3f4781a",
+                          "width": 64
+                        },
+                        {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739a76e1c788a6c56cf3f4781a",
+                          "width": 640
+                        }
+                      ]
+                    },
+                    "date": {
+                      "year": 2011
+                    },
+                    "id": "5CbwLrMGFIKuXeWXo81r8y",
+                    "name": "Hard Bass 2011",
+                    "sharingInfo": {
+                      "shareId": "C_s3A-ajTlmdJz7wPWp16Q",
+                      "shareUrl": "https://open.spotify.com/album/5CbwLrMGFIKuXeWXo81r8y?si=C_s3A-ajTlmdJz7wPWp16Q"
+                    },
+                    "type": "ALBUM",
+                    "uri": "spotify:album:5CbwLrMGFIKuXeWXo81r8y"
+                  }
+                ],
+                "totalCount": 1
+              }
+            }
+          ],
+          "totalCount": 252
+        },
+        "discoveredOnV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Only the BIGGEST Hardstyle bangers \ud83d\udca5",
+                "id": "37i9dQZF1DX0pH2SQMRXnC",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002a44ccb4a8cbceb6d494d5c21",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Hardstyle Bangers",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX0pH2SQMRXnC"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Discover the newest and biggest Hardstyle tracks of 2025, selected and weekly updated by Q-dance.",
+                "id": "2LVvgP7VJN5xAkmPdl5J4q",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72ce0ecb222339d80ebd1c266b9",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "HARDSTYLE 2025 by Q-dance",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Q-dance"
+                  }
+                },
+                "uri": "spotify:playlist:2LVvgP7VJN5xAkmPdl5J4q"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "A world of madness where dedication knows no bounds. Each year, Weekend Warriors from all corners of the globe unite as one tribe for the biggest gathering of the harder styles. Feel The Power of the Tribe with the official Defqon.1 playlist featuring the best hardstyle!",
+                "id": "7J8tAF2T73Fp11duGEyiVP",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84e10fd91df09e76b929812161",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Defqon.1 2025 by Q-dance",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Q-dance"
+                  }
+                },
+                "uri": "spotify:playlist:7J8tAF2T73Fp11duGEyiVP"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Wildstylez. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO0f2vzG",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO0f2vzG-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Wildstylez",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO0f2vzG"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Updated weekly | Hardstyle | Cover: Lady Faith",
+                "id": "37i9dQZF1DX7NhGf24haor",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002ecf5a6e693ffb1480b586452",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Hardstyle Adrenaline! 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX7NhGf24haor"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "These are the most legendary hardstyle tracks of all-time, voted by you!",
+                "id": "3apnAdvbSeypSrnKDJblHg",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8401d405337e47c286c1bb1fcf",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Q-dance Hardstyle Top 100 of All-time ",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Q-dance"
+                  }
+                },
+                "uri": "spotify:playlist:3apnAdvbSeypSrnKDJblHg"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "cover: @danielmonteirox by Unsplash - best hits of Hardwell, Martin Garrix, Armin Van Buuren, Dimitri Vegas &amp; Like Mike, R3hab, KSHMR, Afrojack and much +",
+                "id": "1DXq83BtTRkpFZRWQdNnBU",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000d72c18cb2212b8d07d4e17e04b03",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "RAVE 2025 \ud83d\udd25 Festival Dance Hits",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Victor Oliveira"
+                  }
+                },
+                "uri": "spotify:playlist:1DXq83BtTRkpFZRWQdNnBU"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "De grootste hardstyle classics legendes samen in De Brabanthallen, op zaterdag 26 oktober tijdens VWAB #10.",
+                "id": "3DjjoZnjSVDA3kAuIbQ4N8",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84a80d27c5d9f0667ebab4d670",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Vroeger Was Alles Beter | Hardstyle Classics",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "shockerznl"
+                  }
+                },
+                "uri": "spotify:playlist:3DjjoZnjSVDA3kAuIbQ4N8"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "id": "4yHL0Vok6DofsmOEAUemTs",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://mosaic.scdn.co/640/ab67616d00001e0210f1f377c7cf63adffd0eab6ab67616d00001e02380611bd1d469e3dbfa0d9a0ab67616d00001e026ee4380deac1dc31c8d4e565ab67616d00001e02ea4a6d87e5048e06b306efbb",
+                          "width": 640
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://mosaic.scdn.co/300/ab67616d00001e0210f1f377c7cf63adffd0eab6ab67616d00001e02380611bd1d469e3dbfa0d9a0ab67616d00001e026ee4380deac1dc31c8d4e565ab67616d00001e02ea4a6d87e5048e06b306efbb",
+                          "width": 300
+                        },
+                        {
+                          "height": 60,
+                          "url": "https://mosaic.scdn.co/60/ab67616d00001e0210f1f377c7cf63adffd0eab6ab67616d00001e02380611bd1d469e3dbfa0d9a0ab67616d00001e026ee4380deac1dc31c8d4e565ab67616d00001e02ea4a6d87e5048e06b306efbb",
+                          "width": 60
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Hardstyle Classics (2005-2011)",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "wessel145"
+                  }
+                },
+                "uri": "spotify:playlist:4yHL0Vok6DofsmOEAUemTs"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "",
+                "id": "6g8LWqBHStDI5slvNHnCnF",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": 640,
+                          "url": "https://mosaic.scdn.co/640/ab67616d00001e022a5eb66cc666ba19fa2a8126ab67616d00001e0285f5f6f41a599a10ff60c42cab67616d00001e02b28fc8b85c9fbadb8e60db66ab67616d00001e02ba78b378128cb607a8cfd862",
+                          "width": 640
+                        },
+                        {
+                          "height": 300,
+                          "url": "https://mosaic.scdn.co/300/ab67616d00001e022a5eb66cc666ba19fa2a8126ab67616d00001e0285f5f6f41a599a10ff60c42cab67616d00001e02b28fc8b85c9fbadb8e60db66ab67616d00001e02ba78b378128cb607a8cfd862",
+                          "width": 300
+                        },
+                        {
+                          "height": 60,
+                          "url": "https://mosaic.scdn.co/60/ab67616d00001e022a5eb66cc666ba19fa2a8126ab67616d00001e0285f5f6f41a599a10ff60c42cab67616d00001e02b28fc8b85c9fbadb8e60db66ab67616d00001e02ba78b378128cb607a8cfd862",
+                          "width": 60
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Ejercicio, Cardio intenso \ud83d\udcaa\ud83c\udffb\u2764\ufe0f\u200d\ud83d\udd25\ud83d\udd25",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Carrillo Nancy"
+                  }
+                },
+                "uri": "spotify:playlist:6g8LWqBHStDI5slvNHnCnF"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Brennan Heart. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO3rG8Zq",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO3rG8Zq-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Brennan Heart",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO3rG8Zq"
+              }
+            },
+            {
+              "data": {
+                "__typename": "GenericError"
+              }
+            }
+          ],
+          "totalCount": 100
+        },
+        "featuringV2": {
+          "items": [
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "This is Wildstylez. The essential tracks, all in one playlist.",
+                "id": "37i9dQZF1DZ06evO0f2vzG",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO0f2vzG-default.jpg",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "This Is Wildstylez",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DZ06evO0f2vzG"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "With Headhunterz, Project One, JDX and more",
+                "id": "37i9dQZF1E4r2tvGrXzI8C",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/0wr85NuJuAYZsRzP1lJgiV/en",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Wildstylez Radio",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1E4r2tvGrXzI8C"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Only the BIGGEST Hardstyle bangers \ud83d\udca5",
+                "id": "37i9dQZF1DX0pH2SQMRXnC",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002a44ccb4a8cbceb6d494d5c21",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Hardstyle Bangers",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX0pH2SQMRXnC"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Updated weekly | Hardstyle | Cover: Lady Faith",
+                "id": "37i9dQZF1DX7NhGf24haor",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002ecf5a6e693ffb1480b586452",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Hardstyle Adrenaline! 2025",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX7NhGf24haor"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Floor fillers and big streamers of 2011.",
+                "id": "37i9dQZF1DX74GNPAmdqH9",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002b72e025425b23720edaa2e9c",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Dance Hits of 2011",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX74GNPAmdqH9"
+              }
+            },
+            {
+              "data": {
+                "__typename": "Playlist",
+                "description": "Floor fillers and big streamers of 2012. ",
+                "id": "37i9dQZF1DX4Ke4jVST4o8",
+                "images": {
+                  "items": [
+                    {
+                      "sources": [
+                        {
+                          "height": null,
+                          "url": "https://i.scdn.co/image/ab67706f00000002a5d1d437791dd8b6e6e5b94b",
+                          "width": null
+                        }
+                      ]
+                    }
+                  ],
+                  "totalCount": 1
+                },
+                "name": "Dance Hits of 2012",
+                "ownerV2": {
+                  "data": {
+                    "__typename": "User",
+                    "name": "Spotify"
+                  }
+                },
+                "uri": "spotify:playlist:37i9dQZF1DX4Ke4jVST4o8"
+              }
+            }
+          ],
+          "totalCount": 6
+        },
+        "relatedArtists": {
+          "items": [
+            {
+              "id": "0MBGxwmCdXdO26ojaNcT64",
+              "profile": {
+                "name": "Atmozfears"
+              },
+              "uri": "spotify:artist:0MBGxwmCdXdO26ojaNcT64",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb536ee195d93ce0d10d16ff91",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178536ee195d93ce0d10d16ff91",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174536ee195d93ce0d10d16ff91",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6L7a6wPGpvLtTwOsMLnF1z",
+              "profile": {
+                "name": "D-Block & S-te-Fan"
+              },
+              "uri": "spotify:artist:6L7a6wPGpvLtTwOsMLnF1z",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb0bf9f33d385dbece9ef8eb04",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1780bf9f33d385dbece9ef8eb04",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051740bf9f33d385dbece9ef8eb04",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5QySqc6yAFDx9m7fedFZmC",
+              "profile": {
+                "name": "Brennan Heart"
+              },
+              "uri": "spotify:artist:5QySqc6yAFDx9m7fedFZmC",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebef46a37b5f16d50e79b4cd95",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178ef46a37b5f16d50e79b4cd95",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174ef46a37b5f16d50e79b4cd95",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7IFPeV5Ew63S7Hid0AjNgK",
+              "profile": {
+                "name": "Sound Rush"
+              },
+              "uri": "spotify:artist:7IFPeV5Ew63S7Hid0AjNgK",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb250f4ccf4d6edbecdebd25e3",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178250f4ccf4d6edbecdebd25e3",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174250f4ccf4d6edbecdebd25e3",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6C0KWmCdqrLU2LzzWBPbOy",
+              "profile": {
+                "name": "Headhunterz"
+              },
+              "uri": "spotify:artist:6C0KWmCdqrLU2LzzWBPbOy",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb6b752efcbd31eadc11c45fcf",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1786b752efcbd31eadc11c45fcf",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051746b752efcbd31eadc11c45fcf",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1Wt63OMKtv6v2ivHuQLm2C",
+              "profile": {
+                "name": "Coone"
+              },
+              "uri": "spotify:artist:1Wt63OMKtv6v2ivHuQLm2C",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebc88990ac7366cd282066b201",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178c88990ac7366cd282066b201",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174c88990ac7366cd282066b201",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6qJ61DomA73g7jQEKESw9Z",
+              "profile": {
+                "name": "Noisecontrollers"
+              },
+              "uri": "spotify:artist:6qJ61DomA73g7jQEKESw9Z",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb70c53ced78152a2c0ed0df60",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17870c53ced78152a2c0ed0df60",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517470c53ced78152a2c0ed0df60",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "18pYFSeMi7sOL6nGMICHtS",
+              "profile": {
+                "name": "Psyko Punkz"
+              },
+              "uri": "spotify:artist:18pYFSeMi7sOL6nGMICHtS",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb1d3f3290db02b223e8b2bb6e",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1781d3f3290db02b223e8b2bb6e",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051741d3f3290db02b223e8b2bb6e",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "5cPNMq5lKAoAKyv5kdpz9s",
+              "profile": {
+                "name": "Frequencerz"
+              },
+              "uri": "spotify:artist:5cPNMq5lKAoAKyv5kdpz9s",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb8cec6a98265828f34e490a8a",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1788cec6a98265828f34e490a8a",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051748cec6a98265828f34e490a8a",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1Uk4IDpF1OIuTzANugS5JC",
+              "profile": {
+                "name": "Bass Modulators"
+              },
+              "uri": "spotify:artist:1Uk4IDpF1OIuTzANugS5JC",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebb59da72469608ff7a5e59852",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178b59da72469608ff7a5e59852",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174b59da72469608ff7a5e59852",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1Od0hPnXSqA9pipLqNXJ7e",
+              "profile": {
+                "name": "KELTEK"
+              },
+              "uri": "spotify:artist:1Od0hPnXSqA9pipLqNXJ7e",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb2e0c41cb38c6cf233366df96",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1782e0c41cb38c6cf233366df96",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051742e0c41cb38c6cf233366df96",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6GebWeCCtey5pbQepRYD6c",
+              "profile": {
+                "name": "Adrenalize"
+              },
+              "uri": "spotify:artist:6GebWeCCtey5pbQepRYD6c",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb2edc14df72ed8cbdd0d644dc",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1782edc14df72ed8cbdd0d644dc",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051742edc14df72ed8cbdd0d644dc",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "0I5is4tdxHhT3Ft2EzPjlB",
+              "profile": {
+                "name": "Code Black"
+              },
+              "uri": "spotify:artist:0I5is4tdxHhT3Ft2EzPjlB",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb59a03f41d91eda988044f5b0",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17859a03f41d91eda988044f5b0",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517459a03f41d91eda988044f5b0",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "05ndiewdJogtosuRWN8iwF",
+              "profile": {
+                "name": "Adaro"
+              },
+              "uri": "spotify:artist:05ndiewdJogtosuRWN8iwF",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb22148ff2452c866144a31bd7",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17822148ff2452c866144a31bd7",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517422148ff2452c866144a31bd7",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1Ok5WQlGEnuFOiUlpCKcVT",
+              "profile": {
+                "name": "Wasted Penguinz"
+              },
+              "uri": "spotify:artist:1Ok5WQlGEnuFOiUlpCKcVT",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb83d78946ae98d890c8800577",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f17883d78946ae98d890c8800577",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab6761610000517483d78946ae98d890c8800577",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7momuad2Twkv5O7MY3dODa",
+              "profile": {
+                "name": "Frontliner"
+              },
+              "uri": "spotify:artist:7momuad2Twkv5O7MY3dODa",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb0c6da67f668ffae4eb7ae4e6",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1780c6da67f668ffae4eb7ae4e6",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051740c6da67f668ffae4eb7ae4e6",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "4LBa6kTLaQHiONCfTfTaXV",
+              "profile": {
+                "name": "Toneshifterz"
+              },
+              "uri": "spotify:artist:4LBa6kTLaQHiONCfTfTaXV",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb6e6cb5054d5f3b1b91b9b1ab",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1786e6cb5054d5f3b1b91b9b1ab",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051746e6cb5054d5f3b1b91b9b1ab",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "1BpCQRsYuiRg1TXKR2SQe1",
+              "profile": {
+                "name": "Refuzion"
+              },
+              "uri": "spotify:artist:1BpCQRsYuiRg1TXKR2SQe1",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5ebe3a0e51643127f74810ebcbe",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f178e3a0e51643127f74810ebcbe",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab67616100005174e3a0e51643127f74810ebcbe",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "6UOk7DmvqlzWmo6gjhZvn6",
+              "profile": {
+                "name": "Da Tweekaz"
+              },
+              "uri": "spotify:artist:6UOk7DmvqlzWmo6gjhZvn6",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb5f8081e90bfed98e453f8667",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1785f8081e90bfed98e453f8667",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051745f8081e90bfed98e453f8667",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "id": "7AGSJihqYPhYy5QzMcwcQT",
+              "profile": {
+                "name": "Phuture Noize"
+              },
+              "uri": "spotify:artist:7AGSJihqYPhYy5QzMcwcQT",
+              "visuals": {
+                "avatarImage": {
+                  "sources": [
+                    {
+                      "height": 640,
+                      "url": "https://i.scdn.co/image/ab6761610000e5eb8dc774a25e982b79e24a6b66",
+                      "width": 640
+                    },
+                    {
+                      "height": 160,
+                      "url": "https://i.scdn.co/image/ab6761610000f1788dc774a25e982b79e24a6b66",
+                      "width": 160
+                    },
+                    {
+                      "height": 320,
+                      "url": "https://i.scdn.co/image/ab676161000051748dc774a25e982b79e24a6b66",
+                      "width": 320
+                    }
+                  ]
+                }
+              }
+            }
+          ],
+          "totalCount": 40
+        }
+      },
+      "relatedVideos": {
+        "__typename": "RelatedVideoPage",
+        "items": [],
+        "totalCount": 0
+      },
+      "saved": false,
+      "sharingInfo": {
+        "shareId": "91rXQzEaQee9uwvyY8uFZQ",
+        "shareUrl": "https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV?si=91rXQzEaQee9uwvyY8uFZQ"
+      },
+      "stats": {
+        "followers": 195379,
+        "monthlyListeners": 1075984,
+        "topCities": {
+          "items": [
+            {
+              "city": "Amsterdam",
+              "country": "NL",
+              "numberOfListeners": 104706,
+              "region": "NH"
+            },
+            {
+              "city": "Rotterdam",
+              "country": "NL",
+              "numberOfListeners": 77076,
+              "region": "ZH"
+            },
+            {
+              "city": "Utrecht",
+              "country": "NL",
+              "numberOfListeners": 42819,
+              "region": "UT"
+            },
+            {
+              "city": "Hamburg",
+              "country": "DE",
+              "numberOfListeners": 31370,
+              "region": "HH"
+            },
+            {
+              "city": "Sydney",
+              "country": "AU",
+              "numberOfListeners": 28527,
+              "region": "NSW"
+            }
+          ]
+        },
+        "worldRank": 0
+      },
+      "uri": "spotify:artist:0wr85NuJuAYZsRzP1lJgiV",
+      "visualIdentity": {
+        "wideFullBleedImage": {
+          "__typename": "VisualIdentityImage",
+          "extractedColorSet": {
+            "encoreBaseSetTextColor": {
+              "alpha": 255,
+              "blue": 125,
+              "green": 182,
+              "red": 217
+            },
+            "highContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 18,
+                "green": 77,
+                "red": 108
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 0,
+                "green": 44,
+                "red": 73
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 143,
+                "green": 200,
+                "red": 236
+              }
+            },
+            "higherContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 0,
+                "green": 46,
+                "red": 76
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 39,
+                "green": 80,
+                "red": 111
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 96,
+                "green": 215,
+                "red": 30
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 143,
+                "green": 200,
+                "red": 236
+              }
+            },
+            "minContrast": {
+              "backgroundBase": {
+                "alpha": 255,
+                "blue": 40,
+                "green": 96,
+                "red": 128
+              },
+              "backgroundTintedBase": {
+                "alpha": 255,
+                "blue": 0,
+                "green": 66,
+                "red": 97
+              },
+              "textBase": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textBrightAccent": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              },
+              "textSubdued": {
+                "alpha": 255,
+                "blue": 255,
+                "green": 255,
+                "red": 255
+              }
+            }
+          }
+        }
+      },
+      "visuals": {
+        "avatarImage": {
+          "extractedColors": {
+            "colorRaw": {
+              "hex": "#E8D878"
+            }
+          },
+          "sources": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab6761610000e5ebe3e2995835c3ac87910299af",
+              "width": 640
+            },
+            {
+              "height": 160,
+              "url": "https://i.scdn.co/image/ab6761610000f178e3e2995835c3ac87910299af",
+              "width": 160
+            },
+            {
+              "height": 320,
+              "url": "https://i.scdn.co/image/ab67616100005174e3e2995835c3ac87910299af",
+              "width": 320
+            }
+          ]
+        },
+        "gallery": {
+          "items": [
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4818c02fbaddc2032f9829379",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4942315a2cc7a805e4399cefd",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd4885e8c8cb01dfde4de868905",
+                  "width": 640
+                }
+              ]
+            },
+            {
+              "sources": [
+                {
+                  "height": 640,
+                  "url": "https://i.scdn.co/image/ab6761670000ecd464f5fe271c282acecc5f8f95",
+                  "width": 640
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "watchFeedEntrypoint": null
+    }
+  },
+  "extensions": {}
+}
