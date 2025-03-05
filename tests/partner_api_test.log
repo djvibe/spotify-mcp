@@ -1,0 +1,15 @@
+2025-03-04 19:34:47,034 - partner_api_test - INFO - === SPOTIFY PARTNER API ACCESS TEST ===
+2025-03-04 19:34:47,034 - partner_api_test - INFO - Retrieving Spotify partner token automatically...
+2025-03-04 19:34:47,331 - partner_api_test - INFO - Successfully retrieved token: BQDcvgEQKA... (truncated)
+2025-03-04 19:34:47,332 - partner_api_test - INFO - Client ID: d8a5ed958d274c2e8ee717e6a4b0971d
+2025-03-04 19:34:47,333 - partner_api_test - INFO - Testing API access for artist ID: 2CIMQHirSU0MQqyYHq0eOx
+2025-03-04 19:34:47,334 - partner_api_test - INFO - TEST 1: Using only access token
+2025-03-04 19:34:48,568 - partner_api_test - INFO - Response status code: 200
+2025-03-04 19:34:48,696 - partner_api_test - INFO - Response saved to test1_response_20250304_193448.json
+2025-03-04 19:34:48,697 - partner_api_test - INFO - SUCCESS! Got artist data:
+2025-03-04 19:34:48,698 - partner_api_test - INFO -   Name: deadmau5
+2025-03-04 19:34:48,699 - partner_api_test - INFO -   Monthly Listeners: 5,138,996
+2025-03-04 19:34:48,700 - partner_api_test - INFO - Test 1 PASSED: Partner API works with only access token!
+2025-03-04 19:34:48,840 - partner_api_test - INFO - This means we don't need the client token anymore!
+2025-03-04 19:34:48,841 - partner_api_test - INFO - 
+Test complete. Check the log file and JSON responses for details.
