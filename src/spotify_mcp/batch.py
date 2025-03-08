@@ -35,7 +35,7 @@ class ArtistBatchProcessor:
                 # Process each artist in the chunk
                 for artist_data in artists_data['artists']:
                     if artist_data:
-                        artist = Artist.from_spotify_data(artist_data)
+                        artist = Artist.from_spotify_data(artist_data, source='api')
                         if self.db.save_artist(artist):
                             results['successful'].append(artist.id)
                         else:

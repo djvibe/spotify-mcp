@@ -197,6 +197,25 @@ class BatchProcessor:
                 "dates": metrics.get("upcoming_concerts", [])
             })
             
+            # Get current data_sources if they exist
+            cursor.execute("SELECT data_sources FROM artists WHERE id = ?", (artist_id,))
+            row = cursor.fetchone()
+            
+            # Parse data sources or create new ones
+            data_sources = {}
+            if row and row[0]:
+                try:
+                    data_sources = json.loads(row[0])
+                except:
+                    data_sources = {}
+            
+            # Mark these fields as coming from Partner API
+            data_sources['monthly_listeners'] = 'partner_api'
+            data_sources['social_links_json'] = 'partner_api'
+            data_sources['upcoming_tours_count'] = 'partner_api'
+            data_sources['upcoming_tours_json'] = 'partner_api'
+            data_sources['enhanced_data_updated'] = 'partner_api'
+            
             # Update the artist record
             cursor.execute("""
                 UPDATE artists SET
@@ -204,6 +223,7 @@ class BatchProcessor:
                     social_links_json = ?,
                     upcoming_tours_count = ?,
                     upcoming_tours_json = ?,
+                    data_sources = ?,
                     enhanced_data_updated = CURRENT_TIMESTAMP
                 WHERE id = ?
             """, (
@@ -211,13 +231,14 @@ class BatchProcessor:
                 social_links_json,
                 upcoming_tours_count,
                 upcoming_tours_json,
+                json.dumps(data_sources),
                 artist_id
             ))
             
             conn.commit()
             conn.close()
             
-            logger.info(f"Database updated for artist {artist_id}")
+            logger.info(f"Database updated for artist {artist_id} with Partner API data")
             return True
             
         except sqlite3.Error as e:

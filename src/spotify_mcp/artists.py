@@ -37,7 +37,13 @@ class ArtistDatabase:
                     popularity INTEGER,
                     uri TEXT,
                     type TEXT,
-                    last_updated TIMESTAMP
+                    last_updated TIMESTAMP,
+                    monthly_listeners INTEGER,
+                    social_links_json TEXT,
+                    upcoming_tours_count INTEGER,
+                    upcoming_tours_json TEXT,
+                    enhanced_data_updated TIMESTAMP,
+                    data_sources TEXT
                 )
             ''')
             conn.commit()
@@ -91,8 +97,39 @@ class ArtistDatabase:
         return results
 
     def save_artist(self, artist: Artist) -> bool:
-        """Save or update single artist in database."""
+        """Save or update single artist in database with smart field preservation."""
         try:
+            # Check if artist already exists with extended data
+            existing = self.get_artist(artist.id)
+            
+            if existing:
+                # Smart merge: preserve extended fields from Partner API
+                if artist.data_sources.get('id', 'api') == 'api':
+                    # This is a standard API update
+                    self.logger.info(f"Smart merging artist {artist.name} to preserve extended data")
+                    
+                    # Copy extended fields from existing record if they exist
+                    if existing.monthly_listeners is not None:
+                        artist.monthly_listeners = existing.monthly_listeners
+                        artist.data_sources['monthly_listeners'] = existing.data_sources.get('monthly_listeners', 'partner_api')
+                        
+                    if existing.social_links_json is not None:
+                        artist.social_links_json = existing.social_links_json
+                        artist.data_sources['social_links_json'] = existing.data_sources.get('social_links_json', 'partner_api')
+                        
+                    if existing.upcoming_tours_count is not None:
+                        artist.upcoming_tours_count = existing.upcoming_tours_count
+                        artist.data_sources['upcoming_tours_count'] = existing.data_sources.get('upcoming_tours_count', 'partner_api')
+                        
+                    if existing.upcoming_tours_json is not None:
+                        artist.upcoming_tours_json = existing.upcoming_tours_json
+                        artist.data_sources['upcoming_tours_json'] = existing.data_sources.get('upcoming_tours_json', 'partner_api')
+                        
+                    if existing.enhanced_data_updated is not None:
+                        artist.enhanced_data_updated = existing.enhanced_data_updated
+                        artist.data_sources['enhanced_data_updated'] = existing.data_sources.get('enhanced_data_updated', 'partner_api')
+            
+            # Perform the database save
             with self.get_connection() as conn:
                 data = artist.to_db_dict()
                 placeholders = ', '.join('?' * len(data))
@@ -105,7 +142,11 @@ class ArtistDatabase:
                 '''
                 conn.execute(query, values)
                 conn.commit()
-                self.logger.info(f"Saved artist {artist.name} ({artist.id}) to database")
+                
+                if existing and existing.monthly_listeners is not None:
+                    self.logger.info(f"Saved artist {artist.name} ({artist.id}) to database while preserving extended data")
+                else:    
+                    self.logger.info(f"Saved artist {artist.name} ({artist.id}) to database")
                 return True
                 
         except Exception as e:

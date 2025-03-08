@@ -42,9 +42,9 @@ class Client:
                 artist_data = self.sp.artist(item_id)
                 
                 try:
-                    # Convert to Artist model
-                    artist = Artist.from_spotify_data(artist_data)
-                    self.logger.info(f"Converting Spotify data to Artist model for {artist.name}")
+                    # Convert to Artist model with source tracking
+                    artist = Artist.from_spotify_data(artist_data, source='api')
+                    self.logger.info(f"Converting Spotify data to Artist model for {artist.name} with source tracking")
                     
                     # Save to database
                     if self.db.save_artist(artist):
@@ -91,8 +91,8 @@ class Client:
             for artist_data in response['artists']:
                 try:
                     # Convert to Artist model
-                    artist = Artist.from_spotify_data(artist_data)
-                    self.logger.info(f"Converting Spotify data to Artist model for {artist.name}")
+                    artist = Artist.from_spotify_data(artist_data, source='api')
+                    self.logger.info(f"Converting Spotify data to Artist model for {artist.name} with source tracking")
                     
                     # Save to database
                     if self.db.save_artist(artist):
