@@ -214,3 +214,6 @@
 2025-03-03 19:01:53,776 - artist_update - INFO - Upcoming Tours: 8
 2025-03-03 19:01:53,777 - artist_update - INFO - Added 5 top cities
 2025-03-03 19:01:53,778 - artist_update - INFO - Successfully updated artist data
+2025-03-10 18:13:44,762 - artist_update - INFO - Connected to database: D:\DJVIBE\MCP\spotify-mcp\spotify_artists.db
+2025-03-10 18:13:44,776 - artist_update - INFO - Created or verified artist_top_cities table
+2025-03-10 18:13:44,778 - artist_update - ERROR - Database error updating artist data: UNIQUE constraint failed: artist_stats_history.artist_id, artist_stats_history.snapshot_date

@@ -1,0 +1,30 @@
+{
+  "standard_api": {
+    "client_id": "8dff091491b2479abbd38c29997c43a8",
+    "client_secret": "f10a979bd4954dabb61f135fa91da205",
+    "redirect_uri": "http://localhost:8888"
+  },
+  "partner_api": {
+    "tokens_file": "tokens.json"
+  },
+  "database": {
+    "path": "spotify_artists.db"
+  },
+  "update_schedule": {
+    "top_tier": {
+      "popularity_threshold": 75,
+      "standard_api_days": 3,
+      "partner_api_days": 7
+    },
+    "mid_tier": {
+      "popularity_threshold": 50,
+      "standard_api_days": 7,
+      "partner_api_days": 14
+    },
+    "low_tier": {
+      "popularity_threshold": 0,
+      "standard_api_days": 14,
+      "partner_api_days": 30
+    }
+  }
+}

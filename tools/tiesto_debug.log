@@ -521,3 +521,25 @@
 2025-03-03 19:01:53,817 - batch_artist_update - INFO - Batch update completed in 20.53 seconds
 2025-03-03 19:01:53,818 - batch_artist_update - INFO - Successfully updated 10 out of 10 artists
 2025-03-03 19:01:53,822 - batch_artist_update - INFO - Results saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\batch_update_results_20250303_190153.json
+2025-03-10 18:09:57,626 - batch_artist_update - INFO - Found 1 artists to process
+2025-03-10 18:09:58,442 - batch_artist_update - INFO - Starting batch update for 1 artists
+2025-03-10 18:09:58,447 - batch_artist_update - INFO - Fetching enhanced data for artist 19SmlbABtI4bXz864MLqOS
+2025-03-10 18:09:58,448 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 19SmlbABtI4bXz864MLqOS --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-10 18:10:00,006 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\19SmlbABtI4bXz864MLqOS_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\19SmlbABtI4bXz864MLqOS_spotify_response.json
+2025-03-10 18:10:00,007 - batch_artist_update - ERROR - Metrics file not found for artist 19SmlbABtI4bXz864MLqOS: D:\DJVIBE\MCP\spotify-mcp\tests\output\19SmlbABtI4bXz864MLqOS_metrics.json
+2025-03-10 18:10:00,008 - batch_artist_update - ERROR - Failed to process artist: Carl Cox (19SmlbABtI4bXz864MLqOS) - Failed to fetch enhanced data
+2025-03-10 18:10:00,009 - batch_artist_update - INFO - Batch update completed in 1.57 seconds
+2025-03-10 18:10:00,010 - batch_artist_update - INFO - Successfully updated 0 out of 1 artists
+2025-03-10 18:10:00,010 - batch_artist_update - INFO - Failed to update 1 artists
+2025-03-10 18:10:00,015 - batch_artist_update - INFO - Results saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\batch_update_results_20250310_181000.json
+2025-03-10 18:13:41,841 - batch_artist_update - INFO - Found 1 artists to process
+2025-03-10 18:13:41,842 - batch_artist_update - INFO - Starting batch update for 1 artists
+2025-03-10 18:13:41,842 - batch_artist_update - INFO - Fetching enhanced data for artist 19SmlbABtI4bXz864MLqOS
+2025-03-10 18:13:41,843 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 19SmlbABtI4bXz864MLqOS --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-10 18:13:43,340 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\19SmlbABtI4bXz864MLqOS_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\19SmlbABtI4bXz864MLqOS_spotify_response.json
+2025-03-10 18:13:43,341 - batch_artist_update - ERROR - Metrics file not found for artist 19SmlbABtI4bXz864MLqOS: D:\DJVIBE\MCP\spotify-mcp\tests\output\19SmlbABtI4bXz864MLqOS_metrics.json
+2025-03-10 18:13:43,342 - batch_artist_update - ERROR - Failed to process artist: Carl Cox (19SmlbABtI4bXz864MLqOS) - Failed to fetch enhanced data
+2025-03-10 18:13:43,343 - batch_artist_update - INFO - Batch update completed in 1.50 seconds
+2025-03-10 18:13:43,344 - batch_artist_update - INFO - Successfully updated 0 out of 1 artists
+2025-03-10 18:13:43,344 - batch_artist_update - INFO - Failed to update 1 artists
+2025-03-10 18:13:43,347 - batch_artist_update - INFO - Results saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\batch_update_results_20250310_181343.json

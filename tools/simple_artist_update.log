@@ -1,0 +1,79 @@
+2025-03-10 18:09:57,525 - simple_artist_update - INFO - Loading configuration from D:\DJVIBE\MCP\spotify-mcp\config.json
+2025-03-10 18:09:57,533 - simple_artist_update - INFO - Configuration loaded successfully
+2025-03-10 18:09:57,533 - simple_artist_update - INFO - Updating artist 19SmlbABtI4bXz864MLqOS using standard Spotify API
+2025-03-10 18:09:57,533 - simple_artist_update - INFO - Executing: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tools\batch_update_artists.py --artist-ids 19SmlbABtI4bXz864MLqOS --db-path D:\DJVIBE\MCP\spotify-mcp\spotify_artists.db
+2025-03-10 18:10:00,066 - simple_artist_update - ERROR - Standard API update failed with code 1
+2025-03-10 18:10:00,067 - simple_artist_update - ERROR - STDERR: 
+2025-03-10 18:10:00,068 - simple_artist_update - INFO - Updating artist 19SmlbABtI4bXz864MLqOS using Partner API
+2025-03-10 18:10:00,069 - simple_artist_update - INFO - Fetching enhanced data for artist 19SmlbABtI4bXz864MLqOS
+2025-03-10 18:10:00,069 - simple_artist_update - INFO - Executing: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 19SmlbABtI4bXz864MLqOS --output-dir D:\DJVIBE\MCP\spotify-mcp\output
+2025-03-10 18:10:01,527 - simple_artist_update - INFO - Enhanced data fetch completed successfully
+2025-03-10 18:10:01,528 - simple_artist_update - ERROR - Enhanced data files not found
+2025-03-10 18:13:41,737 - simple_artist_update - INFO - Loading configuration from D:\DJVIBE\MCP\spotify-mcp\config.json
+2025-03-10 18:13:41,738 - simple_artist_update - INFO - Configuration loaded successfully
+2025-03-10 18:13:41,738 - simple_artist_update - INFO - Updating artist 19SmlbABtI4bXz864MLqOS using standard Spotify API
+2025-03-10 18:13:41,738 - simple_artist_update - INFO - Executing: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tools\batch_update_artists.py --artist-ids 19SmlbABtI4bXz864MLqOS --db-path D:\DJVIBE\MCP\spotify-mcp\spotify_artists.db
+2025-03-10 18:13:43,381 - simple_artist_update - INFO - Standard API stdout: 2025-03-10 18:13:41,841 - batch_artist_update - INFO - Found 1 artists to process
+2025-03-10 18:13:41,842 - batch_artist_update - INFO - Starting batch update for 1 artists
+2025-03-10 18:13:41,842 - batch_artist_update - INFO - Fetching enhanced data for artist 19SmlbABtI4bXz864MLqOS
+2025-03-10 18:13:41,843 - batch_artist_update - DEBUG - Running command: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 19SmlbABtI4bXz864MLqOS --output-dir D:\DJVIBE\MCP\spotify-mcp\tests\output
+2025-03-10 18:13:43,340 - batch_artist_update - DEBUG - Checking for output files: D:\DJVIBE\MCP\spotify-mcp\tests\output\19SmlbABtI4bXz864MLqOS_metrics.json and D:\DJVIBE\MCP\spotify-mcp\tests\output\19SmlbABtI4bXz864MLqOS_spotify_response.json
+2025-03-10 18:13:43,341 - batch_artist_update - ERROR - Metrics file not found for artist 19SmlbABtI4bXz864MLqOS: D:\DJVIBE\MCP\spotify-mcp\tests\output\19SmlbABtI4bXz864MLqOS_metrics.json
+2025-03-10 18:13:43,342 - batch_artist_update - ERROR - Failed to process artist: Carl Cox (19SmlbABtI4bXz864MLqOS) - Failed to fetch enhanced data
+2025-03-10 18:13:43,343 - batch_artist_update - INFO - Batch update completed in 1.50 seconds
+2025-03-10 18:13:43,344 - batch_artist_update - INFO - Successfully updated 0 out of 1 artists
+2025-03-10 18:13:43,344 - batch_artist_update - INFO - Failed to update 1 artists
+2025-03-10 18:13:43,347 - batch_artist_update - INFO - Results saved to D:\DJVIBE\MCP\spotify-mcp\tests\output\batch_update_results_20250310_181343.json
+
+Batch Update Summary:
+Total Artists: 1
+Successful: 0
+Failed: 1
+Duration: 1.50 seconds
+
+Failed Artists:
+  - Carl Cox (19SmlbABtI4bXz864MLqOS): Failed to fetch enhanced data
+
+2025-03-10 18:13:43,382 - simple_artist_update - ERROR - Standard API update failed with code 1
+2025-03-10 18:13:43,383 - simple_artist_update - ERROR - STDERR: 
+2025-03-10 18:13:43,383 - simple_artist_update - INFO - Updating artist 19SmlbABtI4bXz864MLqOS using Partner API
+2025-03-10 18:13:43,384 - simple_artist_update - INFO - Fetching enhanced data for artist 19SmlbABtI4bXz864MLqOS
+2025-03-10 18:13:43,384 - simple_artist_update - INFO - Executing: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tests\test_spotify_api.py --artist-id 19SmlbABtI4bXz864MLqOS --output-dir D:\DJVIBE\MCP\spotify-mcp\output
+2025-03-10 18:13:44,487 - simple_artist_update - INFO - Partner API stdout: 2025-03-10 18:13:43,967 - spotify_api_test - INFO - Loaded authentication tokens from D:\DJVIBE\MCP\spotify-mcp\tests\spotify_tokens.json
+2025-03-10 18:13:43,967 - spotify_api_test - INFO - Starting Spotify Partner API test
+2025-03-10 18:13:43,967 - spotify_api_test - INFO - ==================================
+2025-03-10 18:13:43,967 - spotify_api_test - INFO - Testing Spotify partner API for artist ID: 19SmlbABtI4bXz864MLqOS
+2025-03-10 18:13:43,967 - spotify_api_test - DEBUG - Auth token (first 10 chars): BQAKJ4BCEU...
+2025-03-10 18:13:43,967 - spotify_api_test - DEBUG - Client token (first 10 chars): AABjoIrkpm...
+2025-03-10 18:13:43,967 - spotify_api_test - DEBUG - Artist URI: spotify:artist:19SmlbABtI4bXz864MLqOS
+2025-03-10 18:13:43,968 - spotify_api_test - DEBUG - Request URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A19SmlbABtI4bXz864MLqOS%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-10 18:13:43,968 - spotify_api_test - DEBUG - Headers prepared (auth tokens not shown in logs)
+2025-03-10 18:13:43,968 - spotify_api_test - INFO - Sending request to Spotify partner API...
+2025-03-10 18:13:43,970 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-10 18:13:44,198 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A+%22spotify%3Aartist%3A19SmlbABtI4bXz864MLqOS%22%2C+%22locale%22%3A+%22%22%7D&extensions=%7B%22persistedQuery%22%3A+%7B%22version%22%3A+1%2C+%22sha256Hash%22%3A+%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 401 0
+2025-03-10 18:13:44,199 - spotify_api_test - INFO - Response status code: 401
+2025-03-10 18:13:44,200 - spotify_api_test - ERROR - Request failed with status code: 401
+2025-03-10 18:13:44,200 - spotify_api_test - DEBUG - Response text: ...
+2025-03-10 18:13:44,201 - spotify_api_test - WARNING - Primary approach failed, trying alternative approach
+2025-03-10 18:13:44,201 - spotify_api_test - INFO - Trying alternative approach with direct URL construction
+2025-03-10 18:13:44,202 - spotify_api_test - DEBUG - Alternative URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A19SmlbABtI4bXz864MLqOS%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-10 18:13:44,202 - spotify_api_test - INFO - Sending alternative request...
+2025-03-10 18:13:44,206 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-10 18:13:44,404 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A19SmlbABtI4bXz864MLqOS%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 401 0
+2025-03-10 18:13:44,405 - spotify_api_test - INFO - Alternative approach status code: 401
+2025-03-10 18:13:44,406 - spotify_api_test - ERROR - Alternative approach failed with status: 401
+2025-03-10 18:13:44,406 - spotify_api_test - DEBUG - Response text: ...
+2025-03-10 18:13:44,407 - spotify_api_test - ERROR - Failed to get valid response from Spotify Partner API
+2025-03-10 18:13:44,407 - spotify_api_test - INFO - Test completed with errors
+
+2025-03-10 18:13:44,489 - simple_artist_update - INFO - Enhanced data fetch completed successfully
+2025-03-10 18:13:44,490 - simple_artist_update - INFO - Files in output directory: ['batch_results_20250304_223507.json', 'batch_results_20250304_224422.json', 'batch_results_20250304_224703.json', 'batch_results_20250304_224944.json', 'batch_results_20250304_225130.json', 'batch_results_20250305_072740.json', 'batch_results_20250305_075605.json', 'batch_results_20250305_082911.json', 'batch_results_20250305_083032.json', 'batch_results_20250305_083050.json', 'batch_results_20250305_083158.json', 'batch_results_20250305_083812.json', 'batch_results_20250305_083904.json', 'batch_results_20250305_084002.json', 'batch_results_20250305_084100.json', 'batch_results_20250305_084223.json', 'batch_results_20250305_084313.json', 'batch_results_20250305_084352.json', 'batch_results_20250308_112454.json', 'batch_results_20250308_112621.json', 'batch_results_20250308_112645.json', 'batch_results_20250308_112707.json', 'batch_spotify_tokens.json']
+2025-03-10 18:13:44,491 - simple_artist_update - INFO - Found files matching artist ID: []
+2025-03-10 18:13:44,495 - simple_artist_update - INFO - Using fallback files: D:\DJVIBE\MCP\spotify-mcp\output\batch_results_20250304_223507.json and D:\DJVIBE\MCP\spotify-mcp\output\batch_results_20250304_224422.json
+2025-03-10 18:13:44,496 - simple_artist_update - INFO - Executing: C:\Python313\python.exe D:\DJVIBE\MCP\spotify-mcp\tools\update_artist_from_enhanced_data.py --artist-id 19SmlbABtI4bXz864MLqOS --db-path D:\DJVIBE\MCP\spotify-mcp\spotify_artists.db --metrics-file D:\DJVIBE\MCP\spotify-mcp\output\batch_results_20250304_223507.json --response-file D:\DJVIBE\MCP\spotify-mcp\output\batch_results_20250304_224422.json
+2025-03-10 18:13:44,789 - simple_artist_update - INFO - Database update stdout: 2025-03-10 18:13:44,762 - artist_update - INFO - Connected to database: D:\DJVIBE\MCP\spotify-mcp\spotify_artists.db
+2025-03-10 18:13:44,776 - artist_update - INFO - Created or verified artist_top_cities table
+2025-03-10 18:13:44,778 - artist_update - ERROR - Database error updating artist data: UNIQUE constraint failed: artist_stats_history.artist_id, artist_stats_history.snapshot_date
+
+2025-03-10 18:13:44,790 - simple_artist_update - ERROR - Database update with enhanced data failed with code 1
+2025-03-10 18:13:44,790 - simple_artist_update - ERROR - STDERR: 

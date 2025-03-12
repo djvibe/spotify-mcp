@@ -1285,3 +1285,107 @@ ia.org/wiki/Pete_Tong
 2025-03-03 19:01:51,168 - spotify_api_test - INFO - • 2025-07-27: Radisson RED Glasgow in Glasgow
 2025-03-03 19:01:51,169 - spotify_api_test - INFO - • 2025-08-08: The Garden Resort Croatia in Tisno
 2025-03-03 19:01:51,169 - spotify_api_test - INFO - Test completed successfully
+2025-03-10 18:09:59,395 - spotify_api_test - INFO - Loaded authentication tokens from D:\DJVIBE\MCP\spotify-mcp\tests\spotify_tokens.json
+2025-03-10 18:09:59,411 - spotify_api_test - INFO - Starting Spotify Partner API test
+2025-03-10 18:09:59,411 - spotify_api_test - INFO - ==================================
+2025-03-10 18:09:59,411 - spotify_api_test - INFO - Testing Spotify partner API for artist ID: 19SmlbABtI4bXz864MLqOS
+2025-03-10 18:09:59,411 - spotify_api_test - DEBUG - Auth token (first 10 chars): BQAKJ4BCEU...
+2025-03-10 18:09:59,411 - spotify_api_test - DEBUG - Client token (first 10 chars): AABjoIrkpm...
+2025-03-10 18:09:59,411 - spotify_api_test - DEBUG - Artist URI: spotify:artist:19SmlbABtI4bXz864MLqOS
+2025-03-10 18:09:59,411 - spotify_api_test - DEBUG - Request URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A19SmlbABtI4bXz864MLqOS%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-10 18:09:59,412 - spotify_api_test - DEBUG - Headers prepared (auth tokens not shown in logs)
+2025-03-10 18:09:59,412 - spotify_api_test - INFO - Sending request to Spotify partner API...
+2025-03-10 18:09:59,416 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-10 18:09:59,677 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A+%22spotify%3Aartist%3A19SmlbABtI4bXz864MLqOS%22%2C+%22locale%22%3A+%22%22%7D&extensions=%7B%22persistedQuery%22%3A+%7B%22version%22%3A+1%2C+%22sha256Hash%22%3A+%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 401 0
+2025-03-10 18:09:59,678 - spotify_api_test - INFO - Response status code: 401
+2025-03-10 18:09:59,678 - spotify_api_test - ERROR - Request failed with status code: 401
+2025-03-10 18:09:59,678 - spotify_api_test - DEBUG - Response text: ...
+2025-03-10 18:09:59,680 - spotify_api_test - WARNING - Primary approach failed, trying alternative approach
+2025-03-10 18:09:59,680 - spotify_api_test - INFO - Trying alternative approach with direct URL construction
+2025-03-10 18:09:59,681 - spotify_api_test - DEBUG - Alternative URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A19SmlbABtI4bXz864MLqOS%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-10 18:09:59,681 - spotify_api_test - INFO - Sending alternative request...
+2025-03-10 18:09:59,685 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-10 18:09:59,885 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A19SmlbABtI4bXz864MLqOS%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 401 0
+2025-03-10 18:09:59,886 - spotify_api_test - INFO - Alternative approach status code: 401
+2025-03-10 18:09:59,887 - spotify_api_test - ERROR - Alternative approach failed with status: 401
+2025-03-10 18:09:59,887 - spotify_api_test - DEBUG - Response text: ...
+2025-03-10 18:09:59,888 - spotify_api_test - ERROR - Failed to get valid response from Spotify Partner API
+2025-03-10 18:09:59,888 - spotify_api_test - INFO - Test completed with errors
+2025-03-10 18:10:00,704 - spotify_api_test - INFO - Loaded authentication tokens from D:\DJVIBE\MCP\spotify-mcp\tests\spotify_tokens.json
+2025-03-10 18:10:00,704 - spotify_api_test - INFO - Starting Spotify Partner API test
+2025-03-10 18:10:00,704 - spotify_api_test - INFO - ==================================
+2025-03-10 18:10:00,704 - spotify_api_test - INFO - Testing Spotify partner API for artist ID: 19SmlbABtI4bXz864MLqOS
+2025-03-10 18:10:00,704 - spotify_api_test - DEBUG - Auth token (first 10 chars): BQAKJ4BCEU...
+2025-03-10 18:10:00,704 - spotify_api_test - DEBUG - Client token (first 10 chars): AABjoIrkpm...
+2025-03-10 18:10:00,704 - spotify_api_test - DEBUG - Artist URI: spotify:artist:19SmlbABtI4bXz864MLqOS
+2025-03-10 18:10:00,704 - spotify_api_test - DEBUG - Request URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A19SmlbABtI4bXz864MLqOS%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-10 18:10:00,705 - spotify_api_test - DEBUG - Headers prepared (auth tokens not shown in logs)
+2025-03-10 18:10:00,705 - spotify_api_test - INFO - Sending request to Spotify partner API...
+2025-03-10 18:10:00,707 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-10 18:10:01,177 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A+%22spotify%3Aartist%3A19SmlbABtI4bXz864MLqOS%22%2C+%22locale%22%3A+%22%22%7D&extensions=%7B%22persistedQuery%22%3A+%7B%22version%22%3A+1%2C+%22sha256Hash%22%3A+%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 401 0
+2025-03-10 18:10:01,178 - spotify_api_test - INFO - Response status code: 401
+2025-03-10 18:10:01,179 - spotify_api_test - ERROR - Request failed with status code: 401
+2025-03-10 18:10:01,179 - spotify_api_test - DEBUG - Response text: ...
+2025-03-10 18:10:01,180 - spotify_api_test - WARNING - Primary approach failed, trying alternative approach
+2025-03-10 18:10:01,181 - spotify_api_test - INFO - Trying alternative approach with direct URL construction
+2025-03-10 18:10:01,182 - spotify_api_test - DEBUG - Alternative URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A19SmlbABtI4bXz864MLqOS%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-10 18:10:01,182 - spotify_api_test - INFO - Sending alternative request...
+2025-03-10 18:10:01,190 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-10 18:10:01,403 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A19SmlbABtI4bXz864MLqOS%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 401 0
+2025-03-10 18:10:01,405 - spotify_api_test - INFO - Alternative approach status code: 401
+2025-03-10 18:10:01,405 - spotify_api_test - ERROR - Alternative approach failed with status: 401
+2025-03-10 18:10:01,405 - spotify_api_test - DEBUG - Response text: ...
+2025-03-10 18:10:01,406 - spotify_api_test - ERROR - Failed to get valid response from Spotify Partner API
+2025-03-10 18:10:01,407 - spotify_api_test - INFO - Test completed with errors
+2025-03-10 18:13:42,292 - spotify_api_test - INFO - Loaded authentication tokens from D:\DJVIBE\MCP\spotify-mcp\tests\spotify_tokens.json
+2025-03-10 18:13:42,293 - spotify_api_test - INFO - Starting Spotify Partner API test
+2025-03-10 18:13:42,293 - spotify_api_test - INFO - ==================================
+2025-03-10 18:13:42,293 - spotify_api_test - INFO - Testing Spotify partner API for artist ID: 19SmlbABtI4bXz864MLqOS
+2025-03-10 18:13:42,293 - spotify_api_test - DEBUG - Auth token (first 10 chars): BQAKJ4BCEU...
+2025-03-10 18:13:42,293 - spotify_api_test - DEBUG - Client token (first 10 chars): AABjoIrkpm...
+2025-03-10 18:13:42,293 - spotify_api_test - DEBUG - Artist URI: spotify:artist:19SmlbABtI4bXz864MLqOS
+2025-03-10 18:13:42,293 - spotify_api_test - DEBUG - Request URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A19SmlbABtI4bXz864MLqOS%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-10 18:13:42,293 - spotify_api_test - DEBUG - Headers prepared (auth tokens not shown in logs)
+2025-03-10 18:13:42,293 - spotify_api_test - INFO - Sending request to Spotify partner API...
+2025-03-10 18:13:42,295 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-10 18:13:42,555 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A+%22spotify%3Aartist%3A19SmlbABtI4bXz864MLqOS%22%2C+%22locale%22%3A+%22%22%7D&extensions=%7B%22persistedQuery%22%3A+%7B%22version%22%3A+1%2C+%22sha256Hash%22%3A+%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 401 0
+2025-03-10 18:13:42,556 - spotify_api_test - INFO - Response status code: 401
+2025-03-10 18:13:42,556 - spotify_api_test - ERROR - Request failed with status code: 401
+2025-03-10 18:13:42,557 - spotify_api_test - DEBUG - Response text: ...
+2025-03-10 18:13:42,558 - spotify_api_test - WARNING - Primary approach failed, trying alternative approach
+2025-03-10 18:13:42,558 - spotify_api_test - INFO - Trying alternative approach with direct URL construction
+2025-03-10 18:13:42,559 - spotify_api_test - DEBUG - Alternative URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A19SmlbABtI4bXz864MLqOS%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-10 18:13:42,559 - spotify_api_test - INFO - Sending alternative request...
+2025-03-10 18:13:42,564 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-10 18:13:42,789 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A19SmlbABtI4bXz864MLqOS%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 401 0
+2025-03-10 18:13:42,790 - spotify_api_test - INFO - Alternative approach status code: 401
+2025-03-10 18:13:42,791 - spotify_api_test - ERROR - Alternative approach failed with status: 401
+2025-03-10 18:13:42,791 - spotify_api_test - DEBUG - Response text: ...
+2025-03-10 18:13:42,792 - spotify_api_test - ERROR - Failed to get valid response from Spotify Partner API
+2025-03-10 18:13:43,244 - spotify_api_test - INFO - Test completed with errors
+2025-03-10 18:13:43,967 - spotify_api_test - INFO - Loaded authentication tokens from D:\DJVIBE\MCP\spotify-mcp\tests\spotify_tokens.json
+2025-03-10 18:13:43,967 - spotify_api_test - INFO - Starting Spotify Partner API test
+2025-03-10 18:13:43,967 - spotify_api_test - INFO - ==================================
+2025-03-10 18:13:43,967 - spotify_api_test - INFO - Testing Spotify partner API for artist ID: 19SmlbABtI4bXz864MLqOS
+2025-03-10 18:13:43,967 - spotify_api_test - DEBUG - Auth token (first 10 chars): BQAKJ4BCEU...
+2025-03-10 18:13:43,967 - spotify_api_test - DEBUG - Client token (first 10 chars): AABjoIrkpm...
+2025-03-10 18:13:43,967 - spotify_api_test - DEBUG - Artist URI: spotify:artist:19SmlbABtI4bXz864MLqOS
+2025-03-10 18:13:43,968 - spotify_api_test - DEBUG - Request URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A19SmlbABtI4bXz864MLqOS%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-10 18:13:43,968 - spotify_api_test - DEBUG - Headers prepared (auth tokens not shown in logs)
+2025-03-10 18:13:43,968 - spotify_api_test - INFO - Sending request to Spotify partner API...
+2025-03-10 18:13:43,970 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-10 18:13:44,198 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A+%22spotify%3Aartist%3A19SmlbABtI4bXz864MLqOS%22%2C+%22locale%22%3A+%22%22%7D&extensions=%7B%22persistedQuery%22%3A+%7B%22version%22%3A+1%2C+%22sha256Hash%22%3A+%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 401 0
+2025-03-10 18:13:44,199 - spotify_api_test - INFO - Response status code: 401
+2025-03-10 18:13:44,200 - spotify_api_test - ERROR - Request failed with status code: 401
+2025-03-10 18:13:44,200 - spotify_api_test - DEBUG - Response text: ...
+2025-03-10 18:13:44,201 - spotify_api_test - WARNING - Primary approach failed, trying alternative approach
+2025-03-10 18:13:44,201 - spotify_api_test - INFO - Trying alternative approach with direct URL construction
+2025-03-10 18:13:44,202 - spotify_api_test - DEBUG - Alternative URL: https://api-partner.spotify.com/pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A19SmlbABtI4bXz864MLqOS%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D
+2025-03-10 18:13:44,202 - spotify_api_test - INFO - Sending alternative request...
+2025-03-10 18:13:44,206 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): api-partner.spotify.com:443
+2025-03-10 18:13:44,404 - urllib3.connectionpool - DEBUG - https://api-partner.spotify.com:443 "GET /pathfinder/v1/query?operationName=queryArtistOverview&variables=%7B%22uri%22%3A%20%22spotify%3Aartist%3A19SmlbABtI4bXz864MLqOS%22%2C%20%22locale%22%3A%20%22%22%7D&extensions=%7B%22persistedQuery%22%3A%20%7B%22version%22%3A%201%2C%20%22sha256Hash%22%3A%20%22591ed473fa2f5426186f8ba52dee295fe1ce32b36820d67eaadbc957d89408b0%22%7D%7D HTTP/1.1" 401 0
+2025-03-10 18:13:44,405 - spotify_api_test - INFO - Alternative approach status code: 401
+2025-03-10 18:13:44,406 - spotify_api_test - ERROR - Alternative approach failed with status: 401
+2025-03-10 18:13:44,406 - spotify_api_test - DEBUG - Response text: ...
+2025-03-10 18:13:44,407 - spotify_api_test - ERROR - Failed to get valid response from Spotify Partner API
+2025-03-10 18:13:44,407 - spotify_api_test - INFO - Test completed with errors

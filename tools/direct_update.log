@@ -1,0 +1,28 @@
+2025-03-10 18:17:06,310 - direct_artist_update - INFO - Loaded configuration from D:\DJVIBE\MCP\spotify-mcp\config.json
+2025-03-10 18:17:06,311 - direct_artist_update - INFO - Connected to database: D:\DJVIBE\MCP\spotify-mcp\spotify_artists.db
+2025-03-10 18:17:06,311 - direct_artist_update - INFO - Getting artist data from standard Spotify API: 19SmlbABtI4bXz864MLqOS
+2025-03-10 18:17:06,623 - direct_artist_update - INFO - Successfully retrieved data for artist: Carl Cox
+2025-03-10 18:17:06,624 - direct_artist_update - INFO - Updating database with standard API data for Carl Cox
+2025-03-10 18:17:06,629 - direct_artist_update - INFO - Updating existing artist: Carl Cox (19SmlbABtI4bXz864MLqOS)
+2025-03-10 18:17:07,412 - direct_artist_update - INFO - Adding stats history for Carl Cox
+2025-03-10 18:17:07,413 - direct_artist_update - WARNING - Error updating stats history: table artist_stats_history has no column named followers
+2025-03-10 18:30:20,657 - direct_artist_update - INFO - Loaded configuration from D:\DJVIBE\MCP\spotify-mcp\config.json
+2025-03-10 18:30:20,657 - direct_artist_update - INFO - Connected to database: D:\DJVIBE\MCP\spotify-mcp\spotify_artists.db
+2025-03-10 18:30:20,657 - direct_artist_update - INFO - Getting artist data from standard Spotify API: 19SmlbABtI4bXz864MLqOS
+2025-03-10 18:30:20,958 - direct_artist_update - INFO - Successfully retrieved data for artist: Carl Cox
+2025-03-10 18:30:20,960 - direct_artist_update - INFO - Getting artist details from Partner API: 19SmlbABtI4bXz864MLqOS
+2025-03-10 18:30:20,961 - direct_artist_update - INFO - Getting new Partner API token
+2025-03-10 18:30:21,232 - direct_artist_update - INFO - Got new token, expires in 3282 seconds
+2025-03-10 18:30:21,234 - direct_artist_update - INFO - Saved token to D:\DJVIBE\MCP\spotify-mcp\tokens.json
+2025-03-10 18:30:21,236 - direct_artist_update - INFO - Making Partner API request to https://api-partner.spotify.com/pathfinder/v1/query
+2025-03-10 18:30:21,851 - direct_artist_update - INFO - Partner API response status: 200
+2025-03-10 18:30:21,859 - direct_artist_update - INFO - Partner API data received for Carl Cox, monthly listeners: 1075086
+2025-03-10 18:30:21,860 - direct_artist_update - INFO - Successfully retrieved Partner API data, extracting metrics...
+2025-03-10 18:30:21,865 - direct_artist_update - INFO - Extracted metrics - Name: Carl Cox, Monthly Listeners: 1075086
+2025-03-10 18:30:21,865 - direct_artist_update - INFO - Extracted 3 social links
+2025-03-10 18:30:21,866 - direct_artist_update - INFO - Extracted 7 upcoming concerts
+2025-03-10 18:30:21,866 - direct_artist_update - INFO - Complete metrics extracted successfully for Carl Cox
+2025-03-10 18:30:21,867 - direct_artist_update - INFO - Successfully extracted metrics from Partner API data
+2025-03-10 18:30:21,867 - direct_artist_update - INFO - Updating database with standard API data for Carl Cox
+2025-03-10 18:30:21,871 - direct_artist_update - INFO - Updating existing artist: Carl Cox (19SmlbABtI4bXz864MLqOS)
+2025-03-10 18:30:22,720 - direct_artist_update - INFO - Successfully updated artist in database: Carl Cox
